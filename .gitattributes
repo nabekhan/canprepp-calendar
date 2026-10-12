@@ -1,0 +1,2 @@
+# Preserve RFC 5545 CRLF endings and significant whitespace in folded lines.
+*.ics -text -whitespace

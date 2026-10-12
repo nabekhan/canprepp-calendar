@@ -1,0 +1,9 @@
+{
+  "source": "https://canprepp.ca/",
+  "calendar_name": "CANPREPP residency events",
+  "history_days": 30,
+  "future_months": 12,
+  "program_ids": [],
+  "refresh_hours": 3,
+  "request_interval": 1.1
+}
