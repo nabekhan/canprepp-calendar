@@ -1432,16 +1432,16 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofC Otolaryngology – Head & Neck Surgery Info Night
 DTSTART:20261015T010000Z
-DTEND:20261015T020000Z
-DTSTAMP:20261012T191757Z
+DTEND:20261015T023000Z
+DTSTAMP:20261013T191255Z
 UID:canprepp-event-10783@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Otolaryngology - Head and Neck Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofc-otolaryngology-head-neck-surge
- ry-info-night/\nPublished time: 19:00 – 20:00 MDT\nMeeting Link: https:/
+ ry-info-night/\nPublished time: 19:00 – 20:30 MDT\nMeeting Link: https:/
  /ucalgary.zoom.us/j/94193818347
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261013T191255Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofc-otolaryngology-head-neck-surgery-info-
@@ -2005,16 +2005,16 @@ BEGIN:VEVENT
 SUMMARY:University of Calgary Otolaryngology – Head & Neck Surgery CaRMS
   Info Night
 DTSTART:20261021T230000Z
-DTEND:20261022T000000Z
-DTSTAMP:20261012T191757Z
+DTEND:20261022T003000Z
+DTSTAMP:20261013T191255Z
 UID:canprepp-event-10784@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Otolaryngology - Head and Neck Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-calgary-otolaryngolog
- y-head-neck-surgery-carms-info-night/\nPublished time: 17:00 – 18:00 MDT
+ y-head-neck-surgery-carms-info-night/\nPublished time: 17:00 – 18:30 MDT
  \nMeeting Link: https://ucalgary.zoom.us/j/98579326718
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261013T191255Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-otolaryngology-head-n
@@ -2539,6 +2539,25 @@ URL:https://canprepp.ca/events/nunavut-stream-at-the-university-of-ottawa-
 X-CANPREPP-ID:11031
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Toronto Paediatrics CaRMS Town Hall
+DTSTART:20261027T233000Z
+DTEND:20261028T010000Z
+DTSTAMP:20261013T191255Z
+UID:canprepp-event-11126@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Pediatrics
+CREATED:20261013T191255Z
+DESCRIPTION:https://canprepp.ca/events/university-of-toronto-paediatrics-c
+ arms-town-hall-12/\nPublished time: 18:30 – 20:00 EST\nMeeting Link: htt
+ ps://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09
+LAST-MODIFIED:20261013T191255Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-toronto-paediatrics-carms-tow
+ n-hall-12/
+X-CANPREPP-ID:11126
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NOSM UNIVERSITY ANESTHESIA VIRTUAL INFO SESSION
 DTSTART:20261028T000000Z
 DTEND:20261028T010000Z
@@ -3029,6 +3048,25 @@ URL:https://canprepp.ca/events/tmu-family-medicine-residency-program-infor
 X-CANPREPP-ID:11105
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Toronto Paediatrics CaRMS Town Hall
+DTSTART:20261030T200000Z
+DTEND:20261030T213000Z
+DTSTAMP:20261013T191255Z
+UID:canprepp-event-11127@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Pediatrics
+CREATED:20261013T191255Z
+DESCRIPTION:https://canprepp.ca/events/university-of-toronto-paediatrics-c
+ arms-town-hall-13/\nPublished time: 15:00 – 16:30 EST\nMeeting Link: htt
+ ps://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09
+LAST-MODIFIED:20261013T191255Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-toronto-paediatrics-carms-tow
+ n-hall-13/
+X-CANPREPP-ID:11127
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Online CaRMS Info Session
 DTSTART:20261031T000000Z
 DTEND:20261031T010000Z
@@ -3123,6 +3161,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-dermatology-residency
  -program-carms-information-session/
 X-CANPREPP-ID:10770
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Toronto Paediatrics CaRMS Town Hall
+DTSTART:20261103T000000Z
+DTEND:20261103T013000Z
+DTSTAMP:20261013T191255Z
+UID:canprepp-event-11128@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Pediatrics
+CREATED:20261013T191255Z
+DESCRIPTION:https://canprepp.ca/events/university-of-toronto-paediatrics-c
+ arms-town-hall-14/\nPublished time: 19:00 – 20:30 EST\nMeeting Link: htt
+ ps://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09
+LAST-MODIFIED:20261013T191255Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-toronto-paediatrics-carms-tow
+ n-hall-14/
+X-CANPREPP-ID:11128
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USask PM&R Program Information Night
@@ -3524,6 +3581,24 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/macpeds-ask-a-resident-night-7/
 X-CANPREPP-ID:10976
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MEET THE PROGRAM – Dalhousie University Ophthalmology
+DTSTART:20261104T230000Z
+DTEND:20261105T010000Z
+DTSTAMP:20261013T191255Z
+UID:canprepp-event-11125@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Dalhousie University,R1,Ophthalmology
+CREATED:20261013T191255Z
+DESCRIPTION:https://canprepp.ca/events/meet-the-program-dalhousie-universi
+ ty-ophthalmology/\nPublished time: 19:00 – 21:00 AST
+LAST-MODIFIED:20261013T191255Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/meet-the-program-dalhousie-university-ophth
+ almology/
+X-CANPREPP-ID:11125
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dalhousie University General Surgery Town Hall
@@ -4393,6 +4468,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-prince-george-
  northern-rural-site-qa-4/
 X-CANPREPP-ID:11015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Toronto Paediatrics CaRMS Town Hall
+DTSTART:20261111T183000Z
+DTEND:20261111T200000Z
+DTSTAMP:20261013T191255Z
+UID:canprepp-event-11129@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Pediatrics
+CREATED:20261013T191255Z
+DESCRIPTION:https://canprepp.ca/events/university-of-toronto-paediatrics-c
+ arms-town-hall-15/\nPublished time: 13:30 – 15:00 EST\nMeeting Link: htt
+ ps://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09
+LAST-MODIFIED:20261013T191255Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-toronto-paediatrics-carms-tow
+ n-hall-15/
+X-CANPREPP-ID:11129
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queen’s PM&R Meet and Greet

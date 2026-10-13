@@ -2409,19 +2409,19 @@
       }
     },
     "10783": {
-      "modified_gmt": "2026-09-01T16:56:52",
+      "modified_gmt": "2026-10-13T17:48:00",
       "calendar_hash": "850cdc935ebc79db4af91ff44351d9ac23585fe974964f6999ca52d2d42fec0e",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
+      "fetched_at": "2026-10-13T19:12:55+00:00",
       "event": {
         "id": 10783,
         "title": "UofC Otolaryngology – Head & Neck Surgery Info Night",
         "url": "https://canprepp.ca/events/uofc-otolaryngology-head-neck-surgery-info-night/",
         "date": "2026-10-14",
         "start": "2026-10-15T01:00:00+00:00",
-        "end": "2026-10-15T02:00:00+00:00",
+        "end": "2026-10-15T02:30:00+00:00",
         "all_day": false,
         "timezone_label": "MDT",
-        "published_time": "19:00 – 20:00 MDT",
+        "published_time": "19:00 – 20:30 MDT",
         "categories": [
           "University of Calgary",
           "R1",
@@ -2435,19 +2435,19 @@
       }
     },
     "10784": {
-      "modified_gmt": "2026-09-09T19:27:00",
+      "modified_gmt": "2026-10-13T17:50:54",
       "calendar_hash": "e9270018b48eae1a4901f8030ec339ebbba967b324f320b8f578eb3648d66256",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
+      "fetched_at": "2026-10-13T19:12:55+00:00",
       "event": {
         "id": 10784,
         "title": "University of Calgary Otolaryngology – Head & Neck Surgery CaRMS Info Night",
         "url": "https://canprepp.ca/events/university-of-calgary-otolaryngology-head-neck-surgery-carms-info-night/",
         "date": "2026-10-21",
         "start": "2026-10-21T23:00:00+00:00",
-        "end": "2026-10-22T00:00:00+00:00",
+        "end": "2026-10-22T00:30:00+00:00",
         "all_day": false,
         "timezone_label": "MDT",
-        "published_time": "17:00 – 18:00 MDT",
+        "published_time": "17:00 – 18:30 MDT",
         "categories": [
           "University of Calgary",
           "R1",
@@ -4525,9 +4525,9 @@
       }
     },
     "10928": {
-      "modified_gmt": "2026-09-21T12:11:29",
+      "modified_gmt": "2026-10-13T15:52:48",
       "calendar_hash": "ca72a93437d812641116c4cbb6d4f59390d4653d197ba22fddbf9557cc53b553",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
+      "fetched_at": "2026-10-13T19:12:55+00:00",
       "event": {
         "id": 10928,
         "title": "General Surgery CaRMS Town Hall",
@@ -8134,6 +8134,134 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11125": {
+      "modified_gmt": "2026-10-13T18:51:06",
+      "calendar_hash": "cd955257750e9118031ea95c6ca98c9afddb8b293d1075dcc6e957d664d22c80",
+      "fetched_at": "2026-10-13T19:12:55+00:00",
+      "event": {
+        "id": 11125,
+        "title": "MEET THE PROGRAM – Dalhousie University Ophthalmology",
+        "url": "https://canprepp.ca/events/meet-the-program-dalhousie-university-ophthalmology/",
+        "date": "2026-11-04",
+        "start": "2026-11-04T23:00:00+00:00",
+        "end": "2026-11-05T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "AST",
+        "published_time": "19:00 – 21:00 AST",
+        "categories": [
+          "Dalhousie University",
+          "R1",
+          "Ophthalmology"
+        ],
+        "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11126": {
+      "modified_gmt": "2026-10-13T18:59:52",
+      "calendar_hash": "3ed0f5ccba84cd8aa2e31aa0fec2cb217ad2f6af56b9276c8b5edf5853812283",
+      "fetched_at": "2026-10-13T19:12:55+00:00",
+      "event": {
+        "id": 11126,
+        "title": "University of Toronto Paediatrics CaRMS Town Hall",
+        "url": "https://canprepp.ca/events/university-of-toronto-paediatrics-carms-town-hall-12/",
+        "date": "2026-10-27",
+        "start": "2026-10-27T23:30:00+00:00",
+        "end": "2026-10-28T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "18:30 – 20:00 EST",
+        "categories": [
+          "University of Toronto",
+          "R1",
+          "Pediatrics"
+        ],
+        "links": {
+          "Meeting Link": "https://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11127": {
+      "modified_gmt": "2026-10-13T19:03:44",
+      "calendar_hash": "0db9c96df713df765e1c68ce40c173fbb53cb85f0bae03f14030d24f82459264",
+      "fetched_at": "2026-10-13T19:12:55+00:00",
+      "event": {
+        "id": 11127,
+        "title": "University of Toronto Paediatrics CaRMS Town Hall",
+        "url": "https://canprepp.ca/events/university-of-toronto-paediatrics-carms-town-hall-13/",
+        "date": "2026-10-30",
+        "start": "2026-10-30T20:00:00+00:00",
+        "end": "2026-10-30T21:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "15:00 – 16:30 EST",
+        "categories": [
+          "University of Toronto",
+          "R1",
+          "Pediatrics"
+        ],
+        "links": {
+          "Meeting Link": "https://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11128": {
+      "modified_gmt": "2026-10-13T19:06:10",
+      "calendar_hash": "8e84d05cbca0562fcf1a7d81e4736e8c0198cab70ff1dcc831a4b9fdb77ea9ac",
+      "fetched_at": "2026-10-13T19:12:55+00:00",
+      "event": {
+        "id": 11128,
+        "title": "University of Toronto Paediatrics CaRMS Town Hall",
+        "url": "https://canprepp.ca/events/university-of-toronto-paediatrics-carms-town-hall-14/",
+        "date": "2026-11-02",
+        "start": "2026-11-03T00:00:00+00:00",
+        "end": "2026-11-03T01:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:30 EST",
+        "categories": [
+          "University of Toronto",
+          "R1",
+          "Pediatrics"
+        ],
+        "links": {
+          "Meeting Link": "https://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11129": {
+      "modified_gmt": "2026-10-13T19:08:44",
+      "calendar_hash": "ab5a6b8b93c7165a8578541ef1b114479140de14597d213202757a1d0d94c75b",
+      "fetched_at": "2026-10-13T19:12:55+00:00",
+      "event": {
+        "id": 11129,
+        "title": "University of Toronto Paediatrics CaRMS Town Hall",
+        "url": "https://canprepp.ca/events/university-of-toronto-paediatrics-carms-town-hall-15/",
+        "date": "2026-11-11",
+        "start": "2026-11-11T18:30:00+00:00",
+        "end": "2026-11-11T20:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "13:30 – 15:00 EST",
+        "categories": [
+          "University of Toronto",
+          "R1",
+          "Pediatrics"
+        ],
+        "links": {
+          "Meeting Link": "https://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -10458,10 +10586,10 @@
       "url": "https://canprepp.ca/events/uofc-otolaryngology-head-neck-surgery-info-night/",
       "date": "2026-10-14",
       "start": "2026-10-15T01:00:00+00:00",
-      "end": "2026-10-15T02:00:00+00:00",
+      "end": "2026-10-15T02:30:00+00:00",
       "all_day": false,
       "timezone_label": "MDT",
-      "published_time": "19:00 – 20:00 MDT",
+      "published_time": "19:00 – 20:30 MDT",
       "categories": [
         "University of Calgary",
         "R1",
@@ -10472,10 +10600,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "dfb7283ae1670f3ab6cc1b6a37fed66133c1bfd32bbae2f0e19923f7ee4b7133",
-      "sequence": 0,
+      "fingerprint": "0efa003781d96160725e26cbde733225c78b15eab027a799f743062cc962787d",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-10-13T19:12:55+00:00"
     },
     "10784": {
       "id": 10784,
@@ -10483,10 +10611,10 @@
       "url": "https://canprepp.ca/events/university-of-calgary-otolaryngology-head-neck-surgery-carms-info-night/",
       "date": "2026-10-21",
       "start": "2026-10-21T23:00:00+00:00",
-      "end": "2026-10-22T00:00:00+00:00",
+      "end": "2026-10-22T00:30:00+00:00",
       "all_day": false,
       "timezone_label": "MDT",
-      "published_time": "17:00 – 18:00 MDT",
+      "published_time": "17:00 – 18:30 MDT",
       "categories": [
         "University of Calgary",
         "R1",
@@ -10497,10 +10625,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "039fa955cfdf377b4c891c22f836835caf0c6ac52a5f5ea00ef1445f00671243",
-      "sequence": 0,
+      "fingerprint": "cd0e18204a0628e39367b71ec1bd704ff589304c6ee89d872da0e62b617ee9ec",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-10-13T19:12:55+00:00"
     },
     "10786": {
       "id": 10786,
@@ -15956,6 +16084,129 @@
       "sequence": 0,
       "created": "2026-10-13T02:32:39+00:00",
       "last_modified": "2026-10-13T02:32:39+00:00"
+    },
+    "11125": {
+      "id": 11125,
+      "title": "MEET THE PROGRAM – Dalhousie University Ophthalmology",
+      "url": "https://canprepp.ca/events/meet-the-program-dalhousie-university-ophthalmology/",
+      "date": "2026-11-04",
+      "start": "2026-11-04T23:00:00+00:00",
+      "end": "2026-11-05T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "AST",
+      "published_time": "19:00 – 21:00 AST",
+      "categories": [
+        "Dalhousie University",
+        "R1",
+        "Ophthalmology"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "7cd6b6115707e74e604e88d02ea8f2efd35b737a14b2445bd231473357d249ad",
+      "sequence": 0,
+      "created": "2026-10-13T19:12:55+00:00",
+      "last_modified": "2026-10-13T19:12:55+00:00"
+    },
+    "11126": {
+      "id": 11126,
+      "title": "University of Toronto Paediatrics CaRMS Town Hall",
+      "url": "https://canprepp.ca/events/university-of-toronto-paediatrics-carms-town-hall-12/",
+      "date": "2026-10-27",
+      "start": "2026-10-27T23:30:00+00:00",
+      "end": "2026-10-28T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "18:30 – 20:00 EST",
+      "categories": [
+        "University of Toronto",
+        "R1",
+        "Pediatrics"
+      ],
+      "links": {
+        "Meeting Link": "https://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "2c5e07b6050f90407eae4f881650cac854606885c5f863de1e658c3d9fd08094",
+      "sequence": 0,
+      "created": "2026-10-13T19:12:55+00:00",
+      "last_modified": "2026-10-13T19:12:55+00:00"
+    },
+    "11127": {
+      "id": 11127,
+      "title": "University of Toronto Paediatrics CaRMS Town Hall",
+      "url": "https://canprepp.ca/events/university-of-toronto-paediatrics-carms-town-hall-13/",
+      "date": "2026-10-30",
+      "start": "2026-10-30T20:00:00+00:00",
+      "end": "2026-10-30T21:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "15:00 – 16:30 EST",
+      "categories": [
+        "University of Toronto",
+        "R1",
+        "Pediatrics"
+      ],
+      "links": {
+        "Meeting Link": "https://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "27f11881de536583733afeb14a423926c08158d2685b169440d88c2d6ce5f986",
+      "sequence": 0,
+      "created": "2026-10-13T19:12:55+00:00",
+      "last_modified": "2026-10-13T19:12:55+00:00"
+    },
+    "11128": {
+      "id": 11128,
+      "title": "University of Toronto Paediatrics CaRMS Town Hall",
+      "url": "https://canprepp.ca/events/university-of-toronto-paediatrics-carms-town-hall-14/",
+      "date": "2026-11-02",
+      "start": "2026-11-03T00:00:00+00:00",
+      "end": "2026-11-03T01:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:30 EST",
+      "categories": [
+        "University of Toronto",
+        "R1",
+        "Pediatrics"
+      ],
+      "links": {
+        "Meeting Link": "https://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "d0f1a7f725ed35a817d4a5d030799f457f091fd89e7038cf7ecf601ed4874949",
+      "sequence": 0,
+      "created": "2026-10-13T19:12:55+00:00",
+      "last_modified": "2026-10-13T19:12:55+00:00"
+    },
+    "11129": {
+      "id": 11129,
+      "title": "University of Toronto Paediatrics CaRMS Town Hall",
+      "url": "https://canprepp.ca/events/university-of-toronto-paediatrics-carms-town-hall-15/",
+      "date": "2026-11-11",
+      "start": "2026-11-11T18:30:00+00:00",
+      "end": "2026-11-11T20:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "13:30 – 15:00 EST",
+      "categories": [
+        "University of Toronto",
+        "R1",
+        "Pediatrics"
+      ],
+      "links": {
+        "Meeting Link": "https://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "e1298a5704b5ba5a74c5ce8fb74599aa9309bb9bca33100598cb4f18a0e9b1cd",
+      "sequence": 0,
+      "created": "2026-10-13T19:12:55+00:00",
+      "last_modified": "2026-10-13T19:12:55+00:00"
     }
   }
 }
