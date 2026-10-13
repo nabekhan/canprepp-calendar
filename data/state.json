@@ -8108,6 +8108,32 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11122": {
+      "modified_gmt": "2026-10-13T00:50:31",
+      "calendar_hash": "c2454e9dcb73db2fca51931cd1562b7f6072142d74e0d0ae05855649fd454f8f",
+      "fetched_at": "2026-10-13T02:32:39+00:00",
+      "event": {
+        "id": 11122,
+        "title": "Dalhousie University Otolaryngology CaRMS Information Session",
+        "url": "https://canprepp.ca/events/carms-information-session-2/",
+        "date": "2026-12-02",
+        "start": "2026-12-03T00:00:00+00:00",
+        "end": "2026-12-03T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "AST",
+        "published_time": "20:00 – 21:00 AST",
+        "categories": [
+          "Dalhousie University",
+          "R1",
+          "Otolaryngology - Head and Neck Surgery"
+        ],
+        "links": {
+          "Meeting Link": "https://teams.microsoft.com/meet/2894876460744189?p=YxhLLOsibIRhyi3v03"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -15905,6 +15931,31 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
+    },
+    "11122": {
+      "id": 11122,
+      "title": "Dalhousie University Otolaryngology CaRMS Information Session",
+      "url": "https://canprepp.ca/events/carms-information-session-2/",
+      "date": "2026-12-02",
+      "start": "2026-12-03T00:00:00+00:00",
+      "end": "2026-12-03T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "AST",
+      "published_time": "20:00 – 21:00 AST",
+      "categories": [
+        "Dalhousie University",
+        "R1",
+        "Otolaryngology - Head and Neck Surgery"
+      ],
+      "links": {
+        "Meeting Link": "https://teams.microsoft.com/meet/2894876460744189?p=YxhLLOsibIRhyi3v03"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "c5a10ecc332ca2daeb6368b27c67417dc2a40f5c1824ae923c58280ab584fba1",
+      "sequence": 0,
+      "created": "2026-10-13T02:32:39+00:00",
+      "last_modified": "2026-10-13T02:32:39+00:00"
     }
   }
 }

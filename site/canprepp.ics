@@ -5453,6 +5453,24 @@ URL:https://canprepp.ca/events/dalhousie-family-medicine-carms-information
 X-CANPREPP-ID:10708
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dalhousie University Otolaryngology CaRMS Information Session
+DTSTART:20261203T000000Z
+DTEND:20261203T010000Z
+DTSTAMP:20261013T023239Z
+UID:canprepp-event-11122@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Dalhousie University,R1,Otolaryngology - Head and Neck Surgery
+CREATED:20261013T023239Z
+DESCRIPTION:https://canprepp.ca/events/carms-information-session-2/\nPubli
+ shed time: 20:00 – 21:00 AST\nMeeting Link: https://teams.microsoft.com/
+ meet/2894876460744189?p=YxhLLOsibIRhyi3v03
+LAST-MODIFIED:20261013T023239Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/carms-information-session-2/
+X-CANPREPP-ID:11122
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:U of A Neurosurgery CaRMS Information Session
 DTSTART:20261203T020000Z
 DTEND:20261203T033000Z
