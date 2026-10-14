@@ -2861,6 +2861,23 @@ URL:https://canprepp.ca/events/uoft-anesthesia-carms-meet-and-greet-applyi
 X-CANPREPP-ID:10918
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dalhousie University Adult Neurology CaRMS info session
+DTSTART:20261029T213000Z
+DTSTAMP:20261014T001543Z
+UID:canprepp-event-11130@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Dalhousie University,R1,Neurology
+CREATED:20261014T001543Z
+DESCRIPTION:https://canprepp.ca/events/dalhousie-university-adult-neurolog
+ y-carms-info-session-2/\nPublished time: 18:30 ADT
+LAST-MODIFIED:20261014T001543Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/dalhousie-university-adult-neurology-carms-
+ info-session-2/
+X-CANPREPP-ID:11130
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Toronto Internal Medicine Information Session
 DTSTART:20261029T230000Z
 DTEND:20261030T000000Z

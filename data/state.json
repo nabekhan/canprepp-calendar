@@ -8262,6 +8262,30 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11130": {
+      "modified_gmt": "2026-10-13T20:15:17",
+      "calendar_hash": "1e2ef6f1320506c2862e99c47294da2314823e383b1ff7be97d8faa4524c961c",
+      "fetched_at": "2026-10-14T00:15:43+00:00",
+      "event": {
+        "id": 11130,
+        "title": "Dalhousie University Adult Neurology CaRMS info session",
+        "url": "https://canprepp.ca/events/dalhousie-university-adult-neurology-carms-info-session-2/",
+        "date": "2026-10-29",
+        "start": "2026-10-29T21:30:00+00:00",
+        "end": null,
+        "all_day": false,
+        "timezone_label": "ADT",
+        "published_time": "18:30 ADT",
+        "categories": [
+          "Dalhousie University",
+          "R1",
+          "Neurology"
+        ],
+        "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -16207,6 +16231,29 @@
       "sequence": 0,
       "created": "2026-10-13T19:12:55+00:00",
       "last_modified": "2026-10-13T19:12:55+00:00"
+    },
+    "11130": {
+      "id": 11130,
+      "title": "Dalhousie University Adult Neurology CaRMS info session",
+      "url": "https://canprepp.ca/events/dalhousie-university-adult-neurology-carms-info-session-2/",
+      "date": "2026-10-29",
+      "start": "2026-10-29T21:30:00+00:00",
+      "end": null,
+      "all_day": false,
+      "timezone_label": "ADT",
+      "published_time": "18:30 ADT",
+      "categories": [
+        "Dalhousie University",
+        "R1",
+        "Neurology"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "e4961fabb8db8d445c127fbd1798477a96ec4ecd685c0693cb9fd620f778685b",
+      "sequence": 0,
+      "created": "2026-10-14T00:15:43+00:00",
+      "last_modified": "2026-10-14T00:15:43+00:00"
     }
   }
 }
