@@ -1716,6 +1716,25 @@ URL:https://canprepp.ca/events/university-of-ottawa-adult-neurology-reside
 X-CANPREPP-ID:10943
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UofT Hematological Pathology Info Session
+DTSTART:20261020T000000Z
+DTEND:20261020T010000Z
+DTSTAMP:20261014T191842Z
+UID:canprepp-event-11131@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Hematological Pathology
+CREATED:20261014T191842Z
+DESCRIPTION:https://canprepp.ca/events/uoft-hematological-pathology-info-s
+ ession-3/\nPublished time: 20:00 – 21:00 EST\nMeeting Link: https://us06
+ web.zoom.us/j/89201497233
+LAST-MODIFIED:20261014T191842Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uoft-hematological-pathology-info-session-3
+ /
+X-CANPREPP-ID:11131
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC Fraser Emergency Medicine CARMS info session
 DTSTART:20261020T010000Z
 DTSTAMP:20261014T004823Z
@@ -2634,6 +2653,25 @@ URL:https://canprepp.ca/events/university-of-saskatchewan-internal-medicin
 X-CANPREPP-ID:11117
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UofT Medical Microbiology Program Info Session
+DTSTART:20261028T000000Z
+DTEND:20261028T010000Z
+DTSTAMP:20261014T191842Z
+UID:canprepp-event-11132@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Medical Microbiology
+CREATED:20261014T191842Z
+DESCRIPTION:https://canprepp.ca/events/uoft-medical-microbiology-program-i
+ nfo-session-3/\nPublished time: 20:00 – 21:00 EST\nMeeting Link: https:/
+ /us06web.zoom.us/j/83179257505
+LAST-MODIFIED:20261014T191842Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uoft-medical-microbiology-program-info-sess
+ ion-3/
+X-CANPREPP-ID:11132
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TMU General Surgery Virtual Info Session
 DTSTART:20261028T213000Z
 DTEND:20261028T223000Z
@@ -3272,6 +3310,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-abbotsford-mis
  sion-site-qa-4/
 X-CANPREPP-ID:11000
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UofT Diagnostic & Molecular Pathology Program Info Session
+DTSTART:20261103T010000Z
+DTEND:20261103T020000Z
+DTSTAMP:20261014T191842Z
+UID:canprepp-event-11133@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Diagnostic and Molecular Pathology
+CREATED:20261014T191842Z
+DESCRIPTION:https://canprepp.ca/events/uoft-diagnostic-molecular-pathology
+ -program-info-session/\nPublished time: 20:00 – 21:00 EST\nMeeting Link:
+  https://us06web.zoom.us/j/84163010145
+LAST-MODIFIED:20261014T191842Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uoft-diagnostic-molecular-pathology-program
+ -info-session/
+X-CANPREPP-ID:11133
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
@@ -4875,6 +4932,25 @@ URL:https://canprepp.ca/events/university-of-ottawa-general-surgery-virtua
 X-CANPREPP-ID:11069
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UBC Otolaryngology – Head and Neck Surgery Info Session
+DTSTART:20261114T000000Z
+DTEND:20261114T020000Z
+DTSTAMP:20261014T191842Z
+UID:canprepp-event-11135@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of British Columbia,R1,Otolaryngology - Head and Nec
+ k Surgery
+CREATED:20261014T191842Z
+DESCRIPTION:https://canprepp.ca/events/ubc-otolaryngology-head-and-neck-su
+ rgery-info-session/\nPublished time: 17:00 – 19:00 PST
+LAST-MODIFIED:20261014T191842Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-otolaryngology-head-and-neck-surgery-in
+ fo-session/
+X-CANPREPP-ID:11135
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Coastal Site QA
 DTSTART:20261114T160000Z
 DTEND:20261114T170000Z
@@ -4947,6 +5023,24 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/carms-info-night-4/
 X-CANPREPP-ID:11074
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UofT – Neuropathology Program Info Session
+DTSTART:20261117T010000Z
+DTEND:20261117T020000Z
+DTSTAMP:20261014T191842Z
+UID:canprepp-event-11134@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Neuropathology
+CREATED:20261014T191842Z
+DESCRIPTION:https://canprepp.ca/events/uoft-neuropathology-program-info-se
+ ssion-2/\nPublished time: 20:00 – 21:00 EST\nMeeting Link: https://us06w
+ eb.zoom.us/j/86818301273
+LAST-MODIFIED:20261014T191842Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uoft-neuropathology-program-info-session-2/
+X-CANPREPP-ID:11134
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CaRMS Town Hall Session – University of Calgary Internal Medicin
