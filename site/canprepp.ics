@@ -7,6 +7,26 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
+SUMMARY:UofA Pediatrics CaRMS Townhall _Indigenous Child Health Session
+DTSTART:20260916T000000Z
+DTEND:20260916T010000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10618@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Alberta,R1,Pediatrics
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_ind
+ igenous-child-health-session/\nPublished time: 18:00 – 19:00 MST\nMeetin
+ g Link: https://ualberta-ca.zoom.us/j/2571867283?pwd=uys1xTsir3uZHdMoLJNIL
+ TahVKzFyW.1&omn=91823264739
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_indigenous-
+ child-health-session/
+X-CANPREPP-ID:10618
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:uCalgary Neurology CaRMS Information Night
 DTSTART:20260916T003000Z
 DTSTAMP:20261012T191757Z
@@ -21,26 +41,6 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ucalgary-neurology-carms-information-night/
 X-CANPREPP-ID:10748
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UofA Pediatrics CaRMS Townhall _Indigenous Child Health Session
-DTSTART:20260916T010000Z
-DTEND:20260916T020000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10618@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Alberta,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_ind
- igenous-child-health-session/\nPublished time: 18:00 – 19:00 MST\nMeetin
- g Link: https://ualberta-ca.zoom.us/j/2571867283?pwd=uys1xTsir3uZHdMoLJNIL
- TahVKzFyW.1&omn=91823264739
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_indigenous-
- child-health-session/
-X-CANPREPP-ID:10618
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queen’s University — Ophthalmology Town Hall
@@ -64,17 +64,17 @@ X-CANPREPP-ID:10677
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Calgary Emergency Medicine – Meet the PD session
-DTSTART:20260917T150000Z
-DTEND:20260917T153000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260917T140000Z
+DTEND:20260917T143000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10646@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
  icine-meet-the-pd-session-2/\nPublished time: 08:00 – 08:30 MST\nMeeting
   Link: http://Please%20RSVP%20for%20registration%20link
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
@@ -83,18 +83,18 @@ X-CANPREPP-ID:10646
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
-DTSTART:20260917T230000Z
-DTEND:20260917T233000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260917T220000Z
+DTEND:20260917T223000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10648@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
  icine-meet-the-pds-23/\nPublished time: 16:00 – 16:30 MST\nMeeting Link:
   http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
  ink
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
@@ -103,17 +103,17 @@ X-CANPREPP-ID:10648
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University – FRCPC Emergency Medicine CaRMS Townhall
-DTSTART:20260917T230000Z
-DTEND:20260918T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260917T220000Z
+DTEND:20260918T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10779@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:McMaster University,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/mcmaster-university-frcpc-emergency
  -medicine-carms-townhall-5/\nPublished time: 18:00 – 20:00 EST\nRegister
  : https://forms.gle/3ESaZdbV6BfgmsfN7
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicin
@@ -122,17 +122,17 @@ X-CANPREPP-ID:10779
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University – FRCPC Emergency Medicine CaRMS Townhall
-DTSTART:20260917T230000Z
-DTEND:20260918T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260917T220000Z
+DTEND:20260918T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10780@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:McMaster University,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/mcmaster-university-frcpc-emergency
  -medicine-carms-townhall-6/\nPublished time: 18:00 – 20:00 EST\nRegister
  : https://forms.gle/3ESaZdbV6BfgmsfN7
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicin
@@ -141,18 +141,18 @@ X-CANPREPP-ID:10780
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofA Pediatrics CaRMS Townhall
-DTSTART:20260923T010000Z
-DTEND:20260923T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260923T000000Z
+DTEND:20260923T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10619@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_ind
  igenous-child-health-session-2/\nPublished time: 18:00 – 19:00 MST\nMeet
  ing Link: https://ualberta-ca.zoom.us/j/2571867283?pwd=uys1xTsir3uZHdMoLJN
  ILTahVKzFyW.1&omn=91823264739
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_indigenous-
@@ -161,18 +161,18 @@ X-CANPREPP-ID:10619
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meet and Greet with the Program Director – CMG Applicants
-DTSTART:20260923T010000Z
-DTEND:20260923T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260923T000000Z
+DTEND:20260923T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10824@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Psychiatry
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/meet-and-greet-with-the-program-dir
  ector-cmg-applicants/\nPublished time: 18:00 – 19:00 MST\nMeeting Link: 
  https://ualberta-ca.zoom.us/j/98435705469?pwd=pJMuywCJOAsHUHTB0EtQyLkfcfVb
  tn.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/meet-and-greet-with-the-program-director-cm
@@ -200,18 +200,18 @@ X-CANPREPP-ID:10723
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meet and Greet with the Program Director – IMG Applicants:
-DTSTART:20260924T010000Z
-DTEND:20260924T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260924T000000Z
+DTEND:20260924T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10825@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Psychiatry
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/meet-and-greet-with-the-program-dir
  ector-img-applicants/\nPublished time: 18:00 – 19:00 MST\nMeeting Link: 
  https://ualberta-ca.zoom.us/j/94350213615?pwd=soIbRrAvg5bOSt42bJE1ANEwDuMD
  dh.1%20
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/meet-and-greet-with-the-program-director-im
@@ -220,18 +220,18 @@ X-CANPREPP-ID:10825
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
-DTSTART:20260924T150000Z
-DTEND:20260924T153000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260924T140000Z
+DTEND:20260924T143000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10650@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
  icine-meet-the-pds-24/\nPublished time: 08:00 – 08:30 MST\nMeeting Link:
   http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
  ink
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
@@ -240,17 +240,17 @@ X-CANPREPP-ID:10650
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Manitoba Pediatrics Information Session
-DTSTART:20260925T010000Z
-DTEND:20260925T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260925T000000Z
+DTEND:20260925T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10808@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-pediatrics-i
  nformation-session/\nPublished time: 19:00 – 21:00 CST\nMeeting Link: ht
  tps://umanitoba.zoom.us/j/63967893824?pwd=tm2ocGwhqqLN1fRCrME1U22BLRmjX3.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-manitoba-pediatrics-informati
@@ -259,17 +259,17 @@ X-CANPREPP-ID:10808
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOSM UNIVERSITY EMERGENCY MEDICINE VIRTUAL INFO SESSION
-DTSTART:20260929T000000Z
-DTEND:20260929T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20260928T230000Z
+DTEND:20260929T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10901@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NOSM University,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/nosm-university-emergency-medicine-
  virtual-info-session/\nPublished time: 19:00 – 21:00 EST\nRegister: http
  s://nosm.webex.com/weblink/register/rc72eb74c661b7592eb4c4aed90488ce1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/nosm-university-emergency-medicine-virtual-
@@ -315,6 +315,26 @@ URL:https://canprepp.ca/events/university-of-toronto-internal-medicine-inf
 X-CANPREPP-ID:10821
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
+DTSTART:20261001T210000Z
+DTEND:20261001T213000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10652@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Calgary,R1,Emergency Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
+ icine-meet-the-pds-25/\nPublished time: 15:00 – 15:30 MST\nMeeting Link:
+  http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
+ ink
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
+ et-the-pds-25/
+X-CANPREPP-ID:10652
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MUN Internal Medicine Info Session
 DTSTART:20261001T213000Z
 DTEND:20261001T223000Z
@@ -333,42 +353,42 @@ URL:https://canprepp.ca/events/mun-internal-medicine-info-session-2/
 X-CANPREPP-ID:10720
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
-DTSTART:20261001T220000Z
-DTEND:20261001T223000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10652@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Calgary,R1,Emergency Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
- icine-meet-the-pds-25/\nPublished time: 15:00 – 15:30 MST\nMeeting Link:
-  http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
- ink
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
- et-the-pds-25/
-X-CANPREPP-ID:10652
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UofA Pediatrics CaRMS Townhall
-DTSTART:20261002T010000Z
-DTEND:20261002T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261002T000000Z
+DTEND:20261002T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10620@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-2/\n
  Published time: 18:00 – 19:00 MST\nMeeting Link: https://ualberta-ca.zoo
  m.us/j/91823264739?pwd=zcUj2w4HNQGL44lKnTjCgb4hjH4pq7.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-2/
 X-CANPREPP-ID:10620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McMaster – CaRMS Info Session Internal Medicine Waterloo Regiona
+ l Campus
+DTSTART:20261002T160000Z
+DTEND:20261002T170000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10962@canprepp.ca
+SEQUENCE:1
+CATEGORIES:McMaster University,R1,Internal Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/mcmaster-carms-info-session-interna
+ l-medicine-waterloo-regional-campus/\nPublished time: 12:00 – 13:00 EST
+ \nMeeting Link: https://mcmaster.zoom.us/j/95291163204
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/mcmaster-carms-info-session-internal-medici
+ ne-waterloo-regional-campus/
+X-CANPREPP-ID:10962
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster Waterloo Internal Medicine Information Session
@@ -390,38 +410,18 @@ URL:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine-informa
 X-CANPREPP-ID:11040
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:McMaster – CaRMS Info Session Internal Medicine Waterloo Regiona
- l Campus
-DTSTART:20261002T170000Z
-DTEND:20261002T180000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10962@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-carms-info-session-interna
- l-medicine-waterloo-regional-campus/\nPublished time: 12:00 – 13:00 EST
- \nMeeting Link: https://mcmaster.zoom.us/j/95291163204
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-carms-info-session-internal-medici
- ne-waterloo-regional-campus/
-X-CANPREPP-ID:10962
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:McMaster University Family Medicine IMG Program Info Session
-DTSTART:20261003T160000Z
-DTEND:20261003T173000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261003T150000Z
+DTEND:20261003T163000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10906@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:McMaster University,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/mcmaster-university-family-medicine
  -img-program-info-session/\nPublished time: 11:00 – 12:30 EST\nRegister:
   https://ca01web.zoom.us/j/69588075269
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-university-family-medicine-img-pro
@@ -472,17 +472,17 @@ X-CANPREPP-ID:10769
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University – FRCPC Emergency Medicine CaRMS Townhall
-DTSTART:20261006T010000Z
-DTEND:20261006T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261006T000000Z
+DTEND:20261006T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10781@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:McMaster University,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/mcmaster-university-frcpc-emergency
  -medicine-carms-townhall-7/\nPublished time: 20:00 – 22:00 EST\nRegister
  : https://forms.gle/3ESaZdbV6BfgmsfN7
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicin
@@ -529,6 +529,30 @@ URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
 X-CANPREPP-ID:10850
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ObGyn Residency Training Program – University of Ottawa Informat
+ ion Night – 2026
+DTSTART:20261006T220000Z
+DTEND:20261006T233000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10914@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Ottawa,R1,Obstetrics and Gynecology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/obgyn-residency-training-program-un
+ iversity-of-ottawa-information-night-2026-2/\nPublished time: 18:00 – 19
+ :30 EST\nRegister: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?i
+ d=tkGbhQ8TE02mkx_-xOfLWmNQTa_kzI5Cr0Jcbnn6wlFUOUJHSERPR1owRk5ESzRDWFpGUDY0
+ WVVMVC4u\nREGISTRATION LINK: https://forms.cloud.microsoft/Pages/ResponseP
+ age.aspx?id=tkGbhQ8TE02mkx_-xOfLWmNQTa_kzI5Cr0Jcbnn6wlFUOUJHSERPR1owRk5ESz
+ RDWFpGUDY0WVVMVC4u
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/obgyn-residency-training-program-university
+ -of-ottawa-information-night-2026-2/
+X-CANPREPP-ID:10914
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:McMaster University Internal Medicine Information Session
 DTSTART:20261006T220000Z
 DTEND:20261007T000000Z
@@ -568,6 +592,28 @@ URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
 X-CANPREPP-ID:10852
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Queen’s Public Health and Preventive Medicine Info Session – C
+ MG
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10773@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Queen's University,R1,Public Health and Preventive Medicine Inc
+ luding Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/queens-public-health-and-preventive
+ -medicine-info-session-cmg/\nPublished time: 19:00 – 20:00 EST\nMeeting 
+ Link: http://Link%20will%20be%20shared%20with%20those%20who%20register.\nR
+ egister: https://forms.cloud.microsoft/r/Tr6Hbq3hsv
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-public-health-and-preventive-medicin
+ e-info-session-cmg/
+X-CANPREPP-ID:10773
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Toronto Internal Medicine Information Session
 DTSTART:20261006T230000Z
 DTEND:20261007T000000Z
@@ -605,64 +651,18 @@ URL:https://canprepp.ca/events/university-of-ottawa-ophthalmology-program-
 X-CANPREPP-ID:10836
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ObGyn Residency Training Program – University of Ottawa Informat
- ion Night – 2026
-DTSTART:20261006T230000Z
-DTEND:20261007T003000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10914@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Obstetrics and Gynecology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/obgyn-residency-training-program-un
- iversity-of-ottawa-information-night-2026-2/\nPublished time: 18:00 – 19
- :30 EST\nRegister: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?i
- d=tkGbhQ8TE02mkx_-xOfLWmNQTa_kzI5Cr0Jcbnn6wlFUOUJHSERPR1owRk5ESzRDWFpGUDY0
- WVVMVC4u\nREGISTRATION LINK: https://forms.cloud.microsoft/Pages/ResponseP
- age.aspx?id=tkGbhQ8TE02mkx_-xOfLWmNQTa_kzI5Cr0Jcbnn6wlFUOUJHSERPR1owRk5ESz
- RDWFpGUDY0WVVMVC4u
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/obgyn-residency-training-program-university
- -of-ottawa-information-night-2026-2/
-X-CANPREPP-ID:10914
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queen’s Public Health and Preventive Medicine Info Session – C
- MG
-DTSTART:20261007T000000Z
-DTEND:20261007T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10773@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Queen's University,R1,Public Health and Preventive Medicine Inc
- luding Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-public-health-and-preventive
- -medicine-info-session-cmg/\nPublished time: 19:00 – 20:00 EST\nMeeting 
- Link: http://Link%20will%20be%20shared%20with%20those%20who%20register.\nR
- egister: https://forms.cloud.microsoft/r/Tr6Hbq3hsv
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-public-health-and-preventive-medicin
- e-info-session-cmg/
-X-CANPREPP-ID:10773
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NOSM U Pediatric Information Session
-DTSTART:20261007T000000Z
-DTEND:20261007T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10856@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NOSM University,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/nosm-u-pediatric-information-sessio
  n/\nPublished time: 19:00 – 20:00 EST\nMeeting Link: https://nosm.webex.
  com/nosm/j.php?MTID=m6378f766f99f71eda6253d4bf9b1db6d
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/nosm-u-pediatric-information-session/
@@ -670,17 +670,17 @@ X-CANPREPP-ID:10856
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University Family Medicine Program Info Session
-DTSTART:20261007T000000Z
-DTEND:20261007T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261006T230000Z
+DTEND:20261007T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10907@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:McMaster University,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/mcmaster-university-family-medicine
  -program-info-session/\nPublished time: 19:00 – 20:30 EST\nRegister: htt
  ps://ca01web.zoom.us/j/65245166584
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-university-family-medicine-program
@@ -690,17 +690,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic
   Surgery Roundtable
-DTSTART:20261007T000000Z
-DTEND:20261007T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11055@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:R1,Orthopedic Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/canadian-orthopaedic-surgery-studen
  t-network-pre-carms-orthopaedic-surgery-roundtable/\nPublished time: 19:00
   – 20:00 EST\nRegister: http://forms.gle/Xdx45r8AkXen7FXA8
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/canadian-orthopaedic-surgery-student-networ
@@ -709,17 +709,17 @@ X-CANPREPP-ID:11055
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Pediatrics Residency – CaRMS Med Student Info Session
-DTSTART:20261007T010000Z
-DTEND:20261007T023000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261007T000000Z
+DTEND:20261007T013000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10623@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-pediatrics-residency-carms-med-
  student-info-session-2/\nPublished time: 17:00 – 18:30 PST\nMeeting Link
  : https://ubc.zoom.us
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-pediatrics-residency-carms-med-student-
@@ -728,17 +728,17 @@ X-CANPREPP-ID:10623
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC IM Vancouver: Meet the PD + Residents
-DTSTART:20261007T010000Z
-DTEND:20261007T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261007T000000Z
+DTEND:20261007T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10958@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Internal Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-im-vancouver-meet-the-pd-reside
  nts-4/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https://ubc.zoo
  m.us/j/61642927662?pwd=FdUBwLIOkVuFaDLUOhRUbJtNnsacQ5.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-im-vancouver-meet-the-pd-residents-4/
@@ -763,6 +763,24 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-saskatchewan-emergency-medici
  ne-carms-q-a-session/
 X-CANPREPP-ID:10969
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MacPeds – Ask A Resident Night
+DTSTART:20261007T220000Z
+DTEND:20261007T230000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10974@canprepp.ca
+SEQUENCE:1
+CATEGORIES:McMaster University,R1,Pediatrics
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/macpeds-ask-a-resident-night-6/\nPu
+ blished time: 18:00 – 19:00 EST\nRegister: https://us06web.zoom.us/meeti
+ ng/register/04fCvKkfRymNaIGRdnBwUQ
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/macpeds-ask-a-resident-night-6/
+X-CANPREPP-ID:10974
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
@@ -803,22 +821,22 @@ URL:https://canprepp.ca/events/queens-family-medicine-cmg-town-hall-2/
 X-CANPREPP-ID:10678
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:MacPeds – Ask A Resident Night
+SUMMARY:CaRMS Social/ Townhall with Resident Group
 DTSTART:20261007T230000Z
 DTEND:20261008T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10974@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Pediatrics
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10826@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Alberta,R1,Psychiatry
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/macpeds-ask-a-resident-night-6/\nPu
- blished time: 18:00 – 19:00 EST\nRegister: https://us06web.zoom.us/meeti
- ng/register/04fCvKkfRymNaIGRdnBwUQ
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/carms-social-townhall-with-resident
+ -group/\nPublished time: 17:00 – 18:00 MST\nMeeting Link: https://albert
+ ahealthservices.zoom.us/j/67838815459?pwd=LVFSM8t8G2wBbsudFhKpKu4qjkEv65.1
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/macpeds-ask-a-resident-night-6/
-X-CANPREPP-ID:10974
+URL:https://canprepp.ca/events/carms-social-townhall-with-resident-group/
+X-CANPREPP-ID:10826
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Emergency Medicine Vancouver Island Info session
@@ -841,37 +859,19 @@ URL:https://canprepp.ca/events/ubc-emergency-medicine-vancouver-island-inf
 X-CANPREPP-ID:10661
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CaRMS Social/ Townhall with Resident Group
-DTSTART:20261008T000000Z
-DTEND:20261008T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10826@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Alberta,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/carms-social-townhall-with-resident
- -group/\nPublished time: 17:00 – 18:00 MST\nMeeting Link: https://albert
- ahealthservices.zoom.us/j/67838815459?pwd=LVFSM8t8G2wBbsudFhKpKu4qjkEv65.1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/carms-social-townhall-with-resident-group/
-X-CANPREPP-ID:10826
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Manitoba Pediatrics Information Session
-DTSTART:20261008T010000Z
-DTEND:20261008T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261008T000000Z
+DTEND:20261008T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10809@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-pediatrics-i
  nformation-session-2/\nPublished time: 19:00 – 21:00 CST\nMeeting Link: 
  https://umanitoba.zoom.us/j/63967893824?pwd=tm2ocGwhqqLN1fRCrME1U22BLRmjX3
  .1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-manitoba-pediatrics-informati
@@ -880,17 +880,17 @@ X-CANPREPP-ID:10809
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Pediatrics – Victoria Site CaRMS Info Session
-DTSTART:20261008T010000Z
-DTEND:20261008T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261008T000000Z
+DTEND:20261008T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11052@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-pediatrics-victoria-site-carms-
  info-session-3/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https:
  //ubc.zoom.us
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-pediatrics-victoria-site-carms-info-ses
@@ -900,17 +900,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Pediatrics Residency Program – Fraser Site – CaRMS Med Stu
  dent Info Session
-DTSTART:20261008T020000Z
-DTEND:20261008T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261008T010000Z
+DTEND:20261008T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10771@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-pediatrics-residency-program-fr
  aser-site-carms-med-student-info-session/\nPublished time: 18:00 – 19:00
   PST\nMeeting Link: https://ubc.zoom.us
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-pediatrics-residency-program-fraser-sit
@@ -996,6 +996,65 @@ URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
 X-CANPREPP-ID:10923
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Université d’Ottawa : Séance d’information virtuelle sur la 
+ médecine familiale – Montfort
+DTSTART:20261008T230000Z
+DTEND:20261009T003000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11065@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Ottawa,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/universite-dottawa-seance-dinformat
+ ion-virtuelle-sur-la-medecine-familiale-montfort/\nPublished time: 19:00 
+ – 20:30 EST\nMeeting Link: https://teams.microsoft.com/meet/266979338558
+ 949?p=n9GQ78haW3aUlWhhSP
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/universite-dottawa-seance-dinformation-virt
+ uelle-sur-la-medecine-familiale-montfort/
+X-CANPREPP-ID:11065
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Psychiatry CaRMS Townhall 1
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11102@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Western University,R1,Psychiatry
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/western-psychiatry-carms-townhall-1
+ /\nPublished time: 19:00 – 20:00 EST\nRegister: https://westernuniversit
+ y.zoom.us/meeting/register/QWopvOOAT32VkGMT1zO5zQ#/registration
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-psychiatry-carms-townhall-1/
+X-CANPREPP-ID:11102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic
+  Surgery Roundtable
+DTSTART:20261008T233000Z
+DTEND:20261009T003000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11060@canprepp.ca
+SEQUENCE:1
+CATEGORIES:R1,Orthopedic Surgery
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/canadian-orthopaedic-surgery-studen
+ t-network-pre-carms-orthopaedic-surgery-roundtable-2/\nPublished time: 19:
+ 30 – 20:30 EST\nRegister: http://forms.gle/Xdx45r8AkXen7FXA8
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/canadian-orthopaedic-surgery-student-networ
+ k-pre-carms-orthopaedic-surgery-roundtable-2/
+X-CANPREPP-ID:11060
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SFU Family Medicine Information Session
 DTSTART:20261009T000000Z
 DTEND:20261009T010000Z
@@ -1034,78 +1093,19 @@ URL:https://canprepp.ca/events/university-of-alberta-core-internal-medicin
 X-CANPREPP-ID:10978
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Université d’Ottawa : Séance d’information virtuelle sur la 
- médecine familiale – Montfort
-DTSTART:20261009T000000Z
-DTEND:20261009T013000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11065@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/universite-dottawa-seance-dinformat
- ion-virtuelle-sur-la-medecine-familiale-montfort/\nPublished time: 19:00 
- – 20:30 EST\nMeeting Link: https://teams.microsoft.com/meet/266979338558
- 949?p=n9GQ78haW3aUlWhhSP
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/universite-dottawa-seance-dinformation-virt
- uelle-sur-la-medecine-familiale-montfort/
-X-CANPREPP-ID:11065
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Western Psychiatry CaRMS Townhall 1
-DTSTART:20261009T000000Z
-DTEND:20261009T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11102@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Western University,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/western-psychiatry-carms-townhall-1
- /\nPublished time: 19:00 – 20:00 EST\nRegister: https://westernuniversit
- y.zoom.us/meeting/register/QWopvOOAT32VkGMT1zO5zQ#/registration
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/western-psychiatry-carms-townhall-1/
-X-CANPREPP-ID:11102
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic
-  Surgery Roundtable
-DTSTART:20261009T003000Z
-DTEND:20261009T013000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11060@canprepp.ca
-SEQUENCE:0
-CATEGORIES:R1,Orthopedic Surgery
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/canadian-orthopaedic-surgery-studen
- t-network-pre-carms-orthopaedic-surgery-roundtable-2/\nPublished time: 19:
- 30 – 20:30 EST\nRegister: http://forms.gle/Xdx45r8AkXen7FXA8
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/canadian-orthopaedic-surgery-student-networ
- k-pre-carms-orthopaedic-surgery-roundtable-2/
-X-CANPREPP-ID:11060
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:uOttawa PHPM Academic Half Day
-DTSTART:20261009T140000Z
-DTEND:20261009T170000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261009T130000Z
+DTEND:20261009T160000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10838@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Ottawa,R1,Public Health and Preventive Medicine I
  ncluding Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uottawa-phpm-academic-half-day/\nPu
  blished time: 09:00 – 12:00 EST\nMeeting Link: http://Provided%20to%20re
  gistered%20individuals
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uottawa-phpm-academic-half-day/
@@ -1134,11 +1134,11 @@ X-CANPREPP-ID:10634
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOSM UNIVERSITY UROLOGY INFORMATION SESSION
-DTSTART:20261010T000000Z
-DTEND:20261010T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261009T230000Z
+DTEND:20261010T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11054@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NOSM University,R1,Urology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/nosm-university-urology-information
@@ -1150,7 +1150,7 @@ DESCRIPTION:https://canprepp.ca/events/nosm-university-urology-information
  6launchAgent%3DGSuiteAddOn%26correlationId%3D8f8e3cd6-b771-40ec-955b-b03ef
  54ca6d8&sa=D&source=calendar&ust=1790089369618362&usg=AOvVaw0_W8oOynlcUWJw
  ap4d4OOv
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/nosm-university-urology-information-session
@@ -1160,18 +1160,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – MEET-THE
  -RESIDENTS SESSION 1
-DTSTART:20261011T190000Z
-DTEND:20261011T210000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261011T180000Z
+DTEND:20261011T200000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10616@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
  lar-pathology-meet-the-residents-session-1/\nPublished time: 14:00 – 16:
  00 EST\nMeeting Link: http://TO%20BE%20PROVIDED%20WITH%20REGISTRATION\nReg
  ister: https://queensu.zoom.us/meeting/register/pxq2zbaRSSOdHHdOJymuDw
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
@@ -1180,21 +1180,41 @@ X-CANPREPP-ID:10616
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queen’s Diagnostic & Molecular Pathology: Meet-the Residents
-DTSTART:20261011T190000Z
-DTEND:20261011T210000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261011T180000Z
+DTEND:20261011T200000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11083@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/queens-diagnostic-molecular-patholo
  gy-meet-the-residents/\nPublished time: 14:00 – 16:00 EST
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/queens-diagnostic-molecular-pathology-meet-
  the-residents/
 X-CANPREPP-ID:11083
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McMaster Psychiatry Hamilton CMG Residents’ Meet & Greets
+DTSTART:20261013T220000Z
+DTEND:20261013T230000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10775@canprepp.ca
+SEQUENCE:1
+CATEGORIES:McMaster University,R1,Psychiatry
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/mcmaster-psychiatry-hamilton-cmg-re
+ sidents-meet-greets/\nPublished time: 18:00 – 19:00 EST\nRegister: https
+ ://events.teams.microsoft.com/event/38319049-9955-42e0-a88f-e0c007f67523@4
+ 4376307-b429-42ad-8c25-28cd496f4772
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/mcmaster-psychiatry-hamilton-cmg-residents-
+ meet-greets/
+X-CANPREPP-ID:10775
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster Neurology Information Sessioin
@@ -1236,38 +1256,18 @@ URL:https://canprepp.ca/events/mcmaster-anesthesiology-program-director-to
 X-CANPREPP-ID:10812
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:McMaster Psychiatry Hamilton CMG Residents’ Meet & Greets
-DTSTART:20261013T230000Z
-DTEND:20261014T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10775@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-psychiatry-hamilton-cmg-re
- sidents-meet-greets/\nPublished time: 18:00 – 19:00 EST\nRegister: https
- ://events.teams.microsoft.com/event/38319049-9955-42e0-a88f-e0c007f67523@4
- 4376307-b429-42ad-8c25-28cd496f4772
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-psychiatry-hamilton-cmg-residents-
- meet-greets/
-X-CANPREPP-ID:10775
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UBC IM Vancouver: Meet the PD + Residents
-DTSTART:20261014T010000Z
-DTEND:20261014T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261014T000000Z
+DTEND:20261014T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10959@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Internal Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-im-vancouver-meet-the-pd-reside
  nts-5/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https://ubc.zoo
  m.us/j/63143575534?pwd=z8Lxrsm1fOQ0xqJJRHnLbmQ2t5gTQb.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-im-vancouver-meet-the-pd-residents-5/
@@ -1276,17 +1276,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic
   Surgery Roundtable
-DTSTART:20261014T010000Z
-DTEND:20261014T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261014T000000Z
+DTEND:20261014T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11061@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:R1,Orthopedic Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/canadian-orthopaedic-surgery-studen
  t-network-pre-carms-orthopaedic-surgery-roundtable-3/\nPublished time: 20:
  00 – 21:00 EST\nRegister: http://forms.gle/Xdx45r8AkXen7FXA8
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/canadian-orthopaedic-surgery-student-networ
@@ -1296,18 +1296,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofT Pediatric Neurology Residency Program – CaRMS Information N
  ight #1
-DTSTART:20261014T013000Z
-DTEND:20261014T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261014T003000Z
+DTEND:20261014T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11107@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Toronto,R1,Neurology - Pediatric
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uoft-pediatric-neurology-residency-
  program-carms-information-night-1/\nPublished time: 20:30 – 22:00 EST\nM
  eeting Link: https://ca01web.zoom.us/j/62000200242?pwd=2JtcDPHxLXkD64a5SGm
  PQN8QdzaoQZ.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uoft-pediatric-neurology-residency-program-
@@ -1316,18 +1316,18 @@ X-CANPREPP-ID:11107
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster Psychiatry IMG Residents’ Meet & Greets
-DTSTART:20261014T220000Z
-DTEND:20261014T230000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261014T210000Z
+DTEND:20261014T220000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10777@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:McMaster University,R1,Psychiatry
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/mcmaster-psychiatry-img-residents-m
  eet-greets-3/\nPublished time: 17:00 – 18:00 EST\nRegister: https://even
  ts.teams.microsoft.com/event/de5c925b-70fb-480a-b310-ec96a50fca41@44376307
  -b429-42ad-8c25-28cd496f4772
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-psychiatry-img-residents-meet-gree
@@ -1336,17 +1336,17 @@ X-CANPREPP-ID:10777
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:uOttawa Anesthesiology CaRMS Townhall (virtual)
-DTSTART:20261015T000000Z
-DTEND:20261015T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261014T230000Z
+DTEND:20261015T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10893@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Ottawa,R1,Anesthesiology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uottawa-anesthesiology-carms-townha
  ll-virtual-3/\nPublished time: 19:00 – 20:30 EST\nMeeting Link: https://
  teams.microsoft.com/meet/221702115864430?p=qMByZOoH5SeqIVjM8H%20
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uottawa-anesthesiology-carms-townhall-virtu
@@ -1355,17 +1355,17 @@ X-CANPREPP-ID:10893
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:uOttawa Anesthesiology CaRMS Townhall (virtual)
-DTSTART:20261015T000000Z
-DTEND:20261015T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261014T230000Z
+DTEND:20261015T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10894@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Ottawa,R1,Anesthesiology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uottawa-anesthesiology-carms-townha
  ll-virtual-4/\nPublished time: 19:00 – 20:30 EST\nMeeting Link: https://
  teams.microsoft.com/meet/221702115864430?p=qMByZOoH5SeqIVjM8H%20
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uottawa-anesthesiology-carms-townhall-virtu
@@ -1375,11 +1375,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Public Health & Preventive Medicine (including Family Medicine
  ) Residency Program Open House
-DTSTART:20261015T000000Z
-DTEND:20261015T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261014T230000Z
+DTEND:20261015T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10988@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Public Health and Preventive 
  Medicine Including Family Medicine
 CREATED:20261012T191757Z
@@ -1387,7 +1387,7 @@ DESCRIPTION:https://canprepp.ca/events/ubc-public-health-preventive-medici
  ne-including-family-medicine-residency-program-open-house-2/\nPublished ti
  me: 16:00 – 17:30 PST\nRegister: https://ubc.ca1.qualtrics.com/jfe/form/
  SV_1CiiTTzgD6KXJNc
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-public-health-preventive-medicine-inclu
@@ -1396,17 +1396,17 @@ X-CANPREPP-ID:10988
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC OBGYN CaRMS Info Session
-DTSTART:20261015T003000Z
-DTEND:20261015T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261014T233000Z
+DTEND:20261015T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-9218@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Obstetrics and Gynecology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-obgyn-carms-info-session-2/\nPu
  blished time: 16:30 – 17:30 PST\nRegister: https://ubc.ca1.qualtrics.com
  /jfe/form/SV_2ct49kMe430vDue
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-obgyn-carms-info-session-2/
@@ -1450,11 +1450,11 @@ X-CANPREPP-ID:10783
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TMU CaRMS Internal Medicine Information Session
-DTSTART:20261015T170000Z
-DTEND:20261015T180000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261015T160000Z
+DTEND:20261015T170000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11112@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Toronto Metropolitan University,R1,Internal Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/tmu-carms-internal-medicine-informa
@@ -1462,7 +1462,7 @@ DESCRIPTION:https://canprepp.ca/events/tmu-carms-internal-medicine-informa
  torontomu.zoom.us/meeting/register/ZlrEpUNwSfSTYvFtX_FNPw#/registration\nR
  egister: https://torontomu.zoom.us/meeting/register/ZlrEpUNwSfSTYvFtX_FNPw
  #/registration
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/tmu-carms-internal-medicine-information-ses
@@ -1487,6 +1487,26 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/tmu-obstetrics-and-gynecology-virtual-infor
  mation-session/
 X-CANPREPP-ID:10694
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McMaster Psychiatry Waterloo CMG Residents’ Meet & Greets
+DTSTART:20261015T220000Z
+DTEND:20261015T230000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10776@canprepp.ca
+SEQUENCE:1
+CATEGORIES:McMaster University,R1,Psychiatry
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/mcmaster-psychiatry-waterloo-cmg-re
+ sidents-meet-greets-2/\nPublished time: 18:00 – 19:00 EST\nRegister: htt
+ ps://events.teams.microsoft.com/event/399e63c9-1aca-44de-ad31-e2cd6cd731ab
+ @44376307-b429-42ad-8c25-28cd496f4772
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/mcmaster-psychiatry-waterloo-cmg-residents-
+ meet-greets-2/
+X-CANPREPP-ID:10776
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofT Anesthesia CaRMS Meet and Greet: Getting to Know the Program
@@ -1527,42 +1547,97 @@ URL:https://canprepp.ca/events/university-of-toronto-psychiatry-virtual-in
 X-CANPREPP-ID:10724
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:McMaster Psychiatry Waterloo CMG Residents’ Meet & Greets
+SUMMARY:NOSM UNIVERSITY OBGYN VIRTUAL INFO SESSION
 DTSTART:20261015T230000Z
 DTEND:20261016T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10776@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-psychiatry-waterloo-cmg-re
- sidents-meet-greets-2/\nPublished time: 18:00 – 19:00 EST\nRegister: htt
- ps://events.teams.microsoft.com/event/399e63c9-1aca-44de-ad31-e2cd6cd731ab
- @44376307-b429-42ad-8c25-28cd496f4772
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-psychiatry-waterloo-cmg-residents-
- meet-greets-2/
-X-CANPREPP-ID:10776
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NOSM UNIVERSITY OBGYN VIRTUAL INFO SESSION
-DTSTART:20261016T000000Z
-DTEND:20261016T010000Z
-DTSTAMP:20261012T191757Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10904@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NOSM University,R1,Obstetrics and Gynecology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/nosm-university-obgyn-virtual-info-
  session/\nPublished time: 19:00 – 20:00 EST\nMeeting Link: https://nosm.
  webex.com/nosm/j.php?MTID=m745d6029f701c3cb7f828802f9a66888
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/nosm-university-obgyn-virtual-info-session/
 X-CANPREPP-ID:10904
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic
+  Surgery Roundtable
+DTSTART:20261015T230000Z
+DTEND:20261016T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11062@canprepp.ca
+SEQUENCE:1
+CATEGORIES:R1,Orthopedic Surgery
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/canadian-orthopaedic-surgery-studen
+ t-network-pre-carms-orthopaedic-surgery-roundtable-4/\nPublished time: 19:
+ 00 – 20:00 EST\nRegister: http://forms.gle/Xdx45r8AkXen7FXA8
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/canadian-orthopaedic-surgery-student-networ
+ k-pre-carms-orthopaedic-surgery-roundtable-4/
+X-CANPREPP-ID:11062
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial Univeristy Pediatrics – Information Session
+DTSTART:20261015T230000Z
+DTEND:20261016T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11094@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Memorial University of Newfoundland,R1,Pediatrics
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/memorial-univeristy-pediatrics-info
+ rmation-session/\nPublished time: 20:30 – 21:30 NST\nMeeting Link: https
+ ://teams.microsoft.com/meet/230122700690582?p=9QU7Hq1hqOOPsM0cmD
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/memorial-univeristy-pediatrics-information-
+ session/
+X-CANPREPP-ID:11094
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Psychiatry CaRMS Townhall 2
+DTSTART:20261015T230000Z
+DTEND:20261016T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11103@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Western University,R1,Psychiatry
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/western-psychiatry-carms-townhall-2
+ /\nPublished time: 19:00 – 20:00 EST\nRegister: https://westernuniversit
+ y.zoom.us/meeting/register/FTj0l9lGThGqEDzxA5y-Iw#/registration
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-psychiatry-carms-townhall-2/
+X-CANPREPP-ID:11103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CaRMS – Psychiatry – Western University
+DTSTART:20261015T230000Z
+DTEND:20261016T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11104@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Western University,R1,Psychiatry
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/carms-psychiatry-western-university
+ -3/\nPublished time: 19:00 – 20:00 EST\nRegister: https://westernunivers
+ ity.zoom.us/meeting/register/FTj0l9lGThGqEDzxA5y-Iw%20#/registration
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/carms-psychiatry-western-university-3/
+X-CANPREPP-ID:11104
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Internal Medicine – Vancouver Island CaRMS Info Session
@@ -1584,93 +1659,18 @@ URL:https://canprepp.ca/events/internal-medicine-vancouver-island-carms-in
 X-CANPREPP-ID:10940
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic
-  Surgery Roundtable
-DTSTART:20261016T000000Z
-DTEND:20261016T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11062@canprepp.ca
-SEQUENCE:0
-CATEGORIES:R1,Orthopedic Surgery
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/canadian-orthopaedic-surgery-studen
- t-network-pre-carms-orthopaedic-surgery-roundtable-4/\nPublished time: 19:
- 00 – 20:00 EST\nRegister: http://forms.gle/Xdx45r8AkXen7FXA8
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/canadian-orthopaedic-surgery-student-networ
- k-pre-carms-orthopaedic-surgery-roundtable-4/
-X-CANPREPP-ID:11062
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial Univeristy Pediatrics – Information Session
-DTSTART:20261016T000000Z
-DTEND:20261016T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11094@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Memorial University of Newfoundland,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/memorial-univeristy-pediatrics-info
- rmation-session/\nPublished time: 20:30 – 21:30 NST\nMeeting Link: https
- ://teams.microsoft.com/meet/230122700690582?p=9QU7Hq1hqOOPsM0cmD
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/memorial-univeristy-pediatrics-information-
- session/
-X-CANPREPP-ID:11094
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Western Psychiatry CaRMS Townhall 2
-DTSTART:20261016T000000Z
-DTEND:20261016T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11103@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Western University,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/western-psychiatry-carms-townhall-2
- /\nPublished time: 19:00 – 20:00 EST\nRegister: https://westernuniversit
- y.zoom.us/meeting/register/FTj0l9lGThGqEDzxA5y-Iw#/registration
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/western-psychiatry-carms-townhall-2/
-X-CANPREPP-ID:11103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CaRMS – Psychiatry – Western University
-DTSTART:20261016T000000Z
-DTEND:20261016T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11104@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Western University,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/carms-psychiatry-western-university
- -3/\nPublished time: 19:00 – 20:00 EST\nRegister: https://westernunivers
- ity.zoom.us/meeting/register/FTj0l9lGThGqEDzxA5y-Iw%20#/registration
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/carms-psychiatry-western-university-3/
-X-CANPREPP-ID:11104
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UBC Adult Neurology CaRMS information session
-DTSTART:20261016T020000Z
-DTEND:20261016T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261016T010000Z
+DTEND:20261016T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11033@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Neurology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-adult-neurology-carms-informati
  on-session-2/\nPublished time: 18:00 – 19:00 PST\nMeeting Link: https://
  zoom.us/j/93283509470?pwd=KcmthM6FZY2RrawcdFatm5EkvOIQYP.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-adult-neurology-carms-information-sessi
@@ -1679,11 +1679,11 @@ X-CANPREPP-ID:11033
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TMU CaRMS Pediatrics Information Session
-DTSTART:20261019T170000Z
-DTEND:20261019T180000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261019T160000Z
+DTEND:20261019T170000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11114@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Toronto Metropolitan University,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/tmu-carms-pediatrics-information-se
@@ -1691,7 +1691,7 @@ DESCRIPTION:https://canprepp.ca/events/tmu-carms-pediatrics-information-se
  mu.zoom.us/meeting/register/O8t6BUi9RsmesCKSsIQvcg#/registration\nRegister
  : https://torontomu.zoom.us/meeting/register/O8t6BUi9RsmesCKSsIQvcg#/regis
  tration
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/tmu-carms-pediatrics-information-session/
@@ -1717,16 +1717,16 @@ X-CANPREPP-ID:10943
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Fraser Emergency Medicine CARMS info session
-DTSTART:20261020T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261020T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11119@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-fraser-emergency-medicine-carms
  -info-session/\nPublished time: 18:00 PST\nRegister: https://forms.gle/hv2
  Wii5fqnSnXL4U8
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-fraser-emergency-medicine-carms-info-se
@@ -1757,6 +1757,63 @@ URL:https://canprepp.ca/events/nosm-univerisity-public-health-and-preventi
 X-CANPREPP-ID:10860
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NOSM UNIVERSITY PHPM VIRTUAL INFO SESSION
+DTSTART:20261020T220000Z
+DTEND:20261020T233000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10905@canprepp.ca
+SEQUENCE:1
+CATEGORIES:NOSM University,R1,Public Health and Preventive Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/nosm-university-phpm-virtual-info-s
+ ession/\nPublished time: 18:00 – 19:30 EST\nRegister: https://nosm.webex
+ .com/weblink/register/reb529368b95af878b758580008dc7d5e
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/nosm-university-phpm-virtual-info-session/
+X-CANPREPP-ID:10905
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Surgery CaRMS Town Hall
+DTSTART:20261020T220000Z
+DTEND:20261020T230000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10928@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Memorial University of Newfoundland,R1,General Surgery
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/general-surgery-carms-town-hall/\nP
+ ublished time: 19:30 – 20:30 NST\nMeeting Link: https://mun.webex.com/me
+ et/pgsurgery
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/general-surgery-carms-town-hall/
+X-CANPREPP-ID:10928
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – MEET-THE
+ -RESIDENTS SESSION 2
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10617@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
+ lar-pathology-meet-the-residents-session-2/\nPublished time: 19:00 – 21:
+ 00 EST\nMeeting Link: http://TO%20BE%20PROVIDED%20WITH%20REGISTRATION\nReg
+ ister: https://queensu.zoom.us/meeting/register/CImvSoAcQD2AJ0_MohIuyQ
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
+ ology-meet-the-residents-session-2/
+X-CANPREPP-ID:10617
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TMU Obstetrics and Gynecology Virtual Information Session
 DTSTART:20261020T230000Z
 DTEND:20261021T000000Z
@@ -1776,61 +1833,21 @@ URL:https://canprepp.ca/events/tmu-obstetrics-and-gynecology-virtual-infor
 X-CANPREPP-ID:10695
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NOSM UNIVERSITY PHPM VIRTUAL INFO SESSION
-DTSTART:20261020T230000Z
-DTEND:20261021T003000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10905@canprepp.ca
-SEQUENCE:0
-CATEGORIES:NOSM University,R1,Public Health and Preventive Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/nosm-university-phpm-virtual-info-s
- ession/\nPublished time: 18:00 – 19:30 EST\nRegister: https://nosm.webex
- .com/weblink/register/reb529368b95af878b758580008dc7d5e
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/nosm-university-phpm-virtual-info-session/
-X-CANPREPP-ID:10905
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:General Surgery CaRMS Town Hall
+SUMMARY:Western Anesthesia CaRMS Townhall
 DTSTART:20261020T230000Z
 DTEND:20261021T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10928@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Memorial University of Newfoundland,R1,General Surgery
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10786@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Western University,R1,Anesthesiology
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/general-surgery-carms-town-hall/\nP
- ublished time: 19:30 – 20:30 NST\nMeeting Link: https://mun.webex.com/me
- et/pgsurgery
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/western-anesthesia-carms-townhall-5
+ /\nPublished time: 19:00 – 20:00 EST
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/general-surgery-carms-town-hall/
-X-CANPREPP-ID:10928
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – MEET-THE
- -RESIDENTS SESSION 2
-DTSTART:20261021T000000Z
-DTEND:20261021T020000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10617@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
- lar-pathology-meet-the-residents-session-2/\nPublished time: 19:00 – 21:
- 00 EST\nMeeting Link: http://TO%20BE%20PROVIDED%20WITH%20REGISTRATION\nReg
- ister: https://queensu.zoom.us/meeting/register/CImvSoAcQD2AJ0_MohIuyQ
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
- ology-meet-the-residents-session-2/
-X-CANPREPP-ID:10617
+URL:https://canprepp.ca/events/western-anesthesia-carms-townhall-5/
+X-CANPREPP-ID:10786
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rural Family Medicine Meet & Greet – Part 1
@@ -1869,21 +1886,43 @@ URL:https://canprepp.ca/events/uofa-radiation-oncology-meet-the-residents/
 X-CANPREPP-ID:10717
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Western Anesthesia CaRMS Townhall
+SUMMARY:Meet and Greet with PD/APD
 DTSTART:20261021T000000Z
-DTEND:20261021T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10786@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Western University,R1,Anesthesiology
+DTEND:20261021T004500Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10946@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Alberta,R1,Anesthesiology
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/western-anesthesia-carms-townhall-5
- /\nPublished time: 19:00 – 20:00 EST
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/meet-and-greet-with-pd-apd/\nPublis
+ hed time: 18:00 – 18:45 MST\nRegister: https://docs.google.com/forms/d/e
+ /1FAIpQLSesBAIHXifE1eBYqFCxnvH2jVkwb6fYgX69_pNn9KPi-Z8prg/viewform?usp=pub
+ lish-editor
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/western-anesthesia-carms-townhall-5/
-X-CANPREPP-ID:10786
+URL:https://canprepp.ca/events/meet-and-greet-with-pd-apd/
+X-CANPREPP-ID:10946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Alberta- Obstetrics & Gynecology Residency Program I
+ nformation Session!
+DTSTART:20261021T000000Z
+DTEND:20261021T013000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10954@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Alberta,R1,Obstetrics and Gynecology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/university-of-alberta-obstetrics-gy
+ necology-residency-program-information-session/\nPublished time: 18:00 –
+  19:30 MST
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-alberta-obstetrics-gynecology
+ -residency-program-information-session/
+X-CANPREPP-ID:10954
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Psychiatry CaRMS Info Session #1
@@ -1904,58 +1943,19 @@ URL:https://canprepp.ca/events/ubc-psychiatry-carms-info-session-1-2/
 X-CANPREPP-ID:10863
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meet and Greet with PD/APD
-DTSTART:20261021T010000Z
-DTEND:20261021T014500Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10946@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Alberta,R1,Anesthesiology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/meet-and-greet-with-pd-apd/\nPublis
- hed time: 18:00 – 18:45 MST\nRegister: https://docs.google.com/forms/d/e
- /1FAIpQLSesBAIHXifE1eBYqFCxnvH2jVkwb6fYgX69_pNn9KPi-Z8prg/viewform?usp=pub
- lish-editor
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/meet-and-greet-with-pd-apd/
-X-CANPREPP-ID:10946
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of Alberta- Obstetrics & Gynecology Residency Program I
- nformation Session!
-DTSTART:20261021T010000Z
-DTEND:20261021T023000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10954@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Alberta,R1,Obstetrics and Gynecology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-alberta-obstetrics-gy
- necology-residency-program-information-session/\nPublished time: 18:00 –
-  19:30 MST
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-alberta-obstetrics-gynecology
- -residency-program-information-session/
-X-CANPREPP-ID:10954
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Manitoba\, Radiation Oncology – Meet our Program D
  irector
-DTSTART:20261021T190000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261021T180000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11078@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,Radiation Oncology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-radiation-on
  cology-meet-our-program-director-5/\nPublished time: 13:00 CST\nMeeting Li
  nk: https://teams.microsoft.com/meet/265399176477819?p=UlzXOTlFUrJi66xuiL
  \nRegister: https://www.surveymonkey.com/r/TTBM9TW
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-manitoba-radiation-oncology-m
@@ -2023,17 +2023,17 @@ X-CANPREPP-ID:10784
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University Family Medicine Resident QA
-DTSTART:20261022T000000Z
-DTEND:20261022T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261021T230000Z
+DTEND:20261022T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10908@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:McMaster University,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/mcmaster-university-family-medicine
  -resident-qa/\nPublished time: 19:00 – 20:30 EST\nRegister: https://ca01
  web.zoom.us/j/65759364545
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-university-family-medicine-residen
@@ -2043,17 +2043,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic
   Surgery Roundtable
-DTSTART:20261022T000000Z
-DTEND:20261022T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261021T230000Z
+DTEND:20261022T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11063@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:R1,Orthopedic Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/canadian-orthopaedic-surgery-studen
  t-network-pre-carms-orthopaedic-surgery-roundtable-5/\nPublished time: 19:
  00 – 20:00 EST\nRegister: http://forms.gle/Xdx45r8AkXen7FXA8
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/canadian-orthopaedic-surgery-student-networ
@@ -2062,17 +2062,17 @@ X-CANPREPP-ID:11063
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meet and Greet with Anesthesia Residents
-DTSTART:20261022T000000Z
-DTEND:20261022T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261021T230000Z
+DTEND:20261022T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11095@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Anesthesiology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/meet-and-greet-with-anesthesia-resi
  dents/\nPublished time: 17:00 – 19:00 MST\nMeeting Link: https://ualbert
  a-ca.zoom.us/j/97218471938
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/meet-and-greet-with-anesthesia-residents/
@@ -2097,16 +2097,16 @@ X-CANPREPP-ID:10806
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Calgary Ophthalmology CaRMS Open House
-DTSTART:20261022T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261022T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10933@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Ophthalmology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-calgary-ophthalmology
  -carms-open-house/\nPublished time: 18:30 – 6:30PM MST\nRegister: https:
  //forms.gle/WwW8vn9Qdwf8awkA8
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-ophthalmology-carms-o
@@ -2135,18 +2135,18 @@ X-CANPREPP-ID:10813
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RCPSC-EM Ottawa Townhall
-DTSTART:20261022T233000Z
-DTEND:20261023T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261022T223000Z
+DTEND:20261023T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11043@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Ottawa,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/rcpsc-em-ottawa-townhall-2/\nPublis
  hed time: 18:30 – 20:30 EST\nRegister: https://forms.cloud.microsoft/Pag
  es/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWg3qDo_EBAhLqWC7eK3zSddUNDU5OU
  lGNDIwVVZBNUpQSzlGREtQRzk1MC4u
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/rcpsc-em-ottawa-townhall-2/
@@ -2154,21 +2154,40 @@ X-CANPREPP-ID:11043
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U of T Adult Neurology CaRMS Info Session
-DTSTART:20261022T233000Z
-DTEND:20261023T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261022T223000Z
+DTEND:20261023T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11101@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Toronto,R1,Neurology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/u-of-t-adult-neurology-carms-info-s
  ession/\nPublished time: 18:30 – 20:00 EST\nMeeting Link: https://utoron
  to.zoom.us/j/84213286192
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/u-of-t-adult-neurology-carms-info-session/
 X-CANPREPP-ID:11101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Saskatchewan Pediatrics – Information Session
+DTSTART:20261023T000000Z
+DTEND:20261023T013000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10892@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Saskatchewan,R1,Pediatrics
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/university-of-saskatchewan-pediatri
+ cs-information-session/\nPublished time: 18:00 – 19:30 MST\nMeeting Link
+ : https://usask-ca.zoom.us/j/95593773817?pwd=ZPcC4Fbe9oIwVRKOfePC4YQblNmnO
+ J.1
+LAST-MODIFIED:20261014T004823Z
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-saskatchewan-pediatrics-infor
+ mation-session/
+X-CANPREPP-ID:10892
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina OBs/Gyne CARMs Information Night
@@ -2189,55 +2208,36 @@ URL:https://canprepp.ca/events/regina-obs-gyne-carms-information-night/
 X-CANPREPP-ID:10931
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Saskatchewan Pediatrics – Information Session
-DTSTART:20261023T010000Z
-DTEND:20261023T023000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10892@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Saskatchewan,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-saskatchewan-pediatri
- cs-information-session/\nPublished time: 18:00 – 19:30 MST\nMeeting Link
- : https://usask-ca.zoom.us/j/95593773817?pwd=ZPcC4Fbe9oIwVRKOfePC4YQblNmnO
- J.1
-LAST-MODIFIED:20261012T191757Z
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-saskatchewan-pediatrics-infor
- mation-session/
-X-CANPREPP-ID:10892
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:uOttawa PHPM Academic Half Day
-DTSTART:20261023T140000Z
-DTEND:20261023T170000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261023T130000Z
+DTEND:20261023T160000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10839@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Ottawa,R1,Public Health and Preventive Medicine I
  ncluding Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uottawa-phpm-academic-half-day-2/\n
  Published time: 09:00 – 12:00 EST\nMeeting Link: http://Provided%20to%20
  registered%20individuals
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uottawa-phpm-academic-half-day-2/
 X-CANPREPP-ID:10839
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orthopaedic Surgery Residency Program Virtual Meet & Greet
-DTSTART:20261025T233000Z
-DTEND:20261026T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261025T223000Z
+DTEND:20261026T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11048@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Memorial University of Newfoundland,R1,Orthopedic Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/orthopaedic-surgery-residency-progr
  am-virtual-meet-greet/\nPublished time: 20:00 – 21:30 NST\nMeeting Link:
   https://mun.webex.com/meet/pgorthosurg
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/orthopaedic-surgery-residency-program-virtu
@@ -2267,18 +2267,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queen’s Anesthesiology – Meet the Program Director/Assistant P
  rogram Director
-DTSTART:20261027T000000Z
-DTEND:20261027T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10423@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Queen's University,R1,Anesthesiology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/queens-anesthesiology-meet-the-prog
  ram-director-assistant-program-director-5/\nPublished time: 19:00 – 21:0
  0 EST\nMeeting Link: https://queensu.zoom.us/j/95772017524?pwd=JxAD91uBV18
  CiKuk6GLNwn6TzVGM8F.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/queens-anesthesiology-meet-the-program-dire
@@ -2364,17 +2364,17 @@ X-CANPREPP-ID:10970
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:uOttawa Vascular surgery CaRMs info session
-DTSTART:20261027T210000Z
-DTEND:20261027T220000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261027T200000Z
+DTEND:20261027T210000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11091@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Ottawa,R1,Vascular Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uottawa-vascular-surgery-carms-info
  -session-3/\nPublished time: 16:00 – 17:00 EST\nRegister: https://forms.
  cloud.microsoft/r/hA0bAuV7B3
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uottawa-vascular-surgery-carms-info-session
@@ -2401,6 +2401,45 @@ URL:https://canprepp.ca/events/meet-the-program-director-residents-ohns-un
 X-CANPREPP-ID:5748
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:uOttawa Psychiatry Info Session with Residents
+DTSTART:20261027T220000Z
+DTEND:20261028T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-9535@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Ottawa,R1,Psychiatry
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/uottawa-psychiatry-info-session-wit
+ h-residents/\nPublished time: 18:00 – 20:00 EST\nMeeting Link: https://u
+ ottawa-ca.zoom.us/j/9225267258https://uottawa-ca.zoom.us/j/93968183265?pwd
+ =SIrJdrp1PKUrtVWVJ930qpRG9hTt8o.14?pwd=zVk05YTPvlfaZKu7j3JwXNc7py4Mga.1
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uottawa-psychiatry-info-session-with-reside
+ nts/
+X-CANPREPP-ID:9535
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial University of Newfoundland Anesthesiology Information Ses
+ sion
+DTSTART:20261027T220000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10342@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Memorial University of Newfoundland,R1,Anesthesiology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
+ -anesthesiology-information-session/\nPublished time: 18:00 – 6:00PM EST
+ \nMeeting Link: https://mun.webex.com/meet/pganesthesia
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/memorial-university-of-newfoundland-anesthe
+ siology-information-session/
+X-CANPREPP-ID:10342
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Queen’s Internal Medicine Townhall (#1)
 DTSTART:20261027T220000Z
 DTEND:20261027T233000Z
@@ -2417,6 +2456,66 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/queens-internal-medicine-townhall-1-3/
 X-CANPREPP-ID:10613
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Ottawa\, Family Medicine residency program info sess
+ ion
+DTSTART:20261027T220000Z
+DTEND:20261027T230000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11028@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Ottawa,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/university-of-ottawa-family-medicin
+ e-residency-program-info-session/\nPublished time: 18:00 – 19:00 EST\nMe
+ eting Link: https://uottawa-ca.zoom.us/j/91680863997
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-ottawa-family-medicine-reside
+ ncy-program-info-session/
+X-CANPREPP-ID:11028
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nunavut Stream at the University of Ottawa in Family Medicine * NE
+ W THIS YEAR
+DTSTART:20261027T220000Z
+DTEND:20261027T230000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11030@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Ottawa,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/nunavut-stream-at-the-university-of
+ -ottawa-in-family-medicine-new-this-year/\nPublished time: 18:00 – 19:00
+  EST\nMeeting Link: https://uottawa-ca.zoom.us/j/91680863997
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/nunavut-stream-at-the-university-of-ottawa-
+ in-family-medicine-new-this-year/
+X-CANPREPP-ID:11030
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nunavut Stream at the University of Ottawa in Family Medicine * NE
+ W THIS YEAR
+DTSTART:20261027T220000Z
+DTEND:20261027T230000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11031@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Ottawa,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/nunavut-stream-at-the-university-of
+ -ottawa-in-family-medicine-new-this-year-2/\nPublished time: 18:00 – 19:
+ 00 EST
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/nunavut-stream-at-the-university-of-ottawa-
+ in-family-medicine-new-this-year-2/
+X-CANPREPP-ID:11031
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Memorial University – Neurology Residency Program – CaRMS Info
@@ -2440,117 +2539,18 @@ URL:https://canprepp.ca/events/memorial-university-neurology-residency-pro
 X-CANPREPP-ID:10729
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:uOttawa Psychiatry Info Session with Residents
-DTSTART:20261027T230000Z
-DTEND:20261028T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-9535@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uottawa-psychiatry-info-session-wit
- h-residents/\nPublished time: 18:00 – 20:00 EST\nMeeting Link: https://u
- ottawa-ca.zoom.us/j/9225267258https://uottawa-ca.zoom.us/j/93968183265?pwd
- =SIrJdrp1PKUrtVWVJ930qpRG9hTt8o.14?pwd=zVk05YTPvlfaZKu7j3JwXNc7py4Mga.1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uottawa-psychiatry-info-session-with-reside
- nts/
-X-CANPREPP-ID:9535
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial University of Newfoundland Anesthesiology Information Ses
- sion
-DTSTART:20261027T230000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10342@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Memorial University of Newfoundland,R1,Anesthesiology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
- -anesthesiology-information-session/\nPublished time: 18:00 – 6:00PM EST
- \nMeeting Link: https://mun.webex.com/meet/pganesthesia
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/memorial-university-of-newfoundland-anesthe
- siology-information-session/
-X-CANPREPP-ID:10342
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of Ottawa\, Family Medicine residency program info sess
- ion
-DTSTART:20261027T230000Z
-DTEND:20261028T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11028@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-ottawa-family-medicin
- e-residency-program-info-session/\nPublished time: 18:00 – 19:00 EST\nMe
- eting Link: https://uottawa-ca.zoom.us/j/91680863997
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-ottawa-family-medicine-reside
- ncy-program-info-session/
-X-CANPREPP-ID:11028
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nunavut Stream at the University of Ottawa in Family Medicine * NE
- W THIS YEAR
-DTSTART:20261027T230000Z
-DTEND:20261028T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11030@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/nunavut-stream-at-the-university-of
- -ottawa-in-family-medicine-new-this-year/\nPublished time: 18:00 – 19:00
-  EST\nMeeting Link: https://uottawa-ca.zoom.us/j/91680863997
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/nunavut-stream-at-the-university-of-ottawa-
- in-family-medicine-new-this-year/
-X-CANPREPP-ID:11030
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nunavut Stream at the University of Ottawa in Family Medicine * NE
- W THIS YEAR
-DTSTART:20261027T230000Z
-DTEND:20261028T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11031@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/nunavut-stream-at-the-university-of
- -ottawa-in-family-medicine-new-this-year-2/\nPublished time: 18:00 – 19:
- 00 EST
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/nunavut-stream-at-the-university-of-ottawa-
- in-family-medicine-new-this-year-2/
-X-CANPREPP-ID:11031
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Toronto Paediatrics CaRMS Town Hall
-DTSTART:20261027T233000Z
-DTEND:20261028T010000Z
-DTSTAMP:20261013T191255Z
+DTSTART:20261027T223000Z
+DTEND:20261028T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11126@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Toronto,R1,Pediatrics
 CREATED:20261013T191255Z
 DESCRIPTION:https://canprepp.ca/events/university-of-toronto-paediatrics-c
  arms-town-hall-12/\nPublished time: 18:30 – 20:00 EST\nMeeting Link: htt
  ps://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09
-LAST-MODIFIED:20261013T191255Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-toronto-paediatrics-carms-tow
@@ -2559,17 +2559,17 @@ X-CANPREPP-ID:11126
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOSM UNIVERSITY ANESTHESIA VIRTUAL INFO SESSION
-DTSTART:20261028T000000Z
-DTEND:20261028T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261027T230000Z
+DTEND:20261028T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10857@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NOSM University,R1,Anesthesiology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/nosm-university-anesthesia-virtual-
  info-session/\nPublished time: 19:00 – 20:00 EST\nMeeting Link: https://
  us02web.zoom.us/j/86196381437?pwd=KmOAJp4tMlnEDUt6susnORKfLbSYz6.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/nosm-university-anesthesia-virtual-info-ses
@@ -2578,17 +2578,17 @@ X-CANPREPP-ID:10857
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOSM UNIVERSITY FAMILY MEDICINE VIRTUAL INFO SESSION
-DTSTART:20261028T000000Z
-DTEND:20261028T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261027T230000Z
+DTEND:20261028T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10859@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:NOSM University,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/nosm-university-family-medicine-vir
  tual-info-session/\nPublished time: 19:00 – 20:00 EST\nRegister: https:/
  /nosm.webex.com/weblink/register/r87eb8db33eefacaeb17aa279569a10f8
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/nosm-university-family-medicine-virtual-inf
@@ -2597,17 +2597,17 @@ X-CANPREPP-ID:10859
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Western Paediatrics Information Session
-DTSTART:20261028T000000Z
-DTEND:20261028T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261027T230000Z
+DTEND:20261028T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11007@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Western University,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/western-paediatrics-information-ses
  sion/\nPublished time: 19:00 – 20:30 EST\nRegister: https://westernunive
  rsity.zoom.us/meeting/register/CZYfQ_CMSTmPxCvR3HPOyg 
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/western-paediatrics-information-session/
@@ -2672,6 +2672,26 @@ URL:https://canprepp.ca/events/university-of-toronto-department-of-radiati
 X-CANPREPP-ID:10997
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Manitoba\, Radiation Oncology Residency – Program 
+ Information Night
+DTSTART:20261028T220000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11079@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Manitoba,R1,Radiation Oncology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-radiation-on
+ cology-residency-program-information-night-4/\nPublished time: 17:00 CST\n
+ Meeting Link: https://teams.microsoft.com/meet/2917107061970591?p=aiZdhy48
+ Rcp3mgVXVX\nRegister: https://www.surveymonkey.com/r/TMWXMCH
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-manitoba-radiation-oncology-r
+ esidency-program-information-night-4/
+X-CANPREPP-ID:11079
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pediatric Neurology R1 Residency Program Information Session
 DTSTART:20261028T223000Z
 DTEND:20261028T233000Z
@@ -2711,24 +2731,22 @@ URL:https://canprepp.ca/events/queens-university-general-surgery-resident-
 X-CANPREPP-ID:10627
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Manitoba\, Radiation Oncology Residency – Program 
- Information Night
+SUMMARY:UBC Internal Medicine\, Fraser Meet & Greet
 DTSTART:20261028T230000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11079@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Manitoba,R1,Radiation Oncology
+DTEND:20261029T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11049@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Internal Medicine
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-radiation-on
- cology-residency-program-information-night-4/\nPublished time: 17:00 CST\n
- Meeting Link: https://teams.microsoft.com/meet/2917107061970591?p=aiZdhy48
- Rcp3mgVXVX\nRegister: https://www.surveymonkey.com/r/TMWXMCH
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-internal-medicine-fraser-meet-g
+ reet-3/\nPublished time: 16:00 – 17:00 PST\nRegister: https://ubc.ca1.qu
+ altrics.com/jfe/form/SV_1Fk1I99AZyLseKW
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-manitoba-radiation-oncology-r
- esidency-program-information-night-4/
-X-CANPREPP-ID:11079
+URL:https://canprepp.ca/events/ubc-internal-medicine-fraser-meet-greet-3/
+X-CANPREPP-ID:11049
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Program Info Event (PIE)
@@ -2750,22 +2768,42 @@ URL:https://canprepp.ca/events/ubc-family-practice-postgrad-program-info-e
 X-CANPREPP-ID:10847
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Internal Medicine\, Fraser Meet & Greet
+SUMMARY:University of Manitoba Pediatrics Information Session
 DTSTART:20261029T000000Z
-DTEND:20261029T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11049@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Internal Medicine
+DTEND:20261029T020000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10810@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Manitoba,R1,Pediatrics
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-internal-medicine-fraser-meet-g
- reet-3/\nPublished time: 16:00 – 17:00 PST\nRegister: https://ubc.ca1.qu
- altrics.com/jfe/form/SV_1Fk1I99AZyLseKW
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-pediatrics-i
+ nformation-session-3/\nPublished time: 19:00 – 21:00 CST\nMeeting Link: 
+ https://umanitoba.zoom.us/j/63967893824?pwd=tm2ocGwhqqLN1fRCrME1U22BLRmjX3
+ .1
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-internal-medicine-fraser-meet-greet-3/
-X-CANPREPP-ID:11049
+URL:https://canprepp.ca/events/university-of-manitoba-pediatrics-informati
+ on-session-3/
+X-CANPREPP-ID:10810
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Anesthesiology CaRMS Info Session
+DTSTART:20261029T003000Z
+DTEND:20261029T013000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10767@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Anesthesiology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-anesthesiology-carms-info-sessi
+ on-6/\nPublished time: 17:30 – 18:30 PST\nRegister: https://ubc.ca1.qual
+ trics.com/jfe/form/SV_byoWVEeJKGezyvk
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-anesthesiology-carms-info-session-6/
+X-CANPREPP-ID:10767
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofA Family Medicine- Rural Info Session
@@ -2785,26 +2823,6 @@ URL:https://canprepp.ca/events/uofa-family-medicine-rural-info-session/
 X-CANPREPP-ID:11071
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Manitoba Pediatrics Information Session
-DTSTART:20261029T010000Z
-DTEND:20261029T030000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10810@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Manitoba,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-pediatrics-i
- nformation-session-3/\nPublished time: 19:00 – 21:00 CST\nMeeting Link: 
- https://umanitoba.zoom.us/j/63967893824?pwd=tm2ocGwhqqLN1fRCrME1U22BLRmjX3
- .1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-manitoba-pediatrics-informati
- on-session-3/
-X-CANPREPP-ID:10810
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Meet the Program Director: CaRMS Information Session
 DTSTART:20261029T010000Z
 DTEND:20261029T030000Z
@@ -2822,24 +2840,6 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/meet-the-program-director-carms-information
  -session/
 X-CANPREPP-ID:11037
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UBC Anesthesiology CaRMS Info Session
-DTSTART:20261029T013000Z
-DTEND:20261029T023000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10767@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Anesthesiology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-anesthesiology-carms-info-sessi
- on-6/\nPublished time: 17:30 – 18:30 PST\nRegister: https://ubc.ca1.qual
- trics.com/jfe/form/SV_byoWVEeJKGezyvk
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-anesthesiology-carms-info-session-6/
-X-CANPREPP-ID:10767
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofT Anesthesia CaRMS Meet and Greet: Applying as an IMG
@@ -2919,17 +2919,17 @@ X-CANPREPP-ID:10942
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Western Paediatrics Information Session
-DTSTART:20261030T000000Z
-DTEND:20261030T013000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261029T230000Z
+DTEND:20261030T003000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11008@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Western University,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/western-paediatrics-information-ses
  sion-2/\nPublished time: 19:00 – 20:30 EST\nRegister: https://westernuni
  versity.zoom.us/meeting/register/CZYfQ_CMSTmPxCvR3HPOyg%20
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/western-paediatrics-information-session-2/
@@ -2937,17 +2937,17 @@ X-CANPREPP-ID:11008
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofA Pediatrics CaRMS Townhall
-DTSTART:20261030T010000Z
-DTEND:20261030T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261030T000000Z
+DTEND:20261030T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10621@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-3/\n
  Published time: 18:00 – 19:00 MST\nMeeting Link: https://ualberta-ca.zoo
  m.us/j/91823264739?pwd=zcUj2w4HNQGL44lKnTjCgb4hjH4pq7.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-3/
@@ -2955,16 +2955,16 @@ X-CANPREPP-ID:10621
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC IM Vancouver Indigenous Stream Info Session
-DTSTART:20261030T010000Z
-DTEND:20261030T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261030T000000Z
+DTEND:20261030T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10960@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Internal Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-im-vancouver-indigenous-stream-
  info-session-2/\nPublished time: 17:00 – 18:00 PST
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-im-vancouver-indigenous-stream-info-ses
@@ -2974,17 +2974,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic
   Surgery Roundtable
-DTSTART:20261030T010000Z
-DTEND:20261030T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261030T000000Z
+DTEND:20261030T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11064@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:R1,Orthopedic Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/canadian-orthopaedic-surgery-studen
  t-network-pre-carms-orthopaedic-surgery-roundtable-6/\nPublished time: 20:
  00 – 21:00 EST\nRegister: http://forms.gle/Xdx45r8AkXen7FXA8
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/canadian-orthopaedic-surgery-student-networ
@@ -2993,15 +2993,15 @@ X-CANPREPP-ID:11064
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Ophthalmology CaRMS Open House
-DTSTART:20261030T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261030T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11098@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Ophthalmology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-ophthalmology-carms-open-house/
  \nPublished time: 17:00 PST\nRegister: http://forms.gle/9EM2Ac54AKWWje4g6
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-ophthalmology-carms-open-house/
@@ -3009,17 +3009,17 @@ X-CANPREPP-ID:11098
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC General Surgery Program Information Session
-DTSTART:20261030T013000Z
-DTEND:20261030T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261030T003000Z
+DTEND:20261030T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10830@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,General Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/program-information-session-2/\nPub
  lished time: 17:30 – 19:00 PST\nRegister: https://ubc.ca1.qualtrics.com/
  jfe/form/SV_3dAUcXltI662qG2
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/program-information-session-2/
@@ -3027,17 +3027,17 @@ X-CANPREPP-ID:10830
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Kootenay Boundary Site QA
-DTSTART:20261030T020000Z
-DTEND:20261030T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261030T010000Z
+DTEND:20261030T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11051@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-kooten
  ay-boundary-site-qa-3/\nPublished time: 18:00 – 19:00 PST\nMeeting Link:
   https://ubc.zoom.us/j/65281214681?pwd=GtTlvVc3voACs4iYrHjheYApNKaRyx.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-kootenay-bound
@@ -3046,18 +3046,18 @@ X-CANPREPP-ID:11051
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TMU Family Medicine Residency Program Information Session
-DTSTART:20261030T200000Z
-DTEND:20261030T210000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261030T190000Z
+DTEND:20261030T200000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11105@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Toronto Metropolitan University,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/tmu-family-medicine-residency-progr
  am-information-session/\nPublished time: 15:00 – 16:00 EST\nRegister: ht
  tps://torontomu.zoom.us/meeting/register/kQNSoLxhSk-2sFqC__Y68A#/registrat
  ion
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/tmu-family-medicine-residency-program-infor
@@ -3066,17 +3066,17 @@ X-CANPREPP-ID:11105
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Toronto Paediatrics CaRMS Town Hall
-DTSTART:20261030T200000Z
-DTEND:20261030T213000Z
-DTSTAMP:20261013T191255Z
+DTSTART:20261030T190000Z
+DTEND:20261030T203000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11127@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Toronto,R1,Pediatrics
 CREATED:20261013T191255Z
 DESCRIPTION:https://canprepp.ca/events/university-of-toronto-paediatrics-c
  arms-town-hall-13/\nPublished time: 15:00 – 16:30 EST\nMeeting Link: htt
  ps://us06web.zoom.us/j/88367830169?pwd=SFFrMDhQTVg2Y0J6aVU4NXR4aElKdz09
-LAST-MODIFIED:20261013T191255Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-toronto-paediatrics-carms-tow
@@ -3199,6 +3199,24 @@ URL:https://canprepp.ca/events/university-of-toronto-paediatrics-carms-tow
 X-CANPREPP-ID:11128
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UBC Anesthesiology CaRMS Info Session
+DTSTART:20261103T003000Z
+DTEND:20261103T013000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10768@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Anesthesiology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-anesthesiology-carms-info-sessi
+ on-7/\nPublished time: 17:30 – 18:30 PST\nRegister: https://ubc.ca1.qual
+ trics.com/jfe/form/SV_byoWVEeJKGezyvk
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-anesthesiology-carms-info-session-7/
+X-CANPREPP-ID:10768
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:USask PM&R Program Information Night
 DTSTART:20261103T010000Z
 DTEND:20261103T020000Z
@@ -3218,36 +3236,18 @@ URL:https://canprepp.ca/events/usask-pmr-program-information-night/
 X-CANPREPP-ID:10891
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Anesthesiology CaRMS Info Session
-DTSTART:20261103T013000Z
-DTEND:20261103T023000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10768@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Anesthesiology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-anesthesiology-carms-info-sessi
- on-7/\nPublished time: 17:30 – 18:30 PST\nRegister: https://ubc.ca1.qual
- trics.com/jfe/form/SV_byoWVEeJKGezyvk
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-anesthesiology-carms-info-session-7/
-X-CANPREPP-ID:10768
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Abbotsford/Mission Site QA
-DTSTART:20261103T020000Z
-DTEND:20261103T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261103T010000Z
+DTEND:20261103T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10999@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-abbots
  ford-mission-site-qa-3/\nPublished time: 18:00 – 19:00 PST\nMeeting Link
  : https://ubc.zoom.us/j/62864800517?pwd=b7C3E72HX2M29CJDhIc1aTcpTnRaCf.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-abbotsford-mis
@@ -3256,17 +3256,17 @@ X-CANPREPP-ID:10999
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Abbotsford/Mission Site QA
-DTSTART:20261103T020000Z
-DTEND:20261103T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261103T010000Z
+DTEND:20261103T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11000@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-abbots
  ford-mission-site-qa-4/\nPublished time: 18:00 – 19:00 PST\nMeeting Link
  : https://ubc.zoom.us/j/62864800517?pwd=b7C3E72HX2M29CJDhIc1aTcpTnRaCf.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-abbotsford-mis
@@ -3276,42 +3276,22 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
  am Information Session
-DTSTART:20261103T213000Z
-DTEND:20261103T223000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261103T223000Z
+DTEND:20261103T233000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10851@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Memorial University of Newfoundland,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
  -family-medicine-training-program-information-session-2/\nPublished time: 
  19:00 – 20:00 NDT
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
  medicine-training-program-information-session-2/
 X-CANPREPP-ID:10851
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
- am Resident Information Session
-DTSTART:20261103T223000Z
-DTEND:20261103T233000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10853@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Memorial University of Newfoundland,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
- -family-medicine-training-program-resident-information-session-2/\nPublish
- ed time: 20:00 – 21:00 NDT
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
- medicine-training-program-resident-information-session-2/
-X-CANPREPP-ID:10853
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:uOttawa Psychiatry Info Session with Residents
@@ -3333,22 +3313,24 @@ URL:https://canprepp.ca/events/uottawa-psychiatry-info-session-with-reside
 X-CANPREPP-ID:9536
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Ottawa Ophthalmology Program Open House
-DTSTART:20261103T230000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10837@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Ophthalmology
+SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
+ am Resident Information Session
+DTSTART:20261103T233000Z
+DTEND:20261104T003000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10853@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Memorial University of Newfoundland,R1,Family Medicine
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-ottawa-ophthalmology-
- program-open-house-2/\nPublished time: 19:00 EDT\nRegister: https://forms.
- gle/ptMfSyRnz4Jtihb86
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
+ -family-medicine-training-program-resident-information-session-2/\nPublish
+ ed time: 20:00 – 21:00 NDT
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-ottawa-ophthalmology-program-
- open-house-2/
-X-CANPREPP-ID:10837
+URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
+ medicine-training-program-resident-information-session-2/
+X-CANPREPP-ID:10853
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Western Anesthesia CaRMS Townhall
@@ -3366,6 +3348,43 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/western-anesthesia-carms-townhall-6/
 X-CANPREPP-ID:10787
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Ottawa Ophthalmology Program Open House
+DTSTART:20261104T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10837@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Ottawa,R1,Ophthalmology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/university-of-ottawa-ophthalmology-
+ program-open-house-2/\nPublished time: 19:00 EDT\nRegister: https://forms.
+ gle/ptMfSyRnz4Jtihb86
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-ottawa-ophthalmology-program-
+ open-house-2/
+X-CANPREPP-ID:10837
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Family Practice Postgrad – Rural Immersion Site QA
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11004@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-rural-
+ immersion-site-qa-3/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: h
+ ttps://ubc.zoom.us/j/95611519560?pwd=Wm4rRVpvRko4dnNkOUJvUUhCMHdrZz09
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-rural-immersio
+ n-site-qa-3/
+X-CANPREPP-ID:11004
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Western University PMR CaRMS Meet ‘n Greet
@@ -3386,38 +3405,19 @@ URL:https://canprepp.ca/events/western-university-carms-meet-n-greet/
 X-CANPREPP-ID:10681
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – Rural Immersion Site QA
-DTSTART:20261104T010000Z
-DTEND:20261104T020000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11004@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-rural-
- immersion-site-qa-3/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: h
- ttps://ubc.zoom.us/j/95611519560?pwd=Wm4rRVpvRko4dnNkOUJvUUhCMHdrZz09
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-rural-immersio
- n-site-qa-3/
-X-CANPREPP-ID:11004
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Calgary Vascular Surgery Program Information Night
-DTSTART:20261104T013000Z
-DTEND:20261104T023000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261104T003000Z
+DTEND:20261104T013000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10751@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Vascular Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/calgary-vascular-surgery-program-in
  formation-night/\nPublished time: 18:30 – 19:30 MST\nMeeting Link: https
  ://albertahealthservices.zoom.us/j/69373303353?pwd=tuCbvDDXI4TMPcCWtMHIe8o
  gg7Nzw9.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/calgary-vascular-surgery-program-informatio
@@ -3427,17 +3427,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Vancouver Island-Strathcona Site 
  QA
-DTSTART:20261104T023000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261104T013000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11005@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-vancou
  ver-island-strathcona-site-qa-2/\nPublished time: 18:30 – 18:30 PST\nMee
  ting Link: https://ubc.zoom.us/j/66367916525?pwd=kO2fiJjq69NyBPP2bFhdevofd
  FarUe.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-vancouver-isla
@@ -3461,45 +3461,6 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/queens-family-medicine-img-town-hall/
 X-CANPREPP-ID:10696
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McMaster Waterloo Internal Medicine Information Session
-DTSTART:20261104T220000Z
-DTEND:20261104T230000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11041@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine
- -information-session-2/\nPublished time: 18:00 – 19:00 EDT\nMeeting Link
- : https://mcmaster.zoom.us/j/92332375196
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine-informa
- tion-session-2/
-X-CANPREPP-ID:11041
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
- am NorFam Stream Information Session
-DTSTART:20261104T223000Z
-DTEND:20261104T233000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10982@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Memorial University of Newfoundland,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
- -family-medicine-training-program-norfam-stream-information-session-2/\nPu
- blished time: 19:30 – 20:30 ADT
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
- medicine-training-program-norfam-stream-information-session-2/
-X-CANPREPP-ID:10982
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CaRMS Town Hall Session – University of Calgary Internal Medicin
@@ -3600,6 +3561,43 @@ URL:https://canprepp.ca/events/macpeds-ask-a-resident-night-7/
 X-CANPREPP-ID:10976
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:McMaster Waterloo Internal Medicine Information Session
+DTSTART:20261104T230000Z
+DTEND:20261105T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11041@canprepp.ca
+SEQUENCE:1
+CATEGORIES:McMaster University,R1,Internal Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine
+ -information-session-2/\nPublished time: 18:00 – 19:00 EDT\nMeeting Link
+ : https://mcmaster.zoom.us/j/92332375196
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine-informa
+ tion-session-2/
+X-CANPREPP-ID:11041
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Internal Medicine\, Fraser Meet & Greet
+DTSTART:20261104T230000Z
+DTEND:20261105T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11050@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Internal Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-internal-medicine-fraser-meet-g
+ reet-4/\nPublished time: 16:00 – 17:00 PST\nRegister: https://ubc.ca1.qu
+ altrics.com/jfe/form/SV_1Fk1I99AZyLseKW
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-internal-medicine-fraser-meet-greet-4/
+X-CANPREPP-ID:11050
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MEET THE PROGRAM – Dalhousie University Ophthalmology
 DTSTART:20261104T230000Z
 DTEND:20261105T010000Z
@@ -3634,6 +3632,45 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/dalhousie-university-general-surgery-town-h
  all/
 X-CANPREPP-ID:10885
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
+ am NorFam Stream Information Session
+DTSTART:20261104T233000Z
+DTEND:20261105T003000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10982@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Memorial University of Newfoundland,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
+ -family-medicine-training-program-norfam-stream-information-session-2/\nPu
+ blished time: 19:30 – 20:30 ADT
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
+ medicine-training-program-norfam-stream-information-session-2/
+X-CANPREPP-ID:10982
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Family Practice Postgrad – Victoria Site QA
+DTSTART:20261104T233000Z
+DTEND:20261105T003000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11006@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-victor
+ ia-site-qa-3/\nPublished time: 16:30 – 17:30 PST\nMeeting Link: https://
+ ubc.zoom.us/j/62538092935?pwd=qQqbqfwvHE0hRE4pmsFqSmzbGofn6C.1&from=addon
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-victoria-site-
+ qa-3/
+X-CANPREPP-ID:11006
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOSM UNIVERSITY ANESTHESIA VIRTUAL INFO SESSION
@@ -3675,56 +3712,19 @@ URL:https://canprepp.ca/events/university-of-toronto-pmr-information-sessi
 X-CANPREPP-ID:10897
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Internal Medicine\, Fraser Meet & Greet
-DTSTART:20261105T000000Z
-DTEND:20261105T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11050@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-internal-medicine-fraser-meet-g
- reet-4/\nPublished time: 16:00 – 17:00 PST\nRegister: https://ubc.ca1.qu
- altrics.com/jfe/form/SV_1Fk1I99AZyLseKW
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-internal-medicine-fraser-meet-greet-4/
-X-CANPREPP-ID:11050
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – Victoria Site QA
-DTSTART:20261105T003000Z
-DTEND:20261105T013000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11006@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-victor
- ia-site-qa-3/\nPublished time: 16:30 – 17:30 PST\nMeeting Link: https://
- ubc.zoom.us/j/62538092935?pwd=qQqbqfwvHE0hRE4pmsFqSmzbGofn6C.1&from=addon
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-victoria-site-
- qa-3/
-X-CANPREPP-ID:11006
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Manitoba\, Radiation Oncology Residency – Meet the
   Radiation Oncology Program Residents
-DTSTART:20261105T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261105T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11080@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,Radiation Oncology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-radiation-on
  cology-residency-meet-the-radiation-oncology-program-residents/\nPublished
   time: 19:00 CST\nMeeting Link: https://www.surveymonkey.com/r/TM3X9GS\nRe
  gister: https://www.surveymonkey.com/r/TM3X9GS
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-manitoba-radiation-oncology-r
@@ -3733,17 +3733,17 @@ X-CANPREPP-ID:11080
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofC General Surgery CaRMS Information Session
-DTSTART:20261105T013000Z
-DTEND:20261105T033000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261105T003000Z
+DTEND:20261105T023000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10937@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,General Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofc-general-surgery-carms-informat
  ion-session-2/\nPublished time: 18:30 – 20:30 MST\nMeeting Link: https:/
  /ucalgary.zoom.us/j/98395281225
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofc-general-surgery-carms-information-sess
@@ -3752,22 +3752,43 @@ X-CANPREPP-ID:10937
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Okanagan South Site QA
-DTSTART:20261105T013000Z
-DTEND:20261105T023000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261105T003000Z
+DTEND:20261105T013000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11011@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-okanag
  an-south-site-qa-2/\nPublished time: 17:30 – 18:30 PST\nMeeting Link: ht
  tps://ubc.zoom.us/j/69499082919?pwd=Ra1wxpCuwYNg5LAVXaEBNRW5mNLa9q.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-okanagan-south
  -site-qa-2/
 X-CANPREPP-ID:11011
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Family Practice Postgrad – St Paul’s Hospital (CMG) Site Q
+ A
+DTSTART:20261105T020000Z
+DTEND:20261105T030000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11012@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-st-pau
+ ls-hospital-cmg-site-qa-3/\nPublished time: 19:00 – 20:00 PST\nMeeting L
+ ink: https://ubc.zoom.us/j/68231153898?pwd=7GcjcaO3hfe9hwqzJxUXQ7gdNHgMGE.
+ 1
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-st-pauls-hospi
+ tal-cmg-site-qa-3/
+X-CANPREPP-ID:11012
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC INTERIOR – INTERNAL MEDICINE PROGRAM INFO SESSION
@@ -3789,40 +3810,19 @@ URL:https://canprepp.ca/events/ubc-interior-internal-medicine-program-info
 X-CANPREPP-ID:11097
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – St Paul’s Hospital (CMG) Site Q
- A
-DTSTART:20261105T030000Z
-DTEND:20261105T040000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11012@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-st-pau
- ls-hospital-cmg-site-qa-3/\nPublished time: 19:00 – 20:00 PST\nMeeting L
- ink: https://ubc.zoom.us/j/68231153898?pwd=7GcjcaO3hfe9hwqzJxUXQ7gdNHgMGE.
- 1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-st-pauls-hospi
- tal-cmg-site-qa-3/
-X-CANPREPP-ID:11012
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
-DTSTART:20261105T150000Z
-DTEND:20261105T153000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261105T140000Z
+DTEND:20261105T143000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10654@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
  icine-meet-the-pds-26/\nPublished time: 08:00 – 08:30 MST\nMeeting Link:
   http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
  ink
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
@@ -3830,39 +3830,19 @@ URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
 X-CANPREPP-ID:10654
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
- am Eastern Stream Information Session
-DTSTART:20261105T223000Z
-DTEND:20261105T233000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10924@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Memorial University of Newfoundland,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
- -family-medicine-training-program-eastern-stream-information-session-2/\nP
- ublished time: 20:00 – 21:00 NDT
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
- medicine-training-program-eastern-stream-information-session-2/
-X-CANPREPP-ID:10924
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
-DTSTART:20261105T230000Z
-DTEND:20261105T233000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261105T220000Z
+DTEND:20261105T223000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10656@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
  icine-meet-the-pds-27/\nPublished time: 16:00 – 16:30 MST\nMeeting Link:
   http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
  ink
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
@@ -3912,6 +3892,45 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/obgyn-residency-training-program-university
  -of-ottawa-information-night-2026/
 X-CANPREPP-ID:10915
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
+ am Eastern Stream Information Session
+DTSTART:20261105T233000Z
+DTEND:20261106T003000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10924@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Memorial University of Newfoundland,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
+ -family-medicine-training-program-eastern-stream-information-session-2/\nP
+ ublished time: 20:00 – 21:00 NDT
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
+ medicine-training-program-eastern-stream-information-session-2/
+X-CANPREPP-ID:10924
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Alberta PM+R CaRMS Virtual Open House
+DTSTART:20261106T000000Z
+DTEND:20261106T010000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10759@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Alberta,R1,Physical Medicine & Rehabilitation
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/university-of-alberta-pmr-carms-vir
+ tual-open-house/\nPublished time: 18:00 – 19:00 MST\nMeeting Link: https
+ ://ualberta-ca.zoom.us/j/94791981145?pwd=aNEbzymCnLDT7Rk4p3aCJNoJqpL7Vt.1
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-alberta-pmr-carms-virtual-ope
+ n-house/
+X-CANPREPP-ID:10759
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University – FRCPC Emergency Medicine CaRMS Townhall
@@ -3989,37 +4008,18 @@ URL:https://canprepp.ca/events/western-paediatrics-information-session-3/
 X-CANPREPP-ID:11009
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University of Alberta PM+R CaRMS Virtual Open House
-DTSTART:20261106T010000Z
-DTEND:20261106T020000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10759@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Alberta,R1,Physical Medicine & Rehabilitation
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-alberta-pmr-carms-vir
- tual-open-house/\nPublished time: 18:00 – 19:00 MST\nMeeting Link: https
- ://ualberta-ca.zoom.us/j/94791981145?pwd=aNEbzymCnLDT7Rk4p3aCJNoJqpL7Vt.1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-alberta-pmr-carms-virtual-ope
- n-house/
-X-CANPREPP-ID:10759
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Vancouver Fraser Site QA
-DTSTART:20261106T010000Z
-DTEND:20261106T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261106T000000Z
+DTEND:20261106T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11013@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-vancou
  ver-fraser-site-qa-3/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: 
  https://ubc.zoom.us/j/63960886566?pwd=AGHEHcmnCFRY2l9WmwCXmhkuil0les.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-vancouver-fras
@@ -4069,26 +4069,6 @@ URL:https://canprepp.ca/events/university-of-saskatchewan-internal-medicin
 X-CANPREPP-ID:11118
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
- am Western Stream Information Session
-DTSTART:20261109T223000Z
-DTEND:20261110T003000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11076@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Memorial University of Newfoundland,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
- -family-medicine-training-program-western-stream-information-session-2/\nP
- ublished time: 20:00 – 22:00 NDT
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
- medicine-training-program-western-stream-information-session-2/
-X-CANPREPP-ID:11076
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ObGyn Residency Training Program – University of Ottawa Resident
   Q&A Information Night 2026
 DTSTART:20261109T233000Z
@@ -4111,6 +4091,26 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/obgyn-residency-training-program-university
  -of-ottawa-resident-qa-information-night-2026/
 X-CANPREPP-ID:10916
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
+ am Western Stream Information Session
+DTSTART:20261109T233000Z
+DTEND:20261110T013000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11076@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Memorial University of Newfoundland,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/memorial-university-of-newfoundland
+ -family-medicine-training-program-western-stream-information-session-2/\nP
+ ublished time: 20:00 – 22:00 NDT
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
+ medicine-training-program-western-stream-information-session-2/
+X-CANPREPP-ID:11076
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queen’s Anesthesiology – Meet the Program Director/Assistant P
@@ -4175,17 +4175,17 @@ X-CANPREPP-ID:10949
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Chilliwack Site QA
-DTSTART:20261110T010000Z
-DTEND:20261110T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261110T000000Z
+DTEND:20261110T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11014@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-chilli
  wack-site-qa-3/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https:
  //ubc.zoom.us/j/66737562085?pwd=SLkGRd26qzwUgoLvGOJubJCAxZ9Y0v.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-chilliwack-sit
@@ -4194,17 +4194,17 @@ X-CANPREPP-ID:11014
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofC General Surgery CaRMS Information Session
-DTSTART:20261110T013000Z
-DTEND:20261110T033000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261110T003000Z
+DTEND:20261110T023000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10939@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,General Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofc-general-surgery-carms-informat
  ion-session-4/\nPublished time: 18:30 – 20:30 MST\nMeeting Link: https:/
  /ucalgary.zoom.us/j/97759135671
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofc-general-surgery-carms-information-sess
@@ -4253,25 +4253,6 @@ URL:https://canprepp.ca/events/university-of-toronto-department-of-radiati
 X-CANPREPP-ID:10998
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:McMaster University Internal Medicine Information Session
-DTSTART:20261110T220000Z
-DTEND:20261111T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11039@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-university-internal-medici
- ne-information-session-2/\nPublished time: 18:00 – 20:00 EDT\nMeeting Li
- nk: https://mcmaster.zoom.us/j/92356865461
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-university-internal-medicine-infor
- mation-session-2/
-X-CANPREPP-ID:11039
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Queen’s Internal Medicine Townhall (#2)
 DTSTART:20261110T230000Z
 DTEND:20261111T003000Z
@@ -4288,6 +4269,25 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/qim-carms-townhall-2/
 X-CANPREPP-ID:10614
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McMaster University Internal Medicine Information Session
+DTSTART:20261110T230000Z
+DTEND:20261111T010000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11039@canprepp.ca
+SEQUENCE:1
+CATEGORIES:McMaster University,R1,Internal Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/mcmaster-university-internal-medici
+ ne-information-session-2/\nPublished time: 18:00 – 20:00 EDT\nMeeting Li
+ nk: https://mcmaster.zoom.us/j/92356865461
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/mcmaster-university-internal-medicine-infor
+ mation-session-2/
+X-CANPREPP-ID:11039
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Promotional Townhall for Western University Internal Medicine CaRM
@@ -4326,6 +4326,25 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-ophthalmology-carms-town-hall-2/
 X-CANPREPP-ID:10956
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UofA Radiation Oncology: Meet the PD and Department
+DTSTART:20261111T000000Z
+DTEND:20261111T013000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10718@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Alberta,R1,Radiation Oncology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/uofa-radiation-oncology-meet-the-pd
+ -and-department/\nPublished time: 18:00 – 19:30 MST\nRegister: https://f
+ orms.gle/qUcvv9ri6DrRRqBd6
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uofa-radiation-oncology-meet-the-pd-and-dep
+ artment/
+X-CANPREPP-ID:10718
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University Physical Medicine and Rehabilitation Info Sess
@@ -4386,6 +4405,27 @@ URL:https://canprepp.ca/events/university-of-torontos-division-of-dermatol
 X-CANPREPP-ID:10912
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UBC Family Practice Postgrad – Prince George & Northern Rural Si
+ te QA
+DTSTART:20261111T000000Z
+DTEND:20261111T020000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11015@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-prince
+ -george-northern-rural-site-qa-4/\nPublished time: 17:00 – 19:00 PST\nMe
+ eting Link: https://ubc.zoom.us/j/66916130364?pwd=nzpKRWvIGa608dzbfdBq1Z0V
+ V5JBU3.1
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-prince-george-
+ northern-rural-site-qa-4/
+X-CANPREPP-ID:11015
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TMU CaRMS Pediatrics Information Session
 DTSTART:20261111T003000Z
 DTEND:20261111T013000Z
@@ -4404,25 +4444,6 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/tmu-carms-pediatrics-information-session-2/
 X-CANPREPP-ID:11115
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UofA Radiation Oncology: Meet the PD and Department
-DTSTART:20261111T010000Z
-DTEND:20261111T023000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10718@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Alberta,R1,Radiation Oncology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uofa-radiation-oncology-meet-the-pd
- -and-department/\nPublished time: 18:00 – 19:30 MST\nRegister: https://f
- orms.gle/qUcvv9ri6DrRRqBd6
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uofa-radiation-oncology-meet-the-pd-and-dep
- artment/
-X-CANPREPP-ID:10718
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster Anesthesiology Program Director Town Hall
@@ -4466,27 +4487,6 @@ URL:https://canprepp.ca/events/university-of-alberta-core-internal-medicin
 X-CANPREPP-ID:10980
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – Prince George & Northern Rural Si
- te QA
-DTSTART:20261111T010000Z
-DTEND:20261111T030000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11015@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-prince
- -george-northern-rural-site-qa-4/\nPublished time: 17:00 – 19:00 PST\nMe
- eting Link: https://ubc.zoom.us/j/66916130364?pwd=nzpKRWvIGa608dzbfdBq1Z0V
- V5JBU3.1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-prince-george-
- northern-rural-site-qa-4/
-X-CANPREPP-ID:11015
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Toronto Paediatrics CaRMS Town Hall
 DTSTART:20261111T183000Z
 DTEND:20261111T200000Z
@@ -4525,17 +4525,17 @@ X-CANPREPP-ID:10926
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC General Surgery Resident Information Session
-DTSTART:20261112T013000Z
-DTEND:20261112T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261112T003000Z
+DTEND:20261112T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10828@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,General Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/program-information-session/\nPubli
  shed time: 17:30 – 19:00 PST\nRegister: https://ubc.ca1.qualtrics.com/jf
  e/form/SV_6yB26NzMuGLsXSS
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/program-information-session/
@@ -4543,18 +4543,18 @@ X-CANPREPP-ID:10828
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
-DTSTART:20261112T150000Z
-DTEND:20261112T153000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261112T140000Z
+DTEND:20261112T143000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10658@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
  icine-meet-the-pds-28/\nPublished time: 08:00 – 08:30 MST\nMeeting Link:
   http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
  ink
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
@@ -4582,23 +4582,43 @@ URL:https://canprepp.ca/events/meet-the-chair-vice-chair-education-program
 X-CANPREPP-ID:8348
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Queen’s University – General Surgery – Resident – Meet and
-  Greet
+SUMMARY:CaRMS Info Session: Anesthesiology Residency Program\, University 
+ of Calgary.
 DTSTART:20261112T230000Z
-DTEND:20261113T003000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10628@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Queen's University,R1,General Surgery
+DTEND:20261113T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10890@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Calgary,R1,Anesthesiology
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-university-general-surgery-r
- esident-meet-and-greet-4/\nPublished time: 19:00 – 20:30 EDT
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/carms-info-session-anesthesiology-r
+ esidency-program-university-of-calgary/\nPublished time: 17:00 – 18:00 M
+ ST\nMeeting Link: http://Link%20will%20be%20provided%20up%20RSVP
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-university-general-surgery-resident-
- meet-and-greet-4/
-X-CANPREPP-ID:10628
+URL:https://canprepp.ca/events/carms-info-session-anesthesiology-residency
+ -program-university-of-calgary/
+X-CANPREPP-ID:10890
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Family Practice Postgrad – Surrey South Fraser Site QA
+DTSTART:20261112T230000Z
+DTEND:20261113T000000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11016@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-surrey
+ -south-fraser-site-qa-3/\nPublished time: 16:00 – 17:00 PST\nMeeting Lin
+ k: https://ubc.zoom.us/j/64318106066?pwd=WGxlv8URIEcW6WGAFqoOwjAoe5u3SF.1
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-surrey-south-f
+ raser-site-qa-3/
+X-CANPREPP-ID:11016
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dalhousie Anesthesia CaRMS 2027 Information Session
@@ -4620,6 +4640,25 @@ URL:https://canprepp.ca/events/dalhousie-anesthesia-carms-2027-information
 X-CANPREPP-ID:10903
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Queen’s University – General Surgery – Resident – Meet and
+  Greet
+DTSTART:20261113T000000Z
+DTEND:20261113T013000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10628@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Queen's University,R1,General Surgery
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/queens-university-general-surgery-r
+ esident-meet-and-greet-4/\nPublished time: 19:00 – 20:30 EDT
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-university-general-surgery-resident-
+ meet-and-greet-4/
+X-CANPREPP-ID:10628
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Psychiatry Specifics – McMaster Style!
 DTSTART:20261113T000000Z
 DTEND:20261113T010000Z
@@ -4639,43 +4678,62 @@ URL:https://canprepp.ca/events/psychiatry-specifics-mcmaster-style-5/
 X-CANPREPP-ID:10774
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CaRMS Info Session: Anesthesiology Residency Program\, University 
- of Calgary.
+SUMMARY:University of Manitoba Pediatrics Information Session
 DTSTART:20261113T000000Z
-DTEND:20261113T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10890@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Calgary,R1,Anesthesiology
+DTEND:20261113T020000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10811@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Manitoba,R1,Pediatrics
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/carms-info-session-anesthesiology-r
- esidency-program-university-of-calgary/\nPublished time: 17:00 – 18:00 M
- ST\nMeeting Link: http://Link%20will%20be%20provided%20up%20RSVP
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-pediatrics-i
+ nformation-session-4/\nPublished time: 19:00 – 21:00 CST\nMeeting Link: 
+ https://umanitoba.zoom.us/j/63967893824?pwd=tm2ocGwhqqLN1fRCrME1U22BLRmjX3
+ .1
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/carms-info-session-anesthesiology-residency
- -program-university-of-calgary/
-X-CANPREPP-ID:10890
+URL:https://canprepp.ca/events/university-of-manitoba-pediatrics-informati
+ on-session-4/
+X-CANPREPP-ID:10811
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – Surrey South Fraser Site QA
+SUMMARY:UBC Family Practice Postgrad – Nanaimo Site QA
 DTSTART:20261113T000000Z
 DTEND:20261113T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11016@canprepp.ca
-SEQUENCE:0
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11017@canprepp.ca
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-surrey
- -south-fraser-site-qa-3/\nPublished time: 16:00 – 17:00 PST\nMeeting Lin
- k: https://ubc.zoom.us/j/64318106066?pwd=WGxlv8URIEcW6WGAFqoOwjAoe5u3SF.1
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-nanaim
+ o-site-qa-3/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https://u
+ bc.zoom.us/j/65412658295?pwd=WbF81t4sSMuiJd31Dnj4gmiyUSsftG.1
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-surrey-south-f
- raser-site-qa-3/
-X-CANPREPP-ID:11016
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-nanaimo-site-q
+ a-3/
+X-CANPREPP-ID:11017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Family Practice Postgrad – Nanaimo Site QA
+DTSTART:20261113T000000Z
+DTEND:20261113T010000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11018@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-nanaim
+ o-site-qa-4/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https://u
+ bc.zoom.us/j/65412658295?pwd=WbF81t4sSMuiJd31Dnj4gmiyUSsftG.1
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-nanaimo-site-q
+ a-4/
+X-CANPREPP-ID:11018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Calgary PM&R Open House
@@ -4714,64 +4772,6 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/neurology-information-night/
 X-CANPREPP-ID:11121
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of Manitoba Pediatrics Information Session
-DTSTART:20261113T010000Z
-DTEND:20261113T030000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10811@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Manitoba,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-pediatrics-i
- nformation-session-4/\nPublished time: 19:00 – 21:00 CST\nMeeting Link: 
- https://umanitoba.zoom.us/j/63967893824?pwd=tm2ocGwhqqLN1fRCrME1U22BLRmjX3
- .1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-manitoba-pediatrics-informati
- on-session-4/
-X-CANPREPP-ID:10811
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – Nanaimo Site QA
-DTSTART:20261113T010000Z
-DTEND:20261113T020000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11017@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-nanaim
- o-site-qa-3/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https://u
- bc.zoom.us/j/65412658295?pwd=WbF81t4sSMuiJd31Dnj4gmiyUSsftG.1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-nanaimo-site-q
- a-3/
-X-CANPREPP-ID:11017
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – Nanaimo Site QA
-DTSTART:20261113T010000Z
-DTEND:20261113T020000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11018@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-nanaim
- o-site-qa-4/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https://u
- bc.zoom.us/j/65412658295?pwd=WbF81t4sSMuiJd31Dnj4gmiyUSsftG.1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-nanaimo-site-q
- a-4/
-X-CANPREPP-ID:11018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Niagara General Surgery CaRMS Town Hall – CaRMS 2027
@@ -4815,23 +4815,42 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University Internal Medicine Drop-in Session with Program
   Director
-DTSTART:20261113T160000Z
-DTEND:20261113T170000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261113T170000Z
+DTEND:20261113T180000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10636@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:McMaster University,R1,Internal Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/mcmaster-university-internal-medici
  ne-drop-in-session-with-program-director-4/\nPublished time: 12:00 – 13:
  00 EDT\nRegister: https://mcmaster.zoom.us/meeting/register/jzUmC4I8QUijkZ
  eeMcMpfw
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-university-internal-medicine-drop-
  in-session-with-program-director-4/
 X-CANPREPP-ID:10636
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Family Practice Postgrad – Kamloops Site QA
+DTSTART:20261113T233000Z
+DTEND:20261114T003000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11019@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-kamloo
+ ps-site-qa-3/\nPublished time: 16:30 – 17:30 PST\nMeeting Link: https://
+ ubc.zoom.us/j/69394817059?pwd=FgQ7ol4mG4RL50ZV3lqPFHKjmDntTO.1
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-kamloops-site-
+ qa-3/
+X-CANPREPP-ID:11019
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Ottawa General Surgery – Virtual Info Session #2 (
@@ -4856,37 +4875,18 @@ URL:https://canprepp.ca/events/university-of-ottawa-general-surgery-virtua
 X-CANPREPP-ID:11069
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – Kamloops Site QA
-DTSTART:20261114T003000Z
-DTEND:20261114T013000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11019@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-kamloo
- ps-site-qa-3/\nPublished time: 16:30 – 17:30 PST\nMeeting Link: https://
- ubc.zoom.us/j/69394817059?pwd=FgQ7ol4mG4RL50ZV3lqPFHKjmDntTO.1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-kamloops-site-
- qa-3/
-X-CANPREPP-ID:11019
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Coastal Site QA
-DTSTART:20261114T170000Z
-DTEND:20261114T180000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261114T160000Z
+DTEND:20261114T170000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11020@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-coasta
  l-site-qa-3/\nPublished time: 09:00 – 10:00 PST\nMeeting Link: https://u
  bc.zoom.us/j/68177851591?pwd=NGnKyUKhboeaJMo4dEjrWIbIdbELGu.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-coastal-site-q
@@ -4895,17 +4895,17 @@ X-CANPREPP-ID:11020
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Alberta: CaRMS Information Session
-DTSTART:20261114T190000Z
-DTEND:20261114T200000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261114T180000Z
+DTEND:20261114T190000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10766@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Plastic Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-alberta-carms-informa
  tion-session-2/\nPublished time: 12:00 – 13:00 MST\nRegister: https://ua
  lberta-ca.zoom.us/meeting/register/67djJWOOSTuzCbrvT24kEw
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-alberta-carms-information-ses
@@ -4914,17 +4914,17 @@ X-CANPREPP-ID:10766
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – North Okanagan Site QA
-DTSTART:20261114T230000Z
-DTEND:20261115T000000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261114T220000Z
+DTEND:20261114T230000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11021@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-north-
  okanagan-site-qa-2/\nPublished time: 15:00 – 16:00 PST\nMeeting Link: ht
  tps://ubc.zoom.us/j/69060340978?pwd=LHeyeFlxkEMWoO1j6O910qSTb1FxzJ.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-north-okanagan
@@ -4988,17 +4988,17 @@ X-CANPREPP-ID:10625
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Quw’utsun Site QA
-DTSTART:20261118T013000Z
-DTEND:20261118T023000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261118T003000Z
+DTEND:20261118T013000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11022@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-quwuts
  un-site-qa-2/\nPublished time: 17:30 – 18:30 PST\nMeeting Link: https://
  ubc.zoom.us/j/62141382344?pwd=cRSJb594AObVa8zAL2sGQtiaSzQL16.1&from=addon
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-quwutsun-site-
@@ -5027,10 +5027,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of British Columbia Diagnostic and Molecular Pathology 
  Q&A Session with the current residents
-DTSTART:20261118T220000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261118T210000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10796@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Diagnostic and Molecular Path
  ology
 CREATED:20261012T191757Z
@@ -5039,12 +5039,51 @@ DESCRIPTION:https://canprepp.ca/events/university-of-british-columbia-diag
  lished time: 14:00 PST\nMeeting Link: https://ubc.zoom.us/j/63533668227?pw
  d=mRQbJeTmGV9ICY09ESw096onOzlSfF.1\nRegister: https://ubc.ca1.qualtrics.co
  m/jfe/form/SV_cVlL66PWOdHRtlQ
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-british-columbia-diagnostic-a
  nd-molecular-pathology-qa-session-with-the-current-residents/
 X-CANPREPP-ID:10796
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UofA Radiation Oncology: Meet the Residents
+DTSTART:20261118T230000Z
+DTEND:20261119T003000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10719@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Alberta,R1,Radiation Oncology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/uofa-radiation-oncology-meet-the-re
+ sidents-2/\nPublished time: 17:00 – 18:30 MST\nRegister: https://forms.g
+ le/R7tvB7qWEFkR4hMLA
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uofa-radiation-oncology-meet-the-residents-
+ 2/
+X-CANPREPP-ID:10719
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UofA CaRMS Virtual Open House – General Surgery
+DTSTART:20261118T230000Z
+DTEND:20261119T010000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10899@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Alberta,R1,General Surgery
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/uofa-carms-virtual-open-house-gener
+ al-surgery/\nPublished time: 17:00 – 19:00 MST\nMeeting Link: https://ua
+ lberta-ca.zoom.us/meeting/register/PLOF2r8nTGOoqOsTR4WhXQ\nRegister: https
+ ://ualberta-ca.zoom.us/meeting/register/PLOF2r8nTGOoqOsTR4WhXQ
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uofa-carms-virtual-open-house-general-surge
+ ry/
+X-CANPREPP-ID:10899
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Promotional Townhall for Western University Internal Medicine CaRM
@@ -5085,45 +5124,6 @@ URL:https://canprepp.ca/events/rural-family-medicine-meet-greet-part-2/
 X-CANPREPP-ID:10686
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UofA Radiation Oncology: Meet the Residents
-DTSTART:20261119T000000Z
-DTEND:20261119T013000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10719@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Alberta,R1,Radiation Oncology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uofa-radiation-oncology-meet-the-re
- sidents-2/\nPublished time: 17:00 – 18:30 MST\nRegister: https://forms.g
- le/R7tvB7qWEFkR4hMLA
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uofa-radiation-oncology-meet-the-residents-
- 2/
-X-CANPREPP-ID:10719
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UofA CaRMS Virtual Open House – General Surgery
-DTSTART:20261119T000000Z
-DTEND:20261119T020000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10899@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Alberta,R1,General Surgery
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uofa-carms-virtual-open-house-gener
- al-surgery/\nPublished time: 17:00 – 19:00 MST\nMeeting Link: https://ua
- lberta-ca.zoom.us/meeting/register/PLOF2r8nTGOoqOsTR4WhXQ\nRegister: https
- ://ualberta-ca.zoom.us/meeting/register/PLOF2r8nTGOoqOsTR4WhXQ
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uofa-carms-virtual-open-house-general-surge
- ry/
-X-CANPREPP-ID:10899
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:McMaster University Family Medicine Virtual Site Social
 DTSTART:20261119T000000Z
 DTEND:20261119T013000Z
@@ -5158,6 +5158,25 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/western-paediatrics-information-session-4/
 X-CANPREPP-ID:11010
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Family Practice Postgrad – Kelowna Regional & Rural Site QA
+DTSTART:20261119T000000Z
+DTEND:20261119T010000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-11024@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of British Columbia,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-kelown
+ a-regional-rural-site-qa/\nPublished time: 17:00 – 18:00 PST\nMeeting Li
+ nk: https://ubc.zoom.us/j/68227746681?pwd=mXlzbDLDTFEIDzx1KtZXGFGU4rJcSw.1
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-kelowna-region
+ al-rural-site-qa/
+X-CANPREPP-ID:11024
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofA Family Medicine- Urban/Edmonton Info Session
@@ -5198,25 +5217,6 @@ URL:https://canprepp.ca/events/mcmaster-anesthesiology-resident-town-hall-
 X-CANPREPP-ID:10815
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – Kelowna Regional & Rural Site QA
-DTSTART:20261119T010000Z
-DTEND:20261119T020000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11024@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-kelown
- a-regional-rural-site-qa/\nPublished time: 17:00 – 18:00 PST\nMeeting Li
- nk: https://ubc.zoom.us/j/68227746681?pwd=mXlzbDLDTFEIDzx1KtZXGFGU4rJcSw.1
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-kelowna-region
- al-rural-site-qa/
-X-CANPREPP-ID:11024
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Toronto Psychiatry Virtual Information Session #3
 DTSTART:20261119T190000Z
 DTEND:20261119T203000Z
@@ -5238,10 +5238,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of British Columbia Diagnostic and Molecular Pathology 
  Info Session with Program Director Dr. David Farnell
-DTSTART:20261119T220000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261119T210000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10795@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Diagnostic and Molecular Path
  ology
 CREATED:20261012T191757Z
@@ -5250,7 +5250,7 @@ DESCRIPTION:https://canprepp.ca/events/university-of-british-columbia-diag
  -farnell/\nPublished time: 14:00 PST\nMeeting Link: https://vancouvercoast
  alhealth.zoom.us/j/62037367898?pwd=b2sStMHV2x8OeDlZ24W9z8TYFOGUlI.1\nRegis
  ter: https://ubc.ca1.qualtrics.com/jfe/form/SV_cVlL66PWOdHRtlQ
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-british-columbia-diagnostic-a
@@ -5260,18 +5260,18 @@ X-CANPREPP-ID:10795
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
-DTSTART:20261119T230000Z
-DTEND:20261119T233000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261119T220000Z
+DTEND:20261119T223000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10660@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
  icine-meet-the-pds-29/\nPublished time: 16:00 – 16:30 MST\nMeeting Link:
   http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
  ink
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
@@ -5281,18 +5281,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CaRMS Info Session: Meet the Residents of the Anesthesiology Resid
  ency Program\, University of Calgary.
-DTSTART:20261120T000000Z
-DTEND:20261120T010000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261119T230000Z
+DTEND:20261120T000000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10941@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Calgary,R1,Anesthesiology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/carms-info-session-anesthesiology-r
  esidency-program-university-of-calgary-2/\nPublished time: 17:00 – 18:00
   MST\nMeeting Link: http://Link%20will%20be%20provided%20upon%20RSVP\nRegi
  ster: http://N/A
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/carms-info-session-anesthesiology-residency
@@ -5356,18 +5356,18 @@ X-CANPREPP-ID:11111
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – St Paul’s Hospital IMG Site QA
-DTSTART:20261122T153000Z
-DTEND:20261122T163000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261122T143000Z
+DTEND:20261122T153000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11025@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-st-pau
  ls-hospital-img-site-qa-2/\nPublished time: 07:30 – 08:30 PST\nMeeting L
  ink: https://ubc.zoom.us/j/69633682437?pwd=Qz9ltnZ2aIWHmRLeJbpVdUILN8dbRR.
  1&from=addon
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-st-pauls-hospi
@@ -5431,17 +5431,17 @@ X-CANPREPP-ID:11073
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Northwest Terrace Site QA
-DTSTART:20261124T013000Z
-DTEND:20261124T023000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261124T003000Z
+DTEND:20261124T013000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11026@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-northw
  est-terrace-site-qa-2/\nPublished time: 17:30 – 18:30 PST\nMeeting Link:
   https://ubc.zoom.us/j/67271850423?pwd=fFtZdlJUxmf2Htfd5ano5hLabQ2P7R.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-northwest-terr
@@ -5507,17 +5507,17 @@ X-CANPREPP-ID:11120
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofManitoba: General Surgery Program_CaRMS Info Session
-DTSTART:20261126T010000Z
-DTEND:20261126T030000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261126T000000Z
+DTEND:20261126T020000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11082@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,General Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofmanitoba-general-surgery-program
  _carms-info-session-night/\nPublished time: 19:00 – 21:00 CST\nRegister:
   https://umanitoba.zoom.us/meeting/register/zVlXH49YQ5WVUiOzdTVqbQ
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofmanitoba-general-surgery-program_carms-i
@@ -5526,17 +5526,17 @@ X-CANPREPP-ID:11082
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Indigenous Site QA
-DTSTART:20261126T013000Z
-DTEND:20261126T023000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261126T003000Z
+DTEND:20261126T013000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11027@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-indige
  nous-site-qa-3/\nPublished time: 17:30 – 18:30 PST\nMeeting Link: https:
  //ubc.zoom.us/j/64144014113?pwd=SX882asp19BFVEoybl84aiXsiVikcm.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-indigenous-sit
@@ -5583,18 +5583,18 @@ X-CANPREPP-ID:11122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U of A Neurosurgery CaRMS Information Session
-DTSTART:20261203T020000Z
-DTEND:20261203T033000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261203T010000Z
+DTEND:20261203T023000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11096@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Neurosurgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/u-of-a-neurosurgery-carms-informati
  on-session/\nPublished time: 19:00 – 20:30 MST\nMeeting Link: https://ua
  lberta-ca.zoom.us/meeting/register/Jb9W5CW9QvqhWzwSkhJaNQ\nRegister: https
  ://ualberta-ca.zoom.us/meeting/register/Jb9W5CW9QvqhWzwSkhJaNQ
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/u-of-a-neurosurgery-carms-information-sessi
@@ -5624,18 +5624,18 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofManitoba: Colorectal Surgery Residency Subspecialty Program_Mee
  t and Greet
-DTSTART:20261208T003000Z
-DTEND:20261208T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261207T233000Z
+DTEND:20261208T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-11093@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,SSRM,Colorectal Surgery
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofmanitoba-colorectal-surgery-resi
  dency-subspecialty-program_meet-and-greet/\nPublished time: 18:30 – 20:0
  0 CST\nRegister: https://umanitoba.zoom.us/meeting/register/WlLpr_wES7iykR
  31d0y1LA
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofmanitoba-colorectal-surgery-residency-su
@@ -5682,16 +5682,16 @@ X-CANPREPP-ID:11053
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Manitoba Department of Psychiatry OPEN HOUSE
-DTSTART:20261216T003000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261215T233000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10984@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,Psychiatry
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-department-o
  f-psychiatry-open-house/\nPublished time: 18:30 – 6:30 pm CST\nRegister:
   https://ca01web.zoom.us/meeting/register/xx0ODXUNTPSYt4FQsGj8cQ#/
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-manitoba-department-of-psychi
@@ -5700,16 +5700,16 @@ X-CANPREPP-ID:10984
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Manitoba Department of Psychiatry OPEN HOUSE
-DTSTART:20261217T003000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20261216T233000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10987@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,Psychiatry
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-department-o
  f-psychiatry-open-house-2/\nPublished time: 18:30 – 6:30 pm CST\nRegiste
  r: https://ca01web.zoom.us/meeting/register/xx0ODXUNTPSYt4FQsGj8cQ#/
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-manitoba-department-of-psychi
@@ -5759,16 +5759,16 @@ X-CANPREPP-ID:11109
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC OBGYN CaRMS Interview
-DTSTART:20270118T153000Z
-DTEND:20270118T233000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20270118T143000Z
+DTEND:20270118T223000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-7992@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Obstetrics and Gynecology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-obgyn-carms-interview-2/\nPubli
  shed time: 07:30 – 15:30 PST
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-obgyn-carms-interview-2/
@@ -5777,42 +5777,22 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – INTERVIE
  WS
-DTSTART:20270118T163000Z
-DTEND:20270118T200000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20270118T173000Z
+DTEND:20270118T210000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10579@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
  lar-pathology-interviews-5/\nPublished time: 12:30 – 16:00 EDT\nMeeting 
  Link: http://TO%20BE%20PROVIDED%20WITH%20INTERVIEW
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
  ology-interviews-5/
 X-CANPREPP-ID:10579
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – INTERVIE
- WS
-DTSTART:20270119T123000Z
-DTEND:20270119T200000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10580@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
- lar-pathology-interviews-6/\nPublished time: 08:30 – 16:00 EDT\nMeeting 
- Link: http://TO%20BE%20PROVIDED%20WITH%20INTERVIEW
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
- ology-interviews-6/
-X-CANPREPP-ID:10580
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WESTERN University – Psychiatry CaRMs Interview
@@ -5830,6 +5810,26 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/psychiatry-carms-interviews/
 X-CANPREPP-ID:10761
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – INTERVIE
+ WS
+DTSTART:20270119T133000Z
+DTEND:20270119T210000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10580@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
+ lar-pathology-interviews-6/\nPublished time: 08:30 – 16:00 EDT\nMeeting 
+ Link: http://TO%20BE%20PROVIDED%20WITH%20INTERVIEW
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
+ ology-interviews-6/
+X-CANPREPP-ID:10580
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University Vascular Surgery CaRMS Interviews
@@ -5851,16 +5851,16 @@ X-CANPREPP-ID:10953
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC OBGYN CaRMS Interview
-DTSTART:20270119T153000Z
-DTEND:20270119T233000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20270119T143000Z
+DTEND:20270119T223000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-7991@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Obstetrics and Gynecology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-obgyn-carms-interview/\nPublish
  ed time: 07:30 – 15:30 PST
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-obgyn-carms-interview/
@@ -5869,17 +5869,17 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – INTERVIE
  WS
-DTSTART:20270120T123000Z
-DTEND:20270120T200000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20270120T133000Z
+DTEND:20270120T210000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10581@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
  lar-pathology-interviews-7/\nPublished time: 08:30 – 16:00 EDT\nMeeting 
  Link: http://TO%20BE%20PROVIDED%20WITH%20INTERVIEW
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
@@ -5906,60 +5906,60 @@ X-CANPREPP-ID:10792
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UM Social Evening
-DTSTART:20270121T000000Z
-DTEND:20270121T020000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20270120T230000Z
+DTEND:20270121T010000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10765@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/um-social-evening/\nPublished time:
   18:00 – 20:00 CST\nMeeting Link: http://Will%20be%20provided%20after%20
  registration
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/um-social-evening/
 X-CANPREPP-ID:10765
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – INTERVIE
- WS
-DTSTART:20270121T123000Z
-DTEND:20270121T200000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10582@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
- lar-pathology-interviews-8/\nPublished time: 08:30 – 16:00 EDT\nMeeting 
- Link: http://TO%20BE%20PROVIDED%20WITH%20INTERVIEW
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
- ology-interviews-8/
-X-CANPREPP-ID:10582
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CaRMS Interviews Day 1
-DTSTART:20270121T140000Z
-DTEND:20270122T000000Z
-DTSTAMP:20261012T191757Z
+DTSTART:20270121T130000Z
+DTEND:20270121T230000Z
+DTSTAMP:20261014T004823Z
 UID:canprepp-event-10760@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/carms-interviews-day-1/\nPublished 
  time: 08:00 – 18:00 CST\nMeeting Link: http://Will%20be%20provided%20aft
  er%20interview%20offers%20are%20sent\nRegister: https://phx.e-carms.ca/pho
  enix-web/pd/ajax/program/1543/29958?programLanguage=en
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/carms-interviews-day-1/
 X-CANPREPP-ID:10760
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – INTERVIE
+ WS
+DTSTART:20270121T133000Z
+DTEND:20270121T210000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10582@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
+ lar-pathology-interviews-8/\nPublished time: 08:30 – 16:00 EDT\nMeeting 
+ Link: http://TO%20BE%20PROVIDED%20WITH%20INTERVIEW
+LAST-MODIFIED:20261014T004823Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
+ ology-interviews-8/
+X-CANPREPP-ID:10582
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University Cardiac Surgery Meet and Greet
@@ -5981,24 +5981,23 @@ URL:https://canprepp.ca/events/mcmaster-university-cardiac-surgery-meet-an
 X-CANPREPP-ID:10950
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – INTERVIE
- WS
-DTSTART:20270122T123000Z
-DTEND:20270122T200000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10583@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
+SUMMARY:CaRMS Interviews Day 2
+DTSTART:20270122T130000Z
+DTEND:20270122T220000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10762@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Manitoba,R1,Emergency Medicine
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
- lar-pathology-interviews-9/\nPublished time: 08:30 – 16:00 EDT\nMeeting 
- Link: http://TO%20BE%20PROVIDED%20WITH%20INTERVIEW
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/carms-interviews-day-2/\nPublished 
+ time: 08:00 – 17:00 CST\nMeeting Link: http://Will%20be%20provided%20aft
+ er%20interview%20offers%20are%20sent\nRegister: https://phx.e-carms.ca/pho
+ enix-web/pd/ajax/program/1543/29958?programLanguage=en
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
- ology-interviews-9/
-X-CANPREPP-ID:10583
+URL:https://canprepp.ca/events/carms-interviews-day-2/
+X-CANPREPP-ID:10762
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WESTERN University – Psychiatry CaRMs Interview
@@ -6018,23 +6017,24 @@ URL:https://canprepp.ca/events/psychiatry-carms-interview/
 X-CANPREPP-ID:10763
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CaRMS Interviews Day 2
-DTSTART:20270122T140000Z
-DTEND:20270122T230000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10762@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Manitoba,R1,Emergency Medicine
+SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – INTERVIE
+ WS
+DTSTART:20270122T133000Z
+DTEND:20270122T210000Z
+DTSTAMP:20261014T004823Z
+UID:canprepp-event-10583@canprepp.ca
+SEQUENCE:1
+CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
 CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/carms-interviews-day-2/\nPublished 
- time: 08:00 – 17:00 CST\nMeeting Link: http://Will%20be%20provided%20aft
- er%20interview%20offers%20are%20sent\nRegister: https://phx.e-carms.ca/pho
- enix-web/pd/ajax/program/1543/29958?programLanguage=en
-LAST-MODIFIED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
+ lar-pathology-interviews-9/\nPublished time: 08:30 – 16:00 EDT\nMeeting 
+ Link: http://TO%20BE%20PROVIDED%20WITH%20INTERVIEW
+LAST-MODIFIED:20261014T004823Z
 LOCATION:Online
 STATUS:CONFIRMED
-URL:https://canprepp.ca/events/carms-interviews-day-2/
-X-CANPREPP-ID:10762
+URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
+ ology-interviews-9/
+X-CANPREPP-ID:10583
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster University Cardiac Surgery CaRMS Interviews

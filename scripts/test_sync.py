@@ -30,22 +30,46 @@ def post(identifier=1, title='Town hall'):
 class CalendarTests(unittest.TestCase):
     def test_published_timezones_and_related_events(self):
         event = sync.parse_event(page(dt.date(2026, 10, 20)), post())
-        self.assertEqual(event['start'], '2026-10-20T23:00:00+00:00')
-        self.assertEqual(event['end'], '2026-10-21T00:00:00+00:00')
+        self.assertEqual(event['start'], '2026-10-20T22:00:00+00:00')
+        self.assertEqual(event['end'], '2026-10-20T23:00:00+00:00')
         self.assertEqual(event['links'], {'Meeting Link': 'https://example.org/meeting'})
         self.assertEqual(event['categories'], ['General Surgery'])
         self.assertEqual(event['location'], 'Online')
 
-    def test_timezone_labels_are_not_silently_reinterpreted(self):
+    def test_timezone_labels_follow_regional_rules_on_the_event_date(self):
         date = dt.date(2026, 7, 10)
         est = sync.parse_event(page(date, ('19:00',), 'EST'), post())
         edt = sync.parse_event(page(date, ('19:00',), 'EDT'), post())
         et = sync.parse_event(page(date, ('19:00',), 'ET'), post())
-        self.assertEqual(est['start'], '2026-07-11T00:00:00+00:00')
+        self.assertEqual(est['start'], '2026-07-10T23:00:00+00:00')
         self.assertEqual(edt['start'], '2026-07-10T23:00:00+00:00')
         self.assertEqual(et['start'], edt['start'])
+        for label in ('EST', 'EDT', 'ET'):
+            winter = sync.parse_event(page(dt.date(2027, 1, 10), ('19:00',), label), post())
+            self.assertEqual(winter['start'], '2027-01-11T00:00:00+00:00')
         with self.assertRaisesRegex(ValueError, 'Unknown published timezone'):
             sync.parse_event(page(date, ('19:00',), 'UNKNOWN'), post())
+
+    def test_ubc_pacific_time_and_alberta_2026_rules(self):
+        for date in (dt.date(2026, 10, 13), dt.date(2026, 11, 13), dt.date(2027, 1, 13)):
+            for label in ('PST', 'PDT', 'PT', 'PCT'):
+                event = sync.parse_event(page(date, ('17:00', '18:00'), label), post())
+                start = dt.datetime.fromisoformat(event['start'])
+                self.assertEqual(start, dt.datetime.combine(date + dt.timedelta(days=1), dt.time(0), sync.UTC))
+                self.assertEqual(start.astimezone(sync.timezone('ABT')).hour, 18)
+        ubc = sync.parse_event(page(dt.date(2026, 10, 13), ('17:00', '18:00'), 'PST'), post())
+        mcmaster = sync.parse_event(page(dt.date(2026, 10, 13), ('18:00', '19:00'), 'EST'), post())
+        self.assertEqual(dt.datetime.fromisoformat(ubc['start']).astimezone(sync.timezone('MT')).hour, 18)
+        self.assertEqual(dt.datetime.fromisoformat(mcmaster['start']).astimezone(sync.timezone('MT')).hour, 16)
+
+    def test_saskatchewan_and_fort_st_john_keep_their_local_rules(self):
+        markup = page(dt.date(2026, 7, 10), ('19:00',), 'CST')
+        sask = markup.replace('General Surgery</a>', 'University of Saskatchewan</a>')
+        self.assertEqual(sync.parse_event(sask, post())['start'], '2026-07-11T01:00:00+00:00')
+        self.assertEqual(sync.parse_event(markup, post())['start'], '2026-07-11T00:00:00+00:00')
+        bc = page(dt.date(2026, 10, 13), ('19:00',), 'MST').replace('General Surgery</a>', 'University of British Columbia</a>')
+        northern_bc = sync.parse_event(bc, post(title='UBC Rural Fort St John Site QA'))
+        self.assertEqual(northern_bc['start'], '2026-10-14T02:00:00+00:00')
 
     def test_overnight_and_missing_end(self):
         event = sync.parse_event(page(dt.date(2026, 10, 20), ('11:30PM', '12:30 AM'), 'EDT'), post())
@@ -140,6 +164,29 @@ class SyncTests(unittest.TestCase):
         client.get.return_value = (page(self.date, zone='UNKNOWN').encode(), {})
         with self.assertRaisesRegex(RuntimeError, 'Unknown published timezone'):
             self.execute({'1': revised}, cards, client)
+        self.assertEqual(before, (self.root / 'site/canprepp.ics').read_bytes())
+
+    def test_existing_cached_times_are_corrected_without_refetching(self):
+        client = Mock()
+        client.get.return_value = (page(self.date, ('17:00', '18:00'), 'PST').encode(), {})
+        cards = {'1': {'date': self.date.isoformat(), 'card': 'Town hall'}}
+        self.execute({'1': post()}, cards, client)
+        state = json.loads((self.root / 'data/state.json').read_text())
+        legacy = state['cache']['1']['event']
+        for field in ('start', 'end'):
+            legacy[field] = (dt.datetime.fromisoformat(legacy[field]) + dt.timedelta(hours=1)).isoformat()
+        state['events']['1'] = sync.update_event(legacy, None, '2026-10-12T19:00:00+00:00')
+        (self.root / 'data/state.json').write_text(json.dumps(state))
+        (self.root / 'site/canprepp.ics').write_bytes(sync.make_calendar(state['events'], {'calendar_name': 'Test', 'refresh_hours': 3}))
+        client.reset_mock()
+        self.execute({'1': post()}, cards, client)
+        self.assertEqual(client.get.call_count, 0)
+        event = Calendar.from_ical((self.root / 'site/canprepp.ics').read_bytes()).walk('VEVENT')[0]
+        self.assertEqual(str(event['UID']), 'canprepp-event-1@canprepp.ca')
+        self.assertEqual(int(event['SEQUENCE']), 1)
+        self.assertEqual(event.decoded('DTSTART').astimezone(sync.timezone('PT')).hour, 17)
+        before = (self.root / 'site/canprepp.ics').read_bytes()
+        self.execute({'1': post()}, cards, client)
         self.assertEqual(before, (self.root / 'site/canprepp.ics').read_bytes())
 
 

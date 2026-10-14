@@ -3,7 +3,7 @@
 
 Run `python scripts/sync.py` to sync, or add --refresh to reload cached event pages.
 The sync uses the site's own calendar navigation endpoint and public post index.
-Published timezone abbreviations are interpreted literally, without guessing DST.
+Published Canadian timezone labels represent regional local time on the event date.
 """
 import argparse
 import calendar as month_names
@@ -20,20 +20,25 @@ import time
 import urllib.error
 import urllib.parse
 import urllib.request
-from zoneinfo import ZoneInfo
+from zoneinfo import ZoneInfo, reset_tzpath
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event, vDuration
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = 'https://canprepp.ca/'
 UTC = dt.timezone.utc
-OFFSETS = {'UTC': 0, 'GMT': 0, 'EST': -300, 'EDT': -240, 'CST': -360, 'CDT': -300,
-           'MST': -420, 'MDT': -360, 'PST': -480, 'PDT': -420, 'AST': -240, 'ADT': -180,
-           'NST': -210, 'NDT': -150, 'HNE': -300, 'HAE': -240, 'HNC': -360, 'HAC': -300,
-           'HNR': -420, 'HAR': -360, 'HNP': -480, 'HAP': -420, 'HNA': -240, 'HAA': -180,
-           'HNT': -210, 'HAT': -150}
-REGIONS = {'ET': 'America/Toronto', 'CT': 'America/Winnipeg', 'MT': 'America/Edmonton',
-           'PT': 'America/Vancouver', 'AT': 'America/Halifax', 'NT': 'America/St_Johns'}
+# Use the current packaged IANA rules consistently on macOS and GitHub runners.
+# Host timezone databases can lag Canada's 2026 changes.
+reset_tzpath(())
+REGIONS = {label: region for region, labels in {
+    'America/Toronto': ('ET', 'EST', 'EDT', 'HNE', 'HAE'),
+    'America/Winnipeg': ('CT', 'CST', 'CDT', 'HNC', 'HAC'),
+    'America/Edmonton': ('MT', 'MST', 'MDT', 'ABT', 'HNR', 'HAR'),
+    'America/Vancouver': ('PT', 'PST', 'PDT', 'PCT', 'HNP', 'HAP'),
+    'America/Halifax': ('AT', 'AST', 'ADT', 'HNA', 'HAA'),
+    'America/St_Johns': ('NT', 'NST', 'NDT', 'HNT', 'HAT'),
+    'America/Whitehorse': ('YST',),
+}.items() for label in labels}
 
 
 def digest(value):
@@ -169,10 +174,17 @@ def discover(client, start, end):
     return result
 
 
-def timezone(label):
+def timezone(label, categories=(), title=''):
     label = label.strip()
-    if label in OFFSETS: return dt.timezone(dt.timedelta(minutes=OFFSETS[label]), label)
-    if label in REGIONS: return ZoneInfo(REGIONS[label])
+    if label in ('UTC', 'GMT'): return UTC
+    if label in REGIONS:
+        region = REGIONS[label]
+        if region == 'America/Winnipeg' and any('saskatchewan' in c.lower() for c in categories):
+            region = 'America/Regina'
+        if region == 'America/Edmonton' and any('british columbia' in c.lower() for c in categories) \
+                and re.search(r'\bfort\s+st\.?\s+john\b', title, re.I):
+            region = 'America/Dawson_Creek'
+        return ZoneInfo(region)
     try: return ZoneInfo(label)
     except Exception: raise ValueError('Unknown published timezone: ' + label) from None
 
@@ -181,6 +193,21 @@ def parse_clock(value):
     value = re.sub(r'\s+', ' ', value).upper().strip()
     value = re.sub(r'\s*([AP]M)$', r' \1', value)
     return dt.datetime.strptime(value, '%I:%M %p' if value.endswith(('AM', 'PM')) else '%H:%M').time()
+
+
+def apply_timezone(event):
+    """Resolve saved source wall times too, so cached entries receive rule fixes."""
+    if event['all_day']: return event
+    date = dt.date.fromisoformat(event['date'])
+    clocks = re.findall(r'\b\d{1,2}:\d{2}(?:\s*[AP]M)?\b', event['published_time'], re.I)
+    if not clocks: raise ValueError('Published event time missing.')
+    tz = timezone(event['timezone_label'], event['categories'], event['title'])
+    start = dt.datetime.combine(date, parse_clock(clocks[0]), tz)
+    end = dt.datetime.combine(date, parse_clock(clocks[1]), tz) if len(clocks) > 1 else None
+    if end and end < start: end += dt.timedelta(days=1)
+    if end == start: end = None
+    return {**event, 'start': start.astimezone(UTC).isoformat(),
+            'end': end.astimezone(UTC).isoformat() if end else None}
 
 
 def parse_event(markup, post):
@@ -203,18 +230,9 @@ def parse_event(markup, post):
         clocks.extend(re.findall(r'\b\d{1,2}:\d{2}(?:\s*[AP]M)?\b', value, re.I))
         match = re.fullmatch(r'\(([^)]+)\)', value)
         if match and not zone: zone = match[1].strip()
-    if clocks:
-        if not zone: raise ValueError('Published event timezone missing.')
-        tz = timezone(zone)
-        start = dt.datetime.combine(date, parse_clock(clocks[0]), tz)
-        end = dt.datetime.combine(date, parse_clock(clocks[1]), tz) if len(clocks) > 1 else None
-        if end and end < start: end += dt.timedelta(days=1)
-        if end == start: end = None
-        start_text = start.astimezone(UTC).isoformat()
-        end_text = end.astimezone(UTC).isoformat() if end else None
-        all_day = False
-    else:
-        start_text, end_text, all_day = date.isoformat(), (date + dt.timedelta(days=1)).isoformat(), True
+    if clocks and not zone: raise ValueError('Published event timezone missing.')
+    start_text, end_text = date.isoformat(), (date + dt.timedelta(days=1)).isoformat()
+    all_day = not clocks
     terms = list(dict.fromkeys(t.get_text(' ', strip=True) for t in root.select('.elementor-post-info__terms-list-item')))
     links = {}
     for a in root.select('a[href]'):
@@ -225,10 +243,10 @@ def parse_event(markup, post):
     online = any(h.lower() == 'online event' for h in headings)
     title = BeautifulSoup(html.unescape(post['title']['rendered']), 'html.parser').get_text(' ', strip=True)
     status = 'CANCELLED' if re.search(r'\b(cancelled|canceled|annulée?|annulé)\b', title, re.I) else 'CONFIRMED'
-    return {'id': post['id'], 'title': title, 'url': post['link'], 'date': date.isoformat(),
+    return apply_timezone({'id': post['id'], 'title': title, 'url': post['link'], 'date': date.isoformat(),
             'start': start_text, 'end': end_text, 'all_day': all_day, 'timezone_label': zone,
             'published_time': ' – '.join(clocks[:2]) + (' ' + zone if zone else ''),
-            'categories': terms, 'links': links, 'location': 'Online' if online else '', 'status': status}
+            'categories': terms, 'links': links, 'location': 'Online' if online else '', 'status': status})
 
 
 def update_event(event, previous, now):
@@ -304,13 +322,14 @@ def run(refresh=False):
             atomic_write(pending_path, json.dumps(pending, ensure_ascii=False).encode())
             fetched += 1
             print(f'Fetched event {key}: {value["title"]}', flush=True)
-        value = cache[key]['event']
+        value = apply_timezone(cache[key]['event'])
+        cache[key]['event'] = value
         events[key] = update_event(value, old['events'].get(key), stamp)
     # A removed public post gets the same UID with an increased cancellation sequence.
     for key, previous in old['events'].items():
         if key not in posts and start <= dt.date.fromisoformat(previous['date']) <= end:
             value = {k: v for k, v in previous.items() if k not in ('fingerprint', 'sequence', 'created', 'last_modified')}
-            value['status'] = 'CANCELLED'; events[key] = update_event(value, previous, stamp)
+            value['status'] = 'CANCELLED'; events[key] = update_event(apply_timezone(value), previous, stamp)
     raw = make_calendar(events, config)
     changed = atomic_write(ROOT / 'site/canprepp.ics', raw)
     active_cache = {key: value for key, value in cache.items() if key in discovered}
