@@ -5716,6 +5716,25 @@ URL:https://canprepp.ca/events/promotional-townhall-for-western-university
 X-CANPREPP-ID:11089
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NOSM University General Surgery Info Session
+DTSTART:20261204T000000Z
+DTEND:20261204T010000Z
+DTSTAMP:20261015T165323Z
+UID:canprepp-event-11138@canprepp.ca
+SEQUENCE:0
+CATEGORIES:NOSM University,R1,General Surgery
+CREATED:20261015T165323Z
+DESCRIPTION:https://canprepp.ca/events/nosm-university-general-surgery-inf
+ o-session/\nPublished time: 19:00 – 20:00 EST\nMeeting Link: https://nos
+ m.webex.com/nosm/j.php?MTID=mdb6e143670bed9879af1776b6c725cc0
+LAST-MODIFIED:20261015T165323Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/nosm-university-general-surgery-info-sessio
+ n/
+X-CANPREPP-ID:11138
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UofManitoba: Colorectal Surgery Residency Subspecialty Program_Mee
  t and Greet
 DTSTART:20261207T233000Z
