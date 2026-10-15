@@ -2098,6 +2098,26 @@ URL:https://canprepp.ca/events/meet-and-greet-with-anesthesia-residents/
 X-CANPREPP-ID:11095
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:COSSNET Roundtable Series
+DTSTART:20261021T230000Z
+DTEND:20261022T000000Z
+DTSTAMP:20261015T211748Z
+UID:canprepp-event-11143@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Manitoba,R1,Orthopedic Surgery
+CREATED:20261015T211748Z
+DESCRIPTION:https://canprepp.ca/events/cossnet-roundtable-series/\nPublish
+ ed time: 19:00 – 20:00 EST\nMeeting Link: https://us06web.zoom.us/j/8181
+ 3289179?pwd=K6XG3X30YhoJn6pnRTddZ31NUJD3Ni.1\nRegister: https://docs.googl
+ e.com/forms/d/e/1FAIpQLSclFH1yQpUE1dybul2wJJFZVp0CGiAD81dtoKMowT4MHouNng/v
+ iewform?pli=1
+LAST-MODIFIED:20261015T211748Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/cossnet-roundtable-series/
+X-CANPREPP-ID:11143
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC EM Kelowna Info Session
 DTSTART:20261022T003000Z
 DTEND:20261022T013000Z
@@ -3235,6 +3255,27 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-toronto-paediatrics-carms-tow
  n-hall-14/
 X-CANPREPP-ID:11128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Saskatchewan Ophthalmology Program Information Sessi
+ on
+DTSTART:20261103T000000Z
+DTEND:20261103T010000Z
+DTSTAMP:20261015T211748Z
+UID:canprepp-event-11141@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Ophthalmology
+CREATED:20261015T211748Z
+DESCRIPTION:https://canprepp.ca/events/university-of-saskatchewan-ophthalm
+ ology-program-information-session/\nPublished time: 18:00 – 19:00 CST\nM
+ eeting Link: https://usask-ca.zoom.us/j/95619746224?pwd=FvPQhyMtyGUa5Nyeig
+ 4TQU5u1wARUA.1
+LAST-MODIFIED:20261015T211748Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-saskatchewan-ophthalmology-pr
+ ogram-information-session/
+X-CANPREPP-ID:11141
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Anesthesiology CaRMS Info Session
@@ -5617,6 +5658,24 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofmanitoba-general-surgery-program_carms-i
  nfo-session-night/
 X-CANPREPP-ID:11082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:U of S General Surgery Town Hall
+DTSTART:20261126T000000Z
+DTEND:20261126T010000Z
+DTSTAMP:20261015T211748Z
+UID:canprepp-event-11139@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,General Surgery
+CREATED:20261015T211748Z
+DESCRIPTION:https://canprepp.ca/events/u-of-s-general-surgery-town-hall-2/
+ \nPublished time: 18:00 – 19:00 CST\nMeeting Link: https://usask-ca.zoom
+ .us/j/93243450035?pwd=TqUuUt5lKQsgJmyXIzxDJoRZ5zVdAj.1
+LAST-MODIFIED:20261015T211748Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/u-of-s-general-surgery-town-hall-2/
+X-CANPREPP-ID:11139
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Indigenous Site QA

@@ -5835,9 +5835,9 @@
       }
     },
     "11010": {
-      "modified_gmt": "2026-10-07T13:22:56",
+      "modified_gmt": "2026-10-15T19:53:56",
       "calendar_hash": "cf5f5c2ea8d4ffdfeb8dd9227125efcdf3d0ac2c7b0791feda8f4c53ab15ec49",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
+      "fetched_at": "2026-10-15T21:17:48+00:00",
       "event": {
         "id": 11010,
         "title": "(NOT AVAILABLE) Western Paediatrics Information Session",
@@ -8264,9 +8264,9 @@
       }
     },
     "11130": {
-      "modified_gmt": "2026-10-13T20:15:17",
+      "modified_gmt": "2026-10-15T19:19:03",
       "calendar_hash": "1e2ef6f1320506c2862e99c47294da2314823e383b1ff7be97d8faa4524c961c",
-      "fetched_at": "2026-10-14T00:15:43+00:00",
+      "fetched_at": "2026-10-15T21:17:48+00:00",
       "event": {
         "id": 11130,
         "title": "Dalhousie University Adult Neurology CaRMS info session",
@@ -8436,6 +8436,85 @@
         ],
         "links": {
           "Meeting Link": "https://nosm.webex.com/nosm/j.php?MTID=mdb6e143670bed9879af1776b6c725cc0"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11139": {
+      "modified_gmt": "2026-10-15T20:40:21",
+      "calendar_hash": "6b75c8f9f9d6c488514fc84a65c2e2b9767e1a999cce9fb9b5f99a98c40446d0",
+      "fetched_at": "2026-10-15T21:17:48+00:00",
+      "event": {
+        "id": 11139,
+        "title": "U of S General Surgery Town Hall",
+        "url": "https://canprepp.ca/events/u-of-s-general-surgery-town-hall-2/",
+        "date": "2026-11-25",
+        "start": "2026-11-26T00:00:00+00:00",
+        "end": "2026-11-26T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "18:00 – 19:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "General Surgery"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/93243450035?pwd=TqUuUt5lKQsgJmyXIzxDJoRZ5zVdAj.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11141": {
+      "modified_gmt": "2026-10-15T20:43:04",
+      "calendar_hash": "f38486e5dd626c0c5771fa43cc9b8f41b9756b0f4f4e2365af580947a121de04",
+      "fetched_at": "2026-10-15T21:17:48+00:00",
+      "event": {
+        "id": 11141,
+        "title": "University of Saskatchewan Ophthalmology Program Information Session",
+        "url": "https://canprepp.ca/events/university-of-saskatchewan-ophthalmology-program-information-session/",
+        "date": "2026-11-02",
+        "start": "2026-11-03T00:00:00+00:00",
+        "end": "2026-11-03T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "18:00 – 19:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Ophthalmology"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/95619746224?pwd=FvPQhyMtyGUa5Nyeig4TQU5u1wARUA.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11143": {
+      "modified_gmt": "2026-10-15T20:46:29",
+      "calendar_hash": "e47f81cad5462e5e1f10f673be0d234b2be5ad3418a9ab5b37cbf99e6cbfcd54",
+      "fetched_at": "2026-10-15T21:17:48+00:00",
+      "event": {
+        "id": 11143,
+        "title": "COSSNET Roundtable Series",
+        "url": "https://canprepp.ca/events/cossnet-roundtable-series/",
+        "date": "2026-10-21",
+        "start": "2026-10-21T23:00:00+00:00",
+        "end": "2026-10-22T00:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:00 EST",
+        "categories": [
+          "University of Manitoba",
+          "R1",
+          "Orthopedic Surgery"
+        ],
+        "links": {
+          "Meeting Link": "https://us06web.zoom.us/j/81813289179?pwd=K6XG3X30YhoJn6pnRTddZ31NUJD3Ni.1",
+          "Register": "https://docs.google.com/forms/d/e/1FAIpQLSclFH1yQpUE1dybul2wJJFZVp0CGiAD81dtoKMowT4MHouNng/viewform?pli=1"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -16556,6 +16635,82 @@
       "sequence": 0,
       "created": "2026-10-15T16:53:23+00:00",
       "last_modified": "2026-10-15T16:53:23+00:00"
+    },
+    "11139": {
+      "id": 11139,
+      "title": "U of S General Surgery Town Hall",
+      "url": "https://canprepp.ca/events/u-of-s-general-surgery-town-hall-2/",
+      "date": "2026-11-25",
+      "start": "2026-11-26T00:00:00+00:00",
+      "end": "2026-11-26T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "18:00 – 19:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "General Surgery"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/93243450035?pwd=TqUuUt5lKQsgJmyXIzxDJoRZ5zVdAj.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "30c174e9fa7010a81496aeeaf91acbd7b9ca2a07e3a4fccfad33359bb293dfac",
+      "sequence": 0,
+      "created": "2026-10-15T21:17:48+00:00",
+      "last_modified": "2026-10-15T21:17:48+00:00"
+    },
+    "11141": {
+      "id": 11141,
+      "title": "University of Saskatchewan Ophthalmology Program Information Session",
+      "url": "https://canprepp.ca/events/university-of-saskatchewan-ophthalmology-program-information-session/",
+      "date": "2026-11-02",
+      "start": "2026-11-03T00:00:00+00:00",
+      "end": "2026-11-03T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "18:00 – 19:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Ophthalmology"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/95619746224?pwd=FvPQhyMtyGUa5Nyeig4TQU5u1wARUA.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "f6cdb60c9268e25cf65ebb6d104828670acbb62b4be59d0dab8038dd5ef63352",
+      "sequence": 0,
+      "created": "2026-10-15T21:17:48+00:00",
+      "last_modified": "2026-10-15T21:17:48+00:00"
+    },
+    "11143": {
+      "id": 11143,
+      "title": "COSSNET Roundtable Series",
+      "url": "https://canprepp.ca/events/cossnet-roundtable-series/",
+      "date": "2026-10-21",
+      "start": "2026-10-21T23:00:00+00:00",
+      "end": "2026-10-22T00:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:00 EST",
+      "categories": [
+        "University of Manitoba",
+        "R1",
+        "Orthopedic Surgery"
+      ],
+      "links": {
+        "Meeting Link": "https://us06web.zoom.us/j/81813289179?pwd=K6XG3X30YhoJn6pnRTddZ31NUJD3Ni.1",
+        "Register": "https://docs.google.com/forms/d/e/1FAIpQLSclFH1yQpUE1dybul2wJJFZVp0CGiAD81dtoKMowT4MHouNng/viewform?pli=1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "5ef63a6a541c32a8c97773cef972f086062f44333b42ada3b42ff38539e08816",
+      "sequence": 0,
+      "created": "2026-10-15T21:17:48+00:00",
+      "last_modified": "2026-10-15T21:17:48+00:00"
     }
   }
 }
