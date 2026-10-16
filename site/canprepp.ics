@@ -7,42 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:UofA Pediatrics CaRMS Townhall _Indigenous Child Health Session
-DTSTART:20260916T000000Z
-DTEND:20260916T010000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10618@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Alberta,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_ind
- igenous-child-health-session/\nPublished time: 18:00 – 19:00 MST\nMeetin
- g Link: https://ualberta-ca.zoom.us/j/2571867283?pwd=uys1xTsir3uZHdMoLJNIL
- TahVKzFyW.1&omn=91823264739
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_indigenous-
- child-health-session/
-X-CANPREPP-ID:10618
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:uCalgary Neurology CaRMS Information Night
-DTSTART:20260916T003000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10748@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Calgary,R1,Neurology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ucalgary-neurology-carms-informatio
- n-night/\nPublished time: 18:30 MDT
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ucalgary-neurology-carms-information-night/
-X-CANPREPP-ID:10748
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Queen’s University — Ophthalmology Town Hall
 DTSTART:20260916T233000Z
 DTEND:20260917T003000Z
