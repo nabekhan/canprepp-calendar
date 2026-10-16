@@ -5013,6 +5013,27 @@ URL:https://canprepp.ca/events/ubc-family-practice-postgrad-north-okanagan
 X-CANPREPP-ID:11021
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Western General Surgery CaRMS 2027 Information Session
+DTSTART:20261116T000000Z
+DTEND:20261116T020000Z
+DTSTAMP:20261016T163311Z
+UID:canprepp-event-11145@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,General Surgery
+CREATED:20261016T163311Z
+DESCRIPTION:https://canprepp.ca/events/western-general-surgery-carms-2027-
+ information-session/\nPublished time: 19:00 – 21:00 EST\nMeeting Link: h
+ ttps://westernuniversity.zoom.us/meeting/register/i_VhOZAaTZyqn6yOXLdaJA\n
+ Register: https://westernuniversity.zoom.us/meeting/register/i_VhOZAaTZyqn
+ 6yOXLdaJA
+LAST-MODIFIED:20261016T163311Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-general-surgery-carms-2027-informat
+ ion-session/
+X-CANPREPP-ID:11145
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CARMs info night
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
