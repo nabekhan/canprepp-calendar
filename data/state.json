@@ -1060,32 +1060,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10677": {
-      "modified_gmt": "2026-08-17T15:18:56",
-      "calendar_hash": "70f5f1a2f4dca2b0779dc7477c4dd6aee5711ddc4630435194a116b8cfad8edc",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
-      "event": {
-        "id": 10677,
-        "title": "Queen’s University — Ophthalmology Town Hall",
-        "url": "https://canprepp.ca/events/queens-university-ophthalmology-town-hall-6/",
-        "date": "2026-09-16",
-        "start": "2026-09-16T23:30:00+00:00",
-        "end": "2026-09-17T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "19:30 – 20:30 EDT",
-        "categories": [
-          "Queen's University",
-          "R1",
-          "Ophthalmology"
-        ],
-        "links": {
-          "Register": "https://docs.google.com/forms/d/e/1FAIpQLSehf-drfxM-24g8m1IH_olybYqA-YB6Gq26sqNuNc-QtCS9FQ/viewform"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10678": {
       "modified_gmt": "2026-08-10T21:58:00",
       "calendar_hash": "bcafded70b5c50f2d345e6a6073f86660eecafa99c708396857101c248ee13c4",
@@ -9514,31 +9488,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "3b8f931fdcba14b4c3d0ff42155040261ce8b35ef53d2cc392de746a12d6d04d",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10677": {
-      "id": 10677,
-      "title": "Queen’s University — Ophthalmology Town Hall",
-      "url": "https://canprepp.ca/events/queens-university-ophthalmology-town-hall-6/",
-      "date": "2026-09-16",
-      "start": "2026-09-16T23:30:00+00:00",
-      "end": "2026-09-17T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "19:30 – 20:30 EDT",
-      "categories": [
-        "Queen's University",
-        "R1",
-        "Ophthalmology"
-      ],
-      "links": {
-        "Register": "https://docs.google.com/forms/d/e/1FAIpQLSehf-drfxM-24g8m1IH_olybYqA-YB6Gq26sqNuNc-QtCS9FQ/viewform"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "a50f2c3e6f8ed31a6b443873340c5cf9d09fe5322c020ca5ef1ab8ddfef60815",
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
