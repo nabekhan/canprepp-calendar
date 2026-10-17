@@ -2154,6 +2154,25 @@ URL:https://canprepp.ca/events/u-of-t-adult-neurology-carms-info-session/
 X-CANPREPP-ID:11101
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calgary CMG Meet & Greet – University of Calgary
+DTSTART:20261022T230000Z
+DTEND:20261023T000000Z
+DTSTAMP:20261017T152731Z
+UID:canprepp-event-11146@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Calgary,R1,Family Medicine
+CREATED:20261017T152731Z
+DESCRIPTION:https://canprepp.ca/events/calgary-cmg-meet-greet-university-o
+ f-calgary/\nPublished time: 17:00 – 18:00 MDT\nMeeting Link: https://uca
+ lgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847
+LAST-MODIFIED:20261017T152731Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgar
+ y/
+X-CANPREPP-ID:11146
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Saskatchewan Pediatrics – Information Session
 DTSTART:20261023T000000Z
 DTEND:20261023T013000Z
@@ -2171,6 +2190,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-saskatchewan-pediatrics-infor
  mation-session/
 X-CANPREPP-ID:10892
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calgary IMG Meet & Greet – University of Calgary
+DTSTART:20261023T000000Z
+DTEND:20261023T010000Z
+DTSTAMP:20261017T152731Z
+UID:canprepp-event-11147@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Calgary,R1,Family Medicine
+CREATED:20261017T152731Z
+DESCRIPTION:https://canprepp.ca/events/calgary-img-meet-greet-university-o
+ f-calgary/\nPublished time: 18:00 – 19:00 MDT\nMeeting Link: https://uca
+ lgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847
+LAST-MODIFIED:20261017T152731Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgar
+ y/
+X-CANPREPP-ID:11147
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regina OBs/Gyne CARMs Information Night
@@ -5049,6 +5087,25 @@ URL:https://canprepp.ca/events/uoft-neuropathology-program-info-session-2/
 X-CANPREPP-ID:11134
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calgary CMG Meet & Greet – University of Calgary
+DTSTART:20261117T230000Z
+DTEND:20261118T000000Z
+DTSTAMP:20261017T152731Z
+UID:canprepp-event-11148@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Calgary,R1,Family Medicine
+CREATED:20261017T152731Z
+DESCRIPTION:https://canprepp.ca/events/calgary-cmg-meet-greet-university-o
+ f-calgary-2/\nPublished time: 17:00 – 18:00 MDT\nMeeting Link: https://u
+ calgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847
+LAST-MODIFIED:20261017T152731Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgar
+ y-2/
+X-CANPREPP-ID:11148
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CaRMS Town Hall Session – University of Calgary Internal Medicin
  e
 DTSTART:20261118T000000Z
@@ -5085,6 +5142,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/nosm-university-internal-medicine-virtual-i
  nfo-session-6/
 X-CANPREPP-ID:10625
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calgary IMG Meet & Greet – University of Calgary
+DTSTART:20261118T000000Z
+DTEND:20261118T010000Z
+DTSTAMP:20261017T152731Z
+UID:canprepp-event-11149@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Calgary,R1,Family Medicine
+CREATED:20261017T152731Z
+DESCRIPTION:https://canprepp.ca/events/calgary-img-meet-greet-university-o
+ f-calgary-2/\nPublished time: 18:00 – 19:00 MDT\nMeeting Link: https://u
+ calgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847
+LAST-MODIFIED:20261017T152731Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgar
+ y-2/
+X-CANPREPP-ID:11149
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Quw’utsun Site QA

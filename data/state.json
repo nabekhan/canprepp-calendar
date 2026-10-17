@@ -8470,6 +8470,110 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11146": {
+      "modified_gmt": "2026-10-17T14:58:32",
+      "calendar_hash": "cb14d491854446aefc31262fc7fe40294229ce78ce5ab015d431f63bda044381",
+      "fetched_at": "2026-10-17T15:27:31+00:00",
+      "event": {
+        "id": 11146,
+        "title": "Calgary CMG Meet & Greet – University of Calgary",
+        "url": "https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgary/",
+        "date": "2026-10-22",
+        "start": "2026-10-22T23:00:00+00:00",
+        "end": "2026-10-23T00:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "MDT",
+        "published_time": "17:00 – 18:00 MDT",
+        "categories": [
+          "University of Calgary",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://ucalgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11147": {
+      "modified_gmt": "2026-10-17T15:01:40",
+      "calendar_hash": "4dcf6b1ae2b9deb1c04120730614785f223b794314465daf32494c0dd80c6150",
+      "fetched_at": "2026-10-17T15:27:31+00:00",
+      "event": {
+        "id": 11147,
+        "title": "Calgary IMG Meet & Greet – University of Calgary",
+        "url": "https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgary/",
+        "date": "2026-10-22",
+        "start": "2026-10-23T00:00:00+00:00",
+        "end": "2026-10-23T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "MDT",
+        "published_time": "18:00 – 19:00 MDT",
+        "categories": [
+          "University of Calgary",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://ucalgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11148": {
+      "modified_gmt": "2026-10-17T15:04:05",
+      "calendar_hash": "ca78d7ca9cb096ea03111eb127bf50137e74d3df937cc4b9d6820af0743a9a84",
+      "fetched_at": "2026-10-17T15:27:31+00:00",
+      "event": {
+        "id": 11148,
+        "title": "Calgary CMG Meet & Greet – University of Calgary",
+        "url": "https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgary-2/",
+        "date": "2026-11-17",
+        "start": "2026-11-17T23:00:00+00:00",
+        "end": "2026-11-18T00:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "MDT",
+        "published_time": "17:00 – 18:00 MDT",
+        "categories": [
+          "University of Calgary",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://ucalgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11149": {
+      "modified_gmt": "2026-10-17T15:06:25",
+      "calendar_hash": "bd7571a7ab0f051b26c6b8d6c1e3cdfb1069a2b2526494573e09afcc6bb880d7",
+      "fetched_at": "2026-10-17T15:27:31+00:00",
+      "event": {
+        "id": 11149,
+        "title": "Calgary IMG Meet & Greet – University of Calgary",
+        "url": "https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgary-2/",
+        "date": "2026-11-17",
+        "start": "2026-11-18T00:00:00+00:00",
+        "end": "2026-11-18T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "MDT",
+        "published_time": "18:00 – 19:00 MDT",
+        "categories": [
+          "University of Calgary",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://ucalgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -16615,6 +16719,106 @@
       "sequence": 0,
       "created": "2026-10-16T16:33:11+00:00",
       "last_modified": "2026-10-16T16:33:11+00:00"
+    },
+    "11146": {
+      "id": 11146,
+      "title": "Calgary CMG Meet & Greet – University of Calgary",
+      "url": "https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgary/",
+      "date": "2026-10-22",
+      "start": "2026-10-22T23:00:00+00:00",
+      "end": "2026-10-23T00:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "MDT",
+      "published_time": "17:00 – 18:00 MDT",
+      "categories": [
+        "University of Calgary",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://ucalgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "75566e1d6596f1ee43583cd01b954d819a96320c94f5666786f4a3658c86c9c1",
+      "sequence": 0,
+      "created": "2026-10-17T15:27:31+00:00",
+      "last_modified": "2026-10-17T15:27:31+00:00"
+    },
+    "11147": {
+      "id": 11147,
+      "title": "Calgary IMG Meet & Greet – University of Calgary",
+      "url": "https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgary/",
+      "date": "2026-10-22",
+      "start": "2026-10-23T00:00:00+00:00",
+      "end": "2026-10-23T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "MDT",
+      "published_time": "18:00 – 19:00 MDT",
+      "categories": [
+        "University of Calgary",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://ucalgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "9b651b2e139e1e400953c4d0fb5ebc1aabe6d8cfa459bfda05160d207ab4eef9",
+      "sequence": 0,
+      "created": "2026-10-17T15:27:31+00:00",
+      "last_modified": "2026-10-17T15:27:31+00:00"
+    },
+    "11148": {
+      "id": 11148,
+      "title": "Calgary CMG Meet & Greet – University of Calgary",
+      "url": "https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgary-2/",
+      "date": "2026-11-17",
+      "start": "2026-11-17T23:00:00+00:00",
+      "end": "2026-11-18T00:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "MDT",
+      "published_time": "17:00 – 18:00 MDT",
+      "categories": [
+        "University of Calgary",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://ucalgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "775f505b69ee2f49e53fd6c9bbee40bd520d85cc4a104d9d42501e5a6ef363b0",
+      "sequence": 0,
+      "created": "2026-10-17T15:27:31+00:00",
+      "last_modified": "2026-10-17T15:27:31+00:00"
+    },
+    "11149": {
+      "id": 11149,
+      "title": "Calgary IMG Meet & Greet – University of Calgary",
+      "url": "https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgary-2/",
+      "date": "2026-11-17",
+      "start": "2026-11-18T00:00:00+00:00",
+      "end": "2026-11-18T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "MDT",
+      "published_time": "18:00 – 19:00 MDT",
+      "categories": [
+        "University of Calgary",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://ucalgary.zoom.us/j/98895054847%20Meeting%20ID:%20988%209505%204847"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "4d8f0094d8c827a40c68a9ea42922fd2d4e970c5cec07873c5a507821453bfaf",
+      "sequence": 0,
+      "created": "2026-10-17T15:27:31+00:00",
+      "last_modified": "2026-10-17T15:27:31+00:00"
     }
   }
 }
