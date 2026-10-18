@@ -826,58 +826,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10646": {
-      "modified_gmt": "2026-07-17T15:47:07",
-      "calendar_hash": "0e163ee9289fa72642f2be4e63af4dd32919f934dd8d1b4e1d9fb79b032f9029",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
-      "event": {
-        "id": 10646,
-        "title": "University of Calgary Emergency Medicine – Meet the PD session",
-        "url": "https://canprepp.ca/events/university-of-calgary-emergency-medicine-meet-the-pd-session-2/",
-        "date": "2026-09-17",
-        "start": "2026-09-17T14:00:00+00:00",
-        "end": "2026-09-17T14:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "08:00 – 08:30 MST",
-        "categories": [
-          "University of Calgary",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Meeting Link": "http://Please%20RSVP%20for%20registration%20link"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10648": {
-      "modified_gmt": "2026-07-17T15:51:51",
-      "calendar_hash": "06b217692920d283091229a38c21d6b701efb0907c27ac3eaae700d9a6c89c9c",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
-      "event": {
-        "id": 10648,
-        "title": "University of Calgary Emergency Medicine – Meet the PDs",
-        "url": "https://canprepp.ca/events/university-of-calgary-emergency-medicine-meet-the-pds-23/",
-        "date": "2026-09-17",
-        "start": "2026-09-17T22:00:00+00:00",
-        "end": "2026-09-17T22:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "16:00 – 16:30 MST",
-        "categories": [
-          "University of Calgary",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Meeting Link": "http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20link"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10650": {
       "modified_gmt": "2026-07-17T16:03:30",
       "calendar_hash": "4272c98e5a382c5c733b67b19d8ac42d72d24902c78e6604f31454851a361d7f",
@@ -2223,58 +2171,6 @@
         ],
         "links": {
           "Register": "https://events.teams.microsoft.com/event/de5c925b-70fb-480a-b310-ec96a50fca41@44376307-b429-42ad-8c25-28cd496f4772"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10779": {
-      "modified_gmt": "2026-09-01T13:28:40",
-      "calendar_hash": "96568d461e7a285b24db6aecb270080f81aa8d2e6eaf744d522cfe3701f652a2",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
-      "event": {
-        "id": 10779,
-        "title": "McMaster University – FRCPC Emergency Medicine CaRMS Townhall",
-        "url": "https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicine-carms-townhall-5/",
-        "date": "2026-09-17",
-        "start": "2026-09-17T22:00:00+00:00",
-        "end": "2026-09-18T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "18:00 – 20:00 EST",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Register": "https://forms.gle/3ESaZdbV6BfgmsfN7"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10780": {
-      "modified_gmt": "2026-09-01T13:28:50",
-      "calendar_hash": "96568d461e7a285b24db6aecb270080f81aa8d2e6eaf744d522cfe3701f652a2",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
-      "event": {
-        "id": 10780,
-        "title": "McMaster University – FRCPC Emergency Medicine CaRMS Townhall",
-        "url": "https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicine-carms-townhall-6/",
-        "date": "2026-09-17",
-        "start": "2026-09-17T22:00:00+00:00",
-        "end": "2026-09-18T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "18:00 – 20:00 EST",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Register": "https://forms.gle/3ESaZdbV6BfgmsfN7"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -9371,56 +9267,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "10646": {
-      "id": 10646,
-      "title": "University of Calgary Emergency Medicine – Meet the PD session",
-      "url": "https://canprepp.ca/events/university-of-calgary-emergency-medicine-meet-the-pd-session-2/",
-      "date": "2026-09-17",
-      "start": "2026-09-17T14:00:00+00:00",
-      "end": "2026-09-17T14:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "08:00 – 08:30 MST",
-      "categories": [
-        "University of Calgary",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Meeting Link": "http://Please%20RSVP%20for%20registration%20link"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "b447a372403e1cbdbb254d0b3454b7ae4c09f7b6884d3b61737dc973ce471b70",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10648": {
-      "id": 10648,
-      "title": "University of Calgary Emergency Medicine – Meet the PDs",
-      "url": "https://canprepp.ca/events/university-of-calgary-emergency-medicine-meet-the-pds-23/",
-      "date": "2026-09-17",
-      "start": "2026-09-17T22:00:00+00:00",
-      "end": "2026-09-17T22:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "16:00 – 16:30 MST",
-      "categories": [
-        "University of Calgary",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Meeting Link": "http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20link"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "d89a4a66d360efb7d1a33d3846f34387219fc134504821fbe52cadb6675bfdc8",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10650": {
       "id": 10650,
       "title": "University of Calgary Emergency Medicine – Meet the PDs",
@@ -10715,56 +10561,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "bc9a9ad4665f79c629e2cdb4b987a7cb5e6ea397a964438770bc4745c524fc12",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10779": {
-      "id": 10779,
-      "title": "McMaster University – FRCPC Emergency Medicine CaRMS Townhall",
-      "url": "https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicine-carms-townhall-5/",
-      "date": "2026-09-17",
-      "start": "2026-09-17T22:00:00+00:00",
-      "end": "2026-09-18T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "18:00 – 20:00 EST",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Register": "https://forms.gle/3ESaZdbV6BfgmsfN7"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "c05ff40bf02e269bc58b383c2e3ba318582b48baaf8762f84e657f534f2e1aee",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10780": {
-      "id": 10780,
-      "title": "McMaster University – FRCPC Emergency Medicine CaRMS Townhall",
-      "url": "https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicine-carms-townhall-6/",
-      "date": "2026-09-17",
-      "start": "2026-09-17T22:00:00+00:00",
-      "end": "2026-09-18T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "18:00 – 20:00 EST",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Register": "https://forms.gle/3ESaZdbV6BfgmsfN7"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "0661d8538d51c4b150bb2795db8a427809fe1150ab5fc59b1bf14a3ef7cddd0a",
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
