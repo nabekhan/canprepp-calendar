@@ -983,9 +983,9 @@
       }
     },
     "10661": {
-      "modified_gmt": "2026-07-17T20:12:44",
+      "modified_gmt": "2026-10-18T17:11:06",
       "calendar_hash": "70317336864d614534e46bbc94e29e2ced408b8f50c8584081d2e6be8266a359",
-      "fetched_at": "2026-10-12T19:17:57+00:00",
+      "fetched_at": "2026-10-18T20:34:24+00:00",
       "event": {
         "id": 10661,
         "title": "UBC Emergency Medicine Vancouver Island Info session",
@@ -1002,7 +1002,7 @@
           "Emergency Medicine"
         ],
         "links": {
-          "Register": "https://docs.google.com/forms/d/e/1FAIpQLSdUqAHQnEsuHKsy9vwBFMdrRNodfYTP1x2y4_wmJQAgTWQdtQ/viewform?usp=header"
+          "Meeting Link": "https://drive.google.com/file/d/1ekBv05rmLctTQTScf8Tx5F8bsG0CkNnN/view?usp=sharing"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -9433,14 +9433,14 @@
         "Emergency Medicine"
       ],
       "links": {
-        "Register": "https://docs.google.com/forms/d/e/1FAIpQLSdUqAHQnEsuHKsy9vwBFMdrRNodfYTP1x2y4_wmJQAgTWQdtQ/viewform?usp=header"
+        "Meeting Link": "https://drive.google.com/file/d/1ekBv05rmLctTQTScf8Tx5F8bsG0CkNnN/view?usp=sharing"
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "3b8f931fdcba14b4c3d0ff42155040261ce8b35ef53d2cc392de746a12d6d04d",
-      "sequence": 0,
+      "fingerprint": "95ea644afeea8898cd377c4ddcbc5bc0754c3afd41afb316ae10f69e3c2efdb4",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-10-18T20:34:24+00:00"
     },
     "10678": {
       "id": 10678,

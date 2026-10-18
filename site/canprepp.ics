@@ -709,16 +709,16 @@ BEGIN:VEVENT
 SUMMARY:UBC Emergency Medicine Vancouver Island Info session
 DTSTART:20261008T000000Z
 DTEND:20261008T013000Z
-DTSTAMP:20261012T191757Z
+DTSTAMP:20261018T203424Z
 UID:canprepp-event-10661@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Emergency Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-emergency-medicine-vancouver-is
- land-info-session-2/\nPublished time: 17:00 – 18:30 PDT\nRegister: https
- ://docs.google.com/forms/d/e/1FAIpQLSdUqAHQnEsuHKsy9vwBFMdrRNodfYTP1x2y4_w
- mJQAgTWQdtQ/viewform?usp=header
-LAST-MODIFIED:20261012T191757Z
+ land-info-session-2/\nPublished time: 17:00 – 18:30 PDT\nMeeting Link: h
+ ttps://drive.google.com/file/d/1ekBv05rmLctTQTScf8Tx5F8bsG0CkNnN/view?usp=
+ sharing
+LAST-MODIFIED:20261018T203424Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-emergency-medicine-vancouver-island-inf
