@@ -4987,19 +4987,19 @@
       }
     },
     "10963": {
-      "modified_gmt": "2026-09-24T15:56:25",
-      "calendar_hash": "c574bfbcabc7f26312bc7232f3f6cc6becf5b244a036f019fa5deb9ccc1b3e2a",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
+      "modified_gmt": "2026-10-20T17:12:20",
+      "calendar_hash": "6fc980b6edbe1d04fd20d9e2350e58a639664db088d1222ae1d394fe9c77186f",
+      "fetched_at": "2026-10-20T19:10:30+00:00",
       "event": {
         "id": 10963,
         "title": "McMaster – CaRMS Info Session Internal Medicine Waterloo Regional Campus",
         "url": "https://canprepp.ca/events/mcmaster-carms-info-session-internal-medicine-waterloo-regional-campus-2/",
         "date": "2026-11-04",
-        "start": "2026-11-04T23:00:00+00:00",
-        "end": "2026-11-05T00:00:00+00:00",
+        "start": "2026-11-04T22:00:00+00:00",
+        "end": "2026-11-04T23:00:00+00:00",
         "all_day": false,
         "timezone_label": "EST",
-        "published_time": "18:00 – 19:00 EST",
+        "published_time": "17:00 – 18:00 EST",
         "categories": [
           "McMaster University",
           "R1",
@@ -8592,6 +8592,32 @@
         ],
         "links": {
           "Meeting Link": "https://mun.webex.com/mun/j.php?MTID=m5262c1f9a2f6c2647ab9c92b9cd708f9"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11156": {
+      "modified_gmt": "2026-10-20T17:58:10",
+      "calendar_hash": "81adb322151acaa3e35d074a63f3862ef397f45e9e77166fbfd1acea1ccb7542",
+      "fetched_at": "2026-10-20T19:10:30+00:00",
+      "event": {
+        "id": 11156,
+        "title": "USask Dermatology CaRMS Information Session",
+        "url": "https://canprepp.ca/events/usask-dermatology-carms-information-session/",
+        "date": "2026-11-04",
+        "start": "2026-11-05T01:00:00+00:00",
+        "end": "2026-11-05T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "19:00 – 20:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Dermatology"
+        ],
+        "links": {
+          "Register": "https://usask-ca.zoom.us/meeting/register/j-EuQcA9T6KgD0vFRiktEQ"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -13420,11 +13446,11 @@
       "title": "McMaster – CaRMS Info Session Internal Medicine Waterloo Regional Campus",
       "url": "https://canprepp.ca/events/mcmaster-carms-info-session-internal-medicine-waterloo-regional-campus-2/",
       "date": "2026-11-04",
-      "start": "2026-11-04T23:00:00+00:00",
-      "end": "2026-11-05T00:00:00+00:00",
+      "start": "2026-11-04T22:00:00+00:00",
+      "end": "2026-11-04T23:00:00+00:00",
       "all_day": false,
       "timezone_label": "EST",
-      "published_time": "18:00 – 19:00 EST",
+      "published_time": "17:00 – 18:00 EST",
       "categories": [
         "McMaster University",
         "R1",
@@ -13435,10 +13461,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "493ecffcd92aa583cab5cf48f617b7ecb6a20fdf01ed17ace7200f7e87635858",
-      "sequence": 0,
+      "fingerprint": "36f6435bb062de5274aad65df2975a83d4607cb10b999d1e9c74c46783e7de40",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-10-20T19:10:30+00:00"
     },
     "10968": {
       "id": 10968,
@@ -16862,6 +16888,31 @@
       "sequence": 0,
       "created": "2026-10-19T20:33:27+00:00",
       "last_modified": "2026-10-19T20:33:27+00:00"
+    },
+    "11156": {
+      "id": 11156,
+      "title": "USask Dermatology CaRMS Information Session",
+      "url": "https://canprepp.ca/events/usask-dermatology-carms-information-session/",
+      "date": "2026-11-04",
+      "start": "2026-11-05T01:00:00+00:00",
+      "end": "2026-11-05T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "19:00 – 20:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Dermatology"
+      ],
+      "links": {
+        "Register": "https://usask-ca.zoom.us/meeting/register/j-EuQcA9T6KgD0vFRiktEQ"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "6c1dff740872198056178b2b348e46be5e8844b177893d21a71f3cec2123255c",
+      "sequence": 0,
+      "created": "2026-10-20T19:10:30+00:00",
+      "last_modified": "2026-10-20T19:10:30+00:00"
     }
   }
 }

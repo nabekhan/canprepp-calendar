@@ -3520,6 +3520,26 @@ URL:https://canprepp.ca/events/queens-family-medicine-img-town-hall/
 X-CANPREPP-ID:10696
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:McMaster – CaRMS Info Session Internal Medicine Waterloo Regiona
+ l Campus
+DTSTART:20261104T220000Z
+DTEND:20261104T230000Z
+DTSTAMP:20261020T191030Z
+UID:canprepp-event-10963@canprepp.ca
+SEQUENCE:1
+CATEGORIES:McMaster University,R1,Internal Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/mcmaster-carms-info-session-interna
+ l-medicine-waterloo-regional-campus-2/\nPublished time: 17:00 – 18:00 ES
+ T\nMeeting Link: https://mcmaster.zoom.us/j/92332375196
+LAST-MODIFIED:20261020T191030Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/mcmaster-carms-info-session-internal-medici
+ ne-waterloo-regional-campus-2/
+X-CANPREPP-ID:10963
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CaRMS Town Hall Session – University of Calgary Internal Medicin
  e
 DTSTART:20261104T230000Z
@@ -3578,26 +3598,6 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-university-public-health-and-preve
  ntative-medicine-information-session/
 X-CANPREPP-ID:10961
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McMaster – CaRMS Info Session Internal Medicine Waterloo Regiona
- l Campus
-DTSTART:20261104T230000Z
-DTEND:20261105T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10963@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-carms-info-session-interna
- l-medicine-waterloo-regional-campus-2/\nPublished time: 18:00 – 19:00 ES
- T\nMeeting Link: https://mcmaster.zoom.us/j/92332375196
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-carms-info-session-internal-medici
- ne-waterloo-regional-campus-2/
-X-CANPREPP-ID:10963
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MacPeds – Ask A Resident Night
@@ -3825,6 +3825,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-okanagan-south
  -site-qa-2/
 X-CANPREPP-ID:11011
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask Dermatology CaRMS Information Session
+DTSTART:20261105T010000Z
+DTEND:20261105T020000Z
+DTSTAMP:20261020T191030Z
+UID:canprepp-event-11156@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Dermatology
+CREATED:20261020T191030Z
+DESCRIPTION:https://canprepp.ca/events/usask-dermatology-carms-information
+ -session/\nPublished time: 19:00 – 20:00 CST\nRegister: https://usask-ca
+ .zoom.us/meeting/register/j-EuQcA9T6KgD0vFRiktEQ
+LAST-MODIFIED:20261020T191030Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-dermatology-carms-information-session
+ /
+X-CANPREPP-ID:11156
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – St Paul’s Hospital (CMG) Site Q
