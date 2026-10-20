@@ -2365,16 +2365,15 @@ BEGIN:VEVENT
 SUMMARY:uOttawa Psychiatry Info Session with Residents
 DTSTART:20261027T220000Z
 DTEND:20261028T000000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261020T234903Z
 UID:canprepp-event-9535@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of Ottawa,R1,Psychiatry
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uottawa-psychiatry-info-session-wit
  h-residents/\nPublished time: 18:00 – 20:00 EST\nMeeting Link: https://u
- ottawa-ca.zoom.us/j/9225267258https://uottawa-ca.zoom.us/j/93968183265?pwd
- =SIrJdrp1PKUrtVWVJ930qpRG9hTt8o.14?pwd=zVk05YTPvlfaZKu7j3JwXNc7py4Mga.1
-LAST-MODIFIED:20261014T004823Z
+ ottawa-ca.zoom.us/j/93968183265?pwd=SIrJdrp1PKUrtVWVJ930qpRG9hTt8o.1
+LAST-MODIFIED:20261020T234903Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uottawa-psychiatry-info-session-with-reside
