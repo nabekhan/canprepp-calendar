@@ -2247,6 +2247,63 @@ URL:https://canprepp.ca/events/queens-anesthesiology-meet-the-program-dire
 X-CANPREPP-ID:10423
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:USask ENT Residency Info Night
+DTSTART:20261026T230000Z
+DTEND:20261027T000000Z
+DTSTAMP:20261022T043341Z
+UID:canprepp-event-11158@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
+ rgery
+CREATED:20261022T043341Z
+DESCRIPTION:https://canprepp.ca/events/usask-ent-residency-info-night/\nPu
+ blished time: 17:00 – 18:00 CST\nMeeting Link: https://usask-ca.zoom.us/
+ j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1
+LAST-MODIFIED:20261022T043341Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-ent-residency-info-night/
+X-CANPREPP-ID:11158
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask ENT Residency Info Night
+DTSTART:20261026T230000Z
+DTEND:20261027T000000Z
+DTSTAMP:20261022T043341Z
+UID:canprepp-event-11160@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
+ rgery
+CREATED:20261022T043341Z
+DESCRIPTION:https://canprepp.ca/events/usask-ent-residency-info-night-2/\n
+ Published time: 17:00 – 18:00 CST\nMeeting Link: https://usask-ca.zoom.u
+ s/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1
+LAST-MODIFIED:20261022T043341Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-ent-residency-info-night-2/
+X-CANPREPP-ID:11160
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask ENT Residency Info Night
+DTSTART:20261026T230000Z
+DTEND:20261027T000000Z
+DTSTAMP:20261022T043341Z
+UID:canprepp-event-11162@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
+ rgery
+CREATED:20261022T043341Z
+DESCRIPTION:https://canprepp.ca/events/usask-ent-residency-info-night-3/\n
+ Published time: 17:00 – 18:00 CST\nMeeting Link: https://usask-ca.zoom.u
+ s/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1
+LAST-MODIFIED:20261022T043341Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-ent-residency-info-night-3/
+X-CANPREPP-ID:11162
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Manitoba PM&R CaRMS Info Night
 DTSTART:20261027T000000Z
 DTEND:20261027T013000Z
