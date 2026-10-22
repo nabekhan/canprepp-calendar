@@ -8238,7 +8238,7 @@
     "11138": {
       "modified_gmt": "2026-10-15T14:39:07",
       "calendar_hash": "791fbc8dd2ff653a017828e91db06f1217027384036796f0c53a126a741a4cdf",
-      "fetched_at": "2026-10-15T16:53:23+00:00",
+      "fetched_at": "2026-10-22T17:05:10+00:00",
       "event": {
         "id": 11138,
         "title": "NOSM University General Surgery Info Session",
@@ -8696,6 +8696,84 @@
         ],
         "links": {
           "Meeting Link": "https://usask-ca.zoom.us/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11164": {
+      "modified_gmt": "2026-10-22T15:20:52",
+      "calendar_hash": "913308ed864eaf6dd1d779ef34d04f50b542e22c5c11f5eae01cd1b0cf40c7a1",
+      "fetched_at": "2026-10-22T17:05:10+00:00",
+      "event": {
+        "id": 11164,
+        "title": "USask ENT Residency Info Night",
+        "url": "https://canprepp.ca/events/usask-ent-residency-info-night-4/",
+        "date": "2026-11-05",
+        "start": "2026-11-06T01:00:00+00:00",
+        "end": "2026-11-06T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "19:00 – 20:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Otolaryngology - Head and Neck Surgery"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/93612908615?pwd=4sQViIWJaeF6ahWFglkjFrc5R1dgvA.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11165": {
+      "modified_gmt": "2026-10-22T17:02:26",
+      "calendar_hash": "a6256b4a4581877b875885b485c98c9a55db8431538e9c6dbb0dc73a9c7e7ffc",
+      "fetched_at": "2026-10-22T17:05:10+00:00",
+      "event": {
+        "id": 11165,
+        "title": "USask (Saskatoon) ENT Information Nights",
+        "url": "https://canprepp.ca/events/usask-saskatoon-ent-information-nights/",
+        "date": "2026-10-26",
+        "start": "2026-10-26T23:00:00+00:00",
+        "end": null,
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "17:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Otolaryngology - Head and Neck Surgery"
+        ],
+        "links": {
+          "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11171": {
+      "modified_gmt": "2026-10-22T17:03:53",
+      "calendar_hash": "0a580a939468c0a365d5cff19ea2dc93371332db15cfc8d85d85df0e2cdfe3f5",
+      "fetched_at": "2026-10-22T17:05:10+00:00",
+      "event": {
+        "id": 11171,
+        "title": "USask (Saskatoon) ENT Information Nights",
+        "url": "https://canprepp.ca/events/usask-saskatoon-ent-information-nights-2/",
+        "date": "2026-11-05",
+        "start": "2026-11-06T01:00:00+00:00",
+        "end": null,
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "19:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Otolaryngology - Head and Neck Surgery"
+        ],
+        "links": {
+          "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -17066,6 +17144,81 @@
       "sequence": 0,
       "created": "2026-10-22T04:33:41+00:00",
       "last_modified": "2026-10-22T04:33:41+00:00"
+    },
+    "11164": {
+      "id": 11164,
+      "title": "USask ENT Residency Info Night",
+      "url": "https://canprepp.ca/events/usask-ent-residency-info-night-4/",
+      "date": "2026-11-05",
+      "start": "2026-11-06T01:00:00+00:00",
+      "end": "2026-11-06T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "19:00 – 20:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Otolaryngology - Head and Neck Surgery"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/93612908615?pwd=4sQViIWJaeF6ahWFglkjFrc5R1dgvA.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "ac5e527ee31823851f3f46658c124062cf078e8d9afd581647e5d57c4494817a",
+      "sequence": 0,
+      "created": "2026-10-22T17:05:10+00:00",
+      "last_modified": "2026-10-22T17:05:10+00:00"
+    },
+    "11165": {
+      "id": 11165,
+      "title": "USask (Saskatoon) ENT Information Nights",
+      "url": "https://canprepp.ca/events/usask-saskatoon-ent-information-nights/",
+      "date": "2026-10-26",
+      "start": "2026-10-26T23:00:00+00:00",
+      "end": null,
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "17:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Otolaryngology - Head and Neck Surgery"
+      ],
+      "links": {
+        "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "43ac04868a25bf6f563d43522dccfc813e0a505bdddde46101b9c4ce359474cb",
+      "sequence": 0,
+      "created": "2026-10-22T17:05:10+00:00",
+      "last_modified": "2026-10-22T17:05:10+00:00"
+    },
+    "11171": {
+      "id": 11171,
+      "title": "USask (Saskatoon) ENT Information Nights",
+      "url": "https://canprepp.ca/events/usask-saskatoon-ent-information-nights-2/",
+      "date": "2026-11-05",
+      "start": "2026-11-06T01:00:00+00:00",
+      "end": null,
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "19:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Otolaryngology - Head and Neck Surgery"
+      ],
+      "links": {
+        "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "8380cd71ec1a3c305352e2f7933b2af91e67d26c2ce6dc593775c45999204250",
+      "sequence": 0,
+      "created": "2026-10-22T17:05:10+00:00",
+      "last_modified": "2026-10-22T17:05:10+00:00"
     }
   }
 }

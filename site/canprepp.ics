@@ -2304,6 +2304,25 @@ URL:https://canprepp.ca/events/usask-ent-residency-info-night-3/
 X-CANPREPP-ID:11162
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:USask (Saskatoon) ENT Information Nights
+DTSTART:20261026T230000Z
+DTSTAMP:20261022T170510Z
+UID:canprepp-event-11165@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
+ rgery
+CREATED:20261022T170510Z
+DESCRIPTION:https://canprepp.ca/events/usask-saskatoon-ent-information-nig
+ hts/\nPublished time: 17:00 CST\nRegister: https://forms.cloud.microsoft/P
+ ages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEz
+ SjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode
+LAST-MODIFIED:20261022T170510Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-saskatoon-ent-information-nights/
+X-CANPREPP-ID:11165
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Manitoba PM&R CaRMS Info Night
 DTSTART:20261027T000000Z
 DTEND:20261027T013000Z
@@ -4174,6 +4193,44 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-vancouver-fras
  er-site-qa-3/
 X-CANPREPP-ID:11013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask ENT Residency Info Night
+DTSTART:20261106T010000Z
+DTEND:20261106T020000Z
+DTSTAMP:20261022T170510Z
+UID:canprepp-event-11164@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
+ rgery
+CREATED:20261022T170510Z
+DESCRIPTION:https://canprepp.ca/events/usask-ent-residency-info-night-4/\n
+ Published time: 19:00 – 20:00 CST\nMeeting Link: https://usask-ca.zoom.u
+ s/j/93612908615?pwd=4sQViIWJaeF6ahWFglkjFrc5R1dgvA.1
+LAST-MODIFIED:20261022T170510Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-ent-residency-info-night-4/
+X-CANPREPP-ID:11164
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask (Saskatoon) ENT Information Nights
+DTSTART:20261106T010000Z
+DTSTAMP:20261022T170510Z
+UID:canprepp-event-11171@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
+ rgery
+CREATED:20261022T170510Z
+DESCRIPTION:https://canprepp.ca/events/usask-saskatoon-ent-information-nig
+ hts-2/\nPublished time: 19:00 CST\nRegister: https://forms.cloud.microsoft
+ /Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOU
+ EzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode
+LAST-MODIFIED:20261022T170510Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-saskatoon-ent-information-nights-2/
+X-CANPREPP-ID:11171
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Ottawa General Surgery – Virtual Info Session #1 (
