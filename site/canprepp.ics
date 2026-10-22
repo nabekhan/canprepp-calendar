@@ -2269,18 +2269,18 @@ BEGIN:VEVENT
 SUMMARY:USask ENT Residency Info Night
 DTSTART:20261026T230000Z
 DTEND:20261027T000000Z
-DTSTAMP:20261022T043341Z
+DTSTAMP:20261022T212935Z
 UID:canprepp-event-11160@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
  rgery
 CREATED:20261022T043341Z
 DESCRIPTION:https://canprepp.ca/events/usask-ent-residency-info-night-2/\n
  Published time: 17:00 – 18:00 CST\nMeeting Link: https://usask-ca.zoom.u
  s/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1
-LAST-MODIFIED:20261022T043341Z
+LAST-MODIFIED:20261022T212935Z
 LOCATION:Online
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://canprepp.ca/events/usask-ent-residency-info-night-2/
 X-CANPREPP-ID:11160
 END:VEVENT
@@ -2288,27 +2288,27 @@ BEGIN:VEVENT
 SUMMARY:USask ENT Residency Info Night
 DTSTART:20261026T230000Z
 DTEND:20261027T000000Z
-DTSTAMP:20261022T043341Z
+DTSTAMP:20261022T212935Z
 UID:canprepp-event-11162@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
  rgery
 CREATED:20261022T043341Z
 DESCRIPTION:https://canprepp.ca/events/usask-ent-residency-info-night-3/\n
  Published time: 17:00 – 18:00 CST\nMeeting Link: https://usask-ca.zoom.u
  s/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1
-LAST-MODIFIED:20261022T043341Z
+LAST-MODIFIED:20261022T212935Z
 LOCATION:Online
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://canprepp.ca/events/usask-ent-residency-info-night-3/
 X-CANPREPP-ID:11162
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USask (Saskatoon) ENT Information Nights
 DTSTART:20261026T230000Z
-DTSTAMP:20261022T170510Z
+DTSTAMP:20261022T212935Z
 UID:canprepp-event-11165@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
  rgery
 CREATED:20261022T170510Z
@@ -2316,9 +2316,9 @@ DESCRIPTION:https://canprepp.ca/events/usask-saskatoon-ent-information-nig
  hts/\nPublished time: 17:00 CST\nRegister: https://forms.cloud.microsoft/P
  ages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEz
  SjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode
-LAST-MODIFIED:20261022T170510Z
+LAST-MODIFIED:20261022T212935Z
 LOCATION:Online
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://canprepp.ca/events/usask-saskatoon-ent-information-nights/
 X-CANPREPP-ID:11165
 END:VEVENT
@@ -2687,6 +2687,44 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uoft-medical-microbiology-program-info-sess
  ion-3/
 X-CANPREPP-ID:11132
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask Family Medicine (La Ronge) Town Hall Session
+DTSTART:20261028T000000Z
+DTEND:20261028T010000Z
+DTSTAMP:20261022T212935Z
+UID:canprepp-event-11177@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Family Medicine
+CREATED:20261022T212935Z
+DESCRIPTION:https://canprepp.ca/events/usask-family-medicine-la-ronge-town
+ -hall-session/\nPublished time: 18:00 – 19:00 CST\nMeeting Link: https:/
+ /usask-ca.zoom.us/j/91612094230?pwd=RZ9QD4b4brpkn3PiatEL6us1vw72Q3.1
+LAST-MODIFIED:20261022T212935Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-family-medicine-la-ronge-town-hall-se
+ ssion/
+X-CANPREPP-ID:11177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask Family Medicine (Prince Albert) Town Hall Session
+DTSTART:20261028T010000Z
+DTEND:20261028T020000Z
+DTSTAMP:20261022T212935Z
+UID:canprepp-event-11179@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Family Medicine
+CREATED:20261022T212935Z
+DESCRIPTION:https://canprepp.ca/events/usask-family-medicine-prince-albert
+ -town-hall-session/\nPublished time: 19:00 – 20:00 CST\nMeeting Link: ht
+ tps://usask-ca.zoom.us/j/91612094230?pwd=RZ9QD4b4brpkn3PiatEL6us1vw72Q3.1
+LAST-MODIFIED:20261022T212935Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-family-medicine-prince-albert-town-ha
+ ll-session/
+X-CANPREPP-ID:11179
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TMU General Surgery Virtual Info Session
@@ -3864,6 +3902,25 @@ URL:https://canprepp.ca/events/university-of-manitoba-radiation-oncology-r
 X-CANPREPP-ID:11080
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:USask Family Medicine (North East) Town Hall Session
+DTSTART:20261105T000000Z
+DTEND:20261105T010000Z
+DTSTAMP:20261022T212935Z
+UID:canprepp-event-11176@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Family Medicine
+CREATED:20261022T212935Z
+DESCRIPTION:https://canprepp.ca/events/usask-family-medicine-north-east-to
+ wn-hall-session/\nPublished time: 18:00 – 19:00 CST\nMeeting Link: https
+ ://usask-ca.zoom.us/j/92513844732?pwd=BkmdSFRZnHjIriiYOs2csEI8Givzyu.1
+LAST-MODIFIED:20261022T212935Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-family-medicine-north-east-town-hall-
+ session/
+X-CANPREPP-ID:11176
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UofC General Surgery CaRMS Information Session
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
@@ -3919,6 +3976,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/usask-dermatology-carms-information-session
  /
 X-CANPREPP-ID:11156
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask Family Medicine (South East) Town Hall Session
+DTSTART:20261105T010000Z
+DTEND:20261105T020000Z
+DTSTAMP:20261022T212935Z
+UID:canprepp-event-11178@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Family Medicine
+CREATED:20261022T212935Z
+DESCRIPTION:https://canprepp.ca/events/usask-family-medicine-south-east-to
+ wn-hall-session/\nPublished time: 19:00 – 20:00 CST\nMeeting Link: https
+ ://usask-ca.zoom.us/j/92513844732?pwd=BkmdSFRZnHjIriiYOs2csEI8Givzyu.1
+LAST-MODIFIED:20261022T212935Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-family-medicine-south-east-town-hall-
+ session/
+X-CANPREPP-ID:11178
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – St Paul’s Hospital (CMG) Site Q
@@ -4216,9 +4292,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USask (Saskatoon) ENT Information Nights
 DTSTART:20261106T010000Z
-DTSTAMP:20261022T170510Z
+DTSTAMP:20261022T212935Z
 UID:canprepp-event-11171@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Saskatchewan,R1,Otolaryngology - Head and Neck Su
  rgery
 CREATED:20261022T170510Z
@@ -4226,11 +4302,30 @@ DESCRIPTION:https://canprepp.ca/events/usask-saskatoon-ent-information-nig
  hts-2/\nPublished time: 19:00 CST\nRegister: https://forms.cloud.microsoft
  /Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOU
  EzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode
-LAST-MODIFIED:20261022T170510Z
+LAST-MODIFIED:20261022T212935Z
 LOCATION:Online
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://canprepp.ca/events/usask-saskatoon-ent-information-nights-2/
 X-CANPREPP-ID:11171
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask Family Medicine (Regina) Town Hall Session
+DTSTART:20261106T010000Z
+DTEND:20261106T020000Z
+DTSTAMP:20261022T212935Z
+UID:canprepp-event-11173@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Family Medicine
+CREATED:20261022T212935Z
+DESCRIPTION:https://canprepp.ca/events/usask-family-medicine-regina-town-h
+ all-session/\nPublished time: 19:00 – 20:00 CST\nMeeting Link: https://u
+ sask-ca.zoom.us/j/98368846020?pwd=iI6p3W73yhKmNP6b9gf5fmd3DXH9MU.1
+LAST-MODIFIED:20261022T212935Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-family-medicine-regina-town-hall-sess
+ ion/
+X-CANPREPP-ID:11173
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Ottawa General Surgery – Virtual Info Session #1 (
@@ -5289,6 +5384,25 @@ URL:https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgar
 X-CANPREPP-ID:11149
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:USask Family Medicine (Moose Jaw) Town Hall Session
+DTSTART:20261118T000000Z
+DTEND:20261118T010000Z
+DTSTAMP:20261022T212935Z
+UID:canprepp-event-11175@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Family Medicine
+CREATED:20261022T212935Z
+DESCRIPTION:https://canprepp.ca/events/usask-family-medicine-moose-jaw-tow
+ n-hall-session/\nPublished time: 18:00 – 19:00 CST\nMeeting Link: https:
+ //usask-ca.zoom.us/j/96563317664?pwd=hb0vQRSVHn6MIzIyTscF0uWFh37VyR.1
+LAST-MODIFIED:20261022T212935Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-family-medicine-moose-jaw-town-hall-s
+ ession/
+X-CANPREPP-ID:11175
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Quw’utsun Site QA
 DTSTART:20261118T003000Z
 DTEND:20261118T013000Z
@@ -5306,6 +5420,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-quwutsun-site-
  qa-2/
 X-CANPREPP-ID:11022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask Family Medicine (Swift Current) Town Hall Session
+DTSTART:20261118T010000Z
+DTEND:20261118T020000Z
+DTSTAMP:20261022T212935Z
+UID:canprepp-event-11180@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Family Medicine
+CREATED:20261022T212935Z
+DESCRIPTION:https://canprepp.ca/events/usask-family-medicine-swift-current
+ -town-hall-session/\nPublished time: 19:00 – 20:00 CST\nMeeting Link: ht
+ tps://usask-ca.zoom.us/j/96563317664?pwd=hb0vQRSVHn6MIzIyTscF0uWFh37VyR.1
+LAST-MODIFIED:20261022T212935Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-family-medicine-swift-current-town-ha
+ ll-session/
+X-CANPREPP-ID:11180
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Rural Fort St John Site QA
@@ -5498,6 +5631,25 @@ URL:https://canprepp.ca/events/uofa-family-medicine-urban-edmonton/
 X-CANPREPP-ID:11072
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:USask Family Medicine (Saskatoon) Town Hall Session
+DTSTART:20261119T000000Z
+DTEND:20261119T010000Z
+DTSTAMP:20261022T212935Z
+UID:canprepp-event-11174@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Family Medicine
+CREATED:20261022T212935Z
+DESCRIPTION:https://canprepp.ca/events/usask-family-medicine-saskatoon-tow
+ n-hall-session/\nPublished time: 18:00 – 19:00 CST\nMeeting Link: https:
+ //usask-ca.zoom.us/j/91728438781?pwd=6b06tX3g1otXl9INtrQrpgwg69qtdq.1
+LAST-MODIFIED:20261022T212935Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-family-medicine-saskatoon-town-hall-s
+ ession/
+X-CANPREPP-ID:11174
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:McMaster Anesthesiology Resident Town Hall
 DTSTART:20261119T010000Z
 DTEND:20261119T020000Z
@@ -5600,6 +5752,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/carms-info-session-anesthesiology-residency
  -program-university-of-calgary-2/
 X-CANPREPP-ID:10941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:USask Family Medicine (North West) Town Hall Session
+DTSTART:20261120T000000Z
+DTEND:20261120T010000Z
+DTSTAMP:20261022T212935Z
+UID:canprepp-event-11172@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Saskatchewan,R1,Family Medicine
+CREATED:20261022T212935Z
+DESCRIPTION:https://canprepp.ca/events/usask-family-medicine-north-west-to
+ wn-hall-session/\nPublished time: 18:00 – 19:00 CST\nMeeting Link: https
+ ://usask-ca.zoom.us/j/91803094272?pwd=Cepm8JqeaXoQgw8r9a2gDazEaHb1He.1
+LAST-MODIFIED:20261022T212935Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/usask-family-medicine-north-west-town-hall-
+ session/
+X-CANPREPP-ID:11172
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster Peds Neuro CaRMS Info Night

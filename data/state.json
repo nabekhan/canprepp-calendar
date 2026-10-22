@@ -5657,7 +5657,7 @@
     "11010": {
       "modified_gmt": "2026-10-15T19:53:56",
       "calendar_hash": "cf5f5c2ea8d4ffdfeb8dd9227125efcdf3d0ac2c7b0791feda8f4c53ab15ec49",
-      "fetched_at": "2026-10-15T21:17:48+00:00",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
       "event": {
         "id": 11010,
         "title": "(NOT AVAILABLE) Western Paediatrics Information Session",
@@ -8086,7 +8086,7 @@
     "11130": {
       "modified_gmt": "2026-10-15T19:19:03",
       "calendar_hash": "1e2ef6f1320506c2862e99c47294da2314823e383b1ff7be97d8faa4524c961c",
-      "fetched_at": "2026-10-15T21:17:48+00:00",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
       "event": {
         "id": 11130,
         "title": "Dalhousie University Adult Neurology CaRMS info session",
@@ -8264,7 +8264,7 @@
     "11139": {
       "modified_gmt": "2026-10-15T20:40:21",
       "calendar_hash": "6b75c8f9f9d6c488514fc84a65c2e2b9767e1a999cce9fb9b5f99a98c40446d0",
-      "fetched_at": "2026-10-15T21:17:48+00:00",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
       "event": {
         "id": 11139,
         "title": "U of S General Surgery Town Hall",
@@ -8290,7 +8290,7 @@
     "11141": {
       "modified_gmt": "2026-10-15T20:43:04",
       "calendar_hash": "f38486e5dd626c0c5771fa43cc9b8f41b9756b0f4f4e2365af580947a121de04",
-      "fetched_at": "2026-10-15T21:17:48+00:00",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
       "event": {
         "id": 11141,
         "title": "University of Saskatchewan Ophthalmology Program Information Session",
@@ -8316,7 +8316,7 @@
     "11143": {
       "modified_gmt": "2026-10-15T20:46:29",
       "calendar_hash": "e47f81cad5462e5e1f10f673be0d234b2be5ad3418a9ab5b37cbf99e6cbfcd54",
-      "fetched_at": "2026-10-15T21:17:48+00:00",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
       "event": {
         "id": 11143,
         "title": "COSSNET Roundtable Series",
@@ -8649,58 +8649,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11160": {
-      "modified_gmt": "2026-10-21T22:14:42",
-      "calendar_hash": "d1fe6327cc6fa15cdbdb1e240fc16105f30fffa5d59efe0ce12b3b38373f54a4",
-      "fetched_at": "2026-10-22T04:33:41+00:00",
-      "event": {
-        "id": 11160,
-        "title": "USask ENT Residency Info Night",
-        "url": "https://canprepp.ca/events/usask-ent-residency-info-night-2/",
-        "date": "2026-10-26",
-        "start": "2026-10-26T23:00:00+00:00",
-        "end": "2026-10-27T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "CST",
-        "published_time": "17:00 – 18:00 CST",
-        "categories": [
-          "University of Saskatchewan",
-          "R1",
-          "Otolaryngology - Head and Neck Surgery"
-        ],
-        "links": {
-          "Meeting Link": "https://usask-ca.zoom.us/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11162": {
-      "modified_gmt": "2026-10-21T22:14:46",
-      "calendar_hash": "d1fe6327cc6fa15cdbdb1e240fc16105f30fffa5d59efe0ce12b3b38373f54a4",
-      "fetched_at": "2026-10-22T04:33:41+00:00",
-      "event": {
-        "id": 11162,
-        "title": "USask ENT Residency Info Night",
-        "url": "https://canprepp.ca/events/usask-ent-residency-info-night-3/",
-        "date": "2026-10-26",
-        "start": "2026-10-26T23:00:00+00:00",
-        "end": "2026-10-27T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "CST",
-        "published_time": "17:00 – 18:00 CST",
-        "categories": [
-          "University of Saskatchewan",
-          "R1",
-          "Otolaryngology - Head and Neck Surgery"
-        ],
-        "links": {
-          "Meeting Link": "https://usask-ca.zoom.us/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11164": {
       "modified_gmt": "2026-10-22T15:20:52",
       "calendar_hash": "913308ed864eaf6dd1d779ef34d04f50b542e22c5c11f5eae01cd1b0cf40c7a1",
@@ -8727,53 +8675,235 @@
         "status": "CONFIRMED"
       }
     },
-    "11165": {
-      "modified_gmt": "2026-10-22T17:02:26",
-      "calendar_hash": "a6256b4a4581877b875885b485c98c9a55db8431538e9c6dbb0dc73a9c7e7ffc",
-      "fetched_at": "2026-10-22T17:05:10+00:00",
+    "11172": {
+      "modified_gmt": "2026-10-22T17:13:05",
+      "calendar_hash": "0ebf41dca73d2c25d9d43160fcd6a19bab94b78202501f86f20c662a591365f1",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
       "event": {
-        "id": 11165,
-        "title": "USask (Saskatoon) ENT Information Nights",
-        "url": "https://canprepp.ca/events/usask-saskatoon-ent-information-nights/",
-        "date": "2026-10-26",
-        "start": "2026-10-26T23:00:00+00:00",
-        "end": null,
+        "id": 11172,
+        "title": "USask Family Medicine (North West) Town Hall Session",
+        "url": "https://canprepp.ca/events/usask-family-medicine-north-west-town-hall-session/",
+        "date": "2026-11-19",
+        "start": "2026-11-20T00:00:00+00:00",
+        "end": "2026-11-20T01:00:00+00:00",
         "all_day": false,
         "timezone_label": "CST",
-        "published_time": "17:00 CST",
+        "published_time": "18:00 – 19:00 CST",
         "categories": [
           "University of Saskatchewan",
           "R1",
-          "Otolaryngology - Head and Neck Surgery"
+          "Family Medicine"
         ],
         "links": {
-          "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode"
+          "Meeting Link": "https://usask-ca.zoom.us/j/91803094272?pwd=Cepm8JqeaXoQgw8r9a2gDazEaHb1He.1"
         },
         "location": "Online",
         "status": "CONFIRMED"
       }
     },
-    "11171": {
-      "modified_gmt": "2026-10-22T17:03:53",
-      "calendar_hash": "0a580a939468c0a365d5cff19ea2dc93371332db15cfc8d85d85df0e2cdfe3f5",
-      "fetched_at": "2026-10-22T17:05:10+00:00",
+    "11173": {
+      "modified_gmt": "2026-10-22T17:13:03",
+      "calendar_hash": "2556cd4327caabba1a6ad2345fbf82e1ab1c891a56ba89f99a345e46f8f2cf9a",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
       "event": {
-        "id": 11171,
-        "title": "USask (Saskatoon) ENT Information Nights",
-        "url": "https://canprepp.ca/events/usask-saskatoon-ent-information-nights-2/",
+        "id": 11173,
+        "title": "USask Family Medicine (Regina) Town Hall Session",
+        "url": "https://canprepp.ca/events/usask-family-medicine-regina-town-hall-session/",
         "date": "2026-11-05",
         "start": "2026-11-06T01:00:00+00:00",
-        "end": null,
+        "end": "2026-11-06T02:00:00+00:00",
         "all_day": false,
         "timezone_label": "CST",
-        "published_time": "19:00 CST",
+        "published_time": "19:00 – 20:00 CST",
         "categories": [
           "University of Saskatchewan",
           "R1",
-          "Otolaryngology - Head and Neck Surgery"
+          "Family Medicine"
         ],
         "links": {
-          "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode"
+          "Meeting Link": "https://usask-ca.zoom.us/j/98368846020?pwd=iI6p3W73yhKmNP6b9gf5fmd3DXH9MU.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11174": {
+      "modified_gmt": "2026-10-22T17:14:08",
+      "calendar_hash": "843b5952b93f6ad126b262dcfbcf6a0a45a18cc7321a9e95e26e585413ef03e8",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "event": {
+        "id": 11174,
+        "title": "USask Family Medicine (Saskatoon) Town Hall Session",
+        "url": "https://canprepp.ca/events/usask-family-medicine-saskatoon-town-hall-session/",
+        "date": "2026-11-18",
+        "start": "2026-11-19T00:00:00+00:00",
+        "end": "2026-11-19T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "18:00 – 19:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/91728438781?pwd=6b06tX3g1otXl9INtrQrpgwg69qtdq.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11175": {
+      "modified_gmt": "2026-10-22T17:16:15",
+      "calendar_hash": "c50b151abae89df154084480a204d7dfab506ecc014e0b1dd51b5623c2500148",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "event": {
+        "id": 11175,
+        "title": "USask Family Medicine (Moose Jaw) Town Hall Session",
+        "url": "https://canprepp.ca/events/usask-family-medicine-moose-jaw-town-hall-session/",
+        "date": "2026-11-17",
+        "start": "2026-11-18T00:00:00+00:00",
+        "end": "2026-11-18T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "18:00 – 19:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/96563317664?pwd=hb0vQRSVHn6MIzIyTscF0uWFh37VyR.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11176": {
+      "modified_gmt": "2026-10-22T17:18:14",
+      "calendar_hash": "7d1ac1106f375ad8b940776abfcb4c568c80afc0dabc83d299bf07a2806dea36",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "event": {
+        "id": 11176,
+        "title": "USask Family Medicine (North East) Town Hall Session",
+        "url": "https://canprepp.ca/events/usask-family-medicine-north-east-town-hall-session/",
+        "date": "2026-11-04",
+        "start": "2026-11-05T00:00:00+00:00",
+        "end": "2026-11-05T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "18:00 – 19:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/92513844732?pwd=BkmdSFRZnHjIriiYOs2csEI8Givzyu.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11177": {
+      "modified_gmt": "2026-10-22T17:21:13",
+      "calendar_hash": "3daab2f316432ff31272fbed65016fc1184d738ace4b25c9fe58b8779a649fbf",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "event": {
+        "id": 11177,
+        "title": "USask Family Medicine (La Ronge) Town Hall Session",
+        "url": "https://canprepp.ca/events/usask-family-medicine-la-ronge-town-hall-session/",
+        "date": "2026-10-27",
+        "start": "2026-10-28T00:00:00+00:00",
+        "end": "2026-10-28T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "18:00 – 19:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/91612094230?pwd=RZ9QD4b4brpkn3PiatEL6us1vw72Q3.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11178": {
+      "modified_gmt": "2026-10-22T17:18:44",
+      "calendar_hash": "115abcd53468a5f59c00915f72ff74fa5df892366501d6f022f02e4232e36d99",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "event": {
+        "id": 11178,
+        "title": "USask Family Medicine (South East) Town Hall Session",
+        "url": "https://canprepp.ca/events/usask-family-medicine-south-east-town-hall-session/",
+        "date": "2026-11-04",
+        "start": "2026-11-05T01:00:00+00:00",
+        "end": "2026-11-05T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "19:00 – 20:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/92513844732?pwd=BkmdSFRZnHjIriiYOs2csEI8Givzyu.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11179": {
+      "modified_gmt": "2026-10-22T17:21:26",
+      "calendar_hash": "fbb4ef23fb22472d749ba1b2a0f4d8d36d564ea83c61b3af2afcb095d7f4baae",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "event": {
+        "id": 11179,
+        "title": "USask Family Medicine (Prince Albert) Town Hall Session",
+        "url": "https://canprepp.ca/events/usask-family-medicine-prince-albert-town-hall-session/",
+        "date": "2026-10-27",
+        "start": "2026-10-28T01:00:00+00:00",
+        "end": "2026-10-28T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "19:00 – 20:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/91612094230?pwd=RZ9QD4b4brpkn3PiatEL6us1vw72Q3.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11180": {
+      "modified_gmt": "2026-10-22T17:16:51",
+      "calendar_hash": "795ba74d845bac1caff491c26128111c66587a3ea86f41d6db15a63d40a4edf1",
+      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "event": {
+        "id": 11180,
+        "title": "USask Family Medicine (Swift Current) Town Hall Session",
+        "url": "https://canprepp.ca/events/usask-family-medicine-swift-current-town-hall-session/",
+        "date": "2026-11-17",
+        "start": "2026-11-18T01:00:00+00:00",
+        "end": "2026-11-18T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "19:00 – 20:00 CST",
+        "categories": [
+          "University of Saskatchewan",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://usask-ca.zoom.us/j/96563317664?pwd=hb0vQRSVHn6MIzIyTscF0uWFh37VyR.1"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -17095,56 +17225,6 @@
       "created": "2026-10-22T04:33:41+00:00",
       "last_modified": "2026-10-22T04:33:41+00:00"
     },
-    "11160": {
-      "id": 11160,
-      "title": "USask ENT Residency Info Night",
-      "url": "https://canprepp.ca/events/usask-ent-residency-info-night-2/",
-      "date": "2026-10-26",
-      "start": "2026-10-26T23:00:00+00:00",
-      "end": "2026-10-27T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "CST",
-      "published_time": "17:00 – 18:00 CST",
-      "categories": [
-        "University of Saskatchewan",
-        "R1",
-        "Otolaryngology - Head and Neck Surgery"
-      ],
-      "links": {
-        "Meeting Link": "https://usask-ca.zoom.us/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "1ce1c2c8e7f927e0a44604014cc2af2dce6605bd88e7162d7f1d9bf5ac4ee862",
-      "sequence": 0,
-      "created": "2026-10-22T04:33:41+00:00",
-      "last_modified": "2026-10-22T04:33:41+00:00"
-    },
-    "11162": {
-      "id": 11162,
-      "title": "USask ENT Residency Info Night",
-      "url": "https://canprepp.ca/events/usask-ent-residency-info-night-3/",
-      "date": "2026-10-26",
-      "start": "2026-10-26T23:00:00+00:00",
-      "end": "2026-10-27T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "CST",
-      "published_time": "17:00 – 18:00 CST",
-      "categories": [
-        "University of Saskatchewan",
-        "R1",
-        "Otolaryngology - Head and Neck Surgery"
-      ],
-      "links": {
-        "Meeting Link": "https://usask-ca.zoom.us/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "91b53b2c683a6278779272c9e0a370019e0831578c718227768ab007d5b2f351",
-      "sequence": 0,
-      "created": "2026-10-22T04:33:41+00:00",
-      "last_modified": "2026-10-22T04:33:41+00:00"
-    },
     "11164": {
       "id": 11164,
       "title": "USask ENT Residency Info Night",
@@ -17170,6 +17250,281 @@
       "created": "2026-10-22T17:05:10+00:00",
       "last_modified": "2026-10-22T17:05:10+00:00"
     },
+    "11172": {
+      "id": 11172,
+      "title": "USask Family Medicine (North West) Town Hall Session",
+      "url": "https://canprepp.ca/events/usask-family-medicine-north-west-town-hall-session/",
+      "date": "2026-11-19",
+      "start": "2026-11-20T00:00:00+00:00",
+      "end": "2026-11-20T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "18:00 – 19:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/91803094272?pwd=Cepm8JqeaXoQgw8r9a2gDazEaHb1He.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "ff5d7ff400a2070e97759888e9aed11a8fe123f0479544940e47bd55cd788d3b",
+      "sequence": 0,
+      "created": "2026-10-22T21:29:35+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11173": {
+      "id": 11173,
+      "title": "USask Family Medicine (Regina) Town Hall Session",
+      "url": "https://canprepp.ca/events/usask-family-medicine-regina-town-hall-session/",
+      "date": "2026-11-05",
+      "start": "2026-11-06T01:00:00+00:00",
+      "end": "2026-11-06T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "19:00 – 20:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/98368846020?pwd=iI6p3W73yhKmNP6b9gf5fmd3DXH9MU.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "7732b441c6ad03b08941ca453586e2bb61e9a1a41d39dfc5942a77de56bd046d",
+      "sequence": 0,
+      "created": "2026-10-22T21:29:35+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11174": {
+      "id": 11174,
+      "title": "USask Family Medicine (Saskatoon) Town Hall Session",
+      "url": "https://canprepp.ca/events/usask-family-medicine-saskatoon-town-hall-session/",
+      "date": "2026-11-18",
+      "start": "2026-11-19T00:00:00+00:00",
+      "end": "2026-11-19T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "18:00 – 19:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/91728438781?pwd=6b06tX3g1otXl9INtrQrpgwg69qtdq.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "a1fd3f98d6f86112ca230152d67613d5f389f28e3c6000f3630cc5d8554d8bee",
+      "sequence": 0,
+      "created": "2026-10-22T21:29:35+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11175": {
+      "id": 11175,
+      "title": "USask Family Medicine (Moose Jaw) Town Hall Session",
+      "url": "https://canprepp.ca/events/usask-family-medicine-moose-jaw-town-hall-session/",
+      "date": "2026-11-17",
+      "start": "2026-11-18T00:00:00+00:00",
+      "end": "2026-11-18T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "18:00 – 19:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/96563317664?pwd=hb0vQRSVHn6MIzIyTscF0uWFh37VyR.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "8208517f726d29a26064b42bf82fc47abce82f317ca0e596f9a8dddddabfd447",
+      "sequence": 0,
+      "created": "2026-10-22T21:29:35+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11176": {
+      "id": 11176,
+      "title": "USask Family Medicine (North East) Town Hall Session",
+      "url": "https://canprepp.ca/events/usask-family-medicine-north-east-town-hall-session/",
+      "date": "2026-11-04",
+      "start": "2026-11-05T00:00:00+00:00",
+      "end": "2026-11-05T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "18:00 – 19:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/92513844732?pwd=BkmdSFRZnHjIriiYOs2csEI8Givzyu.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "423f125c33065edc2af730c3454d461eb9f836fb6b667615fc826ccd0affccc1",
+      "sequence": 0,
+      "created": "2026-10-22T21:29:35+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11177": {
+      "id": 11177,
+      "title": "USask Family Medicine (La Ronge) Town Hall Session",
+      "url": "https://canprepp.ca/events/usask-family-medicine-la-ronge-town-hall-session/",
+      "date": "2026-10-27",
+      "start": "2026-10-28T00:00:00+00:00",
+      "end": "2026-10-28T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "18:00 – 19:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/91612094230?pwd=RZ9QD4b4brpkn3PiatEL6us1vw72Q3.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "2b661041ee14196ffa120bddec7a061f52ca6fce2d92e4dd8c9ecc015c587776",
+      "sequence": 0,
+      "created": "2026-10-22T21:29:35+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11178": {
+      "id": 11178,
+      "title": "USask Family Medicine (South East) Town Hall Session",
+      "url": "https://canprepp.ca/events/usask-family-medicine-south-east-town-hall-session/",
+      "date": "2026-11-04",
+      "start": "2026-11-05T01:00:00+00:00",
+      "end": "2026-11-05T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "19:00 – 20:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/92513844732?pwd=BkmdSFRZnHjIriiYOs2csEI8Givzyu.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "6e1d32471a46cbc843f65811651e98c70e574992eb51cdc1eceb8cb5cde13443",
+      "sequence": 0,
+      "created": "2026-10-22T21:29:35+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11179": {
+      "id": 11179,
+      "title": "USask Family Medicine (Prince Albert) Town Hall Session",
+      "url": "https://canprepp.ca/events/usask-family-medicine-prince-albert-town-hall-session/",
+      "date": "2026-10-27",
+      "start": "2026-10-28T01:00:00+00:00",
+      "end": "2026-10-28T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "19:00 – 20:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/91612094230?pwd=RZ9QD4b4brpkn3PiatEL6us1vw72Q3.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "5935e41b40d7bd672afb57a6d1b0280935ddb62bd57010ee73969b3e9f3e0e27",
+      "sequence": 0,
+      "created": "2026-10-22T21:29:35+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11180": {
+      "id": 11180,
+      "title": "USask Family Medicine (Swift Current) Town Hall Session",
+      "url": "https://canprepp.ca/events/usask-family-medicine-swift-current-town-hall-session/",
+      "date": "2026-11-17",
+      "start": "2026-11-18T01:00:00+00:00",
+      "end": "2026-11-18T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "19:00 – 20:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/96563317664?pwd=hb0vQRSVHn6MIzIyTscF0uWFh37VyR.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "2dac3780af7c330d32c22fc688cf0076f64a00eabc167008463f4c361e27eda3",
+      "sequence": 0,
+      "created": "2026-10-22T21:29:35+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11160": {
+      "id": 11160,
+      "title": "USask ENT Residency Info Night",
+      "url": "https://canprepp.ca/events/usask-ent-residency-info-night-2/",
+      "date": "2026-10-26",
+      "start": "2026-10-26T23:00:00+00:00",
+      "end": "2026-10-27T00:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "17:00 – 18:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Otolaryngology - Head and Neck Surgery"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1"
+      },
+      "location": "Online",
+      "status": "CANCELLED",
+      "fingerprint": "d392de0416de68525ce927841c57be8ea61c38bf335dc0c1138954912d57d86c",
+      "sequence": 1,
+      "created": "2026-10-22T04:33:41+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11162": {
+      "id": 11162,
+      "title": "USask ENT Residency Info Night",
+      "url": "https://canprepp.ca/events/usask-ent-residency-info-night-3/",
+      "date": "2026-10-26",
+      "start": "2026-10-26T23:00:00+00:00",
+      "end": "2026-10-27T00:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "17:00 – 18:00 CST",
+      "categories": [
+        "University of Saskatchewan",
+        "R1",
+        "Otolaryngology - Head and Neck Surgery"
+      ],
+      "links": {
+        "Meeting Link": "https://usask-ca.zoom.us/j/97141719487?pwd=LgzUJaRM4uKx7K8hrgAIYbRrUXVcEW.1"
+      },
+      "location": "Online",
+      "status": "CANCELLED",
+      "fingerprint": "57e1cd7dd76b0f2e8bd354810a08bf4ddbec23469ee38ba5d48dd80a1969f805",
+      "sequence": 1,
+      "created": "2026-10-22T04:33:41+00:00",
+      "last_modified": "2026-10-22T21:29:35+00:00"
+    },
     "11165": {
       "id": 11165,
       "title": "USask (Saskatoon) ENT Information Nights",
@@ -17189,11 +17544,11 @@
         "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode"
       },
       "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "43ac04868a25bf6f563d43522dccfc813e0a505bdddde46101b9c4ce359474cb",
-      "sequence": 0,
+      "status": "CANCELLED",
+      "fingerprint": "95c20890872e19486de5cadb7a9b9f9bf05cb3ed977e1cfe1d4d75e277e2a3d0",
+      "sequence": 1,
       "created": "2026-10-22T17:05:10+00:00",
-      "last_modified": "2026-10-22T17:05:10+00:00"
+      "last_modified": "2026-10-22T21:29:35+00:00"
     },
     "11171": {
       "id": 11171,
@@ -17214,11 +17569,11 @@
         "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=0GyrJH5IIkebw9qcQjJ3bK8Nu1wmyLBNs3e9hsL-yy9UOUEzSjhSNjhFUERRSDFHUllGQzdFNEhQTi4u&origin=QRCode"
       },
       "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "8380cd71ec1a3c305352e2f7933b2af91e67d26c2ce6dc593775c45999204250",
-      "sequence": 0,
+      "status": "CANCELLED",
+      "fingerprint": "02128993827ce1d9417d326183b66d58fc09e8f632ba82fb138d65d49894eb14",
+      "sequence": 1,
       "created": "2026-10-22T17:05:10+00:00",
-      "last_modified": "2026-10-22T17:05:10+00:00"
+      "last_modified": "2026-10-22T21:29:35+00:00"
     }
   }
 }
