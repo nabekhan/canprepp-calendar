@@ -8291,7 +8291,7 @@
     "11145": {
       "modified_gmt": "2026-10-16T12:31:50",
       "calendar_hash": "02ba185a55614cf63ce9c791549325a230032cb5fceafa312dcdc61a8ada8c39",
-      "fetched_at": "2026-10-16T16:33:11+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11145,
         "title": "Western General Surgery CaRMS 2027 Information Session",
@@ -8624,9 +8624,9 @@
       }
     },
     "11172": {
-      "modified_gmt": "2026-10-22T17:13:05",
+      "modified_gmt": "2026-10-23T15:03:51",
       "calendar_hash": "0ebf41dca73d2c25d9d43160fcd6a19bab94b78202501f86f20c662a591365f1",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11172,
         "title": "USask Family Medicine (North West) Town Hall Session",
@@ -8650,9 +8650,9 @@
       }
     },
     "11173": {
-      "modified_gmt": "2026-10-22T17:13:03",
+      "modified_gmt": "2026-10-23T15:03:53",
       "calendar_hash": "2556cd4327caabba1a6ad2345fbf82e1ab1c891a56ba89f99a345e46f8f2cf9a",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11173,
         "title": "USask Family Medicine (Regina) Town Hall Session",
@@ -8676,9 +8676,9 @@
       }
     },
     "11174": {
-      "modified_gmt": "2026-10-22T17:14:08",
+      "modified_gmt": "2026-10-23T15:03:56",
       "calendar_hash": "843b5952b93f6ad126b262dcfbcf6a0a45a18cc7321a9e95e26e585413ef03e8",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11174,
         "title": "USask Family Medicine (Saskatoon) Town Hall Session",
@@ -8702,9 +8702,9 @@
       }
     },
     "11175": {
-      "modified_gmt": "2026-10-22T17:16:15",
+      "modified_gmt": "2026-10-23T15:03:58",
       "calendar_hash": "c50b151abae89df154084480a204d7dfab506ecc014e0b1dd51b5623c2500148",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11175,
         "title": "USask Family Medicine (Moose Jaw) Town Hall Session",
@@ -8728,9 +8728,9 @@
       }
     },
     "11176": {
-      "modified_gmt": "2026-10-22T17:18:14",
+      "modified_gmt": "2026-10-23T15:04:02",
       "calendar_hash": "7d1ac1106f375ad8b940776abfcb4c568c80afc0dabc83d299bf07a2806dea36",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11176,
         "title": "USask Family Medicine (North East) Town Hall Session",
@@ -8754,9 +8754,9 @@
       }
     },
     "11177": {
-      "modified_gmt": "2026-10-22T17:21:13",
+      "modified_gmt": "2026-10-23T15:04:07",
       "calendar_hash": "3daab2f316432ff31272fbed65016fc1184d738ace4b25c9fe58b8779a649fbf",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11177,
         "title": "USask Family Medicine (La Ronge) Town Hall Session",
@@ -8780,9 +8780,9 @@
       }
     },
     "11178": {
-      "modified_gmt": "2026-10-22T17:18:44",
+      "modified_gmt": "2026-10-23T15:04:05",
       "calendar_hash": "115abcd53468a5f59c00915f72ff74fa5df892366501d6f022f02e4232e36d99",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11178,
         "title": "USask Family Medicine (South East) Town Hall Session",
@@ -8806,9 +8806,9 @@
       }
     },
     "11179": {
-      "modified_gmt": "2026-10-22T17:21:26",
+      "modified_gmt": "2026-10-23T15:04:09",
       "calendar_hash": "fbb4ef23fb22472d749ba1b2a0f4d8d36d564ea83c61b3af2afcb095d7f4baae",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11179,
         "title": "USask Family Medicine (Prince Albert) Town Hall Session",
@@ -8832,9 +8832,9 @@
       }
     },
     "11180": {
-      "modified_gmt": "2026-10-22T17:16:51",
+      "modified_gmt": "2026-10-23T15:04:00",
       "calendar_hash": "795ba74d845bac1caff491c26128111c66587a3ea86f41d6db15a63d40a4edf1",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
       "event": {
         "id": 11180,
         "title": "USask Family Medicine (Swift Current) Town Hall Session",
@@ -8904,6 +8904,114 @@
         ],
         "links": {
           "Register": "https://mcmaster.zoom.us/meeting/register/U0GBMOxFQmGnm2zQjU6xZg"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11187": {
+      "modified_gmt": "2026-10-23T14:46:53",
+      "calendar_hash": "dac06d896f2b4ecdaefb1b7df186f3e9522b4093920fd58649791dbfba334501",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
+      "event": {
+        "id": 11187,
+        "title": "Western Family Medicine Info Session #1",
+        "url": "https://canprepp.ca/events/western-family-medicine-info-session-1-3/",
+        "date": "2026-11-04",
+        "start": "2026-11-04T23:30:00+00:00",
+        "end": "2026-11-05T01:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "18:30 – 20:30 EST",
+        "categories": [
+          "Western University",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://westernuniversity.zoom.us/webinar/register/WN_az5LkBXvRwGLRR5m_yDGHA",
+          "Register": "https://westernuniversity.zoom.us/webinar/register/WN_az5LkBXvRwGLRR5m_yDGHA"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11188": {
+      "modified_gmt": "2026-10-23T14:46:21",
+      "calendar_hash": "dc3855938f226fcc5e6277b68dc8d0ec252ab2bf523e311f9c6be79a704569de",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
+      "event": {
+        "id": 11188,
+        "title": "Western Family Medicine Info Session #2",
+        "url": "https://canprepp.ca/events/western-family-medicine-info-session-2-3/",
+        "date": "2026-11-18",
+        "start": "2026-11-18T23:30:00+00:00",
+        "end": "2026-11-19T01:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "18:30 – 20:30 EST",
+        "categories": [
+          "Western University",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://westernuniversity.zoom.us/webinar/register/WN_2RSgyEqMRTCtNPBv6ip5nQ",
+          "Register": "https://westernuniversity.zoom.us/webinar/register/WN_2RSgyEqMRTCtNPBv6ip5nQ"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11189": {
+      "modified_gmt": "2026-10-23T14:51:08",
+      "calendar_hash": "415c73a43d4d439adfb0f460ca78ab8eba98d044f1267fc93b901dd0ad421c9f",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
+      "event": {
+        "id": 11189,
+        "title": "Western Family Medicine Resident Q&A Session",
+        "url": "https://canprepp.ca/events/western-family-resident-qa-session/",
+        "date": "2026-11-11",
+        "start": "2026-11-12T00:00:00+00:00",
+        "end": "2026-11-12T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 21:00 EST",
+        "categories": [
+          "Western University",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g",
+          "Register": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11190": {
+      "modified_gmt": "2026-10-23T14:51:27",
+      "calendar_hash": "415c73a43d4d439adfb0f460ca78ab8eba98d044f1267fc93b901dd0ad421c9f",
+      "fetched_at": "2026-10-23T16:59:19+00:00",
+      "event": {
+        "id": 11190,
+        "title": "Western Family Medicine Resident Q&A Session",
+        "url": "https://canprepp.ca/events/western-family-resident-qa-session-2/",
+        "date": "2026-11-11",
+        "start": "2026-11-12T00:00:00+00:00",
+        "end": "2026-11-12T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 21:00 EST",
+        "categories": [
+          "Western University",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g",
+          "Register": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -17474,6 +17582,110 @@
       "sequence": 0,
       "created": "2026-10-23T11:30:44+00:00",
       "last_modified": "2026-10-23T11:30:44+00:00"
+    },
+    "11187": {
+      "id": 11187,
+      "title": "Western Family Medicine Info Session #1",
+      "url": "https://canprepp.ca/events/western-family-medicine-info-session-1-3/",
+      "date": "2026-11-04",
+      "start": "2026-11-04T23:30:00+00:00",
+      "end": "2026-11-05T01:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "18:30 – 20:30 EST",
+      "categories": [
+        "Western University",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://westernuniversity.zoom.us/webinar/register/WN_az5LkBXvRwGLRR5m_yDGHA",
+        "Register": "https://westernuniversity.zoom.us/webinar/register/WN_az5LkBXvRwGLRR5m_yDGHA"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "2d5c894f062e0fa9deeae6c9064925e303aabe174f7553335779686fd44d2fc3",
+      "sequence": 0,
+      "created": "2026-10-23T16:59:19+00:00",
+      "last_modified": "2026-10-23T16:59:19+00:00"
+    },
+    "11188": {
+      "id": 11188,
+      "title": "Western Family Medicine Info Session #2",
+      "url": "https://canprepp.ca/events/western-family-medicine-info-session-2-3/",
+      "date": "2026-11-18",
+      "start": "2026-11-18T23:30:00+00:00",
+      "end": "2026-11-19T01:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "18:30 – 20:30 EST",
+      "categories": [
+        "Western University",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://westernuniversity.zoom.us/webinar/register/WN_2RSgyEqMRTCtNPBv6ip5nQ",
+        "Register": "https://westernuniversity.zoom.us/webinar/register/WN_2RSgyEqMRTCtNPBv6ip5nQ"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "ce075176389cf80ab7b3a9b404fc11f25fae77372f30a543c7d676342407e6f7",
+      "sequence": 0,
+      "created": "2026-10-23T16:59:19+00:00",
+      "last_modified": "2026-10-23T16:59:19+00:00"
+    },
+    "11189": {
+      "id": 11189,
+      "title": "Western Family Medicine Resident Q&A Session",
+      "url": "https://canprepp.ca/events/western-family-resident-qa-session/",
+      "date": "2026-11-11",
+      "start": "2026-11-12T00:00:00+00:00",
+      "end": "2026-11-12T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 21:00 EST",
+      "categories": [
+        "Western University",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g",
+        "Register": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "564bfb11241b9e7d8782eff2080d6ab48b6d91ac32cd5bddf9b3b90d009338ab",
+      "sequence": 0,
+      "created": "2026-10-23T16:59:19+00:00",
+      "last_modified": "2026-10-23T16:59:19+00:00"
+    },
+    "11190": {
+      "id": 11190,
+      "title": "Western Family Medicine Resident Q&A Session",
+      "url": "https://canprepp.ca/events/western-family-resident-qa-session-2/",
+      "date": "2026-11-11",
+      "start": "2026-11-12T00:00:00+00:00",
+      "end": "2026-11-12T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 21:00 EST",
+      "categories": [
+        "Western University",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g",
+        "Register": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "6b36181197fcfa48dc1cf5d6c9f102e31b08725f361618acef71a942d66c1884",
+      "sequence": 0,
+      "created": "2026-10-23T16:59:19+00:00",
+      "last_modified": "2026-10-23T16:59:19+00:00"
     },
     "11160": {
       "id": 11160,

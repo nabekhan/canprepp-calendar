@@ -3821,6 +3821,26 @@ URL:https://canprepp.ca/events/ubc-family-practice-postgrad-victoria-site-
 X-CANPREPP-ID:11006
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Western Family Medicine Info Session #1
+DTSTART:20261104T233000Z
+DTEND:20261105T013000Z
+DTSTAMP:20261023T165919Z
+UID:canprepp-event-11187@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Family Medicine
+CREATED:20261023T165919Z
+DESCRIPTION:https://canprepp.ca/events/western-family-medicine-info-sessio
+ n-1-3/\nPublished time: 18:30 – 20:30 EST\nMeeting Link: https://western
+ university.zoom.us/webinar/register/WN_az5LkBXvRwGLRR5m_yDGHA\nRegister: h
+ ttps://westernuniversity.zoom.us/webinar/register/WN_az5LkBXvRwGLRR5m_yDGH
+ A
+LAST-MODIFIED:20261023T165919Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-family-medicine-info-session-1-3/
+X-CANPREPP-ID:11187
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NOSM UNIVERSITY ANESTHESIA VIRTUAL INFO SESSION
 DTSTART:20261105T000000Z
 DTEND:20261105T010000Z
@@ -4821,6 +4841,44 @@ URL:https://canprepp.ca/events/queens-pmr-meet-and-greet-4/
 X-CANPREPP-ID:10926
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Western Family Medicine Resident Q&A Session
+DTSTART:20261112T000000Z
+DTEND:20261112T020000Z
+DTSTAMP:20261023T165919Z
+UID:canprepp-event-11189@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Family Medicine
+CREATED:20261023T165919Z
+DESCRIPTION:https://canprepp.ca/events/western-family-resident-qa-session/
+ \nPublished time: 19:00 – 21:00 EST\nMeeting Link: https://westernuniver
+ sity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g\nRegister: https://we
+ sternuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g
+LAST-MODIFIED:20261023T165919Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-family-resident-qa-session/
+X-CANPREPP-ID:11189
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Family Medicine Resident Q&A Session
+DTSTART:20261112T000000Z
+DTEND:20261112T020000Z
+DTSTAMP:20261023T165919Z
+UID:canprepp-event-11190@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Family Medicine
+CREATED:20261023T165919Z
+DESCRIPTION:https://canprepp.ca/events/western-family-resident-qa-session-
+ 2/\nPublished time: 19:00 – 21:00 EST\nMeeting Link: https://westernuniv
+ ersity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g\nRegister: https://
+ westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g
+LAST-MODIFIED:20261023T165919Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-family-resident-qa-session-2/
+X-CANPREPP-ID:11190
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC General Surgery Resident Information Session
 DTSTART:20261112T003000Z
 DTEND:20261112T020000Z
@@ -5535,6 +5593,26 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/promotional-townhall-for-western-university
  -internal-medicine-carms-interviews-2/
 X-CANPREPP-ID:11088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Western Family Medicine Info Session #2
+DTSTART:20261118T233000Z
+DTEND:20261119T013000Z
+DTSTAMP:20261023T165919Z
+UID:canprepp-event-11188@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Family Medicine
+CREATED:20261023T165919Z
+DESCRIPTION:https://canprepp.ca/events/western-family-medicine-info-sessio
+ n-2-3/\nPublished time: 18:30 – 20:30 EST\nMeeting Link: https://western
+ university.zoom.us/webinar/register/WN_2RSgyEqMRTCtNPBv6ip5nQ\nRegister: h
+ ttps://westernuniversity.zoom.us/webinar/register/WN_2RSgyEqMRTCtNPBv6ip5n
+ Q
+LAST-MODIFIED:20261023T165919Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-family-medicine-info-session-2-3/
+X-CANPREPP-ID:11188
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rural Family Medicine Meet & Greet – Part 2
