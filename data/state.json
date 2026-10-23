@@ -5731,19 +5731,19 @@
       }
     },
     "11015": {
-      "modified_gmt": "2026-09-28T17:03:52",
-      "calendar_hash": "3f5655e8be93c2975c7ad5bcdb516d30d5de091a952aaffdb0249fbf644a2729",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
+      "modified_gmt": "2026-10-23T17:14:06",
+      "calendar_hash": "60be106805e87e5cca01d329e72c345bc03419ba4a796830c457556ad8b8a47a",
+      "fetched_at": "2026-10-23T21:20:27+00:00",
       "event": {
         "id": 11015,
         "title": "UBC Family Practice Postgrad – Prince George & Northern Rural Site QA",
         "url": "https://canprepp.ca/events/ubc-family-practice-postgrad-prince-george-northern-rural-site-qa-4/",
         "date": "2026-11-10",
-        "start": "2026-11-11T00:00:00+00:00",
+        "start": "2026-11-11T01:00:00+00:00",
         "end": "2026-11-11T02:00:00+00:00",
         "all_day": false,
         "timezone_label": "PST",
-        "published_time": "17:00 – 19:00 PST",
+        "published_time": "18:00 – 19:00 PST",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -6017,9 +6017,9 @@
       }
     },
     "11026": {
-      "modified_gmt": "2026-09-28T18:12:36",
+      "modified_gmt": "2026-10-23T17:18:21",
       "calendar_hash": "a1949deb1edabe3ec37414056436e79d42f7d7f2e14810959c3cb9e733962d82",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
+      "fetched_at": "2026-10-23T21:20:27+00:00",
       "event": {
         "id": 11026,
         "title": "UBC Family Practice Postgrad – Northwest Terrace Site QA",
@@ -6036,7 +6036,7 @@
           "Family Medicine"
         ],
         "links": {
-          "Meeting Link": "https://ubc.zoom.us/j/67271850423?pwd=fFtZdlJUxmf2Htfd5ano5hLabQ2P7R.1"
+          "Meeting Link": "https://ubc.zoom.us/j/67144693328?pwd=fbuRAQTmNizA3ug3ScubUMzztlZmQf.1&from=addon"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -6815,9 +6815,9 @@
       }
     },
     "11071": {
-      "modified_gmt": "2026-10-04T20:35:38",
+      "modified_gmt": "2026-10-23T17:30:33",
       "calendar_hash": "2971027aacefbf0d14000fa57d97c1e8be102e9e779b08c9d3ce4fb4e7f4b67f",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
+      "fetched_at": "2026-10-23T21:20:27+00:00",
       "event": {
         "id": 11071,
         "title": "UofA Family Medicine- Rural Info Session",
@@ -6833,7 +6833,9 @@
           "R1",
           "Family Medicine CMG"
         ],
-        "links": {},
+        "links": {
+          "Meeting Link": "https://ualberta-ca.zoom.us/j/93618827834?pwd=jpntygumLnzFSAyafPOzaTHcHeMamd.1"
+        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -6863,9 +6865,9 @@
       }
     },
     "11073": {
-      "modified_gmt": "2026-10-04T20:42:31",
+      "modified_gmt": "2026-10-23T17:31:46",
       "calendar_hash": "9ea2bf03e38ad94e042989ba35064318cb8585b397a7584efc706ab1ab91a94c",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
+      "fetched_at": "2026-10-23T21:20:27+00:00",
       "event": {
         "id": 11073,
         "title": "UofA Family Medicine- IMG Info Session",
@@ -6881,7 +6883,9 @@
           "R1",
           "Family Medicine"
         ],
-        "links": {},
+        "links": {
+          "Meeting Link": "https://ualberta-ca.zoom.us/j/93618827834?pwd=jpntygumLnzFSAyafPOzaTHcHeMamd.1"
+        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -14555,11 +14559,11 @@
       "title": "UBC Family Practice Postgrad – Prince George & Northern Rural Site QA",
       "url": "https://canprepp.ca/events/ubc-family-practice-postgrad-prince-george-northern-rural-site-qa-4/",
       "date": "2026-11-10",
-      "start": "2026-11-11T00:00:00+00:00",
+      "start": "2026-11-11T01:00:00+00:00",
       "end": "2026-11-11T02:00:00+00:00",
       "all_day": false,
       "timezone_label": "PST",
-      "published_time": "17:00 – 19:00 PST",
+      "published_time": "18:00 – 19:00 PST",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -14570,10 +14574,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "9c187f54f0f353e46028a6bbef0a650f1ee09a9fd85631828305b877d0e9dde2",
-      "sequence": 1,
+      "fingerprint": "f36673c92303744759d9ced850e1c699f3fd854f09d653c2a5ccae75d34a05b0",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-10-23T21:20:27+00:00"
     },
     "11016": {
       "id": 11016,
@@ -14841,14 +14845,14 @@
         "Family Medicine"
       ],
       "links": {
-        "Meeting Link": "https://ubc.zoom.us/j/67271850423?pwd=fFtZdlJUxmf2Htfd5ano5hLabQ2P7R.1"
+        "Meeting Link": "https://ubc.zoom.us/j/67144693328?pwd=fbuRAQTmNizA3ug3ScubUMzztlZmQf.1&from=addon"
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "66bf04692fd5677552cbbd8d616145c52bf19c90caa81865209fbd4736040f94",
-      "sequence": 1,
+      "fingerprint": "176641f8297c72c6f5e8f1f5c3511e97b85a708ca86f62211faa198015c44d61",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-10-23T21:20:27+00:00"
     },
     "11027": {
       "id": 11027,
@@ -15607,13 +15611,15 @@
         "R1",
         "Family Medicine CMG"
       ],
-      "links": {},
+      "links": {
+        "Meeting Link": "https://ualberta-ca.zoom.us/j/93618827834?pwd=jpntygumLnzFSAyafPOzaTHcHeMamd.1"
+      },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "33114829f4b3ac6a8b571ab50a6869f32f5f8cb78add06a9936a158dadd0345b",
-      "sequence": 0,
+      "fingerprint": "456a4d1cf9d1f9f1b7dc1c5e7a3ffe3fee48b85f387aaa272da48b182b9fa315",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-10-23T21:20:27+00:00"
     },
     "11072": {
       "id": 11072,
@@ -15653,13 +15659,15 @@
         "R1",
         "Family Medicine"
       ],
-      "links": {},
+      "links": {
+        "Meeting Link": "https://ualberta-ca.zoom.us/j/93618827834?pwd=jpntygumLnzFSAyafPOzaTHcHeMamd.1"
+      },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "5764b74e107f69f1ff32ad7ef1d141fbd5d13ae8d22cf6b44be6ad852280f7d5",
-      "sequence": 0,
+      "fingerprint": "2e990f8a412adaed6836ed01455a88827d76ed8f820e603f2f13507d5e1e49af",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-10-23T21:20:27+00:00"
     },
     "11074": {
       "id": 11074,

@@ -2880,14 +2880,15 @@ BEGIN:VEVENT
 SUMMARY:UofA Family Medicine- Rural Info Session
 DTSTART:20261029T003000Z
 DTEND:20261029T013000Z
-DTSTAMP:20261012T191757Z
+DTSTAMP:20261023T212027Z
 UID:canprepp-event-11071@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Family Medicine CMG
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofa-family-medicine-rural-info-ses
- sion/\nPublished time: 18:30 – 19:30 MDT
-LAST-MODIFIED:20261012T191757Z
+ sion/\nPublished time: 18:30 – 19:30 MDT\nMeeting Link: https://ualberta
+ -ca.zoom.us/j/93618827834?pwd=jpntygumLnzFSAyafPOzaTHcHeMamd.1
+LAST-MODIFIED:20261023T212027Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofa-family-medicine-rural-info-session/
@@ -4704,27 +4705,6 @@ URL:https://canprepp.ca/events/university-of-torontos-division-of-dermatol
 X-CANPREPP-ID:10912
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UBC Family Practice Postgrad – Prince George & Northern Rural Si
- te QA
-DTSTART:20261111T000000Z
-DTEND:20261111T020000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-11015@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of British Columbia,R1,Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-prince
- -george-northern-rural-site-qa-4/\nPublished time: 17:00 – 19:00 PST\nMe
- eting Link: https://ubc.zoom.us/j/66916130364?pwd=nzpKRWvIGa608dzbfdBq1Z0V
- V5JBU3.1
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-family-practice-postgrad-prince-george-
- northern-rural-site-qa-4/
-X-CANPREPP-ID:11015
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MacPeds – CaRMS Town Hall
 DTSTART:20261111T000000Z
 DTEND:20261111T013000Z
@@ -4802,6 +4782,27 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-alberta-core-internal-medicin
  e-virtual-town-hall-event-2/
 X-CANPREPP-ID:10980
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Family Practice Postgrad – Prince George & Northern Rural Si
+ te QA
+DTSTART:20261111T010000Z
+DTEND:20261111T020000Z
+DTSTAMP:20261023T212027Z
+UID:canprepp-event-11015@canprepp.ca
+SEQUENCE:2
+CATEGORIES:University of British Columbia,R1,Family Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-prince
+ -george-northern-rural-site-qa-4/\nPublished time: 18:00 – 19:00 PST\nMe
+ eting Link: https://ubc.zoom.us/j/66916130364?pwd=nzpKRWvIGa608dzbfdBq1Z0V
+ V5JBU3.1
+LAST-MODIFIED:20261023T212027Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-family-practice-postgrad-prince-george-
+ northern-rural-site-qa-4/
+X-CANPREPP-ID:11015
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Toronto Paediatrics CaRMS Town Hall
@@ -5963,14 +5964,15 @@ BEGIN:VEVENT
 SUMMARY:UofA Family Medicine- IMG Info Session
 DTSTART:20261124T000000Z
 DTEND:20261124T010000Z
-DTSTAMP:20261012T191757Z
+DTSTAMP:20261023T212027Z
 UID:canprepp-event-11073@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofa-family-medicine-img-info-sessi
- on/\nPublished time: 18:00 – 19:00 MDT
-LAST-MODIFIED:20261012T191757Z
+ on/\nPublished time: 18:00 – 19:00 MDT\nMeeting Link: https://ualberta-c
+ a.zoom.us/j/93618827834?pwd=jpntygumLnzFSAyafPOzaTHcHeMamd.1
+LAST-MODIFIED:20261023T212027Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofa-family-medicine-img-info-session/
@@ -5980,15 +5982,16 @@ BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Northwest Terrace Site QA
 DTSTART:20261124T003000Z
 DTEND:20261124T013000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261023T212027Z
 UID:canprepp-event-11026@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-northw
  est-terrace-site-qa-2/\nPublished time: 17:30 – 18:30 PST\nMeeting Link:
-  https://ubc.zoom.us/j/67271850423?pwd=fFtZdlJUxmf2Htfd5ano5hLabQ2P7R.1
-LAST-MODIFIED:20261014T004823Z
+  https://ubc.zoom.us/j/67144693328?pwd=fbuRAQTmNizA3ug3ScubUMzztlZmQf.1&fr
+ om=addon
+LAST-MODIFIED:20261023T212027Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-northwest-terr
