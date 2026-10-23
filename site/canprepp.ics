@@ -2802,6 +2802,24 @@ URL:https://canprepp.ca/events/ubc-internal-medicine-fraser-meet-greet-3/
 X-CANPREPP-ID:11049
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MacPeds – CaRMS Town Hall
+DTSTART:20261028T230000Z
+DTEND:20261029T003000Z
+DTSTAMP:20261023T113044Z
+UID:canprepp-event-11184@canprepp.ca
+SEQUENCE:0
+CATEGORIES:McMaster University,R1,Pediatrics
+CREATED:20261023T113044Z
+DESCRIPTION:https://canprepp.ca/events/macpeds-carms-town-hall-3/\nPublish
+ ed time: 19:00 – 20:30 EST\nRegister: https://mcmaster.zoom.us/meeting/r
+ egister/wpeZfnD0S5Wbuv7Iuk0gUw
+LAST-MODIFIED:20261023T113044Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/macpeds-carms-town-hall-3/
+X-CANPREPP-ID:11184
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Program Info Event (PIE)
 DTSTART:20261028T233000Z
 DTEND:20261029T020000Z
@@ -4685,6 +4703,24 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-prince-george-
  northern-rural-site-qa-4/
 X-CANPREPP-ID:11015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MacPeds – CaRMS Town Hall
+DTSTART:20261111T000000Z
+DTEND:20261111T013000Z
+DTSTAMP:20261023T113044Z
+UID:canprepp-event-11186@canprepp.ca
+SEQUENCE:0
+CATEGORIES:McMaster University,R1,Pediatrics
+CREATED:20261023T113044Z
+DESCRIPTION:https://canprepp.ca/events/macpeds-carms-town-hall-4/\nPublish
+ ed time: 19:00 – 20:30 EST\nRegister: https://mcmaster.zoom.us/meeting/r
+ egister/U0GBMOxFQmGnm2zQjU6xZg
+LAST-MODIFIED:20261023T113044Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/macpeds-carms-town-hall-4/
+X-CANPREPP-ID:11186
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TMU CaRMS Pediatrics Information Session

@@ -8856,6 +8856,58 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11184": {
+      "modified_gmt": "2026-10-23T11:10:23",
+      "calendar_hash": "49cdcdc829ccb6e2bfdd2d572e896fb4a93e33b461184584781f77cb8c10fbd3",
+      "fetched_at": "2026-10-23T11:30:44+00:00",
+      "event": {
+        "id": 11184,
+        "title": "MacPeds – CaRMS Town Hall",
+        "url": "https://canprepp.ca/events/macpeds-carms-town-hall-3/",
+        "date": "2026-10-28",
+        "start": "2026-10-28T23:00:00+00:00",
+        "end": "2026-10-29T00:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:30 EST",
+        "categories": [
+          "McMaster University",
+          "R1",
+          "Pediatrics"
+        ],
+        "links": {
+          "Register": "https://mcmaster.zoom.us/meeting/register/wpeZfnD0S5Wbuv7Iuk0gUw"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11186": {
+      "modified_gmt": "2026-10-23T11:16:17",
+      "calendar_hash": "c2f694c1d63cdd686911a7d8f01671cd1fad993a42c3093333147b81359dfb49",
+      "fetched_at": "2026-10-23T11:30:44+00:00",
+      "event": {
+        "id": 11186,
+        "title": "MacPeds – CaRMS Town Hall",
+        "url": "https://canprepp.ca/events/macpeds-carms-town-hall-4/",
+        "date": "2026-11-10",
+        "start": "2026-11-11T00:00:00+00:00",
+        "end": "2026-11-11T01:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:30 EST",
+        "categories": [
+          "McMaster University",
+          "R1",
+          "Pediatrics"
+        ],
+        "links": {
+          "Register": "https://mcmaster.zoom.us/meeting/register/U0GBMOxFQmGnm2zQjU6xZg"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -17372,6 +17424,56 @@
       "sequence": 0,
       "created": "2026-10-22T21:29:35+00:00",
       "last_modified": "2026-10-22T21:29:35+00:00"
+    },
+    "11184": {
+      "id": 11184,
+      "title": "MacPeds – CaRMS Town Hall",
+      "url": "https://canprepp.ca/events/macpeds-carms-town-hall-3/",
+      "date": "2026-10-28",
+      "start": "2026-10-28T23:00:00+00:00",
+      "end": "2026-10-29T00:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:30 EST",
+      "categories": [
+        "McMaster University",
+        "R1",
+        "Pediatrics"
+      ],
+      "links": {
+        "Register": "https://mcmaster.zoom.us/meeting/register/wpeZfnD0S5Wbuv7Iuk0gUw"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "7236e377bf0915b05c82985597ae87e40f1c8952b9aeb5e56153db2387bd5b59",
+      "sequence": 0,
+      "created": "2026-10-23T11:30:44+00:00",
+      "last_modified": "2026-10-23T11:30:44+00:00"
+    },
+    "11186": {
+      "id": 11186,
+      "title": "MacPeds – CaRMS Town Hall",
+      "url": "https://canprepp.ca/events/macpeds-carms-town-hall-4/",
+      "date": "2026-11-10",
+      "start": "2026-11-11T00:00:00+00:00",
+      "end": "2026-11-11T01:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:30 EST",
+      "categories": [
+        "McMaster University",
+        "R1",
+        "Pediatrics"
+      ],
+      "links": {
+        "Register": "https://mcmaster.zoom.us/meeting/register/U0GBMOxFQmGnm2zQjU6xZg"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "88b2bb9b4e11443e199f84b8298d77e4bc20120cd6b2141bced973574f28e16a",
+      "sequence": 0,
+      "created": "2026-10-23T11:30:44+00:00",
+      "last_modified": "2026-10-23T11:30:44+00:00"
     },
     "11160": {
       "id": 11160,
