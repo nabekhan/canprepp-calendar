@@ -596,32 +596,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10619": {
-      "modified_gmt": "2026-06-30T16:56:57",
-      "calendar_hash": "dd72520df2b660921d8282d2349859cdb58aab767eac22ce35fbd9d0166c5258",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
-      "event": {
-        "id": 10619,
-        "title": "UofA Pediatrics CaRMS Townhall",
-        "url": "https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_indigenous-child-health-session-2/",
-        "date": "2026-09-22",
-        "start": "2026-09-23T00:00:00+00:00",
-        "end": "2026-09-23T01:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "18:00 – 19:00 MST",
-        "categories": [
-          "University of Alberta",
-          "R1",
-          "Pediatrics"
-        ],
-        "links": {
-          "Meeting Link": "https://ualberta-ca.zoom.us/j/2571867283?pwd=uys1xTsir3uZHdMoLJNILTahVKzFyW.1&omn=91823264739"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10620": {
       "modified_gmt": "2026-06-30T16:59:00",
       "calendar_hash": "bc4b30f6458132eb234602b4be3a9eea6264f0d575cc510ddb25d4fc0d1ba23e",
@@ -2817,32 +2791,6 @@
         ],
         "links": {
           "Register": "https://utoronto.zoom.us/meeting/register/AyGjPZxERPK7kTPsi_uR4w"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10824": {
-      "modified_gmt": "2026-09-04T20:20:00",
-      "calendar_hash": "637c1312137aaee4bb64da4d8698cdf1d6363910c5fda5a809dbca6190341fee",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
-      "event": {
-        "id": 10824,
-        "title": "Meet and Greet with the Program Director – CMG Applicants",
-        "url": "https://canprepp.ca/events/meet-and-greet-with-the-program-director-cmg-applicants/",
-        "date": "2026-09-22",
-        "start": "2026-09-23T00:00:00+00:00",
-        "end": "2026-09-23T01:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "18:00 – 19:00 MST",
-        "categories": [
-          "University of Alberta",
-          "R1",
-          "Psychiatry"
-        ],
-        "links": {
-          "Meeting Link": "https://ualberta-ca.zoom.us/j/98435705469?pwd=pJMuywCJOAsHUHTB0EtQyLkfcfVbtn.1"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -9507,31 +9455,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "10619": {
-      "id": 10619,
-      "title": "UofA Pediatrics CaRMS Townhall",
-      "url": "https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_indigenous-child-health-session-2/",
-      "date": "2026-09-22",
-      "start": "2026-09-23T00:00:00+00:00",
-      "end": "2026-09-23T01:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "18:00 – 19:00 MST",
-      "categories": [
-        "University of Alberta",
-        "R1",
-        "Pediatrics"
-      ],
-      "links": {
-        "Meeting Link": "https://ualberta-ca.zoom.us/j/2571867283?pwd=uys1xTsir3uZHdMoLJNILTahVKzFyW.1&omn=91823264739"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "f1d109642c553aeac5a46bf1975d4ff004789786b45d91e9ff05d6c6cdeaa697",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10620": {
       "id": 10620,
       "title": "UofA Pediatrics CaRMS Townhall",
@@ -11646,31 +11569,6 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10824": {
-      "id": 10824,
-      "title": "Meet and Greet with the Program Director – CMG Applicants",
-      "url": "https://canprepp.ca/events/meet-and-greet-with-the-program-director-cmg-applicants/",
-      "date": "2026-09-22",
-      "start": "2026-09-23T00:00:00+00:00",
-      "end": "2026-09-23T01:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "18:00 – 19:00 MST",
-      "categories": [
-        "University of Alberta",
-        "R1",
-        "Psychiatry"
-      ],
-      "links": {
-        "Meeting Link": "https://ualberta-ca.zoom.us/j/98435705469?pwd=pJMuywCJOAsHUHTB0EtQyLkfcfVbtn.1"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "cd2ca2a5ae05704aae90e4fe73aa83c7fc5121cf45078f96d7f328433e8c0543",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "10825": {
       "id": 10825,

@@ -7,46 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:UofA Pediatrics CaRMS Townhall
-DTSTART:20260923T000000Z
-DTEND:20260923T010000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10619@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Alberta,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_ind
- igenous-child-health-session-2/\nPublished time: 18:00 – 19:00 MST\nMeet
- ing Link: https://ualberta-ca.zoom.us/j/2571867283?pwd=uys1xTsir3uZHdMoLJN
- ILTahVKzFyW.1&omn=91823264739
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-_indigenous-
- child-health-session-2/
-X-CANPREPP-ID:10619
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meet and Greet with the Program Director – CMG Applicants
-DTSTART:20260923T000000Z
-DTEND:20260923T010000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10824@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Alberta,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/meet-and-greet-with-the-program-dir
- ector-cmg-applicants/\nPublished time: 18:00 – 19:00 MST\nMeeting Link: 
- https://ualberta-ca.zoom.us/j/98435705469?pwd=pJMuywCJOAsHUHTB0EtQyLkfcfVb
- tn.1
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/meet-and-greet-with-the-program-director-cm
- g-applicants/
-X-CANPREPP-ID:10824
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Toronto Psychiatry Virtual Information Session #1
 DTSTART:20260923T230000Z
 DTEND:20260924T003000Z
