@@ -7,45 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:University of Toronto Psychiatry Virtual Information Session #1
-DTSTART:20260923T230000Z
-DTEND:20260924T003000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10723@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Toronto,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-toronto-psychiatry-vi
- rtual-information-session-1/\nPublished time: 19:00 – 20:30 EDT\nRegiste
- r: https://utoronto.zoom.us/meeting/register/iNsOaGBCTlCdWb3QCnckiQ
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-toronto-psychiatry-virtual-in
- formation-session-1/
-X-CANPREPP-ID:10723
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Meet and Greet with the Program Director – IMG Applicants:
-DTSTART:20260924T000000Z
-DTEND:20260924T010000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10825@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Alberta,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/meet-and-greet-with-the-program-dir
- ector-img-applicants/\nPublished time: 18:00 – 19:00 MST\nMeeting Link: 
- https://ualberta-ca.zoom.us/j/94350213615?pwd=soIbRrAvg5bOSt42bJE1ANEwDuMD
- dh.1%20
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/meet-and-greet-with-the-program-director-im
- g-applicants/
-X-CANPREPP-ID:10825
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
 DTSTART:20260924T140000Z
 DTEND:20260924T143000Z
@@ -3632,6 +3593,25 @@ URL:https://canprepp.ca/events/mcmaster-carms-info-session-internal-medici
 X-CANPREPP-ID:10963
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:McMaster Waterloo Internal Medicine Information Session
+DTSTART:20261104T220000Z
+DTEND:20261104T230000Z
+DTSTAMP:20261024T042800Z
+UID:canprepp-event-11041@canprepp.ca
+SEQUENCE:2
+CATEGORIES:McMaster University,R1,Internal Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine
+ -information-session-2/\nPublished time: 17:00 – 18:00 EDT\nMeeting Link
+ : https://mcmaster.zoom.us/j/92332375196
+LAST-MODIFIED:20261024T042800Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine-informa
+ tion-session-2/
+X-CANPREPP-ID:11041
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CaRMS Town Hall Session – University of Calgary Internal Medicin
  e
 DTSTART:20261104T230000Z
@@ -3708,25 +3688,6 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/macpeds-ask-a-resident-night-7/
 X-CANPREPP-ID:10976
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McMaster Waterloo Internal Medicine Information Session
-DTSTART:20261104T230000Z
-DTEND:20261105T000000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-11041@canprepp.ca
-SEQUENCE:1
-CATEGORIES:McMaster University,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine
- -information-session-2/\nPublished time: 18:00 – 19:00 EDT\nMeeting Link
- : https://mcmaster.zoom.us/j/92332375196
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine-informa
- tion-session-2/
-X-CANPREPP-ID:11041
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Internal Medicine\, Fraser Meet & Greet
