@@ -7,45 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
-DTSTART:20260924T140000Z
-DTEND:20260924T143000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10650@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Calgary,R1,Emergency Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
- icine-meet-the-pds-24/\nPublished time: 08:00 – 08:30 MST\nMeeting Link:
-  http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
- ink
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
- et-the-pds-24/
-X-CANPREPP-ID:10650
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of Manitoba Pediatrics Information Session
-DTSTART:20260925T000000Z
-DTEND:20260925T020000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10808@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Manitoba,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-pediatrics-i
- nformation-session/\nPublished time: 19:00 – 21:00 CST\nMeeting Link: ht
- tps://umanitoba.zoom.us/j/63967893824?pwd=tm2ocGwhqqLN1fRCrME1U22BLRmjX3.1
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-manitoba-pediatrics-informati
- on-session/
-X-CANPREPP-ID:10808
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NOSM UNIVERSITY EMERGENCY MEDICINE VIRTUAL INFO SESSION
 DTSTART:20260928T230000Z
 DTEND:20260929T010000Z

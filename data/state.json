@@ -800,32 +800,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10650": {
-      "modified_gmt": "2026-07-17T16:03:30",
-      "calendar_hash": "4272c98e5a382c5c733b67b19d8ac42d72d24902c78e6604f31454851a361d7f",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
-      "event": {
-        "id": 10650,
-        "title": "University of Calgary Emergency Medicine – Meet the PDs",
-        "url": "https://canprepp.ca/events/university-of-calgary-emergency-medicine-meet-the-pds-24/",
-        "date": "2026-09-24",
-        "start": "2026-09-24T14:00:00+00:00",
-        "end": "2026-09-24T14:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "08:00 – 08:30 MST",
-        "categories": [
-          "University of Calgary",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Meeting Link": "http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20link"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10652": {
       "modified_gmt": "2026-07-17T16:06:05",
       "calendar_hash": "b93a0a649d024931e0d75a0d17fdbf00cdc9f62ffbe0c90278693fc2a26791b0",
@@ -2450,32 +2424,6 @@
           "Emergency Medicine"
         ],
         "links": {},
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10808": {
-      "modified_gmt": "2026-09-03T19:22:04",
-      "calendar_hash": "ca4dd7e7cf41914617c0a60912614290625b258f9bb79000103a600390f23de0",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
-      "event": {
-        "id": 10808,
-        "title": "University of Manitoba Pediatrics Information Session",
-        "url": "https://canprepp.ca/events/university-of-manitoba-pediatrics-information-session/",
-        "date": "2026-09-24",
-        "start": "2026-09-25T00:00:00+00:00",
-        "end": "2026-09-25T02:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "CST",
-        "published_time": "19:00 – 21:00 CST",
-        "categories": [
-          "University of Manitoba",
-          "R1",
-          "Pediatrics"
-        ],
-        "links": {
-          "Meeting Link": "https://umanitoba.zoom.us/j/63967893824?pwd=tm2ocGwhqqLN1fRCrME1U22BLRmjX3.1"
-        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -9763,31 +9711,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "10650": {
-      "id": 10650,
-      "title": "University of Calgary Emergency Medicine – Meet the PDs",
-      "url": "https://canprepp.ca/events/university-of-calgary-emergency-medicine-meet-the-pds-24/",
-      "date": "2026-09-24",
-      "start": "2026-09-24T14:00:00+00:00",
-      "end": "2026-09-24T14:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "08:00 – 08:30 MST",
-      "categories": [
-        "University of Calgary",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Meeting Link": "http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20link"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "ac52ccb89b81d350187d13cef78fd14f036bfc60776ce8883db57bc5777848d9",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10652": {
       "id": 10652,
       "title": "University of Calgary Emergency Medicine – Meet the PDs",
@@ -11352,31 +11275,6 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10808": {
-      "id": 10808,
-      "title": "University of Manitoba Pediatrics Information Session",
-      "url": "https://canprepp.ca/events/university-of-manitoba-pediatrics-information-session/",
-      "date": "2026-09-24",
-      "start": "2026-09-25T00:00:00+00:00",
-      "end": "2026-09-25T02:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "CST",
-      "published_time": "19:00 – 21:00 CST",
-      "categories": [
-        "University of Manitoba",
-        "R1",
-        "Pediatrics"
-      ],
-      "links": {
-        "Meeting Link": "https://umanitoba.zoom.us/j/63967893824?pwd=tm2ocGwhqqLN1fRCrME1U22BLRmjX3.1"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "ce304953e1a88c76d45d8268b8552218f71e088ef6d901d53dc00cb6f54f2f64",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "10809": {
       "id": 10809,
