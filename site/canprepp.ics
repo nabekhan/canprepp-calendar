@@ -2517,15 +2517,15 @@ BEGIN:VEVENT
 SUMMARY:Western Paediatrics Information Session
 DTSTART:20261027T230000Z
 DTEND:20261028T003000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261025T160530Z
 UID:canprepp-event-11007@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:Western University,R1,Pediatrics
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/western-paediatrics-information-ses
  sion/\nPublished time: 19:00 – 20:30 EST\nRegister: https://westernunive
- rsity.zoom.us/meeting/register/CZYfQ_CMSTmPxCvR3HPOyg 
-LAST-MODIFIED:20261014T004823Z
+ rsity.zoom.us/meeting/register/CZYfQ_CMSTmPxCvR3HPOyg%20
+LAST-MODIFIED:20261025T160530Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/western-paediatrics-information-session/

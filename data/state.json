@@ -5421,9 +5421,9 @@
       }
     },
     "11007": {
-      "modified_gmt": "2026-09-28T16:17:36",
+      "modified_gmt": "2026-10-25T14:33:02",
       "calendar_hash": "9ac50975bca4b9fe9fd815cf7986f23042786e29ee65587e4872bbe53bba6ee9",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
+      "fetched_at": "2026-10-25T16:05:30+00:00",
       "event": {
         "id": 11007,
         "title": "Western Paediatrics Information Session",
@@ -5440,7 +5440,7 @@
           "Pediatrics"
         ],
         "links": {
-          "Register": "https://westernuniversity.zoom.us/meeting/register/CZYfQ_CMSTmPxCvR3HPOyg "
+          "Register": "https://westernuniversity.zoom.us/meeting/register/CZYfQ_CMSTmPxCvR3HPOyg%20"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -14168,14 +14168,14 @@
         "Pediatrics"
       ],
       "links": {
-        "Register": "https://westernuniversity.zoom.us/meeting/register/CZYfQ_CMSTmPxCvR3HPOyg "
+        "Register": "https://westernuniversity.zoom.us/meeting/register/CZYfQ_CMSTmPxCvR3HPOyg%20"
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "2ed5c855aa37032e4eeabec43bf8f5db18bf2d736b77826b378604335e420811",
-      "sequence": 1,
+      "fingerprint": "7f5cf6b476fc5da229e129fbfdd74b9db9c9d94dd3ba4d2649bf5928077bcf5b",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-10-25T16:05:30+00:00"
     },
     "11008": {
       "id": 11008,
