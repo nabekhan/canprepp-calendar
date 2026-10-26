@@ -2742,6 +2742,26 @@ URL:https://canprepp.ca/events/macpeds-carms-town-hall-3/
 X-CANPREPP-ID:11184
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Ottawa Pediatric Neurology Information Session
+DTSTART:20261028T230000Z
+DTEND:20261029T000000Z
+DTSTAMP:20261026T202625Z
+UID:canprepp-event-11193@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Ottawa,R1,Pediatrics
+CREATED:20261026T202625Z
+DESCRIPTION:https://canprepp.ca/events/university-of-ottawa-pediatric-neur
+ ology-information-session-5/\nPublished time: 19:00 – 20:00 EST\nMeeting
+  Link: https://teams.microsoft.com/meet/288032729363459?p=vMJydRR0bKudMR8E
+ TZ%20
+LAST-MODIFIED:20261026T202625Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-ottawa-pediatric-neurology-in
+ formation-session-5/
+X-CANPREPP-ID:11193
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Program Info Event (PIE)
 DTSTART:20261028T233000Z
 DTEND:20261029T020000Z
@@ -5768,6 +5788,26 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/usask-family-medicine-north-west-town-hall-
  session/
 X-CANPREPP-ID:11172
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Ottawa Pediatric Neurology Information Session
+DTSTART:20261120T000000Z
+DTEND:20261120T010000Z
+DTSTAMP:20261026T202625Z
+UID:canprepp-event-11194@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Ottawa,R1,Pediatrics
+CREATED:20261026T202625Z
+DESCRIPTION:https://canprepp.ca/events/university-of-ottawa-pediatric-neur
+ ology-information-session-6/\nPublished time: 19:00 – 20:00 EST\nMeeting
+  Link: https://teams.microsoft.com/meet/2410571045388?p=OoXtKqXDcoc7pihIAu
+ %20
+LAST-MODIFIED:20261026T202625Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-ottawa-pediatric-neurology-in
+ formation-session-6/
+X-CANPREPP-ID:11194
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster Peds Neuro CaRMS Info Night

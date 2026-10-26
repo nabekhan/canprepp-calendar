@@ -4067,9 +4067,9 @@
       }
     },
     "10921": {
-      "modified_gmt": "2026-09-18T17:32:15",
+      "modified_gmt": "2026-10-26T13:44:04",
       "calendar_hash": "5063af176964992ea6542c87afabbfb46dd1775b9494b462f99c2f9934a8aa73",
-      "fetched_at": "2026-10-19T20:33:27+00:00",
+      "fetched_at": "2026-10-26T20:26:25+00:00",
       "event": {
         "id": 10921,
         "title": "Memorial University of Newfoundland Family Medicine Training Program Central Stream Information Session",
@@ -8912,6 +8912,58 @@
         "links": {
           "Meeting Link": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g",
           "Register": "https://westernuniversity.zoom.us/meeting/register/f3-aTH8BSWaMfXwhcqAW3g"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11193": {
+      "modified_gmt": "2026-10-26T15:53:14",
+      "calendar_hash": "66fdeaf47b5817b66fa8c0a44bbb8238b9a6a324f7ee97564e9a641fbbee7cb6",
+      "fetched_at": "2026-10-26T20:26:25+00:00",
+      "event": {
+        "id": 11193,
+        "title": "University of Ottawa Pediatric Neurology Information Session",
+        "url": "https://canprepp.ca/events/university-of-ottawa-pediatric-neurology-information-session-5/",
+        "date": "2026-10-28",
+        "start": "2026-10-28T23:00:00+00:00",
+        "end": "2026-10-29T00:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:00 EST",
+        "categories": [
+          "University of Ottawa",
+          "R1",
+          "Pediatrics"
+        ],
+        "links": {
+          "Meeting Link": "https://teams.microsoft.com/meet/288032729363459?p=vMJydRR0bKudMR8ETZ%20"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11194": {
+      "modified_gmt": "2026-10-26T15:52:21",
+      "calendar_hash": "3fd064876da03820a953ba071838bf4ee9f8d9dff489d93385c56369053788d2",
+      "fetched_at": "2026-10-26T20:26:25+00:00",
+      "event": {
+        "id": 11194,
+        "title": "University of Ottawa Pediatric Neurology Information Session",
+        "url": "https://canprepp.ca/events/university-of-ottawa-pediatric-neurology-information-session-6/",
+        "date": "2026-11-19",
+        "start": "2026-11-20T00:00:00+00:00",
+        "end": "2026-11-20T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:00 EST",
+        "categories": [
+          "University of Ottawa",
+          "R1",
+          "Pediatrics"
+        ],
+        "links": {
+          "Meeting Link": "https://teams.microsoft.com/meet/2410571045388?p=OoXtKqXDcoc7pihIAu%20"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -17490,6 +17542,56 @@
       "sequence": 0,
       "created": "2026-10-23T16:59:19+00:00",
       "last_modified": "2026-10-23T16:59:19+00:00"
+    },
+    "11193": {
+      "id": 11193,
+      "title": "University of Ottawa Pediatric Neurology Information Session",
+      "url": "https://canprepp.ca/events/university-of-ottawa-pediatric-neurology-information-session-5/",
+      "date": "2026-10-28",
+      "start": "2026-10-28T23:00:00+00:00",
+      "end": "2026-10-29T00:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:00 EST",
+      "categories": [
+        "University of Ottawa",
+        "R1",
+        "Pediatrics"
+      ],
+      "links": {
+        "Meeting Link": "https://teams.microsoft.com/meet/288032729363459?p=vMJydRR0bKudMR8ETZ%20"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "8d797cc9663f3f9cddd5c622b96d144470e0b60d4bb875c083af56212ae31f72",
+      "sequence": 0,
+      "created": "2026-10-26T20:26:25+00:00",
+      "last_modified": "2026-10-26T20:26:25+00:00"
+    },
+    "11194": {
+      "id": 11194,
+      "title": "University of Ottawa Pediatric Neurology Information Session",
+      "url": "https://canprepp.ca/events/university-of-ottawa-pediatric-neurology-information-session-6/",
+      "date": "2026-11-19",
+      "start": "2026-11-20T00:00:00+00:00",
+      "end": "2026-11-20T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:00 EST",
+      "categories": [
+        "University of Ottawa",
+        "R1",
+        "Pediatrics"
+      ],
+      "links": {
+        "Meeting Link": "https://teams.microsoft.com/meet/2410571045388?p=OoXtKqXDcoc7pihIAu%20"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "d4dd05c2c7d9eefd883a121c13293b052561855aca4abe6d03c517206c83a7d7",
+      "sequence": 0,
+      "created": "2026-10-26T20:26:25+00:00",
+      "last_modified": "2026-10-26T20:26:25+00:00"
     },
     "11160": {
       "id": 11160,
