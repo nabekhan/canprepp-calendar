@@ -2762,6 +2762,23 @@ URL:https://canprepp.ca/events/university-of-ottawa-pediatric-neurology-in
 X-CANPREPP-ID:11193
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Queen’s University OBGYN Townhall
+DTSTART:20261028T230000Z
+DTSTAMP:20261027T220725Z
+UID:canprepp-event-11198@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Queen's University,R1,Obstetrics and Gynecology
+CREATED:20261027T220725Z
+DESCRIPTION:https://canprepp.ca/events/queens-university-obgyn-townhall/\n
+ Published time: 19:00 EST\nMeeting Link: https://queensu.zoom.us/j/9127220
+ 8555?pwd=EEVfhQp9Uyn0jeof6aFadOSa9Sfngm.1
+LAST-MODIFIED:20261027T220725Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-university-obgyn-townhall/
+X-CANPREPP-ID:11198
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Program Info Event (PIE)
 DTSTART:20261028T233000Z
 DTEND:20261029T020000Z
@@ -3158,15 +3175,15 @@ BEGIN:VEVENT
 SUMMARY:UBC Psychiatry CaRMS Info Session #2
 DTSTART:20261102T233000Z
 DTEND:20261103T010000Z
-DTSTAMP:20261012T191757Z
+DTSTAMP:20261027T220725Z
 UID:canprepp-event-10864@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Psychiatry
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-psychiatry-carms-info-session-2
- -3/\nPublished time: 16:30 – 18:00 PDT\nMeeting Link: https://ubc.zoom.u
+ -3/\nPublished time: 16:30 – 18:00 PST\nMeeting Link: https://ubc.zoom.u
  s/j/67414864535?pwd=mRZ3Ro4oabqJrFeVOVudpK3DpCnoYd.1
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261027T220725Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-psychiatry-carms-info-session-2-3/
@@ -3862,6 +3879,23 @@ URL:https://canprepp.ca/events/usask-family-medicine-north-east-town-hall-
 X-CANPREPP-ID:11176
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Queen’s University OBGYN Townhall
+DTSTART:20261105T000000Z
+DTSTAMP:20261027T220725Z
+UID:canprepp-event-11199@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Queen's University,R1,Obstetrics and Gynecology
+CREATED:20261027T220725Z
+DESCRIPTION:https://canprepp.ca/events/queens-university-obgyn-townhall-2/
+ \nPublished time: 19:00 EST\nMeeting Link: https://queensu.zoom.us/j/91272
+ 208555?pwd=EEVfhQp9Uyn0jeof6aFadOSa9Sfngm.1
+LAST-MODIFIED:20261027T220725Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-university-obgyn-townhall-2/
+X-CANPREPP-ID:11199
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UofC General Surgery CaRMS Information Session
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
@@ -4359,16 +4393,16 @@ SUMMARY:Queen’s Anesthesiology – Meet the Program Director/Assistant P
  rogram Director
 DTSTART:20261110T000000Z
 DTEND:20261110T020000Z
-DTSTAMP:20261012T191757Z
+DTSTAMP:20261027T220725Z
 UID:canprepp-event-10424@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Queen's University,R1,Anesthesiology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/queens-anesthesiology-meet-the-prog
  ram-director-assistant-program-director-6/\nPublished time: 19:00 – 21:0
- 0 EST\nMeeting Link: https://queensu.zoom.us/j/95772017524?pwd=JxAD91uBV18
- CiKuk6GLNwn6TzVGM8F.1
-LAST-MODIFIED:20261012T191757Z
+ 0 EST\nMeeting Link: https://queensu.zoom.us/j/96852320259?pwd=arscdnRkcl7
+ 5C6qSe4IbEpJg2gHwJI.1
+LAST-MODIFIED:20261027T220725Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/queens-anesthesiology-meet-the-program-dire
@@ -5285,6 +5319,25 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/carms-info-night-4/
 X-CANPREPP-ID:11074
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Ottawa Dermatology Program CaRMS information session
+DTSTART:20261117T000000Z
+DTEND:20261117T020000Z
+DTSTAMP:20261027T220725Z
+UID:canprepp-event-11200@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Ottawa,R1,Dermatology
+CREATED:20261027T220725Z
+DESCRIPTION:https://canprepp.ca/events/university-of-ottawa-dermatology-pr
+ ogram-carms-information-session/\nPublished time: 19:00 – 21:00 EST\nReg
+ ister: https://forms.gle/AdiZzh5afWZ3fUro8
+LAST-MODIFIED:20261027T220725Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-ottawa-dermatology-program-ca
+ rms-information-session/
+X-CANPREPP-ID:11200
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofT – Neuropathology Program Info Session

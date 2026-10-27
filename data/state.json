@@ -309,9 +309,9 @@
       }
     },
     "10424": {
-      "modified_gmt": "2026-08-17T16:19:33",
+      "modified_gmt": "2026-10-27T17:09:12",
       "calendar_hash": "9ca7521ba000c9f7aac01ccc523370bc85735b6be9b232334e242432a90cb1e0",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
+      "fetched_at": "2026-10-27T22:07:25+00:00",
       "event": {
         "id": 10424,
         "title": "Queen’s Anesthesiology – Meet the Program Director/Assistant Program Director",
@@ -328,7 +328,7 @@
           "Anesthesiology"
         ],
         "links": {
-          "Meeting Link": "https://queensu.zoom.us/j/95772017524?pwd=JxAD91uBV18CiKuk6GLNwn6TzVGM8F.1"
+          "Meeting Link": "https://queensu.zoom.us/j/96852320259?pwd=arscdnRkcl75C6qSe4IbEpJg2gHwJI.1"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -3337,9 +3337,9 @@
       }
     },
     "10864": {
-      "modified_gmt": "2026-10-27T01:29:12",
-      "calendar_hash": "2603d7f850b1fbcecdfcb75cc9df0556b22d962d30a218fb0c3804682d2ffd82",
-      "fetched_at": "2026-10-27T08:53:23+00:00",
+      "modified_gmt": "2026-10-27T16:39:01",
+      "calendar_hash": "7221cced4bccc957827e85ff125a923f3527a869f5218374026afd1c29c7785f",
+      "fetched_at": "2026-10-27T22:07:25+00:00",
       "event": {
         "id": 10864,
         "title": "UBC Psychiatry CaRMS Info Session #2",
@@ -3348,8 +3348,8 @@
         "start": "2026-11-02T23:30:00+00:00",
         "end": "2026-11-03T01:00:00+00:00",
         "all_day": false,
-        "timezone_label": "PDT",
-        "published_time": "16:30 – 18:00 PDT",
+        "timezone_label": "PST",
+        "published_time": "16:30 – 18:00 PST",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -4833,7 +4833,7 @@
     "10963": {
       "modified_gmt": "2026-10-20T17:12:20",
       "calendar_hash": "6fc980b6edbe1d04fd20d9e2350e58a639664db088d1222ae1d394fe9c77186f",
-      "fetched_at": "2026-10-20T19:10:30+00:00",
+      "fetched_at": "2026-10-27T22:07:25+00:00",
       "event": {
         "id": 10963,
         "title": "McMaster – CaRMS Info Session Internal Medicine Waterloo Regional Campus",
@@ -8448,7 +8448,7 @@
     "11156": {
       "modified_gmt": "2026-10-20T17:58:10",
       "calendar_hash": "81adb322151acaa3e35d074a63f3862ef397f45e9e77166fbfd1acea1ccb7542",
-      "fetched_at": "2026-10-20T19:10:30+00:00",
+      "fetched_at": "2026-10-27T22:07:25+00:00",
       "event": {
         "id": 11156,
         "title": "USask Dermatology CaRMS Information Session",
@@ -8968,6 +8968,84 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11198": {
+      "modified_gmt": "2026-10-27T20:40:46",
+      "calendar_hash": "b47c89956fe754ea0792ea6dd6436fc01c991387d5b3a98fe2acdafdfcd41890",
+      "fetched_at": "2026-10-27T22:07:25+00:00",
+      "event": {
+        "id": 11198,
+        "title": "Queen’s University OBGYN Townhall",
+        "url": "https://canprepp.ca/events/queens-university-obgyn-townhall/",
+        "date": "2026-10-28",
+        "start": "2026-10-28T23:00:00+00:00",
+        "end": null,
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 EST",
+        "categories": [
+          "Queen's University",
+          "R1",
+          "Obstetrics and Gynecology"
+        ],
+        "links": {
+          "Meeting Link": "https://queensu.zoom.us/j/91272208555?pwd=EEVfhQp9Uyn0jeof6aFadOSa9Sfngm.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11199": {
+      "modified_gmt": "2026-10-27T20:41:26",
+      "calendar_hash": "e43b733c3802f8bcd7965b4e49b9b09126bc4fdf18b64432b9c3a4e166d525b9",
+      "fetched_at": "2026-10-27T22:07:25+00:00",
+      "event": {
+        "id": 11199,
+        "title": "Queen’s University OBGYN Townhall",
+        "url": "https://canprepp.ca/events/queens-university-obgyn-townhall-2/",
+        "date": "2026-11-04",
+        "start": "2026-11-05T00:00:00+00:00",
+        "end": null,
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 EST",
+        "categories": [
+          "Queen's University",
+          "R1",
+          "Obstetrics and Gynecology"
+        ],
+        "links": {
+          "Meeting Link": "https://queensu.zoom.us/j/91272208555?pwd=EEVfhQp9Uyn0jeof6aFadOSa9Sfngm.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11200": {
+      "modified_gmt": "2026-10-27T20:44:42",
+      "calendar_hash": "e2d553111dd34a2426947517b6827f8189beca1830fb1390e9a701fdd3204fec",
+      "fetched_at": "2026-10-27T22:07:25+00:00",
+      "event": {
+        "id": 11200,
+        "title": "University of Ottawa Dermatology Program CaRMS information session",
+        "url": "https://canprepp.ca/events/university-of-ottawa-dermatology-program-carms-information-session/",
+        "date": "2026-11-16",
+        "start": "2026-11-17T00:00:00+00:00",
+        "end": "2026-11-17T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 21:00 EST",
+        "categories": [
+          "University of Ottawa",
+          "R1",
+          "Dermatology"
+        ],
+        "links": {
+          "Register": "https://forms.gle/AdiZzh5afWZ3fUro8"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -9306,14 +9384,14 @@
         "Anesthesiology"
       ],
       "links": {
-        "Meeting Link": "https://queensu.zoom.us/j/95772017524?pwd=JxAD91uBV18CiKuk6GLNwn6TzVGM8F.1"
+        "Meeting Link": "https://queensu.zoom.us/j/96852320259?pwd=arscdnRkcl75C6qSe4IbEpJg2gHwJI.1"
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "997360b7439bf463d5254fab57846a27e9ae6beeb9d7e0236f0644bcb30d6bd3",
-      "sequence": 0,
+      "fingerprint": "8894cfc3b84d31351e0a849c0af2a101c853c7f01a6f19ef174a4b51defaaaf1",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-10-27T22:07:25+00:00"
     },
     "10579": {
       "id": 10579,
@@ -12209,8 +12287,8 @@
       "start": "2026-11-02T23:30:00+00:00",
       "end": "2026-11-03T01:00:00+00:00",
       "all_day": false,
-      "timezone_label": "PDT",
-      "published_time": "16:30 – 18:00 PDT",
+      "timezone_label": "PST",
+      "published_time": "16:30 – 18:00 PST",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -12221,10 +12299,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "0bb0ac666e559eb9a85f1e6edba6dc3ff23e2c152b934d79880e823197beeef7",
-      "sequence": 0,
+      "fingerprint": "c3e34af53704e18c3e0ac239247cf851c54bc51ee5d2969fc5a40d85ec1ff324",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-10-27T22:07:25+00:00"
     },
     "10885": {
       "id": 10885,
@@ -17592,6 +17670,81 @@
       "sequence": 0,
       "created": "2026-10-26T20:26:25+00:00",
       "last_modified": "2026-10-26T20:26:25+00:00"
+    },
+    "11198": {
+      "id": 11198,
+      "title": "Queen’s University OBGYN Townhall",
+      "url": "https://canprepp.ca/events/queens-university-obgyn-townhall/",
+      "date": "2026-10-28",
+      "start": "2026-10-28T23:00:00+00:00",
+      "end": null,
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 EST",
+      "categories": [
+        "Queen's University",
+        "R1",
+        "Obstetrics and Gynecology"
+      ],
+      "links": {
+        "Meeting Link": "https://queensu.zoom.us/j/91272208555?pwd=EEVfhQp9Uyn0jeof6aFadOSa9Sfngm.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "60cd428a5905fc4669109b43f35e3438b28309fb0892ec6498648bea78abd77d",
+      "sequence": 0,
+      "created": "2026-10-27T22:07:25+00:00",
+      "last_modified": "2026-10-27T22:07:25+00:00"
+    },
+    "11199": {
+      "id": 11199,
+      "title": "Queen’s University OBGYN Townhall",
+      "url": "https://canprepp.ca/events/queens-university-obgyn-townhall-2/",
+      "date": "2026-11-04",
+      "start": "2026-11-05T00:00:00+00:00",
+      "end": null,
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 EST",
+      "categories": [
+        "Queen's University",
+        "R1",
+        "Obstetrics and Gynecology"
+      ],
+      "links": {
+        "Meeting Link": "https://queensu.zoom.us/j/91272208555?pwd=EEVfhQp9Uyn0jeof6aFadOSa9Sfngm.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "f222dc7317bc5824307f8806b55490ad94b561183291193b33467cc5fb256e29",
+      "sequence": 0,
+      "created": "2026-10-27T22:07:25+00:00",
+      "last_modified": "2026-10-27T22:07:25+00:00"
+    },
+    "11200": {
+      "id": 11200,
+      "title": "University of Ottawa Dermatology Program CaRMS information session",
+      "url": "https://canprepp.ca/events/university-of-ottawa-dermatology-program-carms-information-session/",
+      "date": "2026-11-16",
+      "start": "2026-11-17T00:00:00+00:00",
+      "end": "2026-11-17T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 21:00 EST",
+      "categories": [
+        "University of Ottawa",
+        "R1",
+        "Dermatology"
+      ],
+      "links": {
+        "Register": "https://forms.gle/AdiZzh5afWZ3fUro8"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "1e2b49a14de9f5151b6391f03adabcbd23743bfbb93560c1b4fb65fbb9ddf99e",
+      "sequence": 0,
+      "created": "2026-10-27T22:07:25+00:00",
+      "last_modified": "2026-10-27T22:07:25+00:00"
     },
     "11160": {
       "id": 11160,
