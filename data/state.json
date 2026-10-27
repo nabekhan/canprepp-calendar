@@ -3337,9 +3337,9 @@
       }
     },
     "10864": {
-      "modified_gmt": "2026-10-17T18:29:30",
+      "modified_gmt": "2026-10-27T01:29:12",
       "calendar_hash": "2603d7f850b1fbcecdfcb75cc9df0556b22d962d30a218fb0c3804682d2ffd82",
-      "fetched_at": "2026-10-24T20:41:59+00:00",
+      "fetched_at": "2026-10-27T08:53:23+00:00",
       "event": {
         "id": 10864,
         "title": "UBC Psychiatry CaRMS Info Session #2",
@@ -7780,7 +7780,7 @@
     "11122": {
       "modified_gmt": "2026-10-13T00:50:31",
       "calendar_hash": "c2454e9dcb73db2fca51931cd1562b7f6072142d74e0d0ae05855649fd454f8f",
-      "fetched_at": "2026-10-20T08:25:47+00:00",
+      "fetched_at": "2026-10-27T08:53:23+00:00",
       "event": {
         "id": 11122,
         "title": "Dalhousie University Otolaryngology CaRMS Information Session",
