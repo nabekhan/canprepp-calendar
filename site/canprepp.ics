@@ -3172,6 +3172,24 @@ URL:https://canprepp.ca/events/queens-university-ophthalmology-town-hall-8
 X-CANPREPP-ID:10703
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Radiation Oncology Town Hall
+DTSTART:20261102T220000Z
+DTEND:20261102T230000Z
+DTSTAMP:20261028T201342Z
+UID:canprepp-event-11203@canprepp.ca
+SEQUENCE:0
+CATEGORIES:McMaster University,R1,Radiation Oncology
+CREATED:20261028T201342Z
+DESCRIPTION:https://canprepp.ca/events/radiation-oncology-town-hall-6/\nPu
+ blished time: 17:00 – 18:00 EST\nMeeting Link: https://mcmaster.zoom.us/
+ j/94552041924
+LAST-MODIFIED:20261028T201342Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/radiation-oncology-town-hall-6/
+X-CANPREPP-ID:11203
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC Psychiatry CaRMS Info Session #2
 DTSTART:20261102T233000Z
 DTEND:20261103T010000Z
@@ -5338,6 +5356,24 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-ottawa-dermatology-program-ca
  rms-information-session/
 X-CANPREPP-ID:11200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radiation Oncology Town Hall
+DTSTART:20261117T000000Z
+DTEND:20261117T010000Z
+DTSTAMP:20261028T201342Z
+UID:canprepp-event-11204@canprepp.ca
+SEQUENCE:0
+CATEGORIES:McMaster University,R1,Radiation Oncology
+CREATED:20261028T201342Z
+DESCRIPTION:https://canprepp.ca/events/radiation-oncology-town-hall-7/\nPu
+ blished time: 19:00 – 20:00 EST\nMeeting Link: https://mcmaster.zoom.us/
+ j/97283828913
+LAST-MODIFIED:20261028T201342Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/radiation-oncology-town-hall-7/
+X-CANPREPP-ID:11204
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofT – Neuropathology Program Info Session

@@ -9046,6 +9046,58 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11203": {
+      "modified_gmt": "2026-10-28T19:45:03",
+      "calendar_hash": "8d12823e8d9732c6e9db46254790a9330a63975681c1ba1fd4a13507ada8ac9a",
+      "fetched_at": "2026-10-28T20:13:42+00:00",
+      "event": {
+        "id": 11203,
+        "title": "Radiation Oncology Town Hall",
+        "url": "https://canprepp.ca/events/radiation-oncology-town-hall-6/",
+        "date": "2026-11-02",
+        "start": "2026-11-02T22:00:00+00:00",
+        "end": "2026-11-02T23:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "17:00 – 18:00 EST",
+        "categories": [
+          "McMaster University",
+          "R1",
+          "Radiation Oncology"
+        ],
+        "links": {
+          "Meeting Link": "https://mcmaster.zoom.us/j/94552041924"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11204": {
+      "modified_gmt": "2026-10-28T19:47:48",
+      "calendar_hash": "bf1aaa225099659c40ee8f77f9f9708cd11c8d555314c7940c176d918dfc57aa",
+      "fetched_at": "2026-10-28T20:13:42+00:00",
+      "event": {
+        "id": 11204,
+        "title": "Radiation Oncology Town Hall",
+        "url": "https://canprepp.ca/events/radiation-oncology-town-hall-7/",
+        "date": "2026-11-16",
+        "start": "2026-11-17T00:00:00+00:00",
+        "end": "2026-11-17T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:00 EST",
+        "categories": [
+          "McMaster University",
+          "R1",
+          "Radiation Oncology"
+        ],
+        "links": {
+          "Meeting Link": "https://mcmaster.zoom.us/j/97283828913"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -17745,6 +17797,56 @@
       "sequence": 0,
       "created": "2026-10-27T22:07:25+00:00",
       "last_modified": "2026-10-27T22:07:25+00:00"
+    },
+    "11203": {
+      "id": 11203,
+      "title": "Radiation Oncology Town Hall",
+      "url": "https://canprepp.ca/events/radiation-oncology-town-hall-6/",
+      "date": "2026-11-02",
+      "start": "2026-11-02T22:00:00+00:00",
+      "end": "2026-11-02T23:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "17:00 – 18:00 EST",
+      "categories": [
+        "McMaster University",
+        "R1",
+        "Radiation Oncology"
+      ],
+      "links": {
+        "Meeting Link": "https://mcmaster.zoom.us/j/94552041924"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "9b49b537ce38e5b798bf39f11daf3f6e208e041f8a1c9e393ad76b73b1d8b560",
+      "sequence": 0,
+      "created": "2026-10-28T20:13:42+00:00",
+      "last_modified": "2026-10-28T20:13:42+00:00"
+    },
+    "11204": {
+      "id": 11204,
+      "title": "Radiation Oncology Town Hall",
+      "url": "https://canprepp.ca/events/radiation-oncology-town-hall-7/",
+      "date": "2026-11-16",
+      "start": "2026-11-17T00:00:00+00:00",
+      "end": "2026-11-17T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:00 EST",
+      "categories": [
+        "McMaster University",
+        "R1",
+        "Radiation Oncology"
+      ],
+      "links": {
+        "Meeting Link": "https://mcmaster.zoom.us/j/97283828913"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "7b2a9b5baeb7d556326cc56a01c44dcc5cb7ebdfeda4109ce7afe5c210488acf",
+      "sequence": 0,
+      "created": "2026-10-28T20:13:42+00:00",
+      "last_modified": "2026-10-28T20:13:42+00:00"
     },
     "11160": {
       "id": 11160,
