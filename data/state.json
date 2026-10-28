@@ -181,7 +181,7 @@
     "9535": {
       "modified_gmt": "2026-10-20T20:33:20",
       "calendar_hash": "4da2194fc03110df411f1c161a8e5267cdbe94aa6a3ade14168a637249a8fc44",
-      "fetched_at": "2026-10-20T23:49:03+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 9535,
         "title": "uOttawa Psychiatry Info Session with Residents",
@@ -2153,7 +2153,7 @@
     "10783": {
       "modified_gmt": "2026-10-13T17:48:00",
       "calendar_hash": "850cdc935ebc79db4af91ff44351d9ac23585fe974964f6999ca52d2d42fec0e",
-      "fetched_at": "2026-10-20T23:49:03+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 10783,
         "title": "UofC Otolaryngology – Head & Neck Surgery Info Night",
@@ -2179,7 +2179,7 @@
     "10784": {
       "modified_gmt": "2026-10-13T17:50:54",
       "calendar_hash": "e9270018b48eae1a4901f8030ec339ebbba967b324f320b8f578eb3648d66256",
-      "fetched_at": "2026-10-20T23:49:03+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 10784,
         "title": "University of Calgary Otolaryngology – Head & Neck Surgery CaRMS Info Night",
@@ -4191,7 +4191,7 @@
     "10928": {
       "modified_gmt": "2026-10-13T15:52:48",
       "calendar_hash": "ca72a93437d812641116c4cbb6d4f59390d4653d197ba22fddbf9557cc53b553",
-      "fetched_at": "2026-10-20T23:49:03+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 10928,
         "title": "General Surgery CaRMS Town Hall",
@@ -6739,7 +6739,7 @@
     "11072": {
       "modified_gmt": "2026-10-21T01:39:25",
       "calendar_hash": "0f38a94dcefc75f94a87d3f5aa6d40846c40b0b4dd673ce4651302cd5f7da04c",
-      "fetched_at": "2026-10-21T04:35:04+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 11072,
         "title": "UofA Family Medicine- Urban/Edmonton Info Session",
@@ -7806,7 +7806,7 @@
     "11125": {
       "modified_gmt": "2026-10-13T18:51:06",
       "calendar_hash": "cd955257750e9118031ea95c6ca98c9afddb8b293d1075dcc6e957d664d22c80",
-      "fetched_at": "2026-10-20T23:49:03+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 11125,
         "title": "MEET THE PROGRAM – Dalhousie University Ophthalmology",
@@ -7830,7 +7830,7 @@
     "11126": {
       "modified_gmt": "2026-10-13T18:59:52",
       "calendar_hash": "3ed0f5ccba84cd8aa2e31aa0fec2cb217ad2f6af56b9276c8b5edf5853812283",
-      "fetched_at": "2026-10-20T23:49:03+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 11126,
         "title": "University of Toronto Paediatrics CaRMS Town Hall",
@@ -7856,7 +7856,7 @@
     "11127": {
       "modified_gmt": "2026-10-13T19:03:44",
       "calendar_hash": "0db9c96df713df765e1c68ce40c173fbb53cb85f0bae03f14030d24f82459264",
-      "fetched_at": "2026-10-20T23:49:03+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 11127,
         "title": "University of Toronto Paediatrics CaRMS Town Hall",
@@ -7882,7 +7882,7 @@
     "11128": {
       "modified_gmt": "2026-10-13T19:06:10",
       "calendar_hash": "8e84d05cbca0562fcf1a7d81e4736e8c0198cab70ff1dcc831a4b9fdb77ea9ac",
-      "fetched_at": "2026-10-20T23:49:03+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 11128,
         "title": "University of Toronto Paediatrics CaRMS Town Hall",
@@ -7908,7 +7908,7 @@
     "11129": {
       "modified_gmt": "2026-10-13T19:08:44",
       "calendar_hash": "ab5a6b8b93c7165a8578541ef1b114479140de14597d213202757a1d0d94c75b",
-      "fetched_at": "2026-10-20T23:49:03+00:00",
+      "fetched_at": "2026-10-28T05:29:48+00:00",
       "event": {
         "id": 11129,
         "title": "University of Toronto Paediatrics CaRMS Town Hall",
