@@ -703,7 +703,7 @@
     "10627": {
       "modified_gmt": "2026-10-14T20:39:18",
       "calendar_hash": "32dcd8775920f179d5a2edad7af14be0dfd29c753d0a7de4c0ea31c906a1fbda",
-      "fetched_at": "2026-10-22T04:33:41+00:00",
+      "fetched_at": "2026-10-29T09:50:08+00:00",
       "event": {
         "id": 10627,
         "title": "Queen’s University – General Surgery – Resident Meet and Greet",
@@ -727,7 +727,7 @@
     "10628": {
       "modified_gmt": "2026-10-14T20:39:21",
       "calendar_hash": "dd8fc2228daf0247eec49fb7cdf5ba2aaf0f47620dc0dcba475f455ae59532ad",
-      "fetched_at": "2026-10-22T04:33:41+00:00",
+      "fetched_at": "2026-10-29T09:50:08+00:00",
       "event": {
         "id": 10628,
         "title": "Queen’s University – General Surgery – Resident – Meet and Greet",
@@ -8450,7 +8450,7 @@
     "11158": {
       "modified_gmt": "2026-10-21T22:13:40",
       "calendar_hash": "d1fe6327cc6fa15cdbdb1e240fc16105f30fffa5d59efe0ce12b3b38373f54a4",
-      "fetched_at": "2026-10-22T04:33:41+00:00",
+      "fetched_at": "2026-10-29T09:50:08+00:00",
       "event": {
         "id": 11158,
         "title": "USask ENT Residency Info Night",
