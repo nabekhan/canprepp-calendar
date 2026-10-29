@@ -3623,32 +3623,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10901": {
-      "modified_gmt": "2026-09-16T19:34:35",
-      "calendar_hash": "ceb225bc15d50c42821ff67c5e6f581f581a66d5f6b44323d68128f4e38062a4",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
-      "event": {
-        "id": 10901,
-        "title": "NOSM UNIVERSITY EMERGENCY MEDICINE VIRTUAL INFO SESSION",
-        "url": "https://canprepp.ca/events/nosm-university-emergency-medicine-virtual-info-session/",
-        "date": "2026-09-28",
-        "start": "2026-09-28T23:00:00+00:00",
-        "end": "2026-09-29T01:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 21:00 EST",
-        "categories": [
-          "NOSM University",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Register": "https://nosm.webex.com/weblink/register/rc72eb74c661b7592eb4c4aed90488ce1"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10902": {
       "modified_gmt": "2026-09-16T17:06:41",
       "calendar_hash": "7a6c48d7c0f90f7568ef62a20e8f8437f737b9b780322d2fabea94a6e44f6e1b",
@@ -4755,9 +4729,9 @@
       }
     },
     "10960": {
-      "modified_gmt": "2026-09-23T21:31:26",
+      "modified_gmt": "2026-10-28T22:23:39",
       "calendar_hash": "19d74cd0342eef4ff5c6e9dbaee5b2548fe9783960ef52122e89f8ee4309a7da",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
+      "fetched_at": "2026-10-29T00:50:14+00:00",
       "event": {
         "id": 10960,
         "title": "UBC IM Vancouver Indigenous Stream Info Session",
@@ -4773,7 +4747,9 @@
           "R1",
           "Internal Medicine"
         ],
-        "links": {},
+        "links": {
+          "Meeting Link": "https://ubc.zoom.us/j/68967727171?pwd=igeaA3mekaETlBtJG1xlbUYc9FmHRp.1"
+        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -7958,7 +7934,7 @@
     "11131": {
       "modified_gmt": "2026-10-14T15:35:56",
       "calendar_hash": "839bf5bcd7c600d5f1d026598d107b90eb502e391f600f405dd5c5853cac67be",
-      "fetched_at": "2026-10-21T21:35:11+00:00",
+      "fetched_at": "2026-10-29T00:50:14+00:00",
       "event": {
         "id": 11131,
         "title": "UofT Hematological Pathology Info Session",
@@ -7984,7 +7960,7 @@
     "11132": {
       "modified_gmt": "2026-10-14T14:36:44",
       "calendar_hash": "df12af68adf45865cfb44d6c8febc906de522ecb98129c8707ab0aab822fee9f",
-      "fetched_at": "2026-10-21T21:35:11+00:00",
+      "fetched_at": "2026-10-29T00:50:14+00:00",
       "event": {
         "id": 11132,
         "title": "UofT Medical Microbiology Program Info Session",
@@ -8010,7 +7986,7 @@
     "11133": {
       "modified_gmt": "2026-10-14T15:15:40",
       "calendar_hash": "aaa4fa57b4e7294e4e8463fac28dd9435ef1c4e850b83069145a78df3bbceb31",
-      "fetched_at": "2026-10-21T21:35:11+00:00",
+      "fetched_at": "2026-10-29T00:50:14+00:00",
       "event": {
         "id": 11133,
         "title": "UofT Diagnostic & Molecular Pathology Program Info Session",
@@ -8036,7 +8012,7 @@
     "11134": {
       "modified_gmt": "2026-10-14T15:34:41",
       "calendar_hash": "7d636a88b4eae2bce1d3134dd68cfa03c3262d4aedcf3a0548729a1ee0f23840",
-      "fetched_at": "2026-10-21T21:35:11+00:00",
+      "fetched_at": "2026-10-29T00:50:14+00:00",
       "event": {
         "id": 11134,
         "title": "UofT – Neuropathology Program Info Session",
@@ -8062,7 +8038,7 @@
     "11135": {
       "modified_gmt": "2026-10-14T17:09:12",
       "calendar_hash": "1e15ccd2731c3b5f7f42822a5dc4753d649c6ac934f2aa61733ed40661a879ba",
-      "fetched_at": "2026-10-21T21:35:11+00:00",
+      "fetched_at": "2026-10-29T00:50:14+00:00",
       "event": {
         "id": 11135,
         "title": "UBC Otolaryngology – Head and Neck Surgery Info Session",
@@ -9094,6 +9070,32 @@
         ],
         "links": {
           "Meeting Link": "https://mcmaster.zoom.us/j/97283828913"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11206": {
+      "modified_gmt": "2026-10-28T21:15:34",
+      "calendar_hash": "027df41c8e5749ced5acbc6e50299fe2cae7f7a39e0681d42cc1f7ec87633c75",
+      "fetched_at": "2026-10-29T00:50:14+00:00",
+      "event": {
+        "id": 11206,
+        "title": "CaRMS Obstetrics & Gynecology Information Session",
+        "url": "https://canprepp.ca/events/carms-information-session-3/",
+        "date": "2026-11-03",
+        "start": "2026-11-04T00:30:00+00:00",
+        "end": "2026-11-04T02:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "MST",
+        "published_time": "18:30 – 20:30 MST",
+        "categories": [
+          "University of Calgary",
+          "R1",
+          "Obstetrics and Gynecology"
+        ],
+        "links": {
+          "Meeting Link": "https://ucalgary.zoom.us/j/92397063219"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -12607,31 +12609,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "10901": {
-      "id": 10901,
-      "title": "NOSM UNIVERSITY EMERGENCY MEDICINE VIRTUAL INFO SESSION",
-      "url": "https://canprepp.ca/events/nosm-university-emergency-medicine-virtual-info-session/",
-      "date": "2026-09-28",
-      "start": "2026-09-28T23:00:00+00:00",
-      "end": "2026-09-29T01:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 21:00 EST",
-      "categories": [
-        "NOSM University",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Register": "https://nosm.webex.com/weblink/register/rc72eb74c661b7592eb4c4aed90488ce1"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "34cd1682b52d9339c447d1774c3db052deca5e2c9d4654e98fd87762aff0d277",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10902": {
       "id": 10902,
       "title": "Dalhousie Anesthesia CaRMS 2027 Information Session",
@@ -13709,13 +13686,15 @@
         "R1",
         "Internal Medicine"
       ],
-      "links": {},
+      "links": {
+        "Meeting Link": "https://ubc.zoom.us/j/68967727171?pwd=igeaA3mekaETlBtJG1xlbUYc9FmHRp.1"
+      },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "ed9c3fb7d1ae0ca2dfe237b2eeb9742198261712b5b57f1c2cf2557b1bad10c6",
-      "sequence": 1,
+      "fingerprint": "74d1d25401b7a1275d46408e6d41e6296de5a98a78528729c4fd07f4b587c70d",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-10-29T00:50:14+00:00"
     },
     "10961": {
       "id": 10961,
@@ -17847,6 +17826,31 @@
       "sequence": 0,
       "created": "2026-10-28T20:13:42+00:00",
       "last_modified": "2026-10-28T20:13:42+00:00"
+    },
+    "11206": {
+      "id": 11206,
+      "title": "CaRMS Obstetrics & Gynecology Information Session",
+      "url": "https://canprepp.ca/events/carms-information-session-3/",
+      "date": "2026-11-03",
+      "start": "2026-11-04T00:30:00+00:00",
+      "end": "2026-11-04T02:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "MST",
+      "published_time": "18:30 – 20:30 MST",
+      "categories": [
+        "University of Calgary",
+        "R1",
+        "Obstetrics and Gynecology"
+      ],
+      "links": {
+        "Meeting Link": "https://ucalgary.zoom.us/j/92397063219"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "9ab623b3dc6b9302ebc9c529055f95bd469da5c5791d9557d737cfd13343a644",
+      "sequence": 0,
+      "created": "2026-10-29T00:50:14+00:00",
+      "last_modified": "2026-10-29T00:50:14+00:00"
     },
     "11160": {
       "id": 11160,

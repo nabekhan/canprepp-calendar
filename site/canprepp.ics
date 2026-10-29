@@ -7,25 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:NOSM UNIVERSITY EMERGENCY MEDICINE VIRTUAL INFO SESSION
-DTSTART:20260928T230000Z
-DTEND:20260929T010000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10901@canprepp.ca
-SEQUENCE:1
-CATEGORIES:NOSM University,R1,Emergency Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/nosm-university-emergency-medicine-
- virtual-info-session/\nPublished time: 19:00 – 21:00 EST\nRegister: http
- s://nosm.webex.com/weblink/register/rc72eb74c661b7592eb4c4aed90488ce1
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/nosm-university-emergency-medicine-virtual-
- info-session/
-X-CANPREPP-ID:10901
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Toronto Internal Medicine Information Session
 DTSTART:20260929T230000Z
 DTEND:20260930T000000Z
@@ -2988,14 +2969,15 @@ BEGIN:VEVENT
 SUMMARY:UBC IM Vancouver Indigenous Stream Info Session
 DTSTART:20261030T000000Z
 DTEND:20261030T010000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261029T005014Z
 UID:canprepp-event-10960@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of British Columbia,R1,Internal Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-im-vancouver-indigenous-stream-
- info-session-2/\nPublished time: 17:00 – 18:00 PST
-LAST-MODIFIED:20261014T004823Z
+ info-session-2/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https:
+ //ubc.zoom.us/j/68967727171?pwd=igeaA3mekaETlBtJG1xlbUYc9FmHRp.1
+LAST-MODIFIED:20261029T005014Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-im-vancouver-indigenous-stream-info-ses
@@ -3549,6 +3531,24 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/calgary-vascular-surgery-program-informatio
  n-night/
 X-CANPREPP-ID:10751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CaRMS Obstetrics & Gynecology Information Session
+DTSTART:20261104T003000Z
+DTEND:20261104T023000Z
+DTSTAMP:20261029T005014Z
+UID:canprepp-event-11206@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Calgary,R1,Obstetrics and Gynecology
+CREATED:20261029T005014Z
+DESCRIPTION:https://canprepp.ca/events/carms-information-session-3/\nPubli
+ shed time: 18:30 – 20:30 MST\nMeeting Link: https://ucalgary.zoom.us/j/9
+ 2397063219
+LAST-MODIFIED:20261029T005014Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/carms-information-session-3/
+X-CANPREPP-ID:11206
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Vancouver Island-Strathcona Site 
