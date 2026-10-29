@@ -7202,9 +7202,9 @@
       }
     },
     "11096": {
-      "modified_gmt": "2026-10-07T16:38:55",
+      "modified_gmt": "2026-10-29T16:09:12",
       "calendar_hash": "56fb8c7154f8116b51fe4c62281ce8c6d32f43c1e846287bcf45456e9a6f9882",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
+      "fetched_at": "2026-10-29T18:25:13+00:00",
       "event": {
         "id": 11096,
         "title": "U of A Neurosurgery CaRMS Information Session",
@@ -8062,7 +8062,7 @@
     "11138": {
       "modified_gmt": "2026-10-15T14:39:07",
       "calendar_hash": "791fbc8dd2ff653a017828e91db06f1217027384036796f0c53a126a741a4cdf",
-      "fetched_at": "2026-10-22T17:05:10+00:00",
+      "fetched_at": "2026-10-29T18:25:13+00:00",
       "event": {
         "id": 11138,
         "title": "NOSM University General Surgery Info Session",
@@ -8476,7 +8476,7 @@
     "11164": {
       "modified_gmt": "2026-10-22T15:20:52",
       "calendar_hash": "913308ed864eaf6dd1d779ef34d04f50b542e22c5c11f5eae01cd1b0cf40c7a1",
-      "fetched_at": "2026-10-22T17:05:10+00:00",
+      "fetched_at": "2026-10-29T18:25:13+00:00",
       "event": {
         "id": 11164,
         "title": "USask ENT Residency Info Night",
@@ -9096,6 +9096,85 @@
         ],
         "links": {
           "Meeting Link": "https://ucalgary.zoom.us/j/92397063219"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11207": {
+      "modified_gmt": "2026-10-29T13:53:40",
+      "calendar_hash": "794bd58aa110f6867f33999ef8636898b2d56011e02f382565bd475811b59790",
+      "fetched_at": "2026-10-29T18:25:13+00:00",
+      "event": {
+        "id": 11207,
+        "title": "uOttawa-Orthopedic Surgery – Meet and Greet Session- CaRMS 2027",
+        "url": "https://canprepp.ca/events/orthopedic-surgery-program-meet-and-greet-session-carms-2027/",
+        "date": "2026-11-12",
+        "start": "2026-11-13T00:00:00+00:00",
+        "end": "2026-11-13T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 21:00 EST",
+        "categories": [
+          "University of Ottawa",
+          "R1",
+          "Orthopedic Surgery"
+        ],
+        "links": {
+          "Meeting Link": "https://us06web.zoom.us/j/82461693420?pwd=9I6yT8ZjTAceMbceRNDvNym0K2R33E.1",
+          "Join Zoom Meeting": "https://us06web.zoom.us/j/82461693420?pwd=9I6yT8ZjTAceMbceRNDvNym0K2R33E.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11208": {
+      "modified_gmt": "2026-10-29T16:59:44",
+      "calendar_hash": "aa9e0c5c621f41b3b773224f24daba989f096729359df9b3d62508078b5ad5bd",
+      "fetched_at": "2026-10-29T18:25:13+00:00",
+      "event": {
+        "id": 11208,
+        "title": "University of Calgary Radiation Oncology Info Session",
+        "url": "https://canprepp.ca/events/university-of-calgary-radiation-oncology-info-session/",
+        "date": "2026-11-24",
+        "start": "2026-11-24T23:30:00+00:00",
+        "end": "2026-11-25T00:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "MDT",
+        "published_time": "17:30 – 18:30 MDT",
+        "categories": [
+          "University of Calgary",
+          "R1",
+          "Radiation Oncology"
+        ],
+        "links": {
+          "Meeting Link": "https://ucalgary.zoom.us/j/93473187811"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11210": {
+      "modified_gmt": "2026-10-29T17:05:47",
+      "calendar_hash": "ef66a9660ea537da383a452b2c4da8a48d73f66135053e3a2db8ac7415bedc6b",
+      "fetched_at": "2026-10-29T18:25:13+00:00",
+      "event": {
+        "id": 11210,
+        "title": "University of Calgary Radiation Oncology Info Session",
+        "url": "https://canprepp.ca/events/university-of-calgary-radiation-oncology-info-session-3/",
+        "date": "2026-11-26",
+        "start": "2026-11-26T18:00:00+00:00",
+        "end": "2026-11-26T19:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "MDT",
+        "published_time": "12:00 – 13:00 MDT",
+        "categories": [
+          "University of Calgary",
+          "R1",
+          "Radiation Oncology"
+        ],
+        "links": {
+          "Meeting Link": "https://ucalgary.zoom.us/j/92857678828"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -17851,6 +17930,82 @@
       "sequence": 0,
       "created": "2026-10-29T00:50:14+00:00",
       "last_modified": "2026-10-29T00:50:14+00:00"
+    },
+    "11207": {
+      "id": 11207,
+      "title": "uOttawa-Orthopedic Surgery – Meet and Greet Session- CaRMS 2027",
+      "url": "https://canprepp.ca/events/orthopedic-surgery-program-meet-and-greet-session-carms-2027/",
+      "date": "2026-11-12",
+      "start": "2026-11-13T00:00:00+00:00",
+      "end": "2026-11-13T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 21:00 EST",
+      "categories": [
+        "University of Ottawa",
+        "R1",
+        "Orthopedic Surgery"
+      ],
+      "links": {
+        "Meeting Link": "https://us06web.zoom.us/j/82461693420?pwd=9I6yT8ZjTAceMbceRNDvNym0K2R33E.1",
+        "Join Zoom Meeting": "https://us06web.zoom.us/j/82461693420?pwd=9I6yT8ZjTAceMbceRNDvNym0K2R33E.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "92b31cc5b194c27f03980db6cde8ce4961b06c20a7abf4baff5ee20578758bf3",
+      "sequence": 0,
+      "created": "2026-10-29T18:25:13+00:00",
+      "last_modified": "2026-10-29T18:25:13+00:00"
+    },
+    "11208": {
+      "id": 11208,
+      "title": "University of Calgary Radiation Oncology Info Session",
+      "url": "https://canprepp.ca/events/university-of-calgary-radiation-oncology-info-session/",
+      "date": "2026-11-24",
+      "start": "2026-11-24T23:30:00+00:00",
+      "end": "2026-11-25T00:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "MDT",
+      "published_time": "17:30 – 18:30 MDT",
+      "categories": [
+        "University of Calgary",
+        "R1",
+        "Radiation Oncology"
+      ],
+      "links": {
+        "Meeting Link": "https://ucalgary.zoom.us/j/93473187811"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "ff557c7ba70510a9a8405e82a177298c0c4b619746c1b5f1740ee990e193bef5",
+      "sequence": 0,
+      "created": "2026-10-29T18:25:13+00:00",
+      "last_modified": "2026-10-29T18:25:13+00:00"
+    },
+    "11210": {
+      "id": 11210,
+      "title": "University of Calgary Radiation Oncology Info Session",
+      "url": "https://canprepp.ca/events/university-of-calgary-radiation-oncology-info-session-3/",
+      "date": "2026-11-26",
+      "start": "2026-11-26T18:00:00+00:00",
+      "end": "2026-11-26T19:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "MDT",
+      "published_time": "12:00 – 13:00 MDT",
+      "categories": [
+        "University of Calgary",
+        "R1",
+        "Radiation Oncology"
+      ],
+      "links": {
+        "Meeting Link": "https://ucalgary.zoom.us/j/92857678828"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "2c1c45dbd235e29a15e425996e866e64fdbb7723cb2b89e414186a24b101c28b",
+      "sequence": 0,
+      "created": "2026-10-29T18:25:13+00:00",
+      "last_modified": "2026-10-29T18:25:13+00:00"
     },
     "11160": {
       "id": 11160,

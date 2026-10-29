@@ -5104,6 +5104,27 @@ URL:https://canprepp.ca/events/university-of-calgary-pmr-open-house/
 X-CANPREPP-ID:11081
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:uOttawa-Orthopedic Surgery – Meet and Greet Session- CaRMS 2027
+DTSTART:20261113T000000Z
+DTEND:20261113T020000Z
+DTSTAMP:20261029T182513Z
+UID:canprepp-event-11207@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Ottawa,R1,Orthopedic Surgery
+CREATED:20261029T182513Z
+DESCRIPTION:https://canprepp.ca/events/orthopedic-surgery-program-meet-and
+ -greet-session-carms-2027/\nPublished time: 19:00 – 21:00 EST\nMeeting L
+ ink: https://us06web.zoom.us/j/82461693420?pwd=9I6yT8ZjTAceMbceRNDvNym0K2R
+ 33E.1\nJoin Zoom Meeting: https://us06web.zoom.us/j/82461693420?pwd=9I6yT8
+ ZjTAceMbceRNDvNym0K2R33E.1
+LAST-MODIFIED:20261029T182513Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/orthopedic-surgery-program-meet-and-greet-s
+ ession-carms-2027/
+X-CANPREPP-ID:11207
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Saskatchewan -Neurology Information Night
 DTSTART:20261113T003000Z
 DTEND:20261113T013000Z
@@ -6050,6 +6071,25 @@ URL:https://canprepp.ca/events/ubc-family-practice-postgrad-northwest-terr
 X-CANPREPP-ID:11026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Calgary Radiation Oncology Info Session
+DTSTART:20261124T233000Z
+DTEND:20261125T003000Z
+DTSTAMP:20261029T182513Z
+UID:canprepp-event-11208@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Calgary,R1,Radiation Oncology
+CREATED:20261029T182513Z
+DESCRIPTION:https://canprepp.ca/events/university-of-calgary-radiation-onc
+ ology-info-session/\nPublished time: 17:30 – 18:30 MDT\nMeeting Link: ht
+ tps://ucalgary.zoom.us/j/93473187811
+LAST-MODIFIED:20261029T182513Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-calgary-radiation-oncology-in
+ fo-session/
+X-CANPREPP-ID:11208
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SFU Family Medicine Application Process Q&A
 DTSTART:20261125T000000Z
 DTEND:20261125T010000Z
@@ -6161,6 +6201,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-indigenous-sit
  e-qa-3/
 X-CANPREPP-ID:11027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Calgary Radiation Oncology Info Session
+DTSTART:20261126T180000Z
+DTEND:20261126T190000Z
+DTSTAMP:20261029T182513Z
+UID:canprepp-event-11210@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Calgary,R1,Radiation Oncology
+CREATED:20261029T182513Z
+DESCRIPTION:https://canprepp.ca/events/university-of-calgary-radiation-onc
+ ology-info-session-3/\nPublished time: 12:00 – 13:00 MDT\nMeeting Link: 
+ https://ucalgary.zoom.us/j/92857678828
+LAST-MODIFIED:20261029T182513Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-calgary-radiation-oncology-in
+ fo-session-3/
+X-CANPREPP-ID:11210
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ORTHOPEDIC SURGERY McMaster University Information Session
