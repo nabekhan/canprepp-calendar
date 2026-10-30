@@ -5553,7 +5553,7 @@
     "11015": {
       "modified_gmt": "2026-10-23T17:14:06",
       "calendar_hash": "60be106805e87e5cca01d329e72c345bc03419ba4a796830c457556ad8b8a47a",
-      "fetched_at": "2026-10-23T21:20:27+00:00",
+      "fetched_at": "2026-10-30T22:13:35+00:00",
       "event": {
         "id": 11015,
         "title": "UBC Family Practice Postgrad – Prince George & Northern Rural Site QA",
@@ -5839,7 +5839,7 @@
     "11026": {
       "modified_gmt": "2026-10-23T17:18:21",
       "calendar_hash": "a1949deb1edabe3ec37414056436e79d42f7d7f2e14810959c3cb9e733962d82",
-      "fetched_at": "2026-10-23T21:20:27+00:00",
+      "fetched_at": "2026-10-30T22:13:35+00:00",
       "event": {
         "id": 11026,
         "title": "UBC Family Practice Postgrad – Northwest Terrace Site QA",
@@ -6637,7 +6637,7 @@
     "11071": {
       "modified_gmt": "2026-10-23T17:30:33",
       "calendar_hash": "2971027aacefbf0d14000fa57d97c1e8be102e9e779b08c9d3ce4fb4e7f4b67f",
-      "fetched_at": "2026-10-23T21:20:27+00:00",
+      "fetched_at": "2026-10-30T22:13:35+00:00",
       "event": {
         "id": 11071,
         "title": "UofA Family Medicine- Rural Info Session",
@@ -6687,7 +6687,7 @@
     "11073": {
       "modified_gmt": "2026-10-23T17:31:46",
       "calendar_hash": "9ea2bf03e38ad94e042989ba35064318cb8585b397a7584efc706ab1ab91a94c",
-      "fetched_at": "2026-10-23T21:20:27+00:00",
+      "fetched_at": "2026-10-30T22:13:35+00:00",
       "event": {
         "id": 11073,
         "title": "UofA Family Medicine- IMG Info Session",
