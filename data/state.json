@@ -2614,58 +2614,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10820": {
-      "modified_gmt": "2026-09-04T16:33:43",
-      "calendar_hash": "ee2d69fae6d6bf5b3c1a3d6781c1c358644cadb55c2076f2fb440c0d605255ca",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
-      "event": {
-        "id": 10820,
-        "title": "University of Toronto Internal Medicine Information Session",
-        "url": "https://canprepp.ca/events/university-of-toronto-internal-medicine-information-session/",
-        "date": "2026-09-29",
-        "start": "2026-09-29T23:00:00+00:00",
-        "end": "2026-09-30T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "19:00 – 20:00 EDT",
-        "categories": [
-          "University of Toronto",
-          "R1",
-          "Internal Medicine"
-        ],
-        "links": {
-          "Register": "https://utoronto.zoom.us/meeting/register/zijGBCV-T_yepDwwizVxNg"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10821": {
-      "modified_gmt": "2026-09-04T16:33:15",
-      "calendar_hash": "ee2d69fae6d6bf5b3c1a3d6781c1c358644cadb55c2076f2fb440c0d605255ca",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
-      "event": {
-        "id": 10821,
-        "title": "University of Toronto Internal Medicine Information Session",
-        "url": "https://canprepp.ca/events/university-of-toronto-internal-medicine-information-session-2/",
-        "date": "2026-09-29",
-        "start": "2026-09-29T23:00:00+00:00",
-        "end": "2026-09-30T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "19:00 – 20:00 EDT",
-        "categories": [
-          "University of Toronto",
-          "R1",
-          "Internal Medicine"
-        ],
-        "links": {
-          "Register": "https://utoronto.zoom.us/meeting/register/zijGBCV-T_yepDwwizVxNg"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10822": {
       "modified_gmt": "2026-09-04T16:36:17",
       "calendar_hash": "d56299bb1b79656d3bbcbd37ba0019234a36939a98a3470571e77ae6802cf9ff",
@@ -5477,7 +5425,7 @@
     "11010": {
       "modified_gmt": "2026-10-15T19:53:56",
       "calendar_hash": "cf5f5c2ea8d4ffdfeb8dd9227125efcdf3d0ac2c7b0791feda8f4c53ab15ec49",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-30T00:52:07+00:00",
       "event": {
         "id": 11010,
         "title": "(NOT AVAILABLE) Western Paediatrics Information Session",
@@ -7910,7 +7858,7 @@
     "11130": {
       "modified_gmt": "2026-10-15T19:19:03",
       "calendar_hash": "1e2ef6f1320506c2862e99c47294da2314823e383b1ff7be97d8faa4524c961c",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-30T00:52:07+00:00",
       "event": {
         "id": 11130,
         "title": "Dalhousie University Adult Neurology CaRMS info session",
@@ -8088,7 +8036,7 @@
     "11139": {
       "modified_gmt": "2026-10-15T20:40:21",
       "calendar_hash": "6b75c8f9f9d6c488514fc84a65c2e2b9767e1a999cce9fb9b5f99a98c40446d0",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-30T00:52:07+00:00",
       "event": {
         "id": 11139,
         "title": "U of S General Surgery Town Hall",
@@ -8114,7 +8062,7 @@
     "11141": {
       "modified_gmt": "2026-10-15T20:43:04",
       "calendar_hash": "f38486e5dd626c0c5771fa43cc9b8f41b9756b0f4f4e2365af580947a121de04",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-30T00:52:07+00:00",
       "event": {
         "id": 11141,
         "title": "University of Saskatchewan Ophthalmology Program Information Session",
@@ -8140,7 +8088,7 @@
     "11143": {
       "modified_gmt": "2026-10-15T20:46:29",
       "calendar_hash": "e47f81cad5462e5e1f10f673be0d234b2be5ad3418a9ab5b37cbf99e6cbfcd54",
-      "fetched_at": "2026-10-22T21:29:35+00:00",
+      "fetched_at": "2026-10-30T00:52:07+00:00",
       "event": {
         "id": 11143,
         "title": "COSSNET Roundtable Series",
@@ -11714,56 +11662,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "709d63dd686e4b525b9574036e6fa8be06cc621416599a3fbe3a16de5cc0048a",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10820": {
-      "id": 10820,
-      "title": "University of Toronto Internal Medicine Information Session",
-      "url": "https://canprepp.ca/events/university-of-toronto-internal-medicine-information-session/",
-      "date": "2026-09-29",
-      "start": "2026-09-29T23:00:00+00:00",
-      "end": "2026-09-30T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "19:00 – 20:00 EDT",
-      "categories": [
-        "University of Toronto",
-        "R1",
-        "Internal Medicine"
-      ],
-      "links": {
-        "Register": "https://utoronto.zoom.us/meeting/register/zijGBCV-T_yepDwwizVxNg"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "90b237284851b40d4e2723a5aa5957ea5074621a0261c344bc63458ec843b611",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10821": {
-      "id": 10821,
-      "title": "University of Toronto Internal Medicine Information Session",
-      "url": "https://canprepp.ca/events/university-of-toronto-internal-medicine-information-session-2/",
-      "date": "2026-09-29",
-      "start": "2026-09-29T23:00:00+00:00",
-      "end": "2026-09-30T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "19:00 – 20:00 EDT",
-      "categories": [
-        "University of Toronto",
-        "R1",
-        "Internal Medicine"
-      ],
-      "links": {
-        "Register": "https://utoronto.zoom.us/meeting/register/zijGBCV-T_yepDwwizVxNg"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "7a0ef5f88a1fb8add357921fafc7c52753769cca8fc8f7b62f2ac6c41cbbf77d",
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"

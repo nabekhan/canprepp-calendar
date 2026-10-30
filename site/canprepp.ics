@@ -7,44 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:University of Toronto Internal Medicine Information Session
-DTSTART:20260929T230000Z
-DTEND:20260930T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10820@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Toronto,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-toronto-internal-medi
- cine-information-session/\nPublished time: 19:00 – 20:00 EDT\nRegister: 
- https://utoronto.zoom.us/meeting/register/zijGBCV-T_yepDwwizVxNg
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-toronto-internal-medicine-inf
- ormation-session/
-X-CANPREPP-ID:10820
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of Toronto Internal Medicine Information Session
-DTSTART:20260929T230000Z
-DTEND:20260930T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10821@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Toronto,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-toronto-internal-medi
- cine-information-session-2/\nPublished time: 19:00 – 20:00 EDT\nRegister
- : https://utoronto.zoom.us/meeting/register/zijGBCV-T_yepDwwizVxNg
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-toronto-internal-medicine-inf
- ormation-session-2/
-X-CANPREPP-ID:10821
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
 DTSTART:20261001T210000Z
 DTEND:20261001T213000Z
