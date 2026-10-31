@@ -5396,6 +5396,24 @@ URL:https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgar
 X-CANPREPP-ID:11148
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Manitoba Neurology Open House
+DTSTART:20261117T233000Z
+DTEND:20261118T013000Z
+DTSTAMP:20261031T052740Z
+UID:canprepp-event-11213@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Manitoba,R1,Neurology
+CREATED:20261031T052740Z
+DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-neurology-op
+ en-house/\nPublished time: 18:30 – 20:30 CST
+LAST-MODIFIED:20261031T052740Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-manitoba-neurology-open-house
+ /
+X-CANPREPP-ID:11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CaRMS Town Hall Session – University of Calgary Internal Medicin
  e
 DTSTART:20261118T000000Z
@@ -5437,15 +5455,15 @@ BEGIN:VEVENT
 SUMMARY:Calgary IMG Meet & Greet – University of Calgary
 DTSTART:20261118T000000Z
 DTEND:20261118T010000Z
-DTSTAMP:20261019T203327Z
+DTSTAMP:20261031T052740Z
 UID:canprepp-event-11149@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of Calgary,R1,Family Medicine
 CREATED:20261017T152731Z
 DESCRIPTION:https://canprepp.ca/events/calgary-img-meet-greet-university-o
  f-calgary-2/\nPublished time: 18:00 – 19:00 MDT\nMeeting Link: https://u
- calgary.zoom.us/j/98895054847
-LAST-MODIFIED:20261019T203327Z
+ calgary.zoom.us/j/95272963724
+LAST-MODIFIED:20261031T052740Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgar

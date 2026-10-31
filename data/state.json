@@ -6175,7 +6175,7 @@
     "11041": {
       "modified_gmt": "2026-10-23T23:39:12",
       "calendar_hash": "5b6ead2ccd50a3ad24ecbe110533212a628eebdb610b2653f3807b2983c63401",
-      "fetched_at": "2026-10-24T04:28:00+00:00",
+      "fetched_at": "2026-10-31T05:27:40+00:00",
       "event": {
         "id": 11041,
         "title": "McMaster Waterloo Internal Medicine Information Session",
@@ -8218,9 +8218,9 @@
       }
     },
     "11149": {
-      "modified_gmt": "2026-10-19T17:19:04",
+      "modified_gmt": "2026-10-30T22:25:10",
       "calendar_hash": "bd7571a7ab0f051b26c6b8d6c1e3cdfb1069a2b2526494573e09afcc6bb880d7",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
+      "fetched_at": "2026-10-31T05:27:40+00:00",
       "event": {
         "id": 11149,
         "title": "Calgary IMG Meet & Greet – University of Calgary",
@@ -8237,7 +8237,7 @@
           "Family Medicine"
         ],
         "links": {
-          "Meeting Link": "https://ucalgary.zoom.us/j/98895054847"
+          "Meeting Link": "https://ucalgary.zoom.us/j/95272963724"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -9124,6 +9124,30 @@
         "links": {
           "Meeting Link": "https://ucalgary.zoom.us/j/92857678828"
         },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11213": {
+      "modified_gmt": "2026-10-30T22:28:25",
+      "calendar_hash": "cd128bb30247d1d60182a28f2406ec906143a594d50e86e01bfd5b99f33077a6",
+      "fetched_at": "2026-10-31T05:27:40+00:00",
+      "event": {
+        "id": 11213,
+        "title": "University of Manitoba Neurology Open House",
+        "url": "https://canprepp.ca/events/university-of-manitoba-neurology-open-house/",
+        "date": "2026-11-17",
+        "start": "2026-11-17T23:30:00+00:00",
+        "end": "2026-11-18T01:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "18:30 – 20:30 CST",
+        "categories": [
+          "University of Manitoba",
+          "R1",
+          "Neurology"
+        ],
+        "links": {},
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -17068,14 +17092,14 @@
         "Family Medicine"
       ],
       "links": {
-        "Meeting Link": "https://ucalgary.zoom.us/j/98895054847"
+        "Meeting Link": "https://ucalgary.zoom.us/j/95272963724"
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "719d19ce8f383c3b0ca8379d50e955fc79582df3cece923326948337936079ca",
-      "sequence": 1,
+      "fingerprint": "f31de387a4ef1e50f612baf70dd3ebba112957887d20dfbc781d827695259f0a",
+      "sequence": 2,
       "created": "2026-10-17T15:27:31+00:00",
-      "last_modified": "2026-10-19T20:33:27+00:00"
+      "last_modified": "2026-10-31T05:27:40+00:00"
     },
     "11150": {
       "id": 11150,
@@ -17904,6 +17928,29 @@
       "sequence": 0,
       "created": "2026-10-29T18:25:13+00:00",
       "last_modified": "2026-10-29T18:25:13+00:00"
+    },
+    "11213": {
+      "id": 11213,
+      "title": "University of Manitoba Neurology Open House",
+      "url": "https://canprepp.ca/events/university-of-manitoba-neurology-open-house/",
+      "date": "2026-11-17",
+      "start": "2026-11-17T23:30:00+00:00",
+      "end": "2026-11-18T01:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "18:30 – 20:30 CST",
+      "categories": [
+        "University of Manitoba",
+        "R1",
+        "Neurology"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "aa6a8d618fa51311c38854bed598ebec28fdb702c04bd3179c6e055eb577fb1a",
+      "sequence": 0,
+      "created": "2026-10-31T05:27:40+00:00",
+      "last_modified": "2026-10-31T05:27:40+00:00"
     },
     "11160": {
       "id": 11160,
