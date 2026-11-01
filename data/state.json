@@ -596,32 +596,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10620": {
-      "modified_gmt": "2026-06-30T16:59:00",
-      "calendar_hash": "bc4b30f6458132eb234602b4be3a9eea6264f0d575cc510ddb25d4fc0d1ba23e",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
-      "event": {
-        "id": 10620,
-        "title": "UofA Pediatrics CaRMS Townhall",
-        "url": "https://canprepp.ca/events/uofa-pediatrics-carms-townhall-2/",
-        "date": "2026-10-01",
-        "start": "2026-10-02T00:00:00+00:00",
-        "end": "2026-10-02T01:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "18:00 – 19:00 MST",
-        "categories": [
-          "University of Alberta",
-          "R1",
-          "Pediatrics"
-        ],
-        "links": {
-          "Meeting Link": "https://ualberta-ca.zoom.us/j/91823264739?pwd=zcUj2w4HNQGL44lKnTjCgb4hjH4pq7.1"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10621": {
       "modified_gmt": "2026-06-30T16:59:44",
       "calendar_hash": "9c50f65dda6c238ca5ce111651ff6140be260897572f2e0c12cb7dcdcc7c5f5f",
@@ -795,32 +769,6 @@
         ],
         "links": {
           "Register": "https://mcmaster.zoom.us/meeting/register/jzUmC4I8QUijkZeeMcMpfw"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10652": {
-      "modified_gmt": "2026-07-17T16:06:05",
-      "calendar_hash": "b93a0a649d024931e0d75a0d17fdbf00cdc9f62ffbe0c90278693fc2a26791b0",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
-      "event": {
-        "id": 10652,
-        "title": "University of Calgary Emergency Medicine – Meet the PDs",
-        "url": "https://canprepp.ca/events/university-of-calgary-emergency-medicine-meet-the-pds-25/",
-        "date": "2026-10-01",
-        "start": "2026-10-01T21:00:00+00:00",
-        "end": "2026-10-01T21:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "15:00 – 15:30 MST",
-        "categories": [
-          "University of Calgary",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Meeting Link": "http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20link"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -1418,32 +1366,6 @@
         ],
         "links": {
           "Register": "https://forms.gle/R7tvB7qWEFkR4hMLA"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10720": {
-      "modified_gmt": "2026-10-01T12:32:50",
-      "calendar_hash": "25d145b08be707f5c7eb3bca49e552adf8582f571effd1d3722edc5d0d000a17",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
-      "event": {
-        "id": 10720,
-        "title": "MUN Internal Medicine Info Session",
-        "url": "https://canprepp.ca/events/mun-internal-medicine-info-session-2/",
-        "date": "2026-10-01",
-        "start": "2026-10-01T21:30:00+00:00",
-        "end": "2026-10-01T22:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "17:30 – 18:30 EDT",
-        "categories": [
-          "Memorial University of Newfoundland",
-          "R1",
-          "Internal Medicine"
-        ],
-        "links": {
-          "Meeting Link": "https://mun.webex.com/mun/j.php?MTID=m99a5dcb5e0b1a3261e25f76818c3deff"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -3261,7 +3183,7 @@
     "10863": {
       "modified_gmt": "2026-10-17T18:28:59",
       "calendar_hash": "04fdfe8fe2e1fcb70ebe6ad16ee03e47eac6db88aaab4a0cb261dfdee02fbe63",
-      "fetched_at": "2026-10-24T20:41:59+00:00",
+      "fetched_at": "2026-11-01T00:03:40+00:00",
       "event": {
         "id": 10863,
         "title": "UBC Psychiatry CaRMS Info Session #1",
@@ -9750,31 +9672,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "10620": {
-      "id": 10620,
-      "title": "UofA Pediatrics CaRMS Townhall",
-      "url": "https://canprepp.ca/events/uofa-pediatrics-carms-townhall-2/",
-      "date": "2026-10-01",
-      "start": "2026-10-02T00:00:00+00:00",
-      "end": "2026-10-02T01:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "18:00 – 19:00 MST",
-      "categories": [
-        "University of Alberta",
-        "R1",
-        "Pediatrics"
-      ],
-      "links": {
-        "Meeting Link": "https://ualberta-ca.zoom.us/j/91823264739?pwd=zcUj2w4HNQGL44lKnTjCgb4hjH4pq7.1"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "a68d77f180e2b73378de1a7613ef8b2c4085c30af040c89e035458e74e4c9401",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10621": {
       "id": 10621,
       "title": "UofA Pediatrics CaRMS Townhall",
@@ -9942,31 +9839,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "c915b2cafa5ffffbf57412897cee1603266d4e9f68da7b035515f558de330256",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10652": {
-      "id": 10652,
-      "title": "University of Calgary Emergency Medicine – Meet the PDs",
-      "url": "https://canprepp.ca/events/university-of-calgary-emergency-medicine-meet-the-pds-25/",
-      "date": "2026-10-01",
-      "start": "2026-10-01T21:00:00+00:00",
-      "end": "2026-10-01T21:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "15:00 – 15:30 MST",
-      "categories": [
-        "University of Calgary",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Meeting Link": "http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20link"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "b9e46035e0edb3b8c5794f3df754a2392d0992b8a1ed443ad1c3b1af1913331b",
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
@@ -10544,31 +10416,6 @@
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10720": {
-      "id": 10720,
-      "title": "MUN Internal Medicine Info Session",
-      "url": "https://canprepp.ca/events/mun-internal-medicine-info-session-2/",
-      "date": "2026-10-01",
-      "start": "2026-10-01T21:30:00+00:00",
-      "end": "2026-10-01T22:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "17:30 – 18:30 EDT",
-      "categories": [
-        "Memorial University of Newfoundland",
-        "R1",
-        "Internal Medicine"
-      ],
-      "links": {
-        "Meeting Link": "https://mun.webex.com/mun/j.php?MTID=m99a5dcb5e0b1a3261e25f76818c3deff"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "ad12f7364f990a0fbc2c13c56db2fd65ec1d0fefc4dbc78ab00028e763b56543",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
     },
     "10724": {
       "id": 10724,

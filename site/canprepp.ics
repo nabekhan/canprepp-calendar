@@ -7,62 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:University of Calgary Emergency Medicine – Meet the PDs
-DTSTART:20261001T210000Z
-DTEND:20261001T213000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10652@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Calgary,R1,Emergency Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-calgary-emergency-med
- icine-meet-the-pds-25/\nPublished time: 15:00 – 15:30 MST\nMeeting Link:
-  http://Please%20RSVP%2072%20hours%20in%20advance%20for%20registration%20l
- ink
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-calgary-emergency-medicine-me
- et-the-pds-25/
-X-CANPREPP-ID:10652
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MUN Internal Medicine Info Session
-DTSTART:20261001T213000Z
-DTEND:20261001T223000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10720@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Memorial University of Newfoundland,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mun-internal-medicine-info-session-
- 2/\nPublished time: 17:30 – 18:30 EDT\nMeeting Link: https://mun.webex.c
- om/mun/j.php?MTID=m99a5dcb5e0b1a3261e25f76818c3deff
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mun-internal-medicine-info-session-2/
-X-CANPREPP-ID:10720
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UofA Pediatrics CaRMS Townhall
-DTSTART:20261002T000000Z
-DTEND:20261002T010000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10620@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Alberta,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-2/\n
- Published time: 18:00 – 19:00 MST\nMeeting Link: https://ualberta-ca.zoo
- m.us/j/91823264739?pwd=zcUj2w4HNQGL44lKnTjCgb4hjH4pq7.1
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uofa-pediatrics-carms-townhall-2/
-X-CANPREPP-ID:10620
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:McMaster – CaRMS Info Session Internal Medicine Waterloo Regiona
  l Campus
 DTSTART:20261002T160000Z
