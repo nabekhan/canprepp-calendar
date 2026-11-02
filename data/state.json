@@ -3913,7 +3913,7 @@
     "10921": {
       "modified_gmt": "2026-10-26T13:44:04",
       "calendar_hash": "5063af176964992ea6542c87afabbfb46dd1775b9494b462f99c2f9934a8aa73",
-      "fetched_at": "2026-10-26T20:26:25+00:00",
+      "fetched_at": "2026-11-02T21:40:32+00:00",
       "event": {
         "id": 10921,
         "title": "Memorial University of Newfoundland Family Medicine Training Program Central Stream Information Session",
@@ -8714,7 +8714,7 @@
     "11193": {
       "modified_gmt": "2026-10-26T15:53:14",
       "calendar_hash": "66fdeaf47b5817b66fa8c0a44bbb8238b9a6a324f7ee97564e9a641fbbee7cb6",
-      "fetched_at": "2026-10-26T20:26:25+00:00",
+      "fetched_at": "2026-11-02T21:40:32+00:00",
       "event": {
         "id": 11193,
         "title": "University of Ottawa Pediatric Neurology Information Session",
@@ -8740,7 +8740,7 @@
     "11194": {
       "modified_gmt": "2026-10-26T15:52:21",
       "calendar_hash": "3fd064876da03820a953ba071838bf4ee9f8d9dff489d93385c56369053788d2",
-      "fetched_at": "2026-10-26T20:26:25+00:00",
+      "fetched_at": "2026-11-02T21:40:32+00:00",
       "event": {
         "id": 11194,
         "title": "University of Ottawa Pediatric Neurology Information Session",
@@ -9018,6 +9018,59 @@
           "Neurology"
         ],
         "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11214": {
+      "modified_gmt": "2026-11-02T14:53:02",
+      "calendar_hash": "fb464a49fe6f16218b51f689883a281f780c31b7e650eb3c0805fccfbc27c885",
+      "fetched_at": "2026-11-02T21:40:32+00:00",
+      "event": {
+        "id": 11214,
+        "title": "University of Manitoba Anesthesiology Information Session",
+        "url": "https://canprepp.ca/events/university-of-manitoba-anesthesiology-information-session-2/",
+        "date": "2026-11-25",
+        "start": "2026-11-25T23:00:00+00:00",
+        "end": "2026-11-26T00:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "18:00 – 19:30 CST",
+        "categories": [
+          "University of Manitoba",
+          "R1",
+          "Anesthesiology"
+        ],
+        "links": {
+          "Meeting Link": "https://umanitoba.zoom.us/j/62678101517?pwd=Qytw0KQR7fgjrpmyvDBtpMUqq8IVgV.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11215": {
+      "modified_gmt": "2026-11-02T17:57:55",
+      "calendar_hash": "905fbb4bcba9dacbe087944a8a6c224f80af33f4d7e148448c0b608e53c67942",
+      "fetched_at": "2026-11-02T21:40:32+00:00",
+      "event": {
+        "id": 11215,
+        "title": "UBC Dermatology Town Hall Session",
+        "url": "https://canprepp.ca/events/ubc-dermatology-town-hall-session/",
+        "date": "2026-11-18",
+        "start": "2026-11-19T00:00:00+00:00",
+        "end": "2026-11-19T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "PST",
+        "published_time": "17:00 – 19:00 PST",
+        "categories": [
+          "University of British Columbia",
+          "R1",
+          "Dermatology"
+        ],
+        "links": {
+          "Meeting Link": "http://Zoom%20link%20will%20be%20sent%20to%20candidates%20who%20register",
+          "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_3aNCetcbJW5DdZk"
+        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -17696,6 +17749,57 @@
       "sequence": 0,
       "created": "2026-10-31T05:27:40+00:00",
       "last_modified": "2026-10-31T05:27:40+00:00"
+    },
+    "11214": {
+      "id": 11214,
+      "title": "University of Manitoba Anesthesiology Information Session",
+      "url": "https://canprepp.ca/events/university-of-manitoba-anesthesiology-information-session-2/",
+      "date": "2026-11-25",
+      "start": "2026-11-25T23:00:00+00:00",
+      "end": "2026-11-26T00:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "18:00 – 19:30 CST",
+      "categories": [
+        "University of Manitoba",
+        "R1",
+        "Anesthesiology"
+      ],
+      "links": {
+        "Meeting Link": "https://umanitoba.zoom.us/j/62678101517?pwd=Qytw0KQR7fgjrpmyvDBtpMUqq8IVgV.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "e50f6f57fb6827d0a30a88cd0210e9365e1768a64df65b5cdefb517150854787",
+      "sequence": 0,
+      "created": "2026-11-02T21:40:32+00:00",
+      "last_modified": "2026-11-02T21:40:32+00:00"
+    },
+    "11215": {
+      "id": 11215,
+      "title": "UBC Dermatology Town Hall Session",
+      "url": "https://canprepp.ca/events/ubc-dermatology-town-hall-session/",
+      "date": "2026-11-18",
+      "start": "2026-11-19T00:00:00+00:00",
+      "end": "2026-11-19T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "PST",
+      "published_time": "17:00 – 19:00 PST",
+      "categories": [
+        "University of British Columbia",
+        "R1",
+        "Dermatology"
+      ],
+      "links": {
+        "Meeting Link": "http://Zoom%20link%20will%20be%20sent%20to%20candidates%20who%20register",
+        "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_3aNCetcbJW5DdZk"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "475530a1e2574bc3fc02a74866e6c028bd408a898ca7a1d77af0a387d6352e67",
+      "sequence": 0,
+      "created": "2026-11-02T21:40:32+00:00",
+      "last_modified": "2026-11-02T21:40:32+00:00"
     },
     "11160": {
       "id": 11160,

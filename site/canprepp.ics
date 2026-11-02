@@ -5662,6 +5662,25 @@ URL:https://canprepp.ca/events/usask-family-medicine-saskatoon-town-hall-s
 X-CANPREPP-ID:11174
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UBC Dermatology Town Hall Session
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+DTSTAMP:20261102T214032Z
+UID:canprepp-event-11215@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of British Columbia,R1,Dermatology
+CREATED:20261102T214032Z
+DESCRIPTION:https://canprepp.ca/events/ubc-dermatology-town-hall-session/
+ \nPublished time: 17:00 – 19:00 PST\nMeeting Link: http://Zoom%20link%20
+ will%20be%20sent%20to%20candidates%20who%20register\nRegister: https://ubc
+ .ca1.qualtrics.com/jfe/form/SV_3aNCetcbJW5DdZk
+LAST-MODIFIED:20261102T214032Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-dermatology-town-hall-session/
+X-CANPREPP-ID:11215
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:McMaster Anesthesiology Resident Town Hall
 DTSTART:20261119T010000Z
 DTEND:20261119T020000Z
@@ -6030,6 +6049,26 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-saskatchewan-internal-medicin
  e-townhall-qa-3/
 X-CANPREPP-ID:11120
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Manitoba Anesthesiology Information Session
+DTSTART:20261125T230000Z
+DTEND:20261126T003000Z
+DTSTAMP:20261102T214032Z
+UID:canprepp-event-11214@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Manitoba,R1,Anesthesiology
+CREATED:20261102T214032Z
+DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-anesthesiolo
+ gy-information-session-2/\nPublished time: 18:00 – 19:30 CST\nMeeting Li
+ nk: https://umanitoba.zoom.us/j/62678101517?pwd=Qytw0KQR7fgjrpmyvDBtpMUqq8
+ IVgV.1
+LAST-MODIFIED:20261102T214032Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-manitoba-anesthesiology-infor
+ mation-session-2/
+X-CANPREPP-ID:11214
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofManitoba: General Surgery Program_CaRMS Info Session
