@@ -881,7 +881,7 @@
     "10661": {
       "modified_gmt": "2026-10-18T17:11:06",
       "calendar_hash": "70317336864d614534e46bbc94e29e2ced408b8f50c8584081d2e6be8266a359",
-      "fetched_at": "2026-10-25T20:45:30+00:00",
+      "fetched_at": "2026-11-02T00:37:25+00:00",
       "event": {
         "id": 10661,
         "title": "UBC Emergency Medicine Vancouver Island Info session",
@@ -4650,32 +4650,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10962": {
-      "modified_gmt": "2026-09-24T15:53:53",
-      "calendar_hash": "4631295798af5db7972a9f912d0203dee4e5d820c72bc45ebbaf81d817eb38a5",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
-      "event": {
-        "id": 10962,
-        "title": "McMaster – CaRMS Info Session Internal Medicine Waterloo Regional Campus",
-        "url": "https://canprepp.ca/events/mcmaster-carms-info-session-internal-medicine-waterloo-regional-campus/",
-        "date": "2026-10-02",
-        "start": "2026-10-02T16:00:00+00:00",
-        "end": "2026-10-02T17:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "12:00 – 13:00 EST",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Internal Medicine"
-        ],
-        "links": {
-          "Meeting Link": "https://mcmaster.zoom.us/j/95291163204"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10963": {
       "modified_gmt": "2026-10-20T17:12:20",
       "calendar_hash": "6fc980b6edbe1d04fd20d9e2350e58a639664db088d1222ae1d394fe9c77186f",
@@ -6063,32 +6037,6 @@
         ],
         "links": {
           "Meeting Link": "https://mcmaster.zoom.us/j/92356865461"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11040": {
-      "modified_gmt": "2026-09-30T13:41:45",
-      "calendar_hash": "81fad22290ea8b77ab30d7caa05382d1d2563ba236f582db40d74aadbb9b5c35",
-      "fetched_at": "2026-10-27T00:22:32+00:00",
-      "event": {
-        "id": 11040,
-        "title": "McMaster Waterloo Internal Medicine Information Session",
-        "url": "https://canprepp.ca/events/mcmaster-waterloo-internal-medicine-information-session/",
-        "date": "2026-10-02",
-        "start": "2026-10-02T16:00:00+00:00",
-        "end": "2026-10-02T17:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "12:00 – 13:00 EDT",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Internal Medicine"
-        ],
-        "links": {
-          "Meeting Link": "https://mcmaster.zoom.us/j/95291163204"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -13569,31 +13517,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "10962": {
-      "id": 10962,
-      "title": "McMaster – CaRMS Info Session Internal Medicine Waterloo Regional Campus",
-      "url": "https://canprepp.ca/events/mcmaster-carms-info-session-internal-medicine-waterloo-regional-campus/",
-      "date": "2026-10-02",
-      "start": "2026-10-02T16:00:00+00:00",
-      "end": "2026-10-02T17:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "12:00 – 13:00 EST",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Internal Medicine"
-      ],
-      "links": {
-        "Meeting Link": "https://mcmaster.zoom.us/j/95291163204"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "76059a9a2641b565e63c528d9e8b52dcf8d85bbfbb16d2d4d216739923bcae3d",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10963": {
       "id": 10963,
       "title": "McMaster – CaRMS Info Session Internal Medicine Waterloo Regional Campus",
@@ -14931,31 +14854,6 @@
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "11040": {
-      "id": 11040,
-      "title": "McMaster Waterloo Internal Medicine Information Session",
-      "url": "https://canprepp.ca/events/mcmaster-waterloo-internal-medicine-information-session/",
-      "date": "2026-10-02",
-      "start": "2026-10-02T16:00:00+00:00",
-      "end": "2026-10-02T17:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "12:00 – 13:00 EDT",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Internal Medicine"
-      ],
-      "links": {
-        "Meeting Link": "https://mcmaster.zoom.us/j/95291163204"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "f00b6d13c15623375b992f47616d404474df4f828176d5d2b6ec3baca7a550c7",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
     },
     "11041": {
       "id": 11041,

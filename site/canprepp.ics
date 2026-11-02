@@ -7,45 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:McMaster – CaRMS Info Session Internal Medicine Waterloo Regiona
- l Campus
-DTSTART:20261002T160000Z
-DTEND:20261002T170000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10962@canprepp.ca
-SEQUENCE:1
-CATEGORIES:McMaster University,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-carms-info-session-interna
- l-medicine-waterloo-regional-campus/\nPublished time: 12:00 – 13:00 EST
- \nMeeting Link: https://mcmaster.zoom.us/j/95291163204
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-carms-info-session-internal-medici
- ne-waterloo-regional-campus/
-X-CANPREPP-ID:10962
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McMaster Waterloo Internal Medicine Information Session
-DTSTART:20261002T160000Z
-DTEND:20261002T170000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11040@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine
- -information-session/\nPublished time: 12:00 – 13:00 EDT\nMeeting Link: 
- https://mcmaster.zoom.us/j/95291163204
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-waterloo-internal-medicine-informa
- tion-session/
-X-CANPREPP-ID:11040
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:McMaster University Family Medicine IMG Program Info Session
 DTSTART:20261003T150000Z
 DTEND:20261003T163000Z
