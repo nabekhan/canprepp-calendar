@@ -4685,6 +4685,26 @@ URL:https://canprepp.ca/events/university-of-toronto-paediatrics-carms-tow
 X-CANPREPP-ID:11129
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Neurology at Western –  Program Information Session
+DTSTART:20261111T233000Z
+DTEND:20261112T003000Z
+DTSTAMP:20261103T231436Z
+UID:canprepp-event-11217@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Neurology
+CREATED:20261103T231436Z
+DESCRIPTION:https://canprepp.ca/events/neurology-at-western-program-inform
+ ation-session-3/\nPublished time: 18:30 – 19:30 EST\nMeeting Link: https
+ ://westernuniversity.zoom.us/j/93785422256?pwd=vyOTq3HKPhuE2apO3rvV1W3XMqm
+ qa0.1
+LAST-MODIFIED:20261103T231436Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/neurology-at-western-program-information-se
+ ssion-3/
+X-CANPREPP-ID:11217
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Queen’s PM&R Meet and Greet
 DTSTART:20261112T000000Z
 DTEND:20261112T010000Z
