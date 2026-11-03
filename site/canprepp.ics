@@ -4354,6 +4354,25 @@ URL:https://canprepp.ca/events/uofc-general-surgery-carms-information-sess
 X-CANPREPP-ID:10939
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UofT Diagnostic & Molecular Pathology Info Session
+DTSTART:20261110T010000Z
+DTEND:20261110T020000Z
+DTSTAMP:20261103T165850Z
+UID:canprepp-event-11216@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Diagnostic and Molecular Pathology
+CREATED:20261103T165850Z
+DESCRIPTION:https://canprepp.ca/events/uoft-diagnostic-molecular-pathology
+ -info-session-2/\nPublished time: 20:00 – 21:00 EST\nMeeting Link: https
+ ://us06web.zoom.us/j/87395012402
+LAST-MODIFIED:20261103T165850Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uoft-diagnostic-molecular-pathology-info-se
+ ssion-2/
+X-CANPREPP-ID:11216
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TMU CaRMS Internal Medicine Information Session
 DTSTART:20261110T170000Z
 DTEND:20261110T180000Z

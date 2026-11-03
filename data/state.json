@@ -7548,7 +7548,7 @@
     "11122": {
       "modified_gmt": "2026-10-13T00:50:31",
       "calendar_hash": "c2454e9dcb73db2fca51931cd1562b7f6072142d74e0d0ae05855649fd454f8f",
-      "fetched_at": "2026-10-27T08:53:23+00:00",
+      "fetched_at": "2026-11-03T16:58:50+00:00",
       "event": {
         "id": 11122,
         "title": "Dalhousie University Otolaryngology CaRMS Information Session",
@@ -9044,6 +9044,32 @@
         "links": {
           "Meeting Link": "http://Zoom%20link%20will%20be%20sent%20to%20candidates%20who%20register",
           "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_3aNCetcbJW5DdZk"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11216": {
+      "modified_gmt": "2026-11-03T16:05:39",
+      "calendar_hash": "8c688130bc3c0184239eed438f5e47c341fb87632c9064902f750b17ae2c3148",
+      "fetched_at": "2026-11-03T16:58:50+00:00",
+      "event": {
+        "id": 11216,
+        "title": "UofT Diagnostic & Molecular Pathology Info Session",
+        "url": "https://canprepp.ca/events/uoft-diagnostic-molecular-pathology-info-session-2/",
+        "date": "2026-11-09",
+        "start": "2026-11-10T01:00:00+00:00",
+        "end": "2026-11-10T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "20:00 – 21:00 EST",
+        "categories": [
+          "University of Toronto",
+          "R1",
+          "Diagnostic and Molecular Pathology"
+        ],
+        "links": {
+          "Meeting Link": "https://us06web.zoom.us/j/87395012402"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -17749,6 +17775,31 @@
       "sequence": 0,
       "created": "2026-11-02T21:40:32+00:00",
       "last_modified": "2026-11-02T21:40:32+00:00"
+    },
+    "11216": {
+      "id": 11216,
+      "title": "UofT Diagnostic & Molecular Pathology Info Session",
+      "url": "https://canprepp.ca/events/uoft-diagnostic-molecular-pathology-info-session-2/",
+      "date": "2026-11-09",
+      "start": "2026-11-10T01:00:00+00:00",
+      "end": "2026-11-10T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "20:00 – 21:00 EST",
+      "categories": [
+        "University of Toronto",
+        "R1",
+        "Diagnostic and Molecular Pathology"
+      ],
+      "links": {
+        "Meeting Link": "https://us06web.zoom.us/j/87395012402"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "6dd138e7de1518d5ec1bad0158a3c4cf32252c7dacd6e8464b16e194eed45a50",
+      "sequence": 0,
+      "created": "2026-11-03T16:58:50+00:00",
+      "last_modified": "2026-11-03T16:58:50+00:00"
     },
     "11160": {
       "id": 11160,
