@@ -8792,7 +8792,7 @@
     "11203": {
       "modified_gmt": "2026-10-28T19:45:03",
       "calendar_hash": "8d12823e8d9732c6e9db46254790a9330a63975681c1ba1fd4a13507ada8ac9a",
-      "fetched_at": "2026-10-28T20:13:42+00:00",
+      "fetched_at": "2026-11-04T21:15:20+00:00",
       "event": {
         "id": 11203,
         "title": "Radiation Oncology Town Hall",
@@ -8818,7 +8818,7 @@
     "11204": {
       "modified_gmt": "2026-10-28T19:47:48",
       "calendar_hash": "bf1aaa225099659c40ee8f77f9f9708cd11c8d555314c7940c176d918dfc57aa",
-      "fetched_at": "2026-10-28T20:13:42+00:00",
+      "fetched_at": "2026-11-04T21:15:20+00:00",
       "event": {
         "id": 11204,
         "title": "Radiation Oncology Town Hall",
@@ -9050,9 +9050,9 @@
       }
     },
     "11217": {
-      "modified_gmt": "2026-11-03T20:24:53",
+      "modified_gmt": "2026-11-04T18:55:53",
       "calendar_hash": "036799400070b2343be9963ad3c0c734e60a2a84a6f64df87667c83aa0726fc1",
-      "fetched_at": "2026-11-03T23:14:36+00:00",
+      "fetched_at": "2026-11-04T21:15:20+00:00",
       "event": {
         "id": 11217,
         "title": "Neurology at Western –  Program Information Session",
