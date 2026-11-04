@@ -7,26 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:Queen’s University – Ophthalmology Town Hall
-DTSTART:20261004T170000Z
-DTEND:20261004T180000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10702@canprepp.ca
-SEQUENCE:0
-CATEGORIES:Queen's University,R1,Ophthalmology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-university-ophthalmology-tow
- n-hall-7/\nPublished time: 13:00 – 14:00 EDT\nRegister: https://docs.goo
- gle.com/forms/d/e/1FAIpQLSehf-drfxM-24g8m1IH_olybYqA-YB6Gq26sqNuNc-QtCS9FQ
- /viewform
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-university-ophthalmology-town-hall-7
- /
-X-CANPREPP-ID:10702
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:UBC Pathology – Med Micro Pre-CaRMS Info Session with PD & Lead 
  Resident
 DTSTART:20261005T210000Z
@@ -5993,6 +5973,26 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-northwest-terr
  ace-site-qa-2/
 X-CANPREPP-ID:11026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UBC Neurosurgery Program Information
+DTSTART:20261124T230000Z
+DTEND:20261125T003000Z
+DTSTAMP:20261104T060520Z
+UID:canprepp-event-11219@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of British Columbia,R1,Neurosurgery
+CREATED:20261104T060520Z
+DESCRIPTION:https://canprepp.ca/events/ubc-neurosurgery-program-informatio
+ n-qa-session/\nPublished time: 17:00 – 18:30 MST\nRegister: https://ubc.
+ ca1.qualtrics.com/jfe/form/SV_0HxitvZuFsGians\nregister: https://ubc.ca1.q
+ ualtrics.com/jfe/form/SV_0HxitvZuFsGians
+LAST-MODIFIED:20261104T060520Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-neurosurgery-program-information-qa-ses
+ sion/
+X-CANPREPP-ID:11219
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of Calgary Radiation Oncology Info Session
