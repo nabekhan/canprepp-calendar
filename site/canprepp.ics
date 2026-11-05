@@ -7,66 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:UBC Pathology – Med Micro Pre-CaRMS Info Session with PD & Lead 
- Resident
-DTSTART:20261005T210000Z
-DTEND:20261005T220000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10769@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Medical Microbiology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-pathology-med-micro-pre-carms-i
- nfo-session-with-pd-lead-resident/\nPublished time: 17:00 – 18:00 EDT\nM
- eeting Link: https://ubc.zoom.us/j/63730484289?pwd=x98jjlllbaSbXG1nVBQwmb3
- 1vuEkYx.1\nRegister: https://ubc.ca1.qualtrics.com/jfe/form/SV_0TlHKj9Kd6s
- UKyO
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-pathology-med-micro-pre-carms-info-sess
- ion-with-pd-lead-resident/
-X-CANPREPP-ID:10769
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McMaster University – FRCPC Emergency Medicine CaRMS Townhall
-DTSTART:20261006T000000Z
-DTEND:20261006T020000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10781@canprepp.ca
-SEQUENCE:1
-CATEGORIES:McMaster University,R1,Emergency Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-university-frcpc-emergency
- -medicine-carms-townhall-7/\nPublished time: 20:00 – 22:00 EST\nRegister
- : https://forms.gle/3ESaZdbV6BfgmsfN7
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicin
- e-carms-townhall-7/
-X-CANPREPP-ID:10781
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UBC Interior Internal Medicine Program – Info Session
-DTSTART:20261006T020000Z
-DTEND:20261006T030000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-11029@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of British Columbia,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-interior-internal-medicine-prog
- ram-info-session/\nPublished time: 19:00 – 20:00 PDT\nMeeting Link: http
- s://ubc.zoom.us
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-interior-internal-medicine-program-info
- -session/
-X-CANPREPP-ID:11029
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
  am Information Session
 DTSTART:20261006T213000Z
@@ -4741,6 +4681,24 @@ URL:https://canprepp.ca/events/western-family-resident-qa-session-2/
 X-CANPREPP-ID:11190
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Queen’s Adult Neurology Town Hall (1)
+DTSTART:20261112T000000Z
+DTEND:20261112T010000Z
+DTSTAMP:20261105T172024Z
+UID:canprepp-event-11221@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Queen's University,R1,Neurology
+CREATED:20261105T172024Z
+DESCRIPTION:https://canprepp.ca/events/queens-adult-neurology-town-hall-1/
+ \nPublished time: 19:00 – 20:00 EST\nMeeting Link: https://queensu.zoom.
+ us/j/98032842170?pwd=hAbY91hZLHRXaRE4uJjF3hXbqa0UmP.1
+LAST-MODIFIED:20261105T172024Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-adult-neurology-town-hall-1/
+X-CANPREPP-ID:11221
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC General Surgery Resident Information Session
 DTSTART:20261112T003000Z
 DTEND:20261112T020000Z
@@ -5282,6 +5240,26 @@ URL:https://canprepp.ca/events/uoft-neuropathology-program-info-session-2/
 X-CANPREPP-ID:11134
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CaRMS Town Hall Session – University of Calgary Internal Medicin
+ e
+DTSTART:20261117T230000Z
+DTEND:20261118T000000Z
+DTSTAMP:20261105T172024Z
+UID:canprepp-event-9112@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Calgary,R1,Internal Medicine
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/carms-information-session-internal-
+ medicine-2/\nPublished time: 18:00 – 19:00 CST\nMeeting Link: https://uc
+ algary.zoom.us/j/99914604916
+LAST-MODIFIED:20261105T172024Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/carms-information-session-internal-medicine
+ -2/
+X-CANPREPP-ID:9112
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Calgary CMG Meet & Greet – University of Calgary
 DTSTART:20261117T230000Z
 DTEND:20261118T000000Z
@@ -5317,26 +5295,6 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-manitoba-neurology-open-house
  /
 X-CANPREPP-ID:11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CaRMS Town Hall Session – University of Calgary Internal Medicin
- e
-DTSTART:20261118T000000Z
-DTEND:20261118T010000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-9112@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Calgary,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/carms-information-session-internal-
- medicine-2/\nPublished time: 18:00 – 19:00 MDT\nMeeting Link: https://uc
- algary.zoom.us/j/99914604916
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/carms-information-session-internal-medicine
- -2/
-X-CANPREPP-ID:9112
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOSM UNIVERSITY INTERNAL MEDICINE VIRTUAL INFO SESSION
@@ -5822,6 +5780,24 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-ottawa-pediatric-neurology-in
  formation-session-6/
 X-CANPREPP-ID:11194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queen’s Adult Neurology Town Hall (2)
+DTSTART:20261120T000000Z
+DTEND:20261120T010000Z
+DTSTAMP:20261105T172024Z
+UID:canprepp-event-11222@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Queen's University,R1,Neurology
+CREATED:20261105T172024Z
+DESCRIPTION:https://canprepp.ca/events/queens-adult-neurology-town-hall-2/
+ \nPublished time: 19:00 – 20:00 EST\nMeeting Link: https://queensu.zoom.
+ us/j/91491328699?pwd=8xnm5aErkKOPUNsLG7fz5mkU9v5bef.1
+LAST-MODIFIED:20261105T172024Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-adult-neurology-town-hall-2/
+X-CANPREPP-ID:11222
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:McMaster Peds Neuro CaRMS Info Night
@@ -6316,6 +6292,23 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/mcmaster-ophthalmology-carms-town-hall-3/
 X-CANPREPP-ID:10957
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NOSM University Psych Info Session
+DTSTART:20261209T000000Z
+DTEND:20261209T010000Z
+DTSTAMP:20261105T172024Z
+UID:canprepp-event-11223@canprepp.ca
+SEQUENCE:0
+CATEGORIES:NOSM University,R1,Psychiatry
+CREATED:20261105T172024Z
+DESCRIPTION:https://canprepp.ca/events/nosm-university-psych-info-session/
+ \nPublished time: 19:00 – 20:00 EST
+LAST-MODIFIED:20261105T172024Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/nosm-university-psych-info-session/
+X-CANPREPP-ID:11223
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NOSM University Orthopedic Surgery Program – Information Session

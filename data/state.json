@@ -127,19 +127,19 @@
       }
     },
     "9112": {
-      "modified_gmt": "2026-10-09T19:02:00",
-      "calendar_hash": "f8f08fd39030718c8657fb7e384c62ed138a97d1df9679916badea41c77bf706",
-      "fetched_at": "2026-11-03T06:37:49+00:00",
+      "modified_gmt": "2026-11-05T14:05:34",
+      "calendar_hash": "2ab612100f44b6474c5246e95cc0bc53e185218cdc369d56a8c3c0633c8e5094",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 9112,
         "title": "CaRMS Town Hall Session – University of Calgary Internal Medicine",
         "url": "https://canprepp.ca/events/carms-information-session-internal-medicine-2/",
         "date": "2026-11-17",
-        "start": "2026-11-18T00:00:00+00:00",
-        "end": "2026-11-18T01:00:00+00:00",
+        "start": "2026-11-17T23:00:00+00:00",
+        "end": "2026-11-18T00:00:00+00:00",
         "all_day": false,
-        "timezone_label": "MDT",
-        "published_time": "18:00 – 19:00 MDT",
+        "timezone_label": "CST",
+        "published_time": "18:00 – 19:00 CST",
         "categories": [
           "University of Calgary",
           "R1",
@@ -677,7 +677,7 @@
     "10627": {
       "modified_gmt": "2026-10-14T20:39:18",
       "calendar_hash": "32dcd8775920f179d5a2edad7af14be0dfd29c753d0a7de4c0ea31c906a1fbda",
-      "fetched_at": "2026-10-29T09:50:08+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 10627,
         "title": "Queen’s University – General Surgery – Resident Meet and Greet",
@@ -701,7 +701,7 @@
     "10628": {
       "modified_gmt": "2026-10-14T20:39:21",
       "calendar_hash": "dd8fc2228daf0247eec49fb7cdf5ba2aaf0f47620dc0dcba475f455ae59532ad",
-      "fetched_at": "2026-10-29T09:50:08+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 10628,
         "title": "Queen’s University – General Surgery – Resident – Meet and Greet",
@@ -1757,33 +1757,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10769": {
-      "modified_gmt": "2026-08-28T14:48:54",
-      "calendar_hash": "ca81d0202628d30050c6d46682774c0052b3a650c2ef0aaa325344e6359b3165",
-      "fetched_at": "2026-11-03T06:37:49+00:00",
-      "event": {
-        "id": 10769,
-        "title": "UBC Pathology – Med Micro Pre-CaRMS Info Session with PD & Lead Resident",
-        "url": "https://canprepp.ca/events/ubc-pathology-med-micro-pre-carms-info-session-with-pd-lead-resident/",
-        "date": "2026-10-05",
-        "start": "2026-10-05T21:00:00+00:00",
-        "end": "2026-10-05T22:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "17:00 – 18:00 EDT",
-        "categories": [
-          "University of British Columbia",
-          "R1",
-          "Medical Microbiology"
-        ],
-        "links": {
-          "Meeting Link": "https://ubc.zoom.us/j/63730484289?pwd=x98jjlllbaSbXG1nVBQwmb31vuEkYx.1",
-          "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_0TlHKj9Kd6sUKyO"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10770": {
       "modified_gmt": "2026-08-27T17:35:45",
       "calendar_hash": "552745e1db09ebd5f4da9a72174f123a3e74d3ac0f00fe8f1298d42cb62db75c",
@@ -1989,32 +1962,6 @@
         ],
         "links": {
           "Register": "https://events.teams.microsoft.com/event/de5c925b-70fb-480a-b310-ec96a50fca41@44376307-b429-42ad-8c25-28cd496f4772"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10781": {
-      "modified_gmt": "2026-09-01T13:31:17",
-      "calendar_hash": "19c13fda32d19f09e7b56c74543be484cc4f03b0d5d39935bacef467e3214399",
-      "fetched_at": "2026-11-03T06:37:49+00:00",
-      "event": {
-        "id": 10781,
-        "title": "McMaster University – FRCPC Emergency Medicine CaRMS Townhall",
-        "url": "https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicine-carms-townhall-7/",
-        "date": "2026-10-05",
-        "start": "2026-10-06T00:00:00+00:00",
-        "end": "2026-10-06T02:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "20:00 – 22:00 EST",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Register": "https://forms.gle/3ESaZdbV6BfgmsfN7"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -4549,7 +4496,7 @@
     "10960": {
       "modified_gmt": "2026-10-28T22:23:39",
       "calendar_hash": "19d74cd0342eef4ff5c6e9dbaee5b2548fe9783960ef52122e89f8ee4309a7da",
-      "fetched_at": "2026-10-29T00:50:14+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 10960,
         "title": "UBC IM Vancouver Indigenous Stream Info Session",
@@ -5753,32 +5700,6 @@
         ],
         "links": {
           "Meeting Link": "https://uottawa-ca.zoom.us/j/91680863997"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11029": {
-      "modified_gmt": "2026-09-28T20:39:07",
-      "calendar_hash": "e8a1f55e237852a5c1f47cd916a38f748f126c7326e6982b8faec654426c4b4a",
-      "fetched_at": "2026-11-03T06:37:49+00:00",
-      "event": {
-        "id": 11029,
-        "title": "UBC Interior Internal Medicine Program – Info Session",
-        "url": "https://canprepp.ca/events/ubc-interior-internal-medicine-program-info-session/",
-        "date": "2026-10-05",
-        "start": "2026-10-06T02:00:00+00:00",
-        "end": "2026-10-06T03:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "PDT",
-        "published_time": "19:00 – 20:00 PDT",
-        "categories": [
-          "University of British Columbia",
-          "R1",
-          "Internal Medicine"
-        ],
-        "links": {
-          "Meeting Link": "https://ubc.zoom.us"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -7700,7 +7621,7 @@
     "11131": {
       "modified_gmt": "2026-10-14T15:35:56",
       "calendar_hash": "839bf5bcd7c600d5f1d026598d107b90eb502e391f600f405dd5c5853cac67be",
-      "fetched_at": "2026-10-29T00:50:14+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 11131,
         "title": "UofT Hematological Pathology Info Session",
@@ -7726,7 +7647,7 @@
     "11132": {
       "modified_gmt": "2026-10-14T14:36:44",
       "calendar_hash": "df12af68adf45865cfb44d6c8febc906de522ecb98129c8707ab0aab822fee9f",
-      "fetched_at": "2026-10-29T00:50:14+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 11132,
         "title": "UofT Medical Microbiology Program Info Session",
@@ -7752,7 +7673,7 @@
     "11133": {
       "modified_gmt": "2026-10-14T15:15:40",
       "calendar_hash": "aaa4fa57b4e7294e4e8463fac28dd9435ef1c4e850b83069145a78df3bbceb31",
-      "fetched_at": "2026-10-29T00:50:14+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 11133,
         "title": "UofT Diagnostic & Molecular Pathology Program Info Session",
@@ -7778,7 +7699,7 @@
     "11134": {
       "modified_gmt": "2026-10-14T15:34:41",
       "calendar_hash": "7d636a88b4eae2bce1d3134dd68cfa03c3262d4aedcf3a0548729a1ee0f23840",
-      "fetched_at": "2026-10-29T00:50:14+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 11134,
         "title": "UofT – Neuropathology Program Info Session",
@@ -7804,7 +7725,7 @@
     "11135": {
       "modified_gmt": "2026-10-14T17:09:12",
       "calendar_hash": "1e15ccd2731c3b5f7f42822a5dc4753d649c6ac934f2aa61733ed40661a879ba",
-      "fetched_at": "2026-10-29T00:50:14+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 11135,
         "title": "UBC Otolaryngology – Head and Neck Surgery Info Session",
@@ -8216,7 +8137,7 @@
     "11158": {
       "modified_gmt": "2026-10-21T22:13:40",
       "calendar_hash": "d1fe6327cc6fa15cdbdb1e240fc16105f30fffa5d59efe0ce12b3b38373f54a4",
-      "fetched_at": "2026-10-29T09:50:08+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 11158,
         "title": "USask ENT Residency Info Night",
@@ -8844,7 +8765,7 @@
     "11206": {
       "modified_gmt": "2026-10-28T21:15:34",
       "calendar_hash": "027df41c8e5749ced5acbc6e50299fe2cae7f7a39e0681d42cc1f7ec87633c75",
-      "fetched_at": "2026-10-29T00:50:14+00:00",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
       "event": {
         "id": 11206,
         "title": "CaRMS Obstetrics & Gynecology Information Session",
@@ -9101,6 +9022,82 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11221": {
+      "modified_gmt": "2026-11-05T13:28:37",
+      "calendar_hash": "056199ae6d4e8aaa09465fab514cda192a12ae6fcd41309ed04eff456aee084d",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "event": {
+        "id": 11221,
+        "title": "Queen’s Adult Neurology Town Hall (1)",
+        "url": "https://canprepp.ca/events/queens-adult-neurology-town-hall-1/",
+        "date": "2026-11-11",
+        "start": "2026-11-12T00:00:00+00:00",
+        "end": "2026-11-12T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:00 EST",
+        "categories": [
+          "Queen's University",
+          "R1",
+          "Neurology"
+        ],
+        "links": {
+          "Meeting Link": "https://queensu.zoom.us/j/98032842170?pwd=hAbY91hZLHRXaRE4uJjF3hXbqa0UmP.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11222": {
+      "modified_gmt": "2026-11-05T13:27:25",
+      "calendar_hash": "f0fc7f048607c7d730e4a37e4024f88d6d64007053d11a7350b20b463245d8d5",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "event": {
+        "id": 11222,
+        "title": "Queen’s Adult Neurology Town Hall (2)",
+        "url": "https://canprepp.ca/events/queens-adult-neurology-town-hall-2/",
+        "date": "2026-11-19",
+        "start": "2026-11-20T00:00:00+00:00",
+        "end": "2026-11-20T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:00 EST",
+        "categories": [
+          "Queen's University",
+          "R1",
+          "Neurology"
+        ],
+        "links": {
+          "Meeting Link": "https://queensu.zoom.us/j/91491328699?pwd=8xnm5aErkKOPUNsLG7fz5mkU9v5bef.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11223": {
+      "modified_gmt": "2026-11-05T14:48:52",
+      "calendar_hash": "5cf0e688bbb27ef1ad21739ca2bee43f6560d4453d15621761b1f9ce7978a99f",
+      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "event": {
+        "id": 11223,
+        "title": "NOSM University Psych Info Session",
+        "url": "https://canprepp.ca/events/nosm-university-psych-info-session/",
+        "date": "2026-12-08",
+        "start": "2026-12-09T00:00:00+00:00",
+        "end": "2026-12-09T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:00 EST",
+        "categories": [
+          "NOSM University",
+          "R1",
+          "Psychiatry"
+        ],
+        "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -9253,11 +9250,11 @@
       "title": "CaRMS Town Hall Session – University of Calgary Internal Medicine",
       "url": "https://canprepp.ca/events/carms-information-session-internal-medicine-2/",
       "date": "2026-11-17",
-      "start": "2026-11-18T00:00:00+00:00",
-      "end": "2026-11-18T01:00:00+00:00",
+      "start": "2026-11-17T23:00:00+00:00",
+      "end": "2026-11-18T00:00:00+00:00",
       "all_day": false,
-      "timezone_label": "MDT",
-      "published_time": "18:00 – 19:00 MDT",
+      "timezone_label": "CST",
+      "published_time": "18:00 – 19:00 CST",
       "categories": [
         "University of Calgary",
         "R1",
@@ -9268,10 +9265,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "d337b5deafb2859c86b28e9031e97b1cc5e99ac4cc565411439f63cf3795d75f",
-      "sequence": 0,
+      "fingerprint": "1647121aa5c3784a8f0561b161cfc0e9a9f9b3a0cd5cdf726f18c5ed3ab69824",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-11-05T17:20:24+00:00"
     },
     "9218": {
       "id": 9218,
@@ -10816,32 +10813,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "10769": {
-      "id": 10769,
-      "title": "UBC Pathology – Med Micro Pre-CaRMS Info Session with PD & Lead Resident",
-      "url": "https://canprepp.ca/events/ubc-pathology-med-micro-pre-carms-info-session-with-pd-lead-resident/",
-      "date": "2026-10-05",
-      "start": "2026-10-05T21:00:00+00:00",
-      "end": "2026-10-05T22:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "17:00 – 18:00 EDT",
-      "categories": [
-        "University of British Columbia",
-        "R1",
-        "Medical Microbiology"
-      ],
-      "links": {
-        "Meeting Link": "https://ubc.zoom.us/j/63730484289?pwd=x98jjlllbaSbXG1nVBQwmb31vuEkYx.1",
-        "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_0TlHKj9Kd6sUKyO"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "eaca80e4971d955b997a3cfc552ddea3ae8f93c71cfc9aff90437975b9dab6ec",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
     "10770": {
       "id": 10770,
       "title": "University of Calgary Dermatology Residency Program CaRMs Information Session",
@@ -11040,31 +11011,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "bc9a9ad4665f79c629e2cdb4b987a7cb5e6ea397a964438770bc4745c524fc12",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10781": {
-      "id": 10781,
-      "title": "McMaster University – FRCPC Emergency Medicine CaRMS Townhall",
-      "url": "https://canprepp.ca/events/mcmaster-university-frcpc-emergency-medicine-carms-townhall-7/",
-      "date": "2026-10-05",
-      "start": "2026-10-06T00:00:00+00:00",
-      "end": "2026-10-06T02:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "20:00 – 22:00 EST",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Register": "https://forms.gle/3ESaZdbV6BfgmsfN7"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "b5d335c58486023e51b2c5b4e77a84837d6840df100876e9db1dadbf46526c19",
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
@@ -14662,31 +14608,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "11029": {
-      "id": 11029,
-      "title": "UBC Interior Internal Medicine Program – Info Session",
-      "url": "https://canprepp.ca/events/ubc-interior-internal-medicine-program-info-session/",
-      "date": "2026-10-05",
-      "start": "2026-10-06T02:00:00+00:00",
-      "end": "2026-10-06T03:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "PDT",
-      "published_time": "19:00 – 20:00 PDT",
-      "categories": [
-        "University of British Columbia",
-        "R1",
-        "Internal Medicine"
-      ],
-      "links": {
-        "Meeting Link": "https://ubc.zoom.us"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "eee194e560caf9fcb3c3cbd2e700fdf49e7135cc15b168b79c119f5d959ba198",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
     "11030": {
       "id": 11030,
       "title": "Nunavut Stream at the University of Ottawa in Family Medicine * NEW THIS YEAR",
@@ -17853,6 +17774,79 @@
       "sequence": 0,
       "created": "2026-11-04T06:05:20+00:00",
       "last_modified": "2026-11-04T06:05:20+00:00"
+    },
+    "11221": {
+      "id": 11221,
+      "title": "Queen’s Adult Neurology Town Hall (1)",
+      "url": "https://canprepp.ca/events/queens-adult-neurology-town-hall-1/",
+      "date": "2026-11-11",
+      "start": "2026-11-12T00:00:00+00:00",
+      "end": "2026-11-12T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:00 EST",
+      "categories": [
+        "Queen's University",
+        "R1",
+        "Neurology"
+      ],
+      "links": {
+        "Meeting Link": "https://queensu.zoom.us/j/98032842170?pwd=hAbY91hZLHRXaRE4uJjF3hXbqa0UmP.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "859c7ba49857c43eabab2d4446119fcf8eb5b06c0fbb2a6437b73c0cf2707a96",
+      "sequence": 0,
+      "created": "2026-11-05T17:20:24+00:00",
+      "last_modified": "2026-11-05T17:20:24+00:00"
+    },
+    "11222": {
+      "id": 11222,
+      "title": "Queen’s Adult Neurology Town Hall (2)",
+      "url": "https://canprepp.ca/events/queens-adult-neurology-town-hall-2/",
+      "date": "2026-11-19",
+      "start": "2026-11-20T00:00:00+00:00",
+      "end": "2026-11-20T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:00 EST",
+      "categories": [
+        "Queen's University",
+        "R1",
+        "Neurology"
+      ],
+      "links": {
+        "Meeting Link": "https://queensu.zoom.us/j/91491328699?pwd=8xnm5aErkKOPUNsLG7fz5mkU9v5bef.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "cd8daa367730b00bdc10fb9f9e4de3ef3a7a9adcdf58021fdc34b51271944ebd",
+      "sequence": 0,
+      "created": "2026-11-05T17:20:24+00:00",
+      "last_modified": "2026-11-05T17:20:24+00:00"
+    },
+    "11223": {
+      "id": 11223,
+      "title": "NOSM University Psych Info Session",
+      "url": "https://canprepp.ca/events/nosm-university-psych-info-session/",
+      "date": "2026-12-08",
+      "start": "2026-12-09T00:00:00+00:00",
+      "end": "2026-12-09T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:00 EST",
+      "categories": [
+        "NOSM University",
+        "R1",
+        "Psychiatry"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "17352b486066f9d1c65cdd41d664b1f2d852b0c5bb97e5e65d646a389126ec3a",
+      "sequence": 0,
+      "created": "2026-11-05T17:20:24+00:00",
+      "last_modified": "2026-11-05T17:20:24+00:00"
     },
     "11160": {
       "id": 11160,
