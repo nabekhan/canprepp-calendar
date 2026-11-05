@@ -5623,16 +5623,16 @@ BEGIN:VEVENT
 SUMMARY:UBC Dermatology Town Hall Session
 DTSTART:20261119T000000Z
 DTEND:20261119T020000Z
-DTSTAMP:20261102T214032Z
+DTSTAMP:20261105T233454Z
 UID:canprepp-event-11215@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Dermatology
 CREATED:20261102T214032Z
 DESCRIPTION:https://canprepp.ca/events/ubc-dermatology-town-hall-session/
- \nPublished time: 17:00 – 19:00 PST\nMeeting Link: http://Zoom%20link%20
+ \nPublished time: 17:00 – 19:00 PDT\nMeeting Link: http://Zoom%20link%20
  will%20be%20sent%20to%20candidates%20who%20register\nRegister: https://ubc
  .ca1.qualtrics.com/jfe/form/SV_3aNCetcbJW5DdZk
-LAST-MODIFIED:20261102T214032Z
+LAST-MODIFIED:20261105T233454Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-dermatology-town-hall-session/
