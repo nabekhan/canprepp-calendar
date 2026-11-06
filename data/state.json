@@ -6115,12 +6115,12 @@
       }
     },
     "11074": {
-      "modified_gmt": "2026-10-05T12:13:09",
-      "calendar_hash": "6ef036c2046eff3241e9f6b7cd9b507f57d32ea5bc12aacfae482f8c2ed7356c",
-      "fetched_at": "2026-11-03T06:37:49+00:00",
+      "modified_gmt": "2026-11-06T13:34:02",
+      "calendar_hash": "46094f56524517e67dca58992e43c7c751f8bbc58f069ba6ce032a21c78375bf",
+      "fetched_at": "2026-11-06T16:42:44+00:00",
       "event": {
         "id": 11074,
-        "title": "CARMs info night",
+        "title": "CaRMS info night",
         "url": "https://canprepp.ca/events/carms-info-night-4/",
         "date": "2026-11-16",
         "start": "2026-11-17T00:00:00+00:00",
@@ -8760,6 +8760,32 @@
           "Psychiatry"
         ],
         "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11224": {
+      "modified_gmt": "2026-11-06T13:39:53",
+      "calendar_hash": "293058ada08b5d598d3c44fa0981e5fc1ecf18818449dc9e7fe5b29d86cd8763",
+      "fetched_at": "2026-11-06T16:42:44+00:00",
+      "event": {
+        "id": 11224,
+        "title": "Nuclear Medicine and Molecular Imaging program info session",
+        "url": "https://canprepp.ca/events/nuclear-medicine-and-molecular-imaging-program-info-session/",
+        "date": "2026-11-19",
+        "start": "2026-11-19T23:00:00+00:00",
+        "end": "2026-11-20T00:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "18:00 – 19:00 EST",
+        "categories": [
+          "University of Ottawa",
+          "R1",
+          "Nuclear Medicine"
+        ],
+        "links": {
+          "Meeting Link": "https://teams.microsoft.com/meet/2919335225224252?p=0ESZssp8rhgtfiJ9TC"
+        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -14668,7 +14694,7 @@
     },
     "11074": {
       "id": 11074,
-      "title": "CARMs info night",
+      "title": "CaRMS info night",
       "url": "https://canprepp.ca/events/carms-info-night-4/",
       "date": "2026-11-16",
       "start": "2026-11-17T00:00:00+00:00",
@@ -14686,10 +14712,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "40b2d30a6cebcd0e5bc55a821831f678f52483da05aa9717d935cd88881fcb6c",
-      "sequence": 0,
+      "fingerprint": "075722c4bf0e0fece314f58fba56c9f96d1ff6f2abfcc6e81b9362aa100da705",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-11-06T16:42:44+00:00"
     },
     "11075": {
       "id": 11075,
@@ -17190,6 +17216,31 @@
       "sequence": 0,
       "created": "2026-11-05T17:20:24+00:00",
       "last_modified": "2026-11-05T17:20:24+00:00"
+    },
+    "11224": {
+      "id": 11224,
+      "title": "Nuclear Medicine and Molecular Imaging program info session",
+      "url": "https://canprepp.ca/events/nuclear-medicine-and-molecular-imaging-program-info-session/",
+      "date": "2026-11-19",
+      "start": "2026-11-19T23:00:00+00:00",
+      "end": "2026-11-20T00:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "18:00 – 19:00 EST",
+      "categories": [
+        "University of Ottawa",
+        "R1",
+        "Nuclear Medicine"
+      ],
+      "links": {
+        "Meeting Link": "https://teams.microsoft.com/meet/2919335225224252?p=0ESZssp8rhgtfiJ9TC"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "4b5bf21b8d65c8b9fe41e43d79f26c1ea35c933887c4f07ec890f93ce3312e84",
+      "sequence": 0,
+      "created": "2026-11-06T16:42:44+00:00",
+      "last_modified": "2026-11-06T16:42:44+00:00"
     },
     "11160": {
       "id": 11160,

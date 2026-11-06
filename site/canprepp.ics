@@ -4912,17 +4912,17 @@ URL:https://canprepp.ca/events/western-general-surgery-carms-2027-informat
 X-CANPREPP-ID:11145
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CARMs info night
+SUMMARY:CaRMS info night
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
-DTSTAMP:20261012T191757Z
+DTSTAMP:20261106T164244Z
 UID:canprepp-event-11074@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Ottawa,R1,Physical Medicine & Rehabilitation
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/carms-info-night-4/\nPublished time
  : 19:00 – 20:00 EST\nMeeting Link: https://us06web.zoom.us/j/83869279600
-LAST-MODIFIED:20261012T191757Z
+LAST-MODIFIED:20261106T164244Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/carms-info-night-4/
@@ -5485,6 +5485,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/carms-info-session-anesthesiology-residency
  -program-university-of-calgary-2/
 X-CANPREPP-ID:10941
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nuclear Medicine and Molecular Imaging program info session
+DTSTART:20261119T230000Z
+DTEND:20261120T000000Z
+DTSTAMP:20261106T164244Z
+UID:canprepp-event-11224@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Ottawa,R1,Nuclear Medicine
+CREATED:20261106T164244Z
+DESCRIPTION:https://canprepp.ca/events/nuclear-medicine-and-molecular-imag
+ ing-program-info-session/\nPublished time: 18:00 – 19:00 EST\nMeeting Li
+ nk: https://teams.microsoft.com/meet/2919335225224252?p=0ESZssp8rhgtfiJ9TC
+LAST-MODIFIED:20261106T164244Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/nuclear-medicine-and-molecular-imaging-prog
+ ram-info-session/
+X-CANPREPP-ID:11224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USask Family Medicine (North West) Town Hall Session
