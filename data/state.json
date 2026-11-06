@@ -5060,7 +5060,7 @@
     "11015": {
       "modified_gmt": "2026-10-23T17:14:06",
       "calendar_hash": "60be106805e87e5cca01d329e72c345bc03419ba4a796830c457556ad8b8a47a",
-      "fetched_at": "2026-10-30T22:13:35+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11015,
         "title": "UBC Family Practice Postgrad – Prince George & Northern Rural Site QA",
@@ -5346,7 +5346,7 @@
     "11026": {
       "modified_gmt": "2026-10-23T17:18:21",
       "calendar_hash": "a1949deb1edabe3ec37414056436e79d42f7d7f2e14810959c3cb9e733962d82",
-      "fetched_at": "2026-10-30T22:13:35+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11026,
         "title": "UBC Family Practice Postgrad – Northwest Terrace Site QA",
@@ -6041,7 +6041,7 @@
     "11071": {
       "modified_gmt": "2026-10-23T17:30:33",
       "calendar_hash": "2971027aacefbf0d14000fa57d97c1e8be102e9e779b08c9d3ce4fb4e7f4b67f",
-      "fetched_at": "2026-10-30T22:13:35+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11071,
         "title": "UofA Family Medicine- Rural Info Session",
@@ -6091,7 +6091,7 @@
     "11073": {
       "modified_gmt": "2026-10-23T17:31:46",
       "calendar_hash": "9ea2bf03e38ad94e042989ba35064318cb8585b397a7584efc706ab1ab91a94c",
-      "fetched_at": "2026-10-30T22:13:35+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11073,
         "title": "UofA Family Medicine- IMG Info Session",
@@ -7519,7 +7519,7 @@
     "11145": {
       "modified_gmt": "2026-10-16T12:31:50",
       "calendar_hash": "02ba185a55614cf63ce9c791549325a230032cb5fceafa312dcdc61a8ada8c39",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11145,
         "title": "Western General Surgery CaRMS 2027 Information Session",
@@ -7854,7 +7854,7 @@
     "11172": {
       "modified_gmt": "2026-10-23T15:03:51",
       "calendar_hash": "0ebf41dca73d2c25d9d43160fcd6a19bab94b78202501f86f20c662a591365f1",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11172,
         "title": "USask Family Medicine (North West) Town Hall Session",
@@ -7880,7 +7880,7 @@
     "11173": {
       "modified_gmt": "2026-10-23T15:03:53",
       "calendar_hash": "2556cd4327caabba1a6ad2345fbf82e1ab1c891a56ba89f99a345e46f8f2cf9a",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11173,
         "title": "USask Family Medicine (Regina) Town Hall Session",
@@ -7906,7 +7906,7 @@
     "11174": {
       "modified_gmt": "2026-10-23T15:03:56",
       "calendar_hash": "843b5952b93f6ad126b262dcfbcf6a0a45a18cc7321a9e95e26e585413ef03e8",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11174,
         "title": "USask Family Medicine (Saskatoon) Town Hall Session",
@@ -7932,7 +7932,7 @@
     "11175": {
       "modified_gmt": "2026-10-23T15:03:58",
       "calendar_hash": "c50b151abae89df154084480a204d7dfab506ecc014e0b1dd51b5623c2500148",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11175,
         "title": "USask Family Medicine (Moose Jaw) Town Hall Session",
@@ -7958,7 +7958,7 @@
     "11176": {
       "modified_gmt": "2026-10-23T15:04:02",
       "calendar_hash": "7d1ac1106f375ad8b940776abfcb4c568c80afc0dabc83d299bf07a2806dea36",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11176,
         "title": "USask Family Medicine (North East) Town Hall Session",
@@ -7984,7 +7984,7 @@
     "11177": {
       "modified_gmt": "2026-10-23T15:04:07",
       "calendar_hash": "3daab2f316432ff31272fbed65016fc1184d738ace4b25c9fe58b8779a649fbf",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11177,
         "title": "USask Family Medicine (La Ronge) Town Hall Session",
@@ -8010,7 +8010,7 @@
     "11178": {
       "modified_gmt": "2026-10-23T15:04:05",
       "calendar_hash": "115abcd53468a5f59c00915f72ff74fa5df892366501d6f022f02e4232e36d99",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11178,
         "title": "USask Family Medicine (South East) Town Hall Session",
@@ -8036,7 +8036,7 @@
     "11179": {
       "modified_gmt": "2026-10-23T15:04:09",
       "calendar_hash": "fbb4ef23fb22472d749ba1b2a0f4d8d36d564ea83c61b3af2afcb095d7f4baae",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11179,
         "title": "USask Family Medicine (Prince Albert) Town Hall Session",
@@ -8062,7 +8062,7 @@
     "11180": {
       "modified_gmt": "2026-10-23T15:04:00",
       "calendar_hash": "795ba74d845bac1caff491c26128111c66587a3ea86f41d6db15a63d40a4edf1",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11180,
         "title": "USask Family Medicine (Swift Current) Town Hall Session",
@@ -8088,7 +8088,7 @@
     "11184": {
       "modified_gmt": "2026-10-23T11:10:23",
       "calendar_hash": "49cdcdc829ccb6e2bfdd2d572e896fb4a93e33b461184584781f77cb8c10fbd3",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11184,
         "title": "MacPeds – CaRMS Town Hall",
@@ -8114,7 +8114,7 @@
     "11186": {
       "modified_gmt": "2026-10-23T11:16:17",
       "calendar_hash": "c2f694c1d63cdd686911a7d8f01671cd1fad993a42c3093333147b81359dfb49",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11186,
         "title": "MacPeds – CaRMS Town Hall",
@@ -8140,7 +8140,7 @@
     "11187": {
       "modified_gmt": "2026-10-23T14:46:53",
       "calendar_hash": "dac06d896f2b4ecdaefb1b7df186f3e9522b4093920fd58649791dbfba334501",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11187,
         "title": "Western Family Medicine Info Session #1",
@@ -8167,7 +8167,7 @@
     "11188": {
       "modified_gmt": "2026-10-23T14:46:21",
       "calendar_hash": "dc3855938f226fcc5e6277b68dc8d0ec252ab2bf523e311f9c6be79a704569de",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11188,
         "title": "Western Family Medicine Info Session #2",
@@ -8194,7 +8194,7 @@
     "11189": {
       "modified_gmt": "2026-10-23T14:51:08",
       "calendar_hash": "415c73a43d4d439adfb0f460ca78ab8eba98d044f1267fc93b901dd0ad421c9f",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11189,
         "title": "Western Family Medicine Resident Q&A Session",
@@ -8221,7 +8221,7 @@
     "11190": {
       "modified_gmt": "2026-10-23T14:51:27",
       "calendar_hash": "415c73a43d4d439adfb0f460ca78ab8eba98d044f1267fc93b901dd0ad421c9f",
-      "fetched_at": "2026-10-30T18:02:14+00:00",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
       "event": {
         "id": 11190,
         "title": "Western Family Medicine Resident Q&A Session",
@@ -8786,6 +8786,81 @@
         "links": {
           "Meeting Link": "https://teams.microsoft.com/meet/2919335225224252?p=0ESZssp8rhgtfiJ9TC"
         },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11225": {
+      "modified_gmt": "2026-11-06T19:27:56",
+      "calendar_hash": "a5c61e6f27ddea0234cfc6318d5cf65e4502c003ecd85c0b304e1332088976bd",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "event": {
+        "id": 11225,
+        "title": "uOttawa Neurosurgery open house",
+        "url": "https://canprepp.ca/events/uottawa-neurosurgery-open-house/",
+        "date": "2026-11-24",
+        "start": "2026-11-24T23:30:00+00:00",
+        "end": "2026-11-25T01:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "18:30 – 20:30 EST",
+        "categories": [
+          "University of Ottawa",
+          "R1",
+          "Neurosurgery"
+        ],
+        "links": {
+          "Meeting Link": "https://teams.microsoft.com/meet/2190949984631258?p=EZP1FYIxWdWeRESq4J%20",
+          "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWhPw3AeyfX5EhClaQ_TK9ctUQjhJVE5CMEE3UUs3UTVCOFVZUFpEVFNQNy4u"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11227": {
+      "modified_gmt": "2026-11-06T20:48:36",
+      "calendar_hash": "c798156d8ae05f89f48683260155f8bfc3df15cbccab82dd5e184f366758bdbb",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "event": {
+        "id": 11227,
+        "title": "UBC EM – Northern Site",
+        "url": "https://canprepp.ca/events/ubc-em-northern-site/",
+        "date": "2026-11-17",
+        "start": "2026-11-17T23:00:00+00:00",
+        "end": "2026-11-18T00:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "PDT",
+        "published_time": "16:00 – 17:30 PDT",
+        "categories": [
+          "University of British Columbia",
+          "R1",
+          "Emergency Medicine"
+        ],
+        "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11229": {
+      "modified_gmt": "2026-11-06T20:51:23",
+      "calendar_hash": "96e7e8c25b876541199713a689dcb81051cd58e0851ffcc802c289ecc2c78fa5",
+      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "event": {
+        "id": 11229,
+        "title": "UBC EM – Northern Site",
+        "url": "https://canprepp.ca/events/ubc-em-northern-site-2/",
+        "date": "2026-11-24",
+        "start": "2026-11-24T23:00:00+00:00",
+        "end": "2026-11-25T00:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "PDT",
+        "published_time": "16:00 – 17:30 PDT",
+        "categories": [
+          "University of British Columbia",
+          "R1",
+          "Emergency Medicine"
+        ],
+        "links": {},
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -17241,6 +17316,78 @@
       "sequence": 0,
       "created": "2026-11-06T16:42:44+00:00",
       "last_modified": "2026-11-06T16:42:44+00:00"
+    },
+    "11225": {
+      "id": 11225,
+      "title": "uOttawa Neurosurgery open house",
+      "url": "https://canprepp.ca/events/uottawa-neurosurgery-open-house/",
+      "date": "2026-11-24",
+      "start": "2026-11-24T23:30:00+00:00",
+      "end": "2026-11-25T01:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "18:30 – 20:30 EST",
+      "categories": [
+        "University of Ottawa",
+        "R1",
+        "Neurosurgery"
+      ],
+      "links": {
+        "Meeting Link": "https://teams.microsoft.com/meet/2190949984631258?p=EZP1FYIxWdWeRESq4J%20",
+        "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWhPw3AeyfX5EhClaQ_TK9ctUQjhJVE5CMEE3UUs3UTVCOFVZUFpEVFNQNy4u"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "073a107f82f1be520cdeca64f330576f06743c00eb9ea3b9c122f92c6fe87d48",
+      "sequence": 0,
+      "created": "2026-11-06T23:02:18+00:00",
+      "last_modified": "2026-11-06T23:02:18+00:00"
+    },
+    "11227": {
+      "id": 11227,
+      "title": "UBC EM – Northern Site",
+      "url": "https://canprepp.ca/events/ubc-em-northern-site/",
+      "date": "2026-11-17",
+      "start": "2026-11-17T23:00:00+00:00",
+      "end": "2026-11-18T00:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "PDT",
+      "published_time": "16:00 – 17:30 PDT",
+      "categories": [
+        "University of British Columbia",
+        "R1",
+        "Emergency Medicine"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "a480dbbdb52ae17e2f35a9ebeb57e18f86d5ca82578889f34eb5c48002a4d12a",
+      "sequence": 0,
+      "created": "2026-11-06T23:02:18+00:00",
+      "last_modified": "2026-11-06T23:02:18+00:00"
+    },
+    "11229": {
+      "id": 11229,
+      "title": "UBC EM – Northern Site",
+      "url": "https://canprepp.ca/events/ubc-em-northern-site-2/",
+      "date": "2026-11-24",
+      "start": "2026-11-24T23:00:00+00:00",
+      "end": "2026-11-25T00:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "PDT",
+      "published_time": "16:00 – 17:30 PDT",
+      "categories": [
+        "University of British Columbia",
+        "R1",
+        "Emergency Medicine"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "2921cb6ce2174c6997393d7470fcee378233bc61858ed18991e57fcbe12b7e22",
+      "sequence": 0,
+      "created": "2026-11-06T23:02:18+00:00",
+      "last_modified": "2026-11-06T23:02:18+00:00"
     },
     "11160": {
       "id": 11160,

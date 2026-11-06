@@ -5023,6 +5023,23 @@ URL:https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgar
 X-CANPREPP-ID:11148
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UBC EM – Northern Site
+DTSTART:20261117T230000Z
+DTEND:20261118T003000Z
+DTSTAMP:20261106T230218Z
+UID:canprepp-event-11227@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of British Columbia,R1,Emergency Medicine
+CREATED:20261106T230218Z
+DESCRIPTION:https://canprepp.ca/events/ubc-em-northern-site/\nPublished ti
+ me: 16:00 – 17:30 PDT
+LAST-MODIFIED:20261106T230218Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-em-northern-site/
+X-CANPREPP-ID:11227
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Manitoba Neurology Open House
 DTSTART:20261117T233000Z
 DTEND:20261118T013000Z
@@ -5734,6 +5751,23 @@ URL:https://canprepp.ca/events/ubc-neurosurgery-program-information-qa-ses
 X-CANPREPP-ID:11219
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UBC EM – Northern Site
+DTSTART:20261124T230000Z
+DTEND:20261125T003000Z
+DTSTAMP:20261106T230218Z
+UID:canprepp-event-11229@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of British Columbia,R1,Emergency Medicine
+CREATED:20261106T230218Z
+DESCRIPTION:https://canprepp.ca/events/ubc-em-northern-site-2/\nPublished 
+ time: 16:00 – 17:30 PDT
+LAST-MODIFIED:20261106T230218Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ubc-em-northern-site-2/
+X-CANPREPP-ID:11229
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Calgary Radiation Oncology Info Session
 DTSTART:20261124T233000Z
 DTEND:20261125T003000Z
@@ -5751,6 +5785,26 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-calgary-radiation-oncology-in
  fo-session/
 X-CANPREPP-ID:11208
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:uOttawa Neurosurgery open house
+DTSTART:20261124T233000Z
+DTEND:20261125T013000Z
+DTSTAMP:20261106T230218Z
+UID:canprepp-event-11225@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Ottawa,R1,Neurosurgery
+CREATED:20261106T230218Z
+DESCRIPTION:https://canprepp.ca/events/uottawa-neurosurgery-open-house/\nP
+ ublished time: 18:30 – 20:30 EST\nMeeting Link: https://teams.microsoft.
+ com/meet/2190949984631258?p=EZP1FYIxWdWeRESq4J%20\nRegister: https://forms
+ .cloud.microsoft/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWhPw3AeyfX
+ 5EhClaQ_TK9ctUQjhJVE5CMEE3UUs3UTVCOFVZUFpEVFNQNy4u
+LAST-MODIFIED:20261106T230218Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/uottawa-neurosurgery-open-house/
+X-CANPREPP-ID:11225
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SFU Family Medicine Application Process Q&A
