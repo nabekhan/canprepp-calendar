@@ -696,32 +696,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10634": {
-      "modified_gmt": "2026-07-13T18:13:14",
-      "calendar_hash": "bec7747a96febfa43b7422b530dee6151842e68895ae49f5f8117d2adff921c7",
-      "fetched_at": "2026-11-03T06:37:49+00:00",
-      "event": {
-        "id": 10634,
-        "title": "McMaster University Internal Medicine Drop-in Session with Program Director",
-        "url": "https://canprepp.ca/events/mcmaster-university-internal-medicine-drop-in-session-with-program-director-2/",
-        "date": "2026-10-09",
-        "start": "2026-10-09T16:00:00+00:00",
-        "end": "2026-10-09T17:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "12:00 – 13:00 EDT",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Internal Medicine"
-        ],
-        "links": {
-          "Register": "https://mcmaster.zoom.us/meeting/register/3_YsX6zmQEalvG-qGqiJ7Q"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10636": {
       "modified_gmt": "2026-07-13T18:19:38",
       "calendar_hash": "387938336edb7866bd0aece5ad8e588f9b8125b095b27bada220a97da727ec81",
@@ -2373,32 +2347,6 @@
         ],
         "links": {
           "Register": "https://forms.gle/ptMfSyRnz4Jtihb86"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10838": {
-      "modified_gmt": "2026-09-09T19:25:11",
-      "calendar_hash": "2538348083e15ead46f494540ecf728ea8c4eb4d99ff6d2bbd078991df1d693e",
-      "fetched_at": "2026-11-03T06:37:49+00:00",
-      "event": {
-        "id": 10838,
-        "title": "uOttawa PHPM Academic Half Day",
-        "url": "https://canprepp.ca/events/uottawa-phpm-academic-half-day/",
-        "date": "2026-10-09",
-        "start": "2026-10-09T13:00:00+00:00",
-        "end": "2026-10-09T16:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "09:00 – 12:00 EST",
-        "categories": [
-          "University of Ottawa",
-          "R1",
-          "Public Health and Preventive Medicine Including Family Medicine"
-        ],
-        "links": {
-          "Meeting Link": "http://Provided%20to%20registered%20individuals"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -5448,32 +5396,6 @@
         ],
         "links": {
           "Meeting Link": "https://nosm.webex.com/nosm/j.php?MTID=mfeaa8393aecf9419bae6165543959334"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11054": {
-      "modified_gmt": "2026-10-02T18:21:09",
-      "calendar_hash": "e3ce5fc14789d8444c07061c94b0a1ff1aebc95da11f3591db58578153417caf",
-      "fetched_at": "2026-11-03T06:37:49+00:00",
-      "event": {
-        "id": 11054,
-        "title": "NOSM UNIVERSITY UROLOGY INFORMATION SESSION",
-        "url": "https://canprepp.ca/events/nosm-university-urology-information-session-3/",
-        "date": "2026-10-09",
-        "start": "2026-10-09T23:00:00+00:00",
-        "end": "2026-10-10T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:00 EST",
-        "categories": [
-          "NOSM University",
-          "R1",
-          "Urology"
-        ],
-        "links": {
-          "Meeting Link": "https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253ameeting_MmJkNWJiYmMtNTJhZS00OWJkLWEyMTktN2E3ODc5MzE0NGE4%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%2522b3002159-5bb1-4ef3-8e19-51667e1b46b9%2522%252c%2522Oid%2522%253a%2522a9c22370-4445-40da-a79d-afdd0462dd69%2522%257d%26launchAgent%3DGSuiteAddOn%26correlationId%3D8f8e3cd6-b771-40ec-955b-b03ef54ca6d8&sa=D&source=calendar&ust=1790089369618362&usg=AOvVaw0_W8oOynlcUWJwap4d4OOv"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -9126,31 +9048,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "10634": {
-      "id": 10634,
-      "title": "McMaster University Internal Medicine Drop-in Session with Program Director",
-      "url": "https://canprepp.ca/events/mcmaster-university-internal-medicine-drop-in-session-with-program-director-2/",
-      "date": "2026-10-09",
-      "start": "2026-10-09T16:00:00+00:00",
-      "end": "2026-10-09T17:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "12:00 – 13:00 EDT",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Internal Medicine"
-      ],
-      "links": {
-        "Register": "https://mcmaster.zoom.us/meeting/register/3_YsX6zmQEalvG-qGqiJ7Q"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "1ed7d7f3f37c57f16cc05e641231c4bf7620989823e668db00275c19529eb359",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
     "10636": {
       "id": 10636,
       "title": "McMaster University Internal Medicine Drop-in Session with Program Director",
@@ -10739,31 +10636,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "0df96c4cb80a692d9dd8996af2f12f69f076b3e431341a01455e39d09b5ab48a",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10838": {
-      "id": 10838,
-      "title": "uOttawa PHPM Academic Half Day",
-      "url": "https://canprepp.ca/events/uottawa-phpm-academic-half-day/",
-      "date": "2026-10-09",
-      "start": "2026-10-09T13:00:00+00:00",
-      "end": "2026-10-09T16:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "09:00 – 12:00 EST",
-      "categories": [
-        "University of Ottawa",
-        "R1",
-        "Public Health and Preventive Medicine Including Family Medicine"
-      ],
-      "links": {
-        "Meeting Link": "http://Provided%20to%20registered%20individuals"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "25cc4c3e4739c245716f6c963ddf7564929135607d4f1d1420c9721bc9478560",
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
@@ -13698,31 +13570,6 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "11054": {
-      "id": 11054,
-      "title": "NOSM UNIVERSITY UROLOGY INFORMATION SESSION",
-      "url": "https://canprepp.ca/events/nosm-university-urology-information-session-3/",
-      "date": "2026-10-09",
-      "start": "2026-10-09T23:00:00+00:00",
-      "end": "2026-10-10T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:00 EST",
-      "categories": [
-        "NOSM University",
-        "R1",
-        "Urology"
-      ],
-      "links": {
-        "Meeting Link": "https://www.google.com/url?q=https://teams.microsoft.com/l/meetup-join/19%253ameeting_MmJkNWJiYmMtNTJhZS00OWJkLWEyMTktN2E3ODc5MzE0NGE4%2540thread.v2/0?context%3D%257b%2522Tid%2522%253a%2522b3002159-5bb1-4ef3-8e19-51667e1b46b9%2522%252c%2522Oid%2522%253a%2522a9c22370-4445-40da-a79d-afdd0462dd69%2522%257d%26launchAgent%3DGSuiteAddOn%26correlationId%3D8f8e3cd6-b771-40ec-955b-b03ef54ca6d8&sa=D&source=calendar&ust=1790089369618362&usg=AOvVaw0_W8oOynlcUWJwap4d4OOv"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "462c2eae2efe52389bbcb83905eac3e1b885d0219c53e559630d227187951d3f",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "11061": {
       "id": 11061,
