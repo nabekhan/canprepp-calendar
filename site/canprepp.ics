@@ -3526,27 +3526,6 @@ URL:https://canprepp.ca/events/memorial-university-of-newfoundland-family-
 X-CANPREPP-ID:11076
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Queen’s Anesthesiology – Meet the Program Director/Assistant P
- rogram Director
-DTSTART:20261110T000000Z
-DTEND:20261110T020000Z
-DTSTAMP:20261027T220725Z
-UID:canprepp-event-10424@canprepp.ca
-SEQUENCE:1
-CATEGORIES:Queen's University,R1,Anesthesiology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-anesthesiology-meet-the-prog
- ram-director-assistant-program-director-6/\nPublished time: 19:00 – 21:0
- 0 EST\nMeeting Link: https://queensu.zoom.us/j/96852320259?pwd=arscdnRkcl7
- 5C6qSe4IbEpJg2gHwJI.1
-LAST-MODIFIED:20261027T220725Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-anesthesiology-meet-the-program-dire
- ctor-assistant-program-director-6/
-X-CANPREPP-ID:10424
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dalhousie Physical Medicine & Rehabilitation CaRMS Information Ses
  sion
 DTSTART:20261110T000000Z
@@ -4280,27 +4259,6 @@ URL:https://canprepp.ca/events/university-of-calgary-pmr-open-house/
 X-CANPREPP-ID:11081
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:uOttawa-Orthopedic Surgery – Meet and Greet Session- CaRMS 2027
-DTSTART:20261113T000000Z
-DTEND:20261113T020000Z
-DTSTAMP:20261029T182513Z
-UID:canprepp-event-11207@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Orthopedic Surgery
-CREATED:20261029T182513Z
-DESCRIPTION:https://canprepp.ca/events/orthopedic-surgery-program-meet-and
- -greet-session-carms-2027/\nPublished time: 19:00 – 21:00 EST\nMeeting L
- ink: https://us06web.zoom.us/j/82461693420?pwd=9I6yT8ZjTAceMbceRNDvNym0K2R
- 33E.1\nJoin Zoom Meeting: https://us06web.zoom.us/j/82461693420?pwd=9I6yT8
- ZjTAceMbceRNDvNym0K2R33E.1
-LAST-MODIFIED:20261029T182513Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/orthopedic-surgery-program-meet-and-greet-s
- ession-carms-2027/
-X-CANPREPP-ID:11207
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University of Saskatchewan -Neurology Information Night
 DTSTART:20261113T003000Z
 DTEND:20261113T013000Z
@@ -4721,6 +4679,27 @@ URL:https://canprepp.ca/events/usask-family-medicine-moose-jaw-town-hall-s
 X-CANPREPP-ID:11175
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:uOttawa-Orthopedic Surgery – Meet and Greet Session- CaRMS 2027
+DTSTART:20261118T000000Z
+DTEND:20261118T020000Z
+DTSTAMP:20261109T160544Z
+UID:canprepp-event-11207@canprepp.ca
+SEQUENCE:1
+CATEGORIES:University of Ottawa,R1,Orthopedic Surgery
+CREATED:20261029T182513Z
+DESCRIPTION:https://canprepp.ca/events/orthopedic-surgery-program-meet-and
+ -greet-session-carms-2027/\nPublished time: 19:00 – 21:00 EST\nMeeting L
+ ink: https://us06web.zoom.us/j/82461693420?pwd=9I6yT8ZjTAceMbceRNDvNym0K2R
+ 33E.1\nJoin Zoom Meeting: https://us06web.zoom.us/j/82461693420?pwd=9I6yT8
+ ZjTAceMbceRNDvNym0K2R33E.1
+LAST-MODIFIED:20261109T160544Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/orthopedic-surgery-program-meet-and-greet-s
+ ession-carms-2027/
+X-CANPREPP-ID:11207
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Quw’utsun Site QA
 DTSTART:20261118T003000Z
 DTEND:20261118T013000Z
@@ -4877,6 +4856,26 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/western-family-medicine-info-session-2-3/
 X-CANPREPP-ID:11188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queen’s Anesthesiology – Meet the Program Director/Assistant P
+ rogram Director
+DTSTART:20261119T000000Z
+DTEND:20261119T020000Z
+DTSTAMP:20261109T160544Z
+UID:canprepp-event-10424@canprepp.ca
+SEQUENCE:2
+CATEGORIES:Queen's University,R1,Anesthesiology
+CREATED:20261012T191757Z
+DESCRIPTION:https://canprepp.ca/events/queens-anesthesiology-meet-the-prog
+ ram-director-assistant-program-director-6/\nPublished time: 19:00 – 21:0
+ 0 EST\nMeeting Link: https://queensu.zoom.us/j/96852320259?pwd=arscdnRkcl7
+ 5C6qSe4IbEpJg2gHwJI.1
+LAST-MODIFIED:20261109T160544Z
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-anesthesiology-meet-the-program-dire
+ ctor-assistant-program-director-6/
+X-CANPREPP-ID:10424
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rural Family Medicine Meet & Greet – Part 2

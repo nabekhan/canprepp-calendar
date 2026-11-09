@@ -309,16 +309,16 @@
       }
     },
     "10424": {
-      "modified_gmt": "2026-10-27T17:09:12",
-      "calendar_hash": "9ca7521ba000c9f7aac01ccc523370bc85735b6be9b232334e242432a90cb1e0",
-      "fetched_at": "2026-11-03T23:14:36+00:00",
+      "modified_gmt": "2026-11-09T13:46:33",
+      "calendar_hash": "f789a6be64d13544499981fdd8dd10b47e6815732f5b735743d713ce48248dd5",
+      "fetched_at": "2026-11-09T16:05:44+00:00",
       "event": {
         "id": 10424,
         "title": "Queen’s Anesthesiology – Meet the Program Director/Assistant Program Director",
         "url": "https://canprepp.ca/events/queens-anesthesiology-meet-the-program-director-assistant-program-director-6/",
-        "date": "2026-11-09",
-        "start": "2026-11-10T00:00:00+00:00",
-        "end": "2026-11-10T02:00:00+00:00",
+        "date": "2026-11-18",
+        "start": "2026-11-19T00:00:00+00:00",
+        "end": "2026-11-19T02:00:00+00:00",
         "all_day": false,
         "timezone_label": "EST",
         "published_time": "19:00 – 21:00 EST",
@@ -330,7 +330,7 @@
         "links": {
           "Meeting Link": "https://queensu.zoom.us/j/96852320259?pwd=arscdnRkcl75C6qSe4IbEpJg2gHwJI.1"
         },
-        "location": "Online",
+        "location": "",
         "status": "CONFIRMED"
       }
     },
@@ -7943,16 +7943,16 @@
       }
     },
     "11207": {
-      "modified_gmt": "2026-10-29T13:53:40",
-      "calendar_hash": "794bd58aa110f6867f33999ef8636898b2d56011e02f382565bd475811b59790",
-      "fetched_at": "2026-11-05T23:34:54+00:00",
+      "modified_gmt": "2026-11-09T13:26:17",
+      "calendar_hash": "96b7e6544fafc7ee202fe65045442928c6651fc3ee2caf8e8a250dd9e7227069",
+      "fetched_at": "2026-11-09T16:05:44+00:00",
       "event": {
         "id": 11207,
         "title": "uOttawa-Orthopedic Surgery – Meet and Greet Session- CaRMS 2027",
         "url": "https://canprepp.ca/events/orthopedic-surgery-program-meet-and-greet-session-carms-2027/",
-        "date": "2026-11-12",
-        "start": "2026-11-13T00:00:00+00:00",
-        "end": "2026-11-13T02:00:00+00:00",
+        "date": "2026-11-17",
+        "start": "2026-11-18T00:00:00+00:00",
+        "end": "2026-11-18T02:00:00+00:00",
         "all_day": false,
         "timezone_label": "EST",
         "published_time": "19:00 – 21:00 EST",
@@ -8679,9 +8679,9 @@
       "id": 10424,
       "title": "Queen’s Anesthesiology – Meet the Program Director/Assistant Program Director",
       "url": "https://canprepp.ca/events/queens-anesthesiology-meet-the-program-director-assistant-program-director-6/",
-      "date": "2026-11-09",
-      "start": "2026-11-10T00:00:00+00:00",
-      "end": "2026-11-10T02:00:00+00:00",
+      "date": "2026-11-18",
+      "start": "2026-11-19T00:00:00+00:00",
+      "end": "2026-11-19T02:00:00+00:00",
       "all_day": false,
       "timezone_label": "EST",
       "published_time": "19:00 – 21:00 EST",
@@ -8693,12 +8693,12 @@
       "links": {
         "Meeting Link": "https://queensu.zoom.us/j/96852320259?pwd=arscdnRkcl75C6qSe4IbEpJg2gHwJI.1"
       },
-      "location": "Online",
+      "location": "",
       "status": "CONFIRMED",
-      "fingerprint": "8894cfc3b84d31351e0a849c0af2a101c853c7f01a6f19ef174a4b51defaaaf1",
-      "sequence": 1,
+      "fingerprint": "5a812d164e35ddb836eb9c226380fb3c00f2259f48618fa8d9b3e651aedd3bc7",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-27T22:07:25+00:00"
+      "last_modified": "2026-11-09T16:05:44+00:00"
     },
     "10579": {
       "id": 10579,
@@ -15995,9 +15995,9 @@
       "id": 11207,
       "title": "uOttawa-Orthopedic Surgery – Meet and Greet Session- CaRMS 2027",
       "url": "https://canprepp.ca/events/orthopedic-surgery-program-meet-and-greet-session-carms-2027/",
-      "date": "2026-11-12",
-      "start": "2026-11-13T00:00:00+00:00",
-      "end": "2026-11-13T02:00:00+00:00",
+      "date": "2026-11-17",
+      "start": "2026-11-18T00:00:00+00:00",
+      "end": "2026-11-18T02:00:00+00:00",
       "all_day": false,
       "timezone_label": "EST",
       "published_time": "19:00 – 21:00 EST",
@@ -16012,10 +16012,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "92b31cc5b194c27f03980db6cde8ce4961b06c20a7abf4baff5ee20578758bf3",
-      "sequence": 0,
+      "fingerprint": "991a37b9fa3eacf237c62ba556cebcecdeed2cdb8914ce0e3bcd64c9022463a8",
+      "sequence": 1,
       "created": "2026-10-29T18:25:13+00:00",
-      "last_modified": "2026-10-29T18:25:13+00:00"
+      "last_modified": "2026-11-09T16:05:44+00:00"
     },
     "11208": {
       "id": 11208,
