@@ -6597,7 +6597,7 @@
     "11122": {
       "modified_gmt": "2026-10-13T00:50:31",
       "calendar_hash": "c2454e9dcb73db2fca51931cd1562b7f6072142d74e0d0ae05855649fd454f8f",
-      "fetched_at": "2026-11-03T16:58:50+00:00",
+      "fetched_at": "2026-11-10T19:39:36+00:00",
       "event": {
         "id": 11122,
         "title": "Dalhousie University Otolaryngology CaRMS Information Session",
@@ -8103,7 +8103,7 @@
     "11216": {
       "modified_gmt": "2026-11-03T16:05:39",
       "calendar_hash": "8c688130bc3c0184239eed438f5e47c341fb87632c9064902f750b17ae2c3148",
-      "fetched_at": "2026-11-03T16:58:50+00:00",
+      "fetched_at": "2026-11-10T19:39:36+00:00",
       "event": {
         "id": 11216,
         "title": "UofT Diagnostic & Molecular Pathology Info Session",
