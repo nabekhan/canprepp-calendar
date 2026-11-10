@@ -3318,7 +3318,7 @@
     "10921": {
       "modified_gmt": "2026-10-26T13:44:04",
       "calendar_hash": "5063af176964992ea6542c87afabbfb46dd1775b9494b462f99c2f9934a8aa73",
-      "fetched_at": "2026-11-02T21:40:32+00:00",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
       "event": {
         "id": 10921,
         "title": "Memorial University of Newfoundland Family Medicine Training Program Central Stream Information Session",
@@ -7737,7 +7737,7 @@
     "11193": {
       "modified_gmt": "2026-10-26T15:53:14",
       "calendar_hash": "66fdeaf47b5817b66fa8c0a44bbb8238b9a6a324f7ee97564e9a641fbbee7cb6",
-      "fetched_at": "2026-11-02T21:40:32+00:00",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
       "event": {
         "id": 11193,
         "title": "University of Ottawa Pediatric Neurology Information Session",
@@ -7763,7 +7763,7 @@
     "11194": {
       "modified_gmt": "2026-10-26T15:52:21",
       "calendar_hash": "3fd064876da03820a953ba071838bf4ee9f8d9dff489d93385c56369053788d2",
-      "fetched_at": "2026-11-02T21:40:32+00:00",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
       "event": {
         "id": 11194,
         "title": "University of Ottawa Pediatric Neurology Information Session",
@@ -8022,9 +8022,9 @@
       }
     },
     "11213": {
-      "modified_gmt": "2026-10-30T22:28:25",
+      "modified_gmt": "2026-11-09T19:21:56",
       "calendar_hash": "cd128bb30247d1d60182a28f2406ec906143a594d50e86e01bfd5b99f33077a6",
-      "fetched_at": "2026-11-07T05:50:03+00:00",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
       "event": {
         "id": 11213,
         "title": "University of Manitoba Neurology Open House",
@@ -8040,7 +8040,9 @@
           "R1",
           "Neurology"
         ],
-        "links": {},
+        "links": {
+          "Meeting Link": "https://umanitoba.zoom.us/j/67026412702?pwd=oZ0RX00QXkragovbsFEEUI4hS4cJLf.1"
+        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -8048,7 +8050,7 @@
     "11214": {
       "modified_gmt": "2026-11-02T14:53:02",
       "calendar_hash": "fb464a49fe6f16218b51f689883a281f780c31b7e650eb3c0805fccfbc27c885",
-      "fetched_at": "2026-11-02T21:40:32+00:00",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
       "event": {
         "id": 11214,
         "title": "University of Manitoba Anesthesiology Information Session",
@@ -8350,6 +8352,210 @@
           "Emergency Medicine"
         ],
         "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11230": {
+      "modified_gmt": "2026-11-09T15:50:08",
+      "calendar_hash": "b6ce1d026051e41e067871c3dc0956bd6ebe94675944e97bb60986c9477438b7",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
+      "event": {
+        "id": 11230,
+        "title": "2027 CaRMS Information Session",
+        "url": "https://canprepp.ca/events/2027-carms-information-session/",
+        "date": "2026-11-12",
+        "start": "2026-11-13T01:00:00+00:00",
+        "end": "2026-11-13T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "20:00 – 21:00 EST",
+        "categories": [
+          "Western University",
+          "R1",
+          "Orthopedic Surgery"
+        ],
+        "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11235": {
+      "modified_gmt": "2026-11-09T18:39:19",
+      "calendar_hash": "0bc94967b75326e297702354ccccf6adb6b510f59e75524a7e923fb203bf6ee6",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
+      "event": {
+        "id": 11235,
+        "title": "University of Manitoba Plastic Surgery CaRMS Info Night",
+        "url": "https://canprepp.ca/events/university-of-manitoba-plastic-surgery-carms-info-night/",
+        "date": "2026-11-19",
+        "start": "2026-11-20T00:00:00+00:00",
+        "end": "2026-11-20T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "19:00 – 21:00 CST",
+        "categories": [
+          "University of Manitoba",
+          "R1",
+          "Plastic Surgery"
+        ],
+        "links": {
+          "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=C92AT4wzTE6KFJBEaWL3uBnM4m6lFutCoW2QnP97LytUNTlYTExNUjg1TTkxQjNKRTRPQTg5VFBYRy4u"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11237": {
+      "modified_gmt": "2026-11-09T19:29:58",
+      "calendar_hash": "d27657baebfec9b082f5361cc8efcf7a4cd0d9777edaefee7fedd4d9cf67b825",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
+      "event": {
+        "id": 11237,
+        "title": "University of British Columbia Radiation Oncology Residency Program Virtual Information Session/QA",
+        "url": "https://canprepp.ca/events/university-of-british-columbia-radiation-oncology-residency-program-virtual-information-session-qa/",
+        "date": "2026-11-23",
+        "start": "2026-11-23T23:00:00+00:00",
+        "end": "2026-11-24T00:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "PST",
+        "published_time": "16:00 – 17:00 PST",
+        "categories": [
+          "University of British Columbia",
+          "R1",
+          "Radiation Oncology"
+        ],
+        "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11238": {
+      "modified_gmt": "2026-11-09T19:38:03",
+      "calendar_hash": "6405aac40721ab38ac719db8614d84b12996e258006a311128d7b88ad5185343",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
+      "event": {
+        "id": 11238,
+        "title": "McMaster University Family Medicine Resident QA",
+        "url": "https://canprepp.ca/events/mcmaster-university-family-medicine-resident-qa-2/",
+        "date": "2026-11-25",
+        "start": "2026-11-26T00:00:00+00:00",
+        "end": "2026-11-26T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "19:00 – 20:00 EST",
+        "categories": [
+          "McMaster University",
+          "R1",
+          "Family Medicine"
+        ],
+        "links": {
+          "Register": "https://ca01web.zoom.us/meeting/register/t2ZGJIvWT5OPr5yNwCCaYA"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11239": {
+      "modified_gmt": "2026-11-09T19:48:33",
+      "calendar_hash": "7c297c43a1866705b823cb56abf0ba15efe48b9d3adc4a2934b2aa9342613709",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
+      "event": {
+        "id": 11239,
+        "title": "University of Manitoba Neurosurgery Open House",
+        "url": "https://canprepp.ca/events/university-of-manitoba-neurosurgery-open-house/",
+        "date": "2026-11-19",
+        "start": "2026-11-20T00:00:00+00:00",
+        "end": null,
+        "all_day": false,
+        "timezone_label": "CDT",
+        "published_time": "19:00 CDT",
+        "categories": [
+          "University of Manitoba",
+          "R1",
+          "Neurosurgery"
+        ],
+        "links": {
+          "Register": "https://forms.cloud.microsoft/r/eaR3Ggwkxk"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11242": {
+      "modified_gmt": "2026-11-09T20:00:35",
+      "calendar_hash": "a334f31f07890d14612985a19fa4e18b13cbb93c44c2557c7033883dc10d845b",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
+      "event": {
+        "id": 11242,
+        "title": "Western Radiation Oncology Resident Q&A Session",
+        "url": "https://canprepp.ca/events/western-radiation-oncology-resident-qa-session/",
+        "date": "2026-11-10",
+        "start": "2026-11-11T01:00:00+00:00",
+        "end": "2026-11-11T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "20:00 – 21:00 EST",
+        "categories": [
+          "Western University",
+          "R1",
+          "Radiation Oncology"
+        ],
+        "links": {
+          "Meeting Link": "https://westernuniversity.zoom.us/j/98045526796"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11243": {
+      "modified_gmt": "2026-11-09T20:07:16",
+      "calendar_hash": "357a88b7bb987c9f6285f0006df2ad980ffe95987f75b15d3d1cf39eb9a678be",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
+      "event": {
+        "id": 11243,
+        "title": "Western Radiology Oncology Information Session",
+        "url": "https://canprepp.ca/events/western-radiology-oncology-information-session/",
+        "date": "2026-11-16",
+        "start": "2026-11-16T16:30:00+00:00",
+        "end": "2026-11-16T17:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "11:30 – 12:00 EST",
+        "categories": [
+          "Western University",
+          "R1",
+          "Radiation Oncology"
+        ],
+        "links": {
+          "Meeting Link": "https://westernuniversity.zoom.us/j/95362028290?pwd=yI4dD9vFXbhyifav7lE7sdGC1Hjqb4.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11244": {
+      "modified_gmt": "2026-11-09T20:11:19",
+      "calendar_hash": "ea0fadcae86a0f82ac916b0486729fbb95a7eaf27ea60e06988a64a674acc667",
+      "fetched_at": "2026-11-10T01:27:47+00:00",
+      "event": {
+        "id": 11244,
+        "title": "Western Radiology Oncology Information Session",
+        "url": "https://canprepp.ca/events/western-radiology-oncology-information-session-2/",
+        "date": "2026-10-27",
+        "start": "2026-10-27T22:00:00+00:00",
+        "end": "2026-10-27T23:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "18:00 – 19:00 EST",
+        "categories": [
+          "Western University",
+          "R1",
+          "Radiation Oncology"
+        ],
+        "links": {
+          "Meeting Link": "https://westernuniversity.zoom.us/j/98397176700"
+        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -16082,13 +16288,15 @@
         "R1",
         "Neurology"
       ],
-      "links": {},
+      "links": {
+        "Meeting Link": "https://umanitoba.zoom.us/j/67026412702?pwd=oZ0RX00QXkragovbsFEEUI4hS4cJLf.1"
+      },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "aa6a8d618fa51311c38854bed598ebec28fdb702c04bd3179c6e055eb577fb1a",
-      "sequence": 0,
+      "fingerprint": "bc731173b96c569f229a2ec9a70f9b902ee2516b6b8dc1f5b1eb6ec0ca71ff79",
+      "sequence": 1,
       "created": "2026-10-31T05:27:40+00:00",
-      "last_modified": "2026-10-31T05:27:40+00:00"
+      "last_modified": "2026-11-10T01:27:47+00:00"
     },
     "11214": {
       "id": 11214,
@@ -16386,6 +16594,202 @@
       "sequence": 0,
       "created": "2026-11-06T23:02:18+00:00",
       "last_modified": "2026-11-06T23:02:18+00:00"
+    },
+    "11230": {
+      "id": 11230,
+      "title": "2027 CaRMS Information Session",
+      "url": "https://canprepp.ca/events/2027-carms-information-session/",
+      "date": "2026-11-12",
+      "start": "2026-11-13T01:00:00+00:00",
+      "end": "2026-11-13T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "20:00 – 21:00 EST",
+      "categories": [
+        "Western University",
+        "R1",
+        "Orthopedic Surgery"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "77d34798390df3baaf0bbfe71d443deebcbebe1b27368be0a2dc79a27a12ece7",
+      "sequence": 0,
+      "created": "2026-11-10T01:27:47+00:00",
+      "last_modified": "2026-11-10T01:27:47+00:00"
+    },
+    "11235": {
+      "id": 11235,
+      "title": "University of Manitoba Plastic Surgery CaRMS Info Night",
+      "url": "https://canprepp.ca/events/university-of-manitoba-plastic-surgery-carms-info-night/",
+      "date": "2026-11-19",
+      "start": "2026-11-20T00:00:00+00:00",
+      "end": "2026-11-20T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "19:00 – 21:00 CST",
+      "categories": [
+        "University of Manitoba",
+        "R1",
+        "Plastic Surgery"
+      ],
+      "links": {
+        "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=C92AT4wzTE6KFJBEaWL3uBnM4m6lFutCoW2QnP97LytUNTlYTExNUjg1TTkxQjNKRTRPQTg5VFBYRy4u"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "7e70923082919af431ac59daf58f579777e891593498f23a46154fd2530968be",
+      "sequence": 0,
+      "created": "2026-11-10T01:27:47+00:00",
+      "last_modified": "2026-11-10T01:27:47+00:00"
+    },
+    "11237": {
+      "id": 11237,
+      "title": "University of British Columbia Radiation Oncology Residency Program Virtual Information Session/QA",
+      "url": "https://canprepp.ca/events/university-of-british-columbia-radiation-oncology-residency-program-virtual-information-session-qa/",
+      "date": "2026-11-23",
+      "start": "2026-11-23T23:00:00+00:00",
+      "end": "2026-11-24T00:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "PST",
+      "published_time": "16:00 – 17:00 PST",
+      "categories": [
+        "University of British Columbia",
+        "R1",
+        "Radiation Oncology"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "8587d7245fe26597eb7ce5d60d3e273803330f7955febf4f1b3fd89e11045984",
+      "sequence": 0,
+      "created": "2026-11-10T01:27:47+00:00",
+      "last_modified": "2026-11-10T01:27:47+00:00"
+    },
+    "11238": {
+      "id": 11238,
+      "title": "McMaster University Family Medicine Resident QA",
+      "url": "https://canprepp.ca/events/mcmaster-university-family-medicine-resident-qa-2/",
+      "date": "2026-11-25",
+      "start": "2026-11-26T00:00:00+00:00",
+      "end": "2026-11-26T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "19:00 – 20:00 EST",
+      "categories": [
+        "McMaster University",
+        "R1",
+        "Family Medicine"
+      ],
+      "links": {
+        "Register": "https://ca01web.zoom.us/meeting/register/t2ZGJIvWT5OPr5yNwCCaYA"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "c534f5302b768802c3a82c3b6ee12d26f2c02488a06ed9f163428debc19045b2",
+      "sequence": 0,
+      "created": "2026-11-10T01:27:47+00:00",
+      "last_modified": "2026-11-10T01:27:47+00:00"
+    },
+    "11239": {
+      "id": 11239,
+      "title": "University of Manitoba Neurosurgery Open House",
+      "url": "https://canprepp.ca/events/university-of-manitoba-neurosurgery-open-house/",
+      "date": "2026-11-19",
+      "start": "2026-11-20T00:00:00+00:00",
+      "end": null,
+      "all_day": false,
+      "timezone_label": "CDT",
+      "published_time": "19:00 CDT",
+      "categories": [
+        "University of Manitoba",
+        "R1",
+        "Neurosurgery"
+      ],
+      "links": {
+        "Register": "https://forms.cloud.microsoft/r/eaR3Ggwkxk"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "fb8830df4b5447acd1d59a479c4d6d712e8d991f2a8fa78fbcbbde0d8b4261ec",
+      "sequence": 0,
+      "created": "2026-11-10T01:27:47+00:00",
+      "last_modified": "2026-11-10T01:27:47+00:00"
+    },
+    "11242": {
+      "id": 11242,
+      "title": "Western Radiation Oncology Resident Q&A Session",
+      "url": "https://canprepp.ca/events/western-radiation-oncology-resident-qa-session/",
+      "date": "2026-11-10",
+      "start": "2026-11-11T01:00:00+00:00",
+      "end": "2026-11-11T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "20:00 – 21:00 EST",
+      "categories": [
+        "Western University",
+        "R1",
+        "Radiation Oncology"
+      ],
+      "links": {
+        "Meeting Link": "https://westernuniversity.zoom.us/j/98045526796"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "81a72f8f274cfff05f752247ced9de60e76860ed59526799020d1473d6fb355c",
+      "sequence": 0,
+      "created": "2026-11-10T01:27:47+00:00",
+      "last_modified": "2026-11-10T01:27:47+00:00"
+    },
+    "11243": {
+      "id": 11243,
+      "title": "Western Radiology Oncology Information Session",
+      "url": "https://canprepp.ca/events/western-radiology-oncology-information-session/",
+      "date": "2026-11-16",
+      "start": "2026-11-16T16:30:00+00:00",
+      "end": "2026-11-16T17:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "11:30 – 12:00 EST",
+      "categories": [
+        "Western University",
+        "R1",
+        "Radiation Oncology"
+      ],
+      "links": {
+        "Meeting Link": "https://westernuniversity.zoom.us/j/95362028290?pwd=yI4dD9vFXbhyifav7lE7sdGC1Hjqb4.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "724ca06cca07dddb53ad6dc945330fdc025d6a84e9f7ba2b281e8a8a3b877a19",
+      "sequence": 0,
+      "created": "2026-11-10T01:27:47+00:00",
+      "last_modified": "2026-11-10T01:27:47+00:00"
+    },
+    "11244": {
+      "id": 11244,
+      "title": "Western Radiology Oncology Information Session",
+      "url": "https://canprepp.ca/events/western-radiology-oncology-information-session-2/",
+      "date": "2026-10-27",
+      "start": "2026-10-27T22:00:00+00:00",
+      "end": "2026-10-27T23:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "18:00 – 19:00 EST",
+      "categories": [
+        "Western University",
+        "R1",
+        "Radiation Oncology"
+      ],
+      "links": {
+        "Meeting Link": "https://westernuniversity.zoom.us/j/98397176700"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "ebdb7a66168a4a3bf8c5cd7bede193237b53fa23ac7d196f9f740a297f182486",
+      "sequence": 0,
+      "created": "2026-11-10T01:27:47+00:00",
+      "last_modified": "2026-11-10T01:27:47+00:00"
     },
     "11160": {
       "id": 11160,

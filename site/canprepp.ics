@@ -1536,6 +1536,25 @@ URL:https://canprepp.ca/events/nunavut-stream-at-the-university-of-ottawa-
 X-CANPREPP-ID:11031
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Western Radiology Oncology Information Session
+DTSTART:20261027T220000Z
+DTEND:20261027T230000Z
+DTSTAMP:20261110T012747Z
+UID:canprepp-event-11244@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Radiation Oncology
+CREATED:20261110T012747Z
+DESCRIPTION:https://canprepp.ca/events/western-radiology-oncology-informat
+ ion-session-2/\nPublished time: 18:00 – 19:00 EST\nMeeting Link: https:/
+ /westernuniversity.zoom.us/j/98397176700
+LAST-MODIFIED:20261110T012747Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-radiology-oncology-information-sess
+ ion-2/
+X-CANPREPP-ID:11244
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Memorial University – Neurology Residency Program – CaRMS Info
   Session
 DTSTART:20261027T223000Z
@@ -3916,6 +3935,25 @@ URL:https://canprepp.ca/events/ubc-family-practice-postgrad-prince-george-
 X-CANPREPP-ID:11015
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Western Radiation Oncology Resident Q&A Session
+DTSTART:20261111T010000Z
+DTEND:20261111T020000Z
+DTSTAMP:20261110T012747Z
+UID:canprepp-event-11242@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Radiation Oncology
+CREATED:20261110T012747Z
+DESCRIPTION:https://canprepp.ca/events/western-radiation-oncology-resident
+ -qa-session/\nPublished time: 20:00 – 21:00 EST\nMeeting Link: https://w
+ esternuniversity.zoom.us/j/98045526796
+LAST-MODIFIED:20261110T012747Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-radiation-oncology-resident-qa-sess
+ ion/
+X-CANPREPP-ID:11242
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Toronto Paediatrics CaRMS Town Hall
 DTSTART:20261111T183000Z
 DTEND:20261111T200000Z
@@ -4279,6 +4317,23 @@ URL:https://canprepp.ca/events/neurology-information-night/
 X-CANPREPP-ID:11121
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2027 CaRMS Information Session
+DTSTART:20261113T010000Z
+DTEND:20261113T020000Z
+DTSTAMP:20261110T012747Z
+UID:canprepp-event-11230@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Orthopedic Surgery
+CREATED:20261110T012747Z
+DESCRIPTION:https://canprepp.ca/events/2027-carms-information-session/\nPu
+ blished time: 20:00 – 21:00 EST
+LAST-MODIFIED:20261110T012747Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/2027-carms-information-session/
+X-CANPREPP-ID:11230
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Niagara General Surgery CaRMS Town Hall – CaRMS 2027
 DTSTART:20261113T014000Z
 DTEND:20261113T022900Z
@@ -4477,6 +4532,26 @@ URL:https://canprepp.ca/events/western-general-surgery-carms-2027-informat
 X-CANPREPP-ID:11145
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Western Radiology Oncology Information Session
+DTSTART:20261116T163000Z
+DTEND:20261116T170000Z
+DTSTAMP:20261110T012747Z
+UID:canprepp-event-11243@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Radiation Oncology
+CREATED:20261110T012747Z
+DESCRIPTION:https://canprepp.ca/events/western-radiology-oncology-informat
+ ion-session/\nPublished time: 11:30 – 12:00 EST\nMeeting Link: https://w
+ esternuniversity.zoom.us/j/95362028290?pwd=yI4dD9vFXbhyifav7lE7sdGC1Hjqb4.
+ 1
+LAST-MODIFIED:20261110T012747Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/western-radiology-oncology-information-sess
+ ion/
+X-CANPREPP-ID:11243
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CaRMS info night
 DTSTART:20261117T000000Z
 DTEND:20261117T010000Z
@@ -4608,14 +4683,15 @@ BEGIN:VEVENT
 SUMMARY:University of Manitoba Neurology Open House
 DTSTART:20261117T233000Z
 DTEND:20261118T013000Z
-DTSTAMP:20261031T052740Z
+DTSTAMP:20261110T012747Z
 UID:canprepp-event-11213@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Manitoba,R1,Neurology
 CREATED:20261031T052740Z
 DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-neurology-op
- en-house/\nPublished time: 18:30 – 20:30 CST
-LAST-MODIFIED:20261031T052740Z
+ en-house/\nPublished time: 18:30 – 20:30 CST\nMeeting Link: https://uman
+ itoba.zoom.us/j/67026412702?pwd=oZ0RX00QXkragovbsFEEUI4hS4cJLf.1
+LAST-MODIFIED:20261110T012747Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-manitoba-neurology-open-house
@@ -5186,6 +5262,44 @@ URL:https://canprepp.ca/events/queens-adult-neurology-town-hall-2/
 X-CANPREPP-ID:11222
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Manitoba Plastic Surgery CaRMS Info Night
+DTSTART:20261120T000000Z
+DTEND:20261120T020000Z
+DTSTAMP:20261110T012747Z
+UID:canprepp-event-11235@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Manitoba,R1,Plastic Surgery
+CREATED:20261110T012747Z
+DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-plastic-surg
+ ery-carms-info-night/\nPublished time: 19:00 – 21:00 CST\nRegister: http
+ s://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=C92AT4wzTE6KFJBEaWL3u
+ BnM4m6lFutCoW2QnP97LytUNTlYTExNUjg1TTkxQjNKRTRPQTg5VFBYRy4u
+LAST-MODIFIED:20261110T012747Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-manitoba-plastic-surgery-carm
+ s-info-night/
+X-CANPREPP-ID:11235
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of Manitoba Neurosurgery Open House
+DTSTART:20261120T000000Z
+DTSTAMP:20261110T012747Z
+UID:canprepp-event-11239@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Manitoba,R1,Neurosurgery
+CREATED:20261110T012747Z
+DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-neurosurgery
+ -open-house/\nPublished time: 19:00 CDT\nRegister: https://forms.cloud.mic
+ rosoft/r/eaR3Ggwkxk
+LAST-MODIFIED:20261110T012747Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-manitoba-neurosurgery-open-ho
+ use/
+X-CANPREPP-ID:11239
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:McMaster Peds Neuro CaRMS Info Night
 DTSTART:20261120T003000Z
 DTSTAMP:20261012T191757Z
@@ -5297,6 +5411,26 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/queens-internal-medicine-townhall-3-2/
 X-CANPREPP-ID:10615
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University of British Columbia Radiation Oncology Residency Progra
+ m Virtual Information Session/QA
+DTSTART:20261123T230000Z
+DTEND:20261124T000000Z
+DTSTAMP:20261110T012747Z
+UID:canprepp-event-11237@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of British Columbia,R1,Radiation Oncology
+CREATED:20261110T012747Z
+DESCRIPTION:https://canprepp.ca/events/university-of-british-columbia-radi
+ ation-oncology-residency-program-virtual-information-session-qa/\nPublishe
+ d time: 16:00 – 17:00 PST
+LAST-MODIFIED:20261110T012747Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-british-columbia-radiation-on
+ cology-residency-program-virtual-information-session-qa/
+X-CANPREPP-ID:11237
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UofA Family Medicine- IMG Info Session
@@ -5525,6 +5659,25 @@ LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/u-of-s-general-surgery-town-hall-2/
 X-CANPREPP-ID:11139
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:McMaster University Family Medicine Resident QA
+DTSTART:20261126T000000Z
+DTEND:20261126T010000Z
+DTSTAMP:20261110T012747Z
+UID:canprepp-event-11238@canprepp.ca
+SEQUENCE:0
+CATEGORIES:McMaster University,R1,Family Medicine
+CREATED:20261110T012747Z
+DESCRIPTION:https://canprepp.ca/events/mcmaster-university-family-medicine
+ -resident-qa-2/\nPublished time: 19:00 – 20:00 EST\nRegister: https://ca
+ 01web.zoom.us/meeting/register/t2ZGJIvWT5OPr5yNwCCaYA
+LAST-MODIFIED:20261110T012747Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/mcmaster-university-family-medicine-residen
+ t-qa-2/
+X-CANPREPP-ID:11238
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Indigenous Site QA
