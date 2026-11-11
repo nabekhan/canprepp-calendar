@@ -7,45 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:QUEEN’S UNIVERSITY DIAGNOSTIC & MOLECULAR PATHOLOGY – MEET-THE
- -RESIDENTS SESSION 1
-DTSTART:20261011T180000Z
-DTEND:20261011T200000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10616@canprepp.ca
-SEQUENCE:1
-CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-university-diagnostic-molecu
- lar-pathology-meet-the-residents-session-1/\nPublished time: 14:00 – 16:
- 00 EST\nMeeting Link: http://TO%20BE%20PROVIDED%20WITH%20REGISTRATION\nReg
- ister: https://queensu.zoom.us/meeting/register/pxq2zbaRSSOdHHdOJymuDw
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-university-diagnostic-molecular-path
- ology-meet-the-residents-session-1/
-X-CANPREPP-ID:10616
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queen’s Diagnostic & Molecular Pathology: Meet-the Residents
-DTSTART:20261011T180000Z
-DTEND:20261011T200000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-11083@canprepp.ca
-SEQUENCE:1
-CATEGORIES:Queen's University,R1,Diagnostic and Molecular Pathology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/queens-diagnostic-molecular-patholo
- gy-meet-the-residents/\nPublished time: 14:00 – 16:00 EST
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/queens-diagnostic-molecular-pathology-meet-
- the-residents/
-X-CANPREPP-ID:11083
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:McMaster Psychiatry Hamilton CMG Residents’ Meet & Greets
 DTSTART:20261013T220000Z
 DTEND:20261013T230000Z
@@ -4550,6 +4511,24 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/western-radiology-oncology-information-sess
  ion/
 X-CANPREPP-ID:11243
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neurology at Western – Resident Meet & Greet
+DTSTART:20261116T233000Z
+DTEND:20261117T003000Z
+DTSTAMP:20261111T011242Z
+UID:canprepp-event-11245@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Western University,R1,Neurology
+CREATED:20261111T011242Z
+DESCRIPTION:https://canprepp.ca/events/neurology-at-western-resident-meet-
+ greet-2/\nPublished time: 18:30 – 19:30 EST\nMeeting Link: https://weste
+ rnuniversity.zoom.us/j/95323845899?pwd=fgFWkTrrL5Mwl1ICIc3zwxVbmng1Aa.1%20
+LAST-MODIFIED:20261111T011242Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/neurology-at-western-resident-meet-greet-2/
+X-CANPREPP-ID:11245
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CaRMS info night
