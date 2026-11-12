@@ -5583,6 +5583,25 @@ URL:https://canprepp.ca/events/university-of-saskatchewan-internal-medicin
 X-CANPREPP-ID:11120
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:U of Toronto Neurosurgery Virtual Open House
+DTSTART:20261125T230000Z
+DTEND:20261126T000000Z
+DTSTAMP:20261112T021413Z
+UID:canprepp-event-5326@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Toronto,R1,Neurosurgery
+CREATED:20261112T021413Z
+DESCRIPTION:https://canprepp.ca/events/u-of-toronto-neurosurgery-virtual-o
+ pen-house/\nPublished time: 18:00 – 19:00 EST\nRegister: https://forms.c
+ loud.microsoft/r/WgULGJJAbe
+LAST-MODIFIED:20261112T021413Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/u-of-toronto-neurosurgery-virtual-open-hous
+ e/
+X-CANPREPP-ID:5326
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:University of Manitoba Anesthesiology Information Session
 DTSTART:20261125T230000Z
 DTEND:20261126T003000Z

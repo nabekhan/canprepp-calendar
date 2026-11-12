@@ -7816,7 +7816,7 @@
     "11203": {
       "modified_gmt": "2026-10-28T19:45:03",
       "calendar_hash": "8d12823e8d9732c6e9db46254790a9330a63975681c1ba1fd4a13507ada8ac9a",
-      "fetched_at": "2026-11-04T21:15:20+00:00",
+      "fetched_at": "2026-11-12T02:14:13+00:00",
       "event": {
         "id": 11203,
         "title": "Radiation Oncology Town Hall",
@@ -7842,7 +7842,7 @@
     "11204": {
       "modified_gmt": "2026-10-28T19:47:48",
       "calendar_hash": "bf1aaa225099659c40ee8f77f9f9708cd11c8d555314c7940c176d918dfc57aa",
-      "fetched_at": "2026-11-04T21:15:20+00:00",
+      "fetched_at": "2026-11-12T02:14:13+00:00",
       "event": {
         "id": 11204,
         "title": "Radiation Oncology Town Hall",
@@ -8078,7 +8078,7 @@
     "11217": {
       "modified_gmt": "2026-11-04T18:55:53",
       "calendar_hash": "036799400070b2343be9963ad3c0c734e60a2a84a6f64df87667c83aa0726fc1",
-      "fetched_at": "2026-11-04T21:15:20+00:00",
+      "fetched_at": "2026-11-12T02:14:13+00:00",
       "event": {
         "id": 11217,
         "title": "Neurology at Western –  Program Information Session",
@@ -8534,9 +8534,60 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "5326": {
+      "modified_gmt": "2026-11-11T22:15:40",
+      "calendar_hash": "4b8e3860e2f8722ac605d24f6f438f3781a3e9690a43ff9a9dcb82a89f45ffb9",
+      "fetched_at": "2026-11-12T02:14:13+00:00",
+      "event": {
+        "id": 5326,
+        "title": "U of Toronto Neurosurgery Virtual Open House",
+        "url": "https://canprepp.ca/events/u-of-toronto-neurosurgery-virtual-open-house/",
+        "date": "2026-11-25",
+        "start": "2026-11-25T23:00:00+00:00",
+        "end": "2026-11-26T00:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EST",
+        "published_time": "18:00 – 19:00 EST",
+        "categories": [
+          "University of Toronto",
+          "R1",
+          "Neurosurgery"
+        ],
+        "links": {
+          "Register": "https://forms.cloud.microsoft/r/WgULGJJAbe"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
+    "5326": {
+      "id": 5326,
+      "title": "U of Toronto Neurosurgery Virtual Open House",
+      "url": "https://canprepp.ca/events/u-of-toronto-neurosurgery-virtual-open-house/",
+      "date": "2026-11-25",
+      "start": "2026-11-25T23:00:00+00:00",
+      "end": "2026-11-26T00:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EST",
+      "published_time": "18:00 – 19:00 EST",
+      "categories": [
+        "University of Toronto",
+        "R1",
+        "Neurosurgery"
+      ],
+      "links": {
+        "Register": "https://forms.cloud.microsoft/r/WgULGJJAbe"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "dfc106564cf5919026bdba27d42db319c1367dc3717beb8b0ecdbae57983d618",
+      "sequence": 0,
+      "created": "2026-11-12T02:14:13+00:00",
+      "last_modified": "2026-11-12T02:14:13+00:00"
+    },
     "5748": {
       "id": 5748,
       "title": "Meet the Chair, Vice Chair Education, Program Director & Residents – OHNS, University of Toronto",
