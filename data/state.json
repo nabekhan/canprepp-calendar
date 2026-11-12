@@ -129,7 +129,7 @@
     "9112": {
       "modified_gmt": "2026-11-05T14:05:34",
       "calendar_hash": "2ab612100f44b6474c5246e95cc0bc53e185218cdc369d56a8c3c0633c8e5094",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 9112,
         "title": "CaRMS Town Hall Session – University of Calgary Internal Medicine",
@@ -624,7 +624,7 @@
     "10627": {
       "modified_gmt": "2026-10-14T20:39:18",
       "calendar_hash": "32dcd8775920f179d5a2edad7af14be0dfd29c753d0a7de4c0ea31c906a1fbda",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 10627,
         "title": "Queen’s University – General Surgery – Resident Meet and Greet",
@@ -648,7 +648,7 @@
     "10628": {
       "modified_gmt": "2026-10-14T20:39:21",
       "calendar_hash": "dd8fc2228daf0247eec49fb7cdf5ba2aaf0f47620dc0dcba475f455ae59532ad",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 10628,
         "title": "Queen’s University – General Surgery – Resident – Meet and Greet",
@@ -3905,7 +3905,7 @@
     "10960": {
       "modified_gmt": "2026-10-28T22:23:39",
       "calendar_hash": "19d74cd0342eef4ff5c6e9dbaee5b2548fe9783960ef52122e89f8ee4309a7da",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 10960,
         "title": "UBC IM Vancouver Indigenous Stream Info Session",
@@ -6724,7 +6724,7 @@
     "11131": {
       "modified_gmt": "2026-10-14T15:35:56",
       "calendar_hash": "839bf5bcd7c600d5f1d026598d107b90eb502e391f600f405dd5c5853cac67be",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11131,
         "title": "UofT Hematological Pathology Info Session",
@@ -6750,7 +6750,7 @@
     "11132": {
       "modified_gmt": "2026-10-14T14:36:44",
       "calendar_hash": "df12af68adf45865cfb44d6c8febc906de522ecb98129c8707ab0aab822fee9f",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11132,
         "title": "UofT Medical Microbiology Program Info Session",
@@ -6776,7 +6776,7 @@
     "11133": {
       "modified_gmt": "2026-10-14T15:15:40",
       "calendar_hash": "aaa4fa57b4e7294e4e8463fac28dd9435ef1c4e850b83069145a78df3bbceb31",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11133,
         "title": "UofT Diagnostic & Molecular Pathology Program Info Session",
@@ -6802,7 +6802,7 @@
     "11134": {
       "modified_gmt": "2026-10-14T15:34:41",
       "calendar_hash": "7d636a88b4eae2bce1d3134dd68cfa03c3262d4aedcf3a0548729a1ee0f23840",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11134,
         "title": "UofT – Neuropathology Program Info Session",
@@ -6828,7 +6828,7 @@
     "11135": {
       "modified_gmt": "2026-10-14T17:09:12",
       "calendar_hash": "1e15ccd2731c3b5f7f42822a5dc4753d649c6ac934f2aa61733ed40661a879ba",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11135,
         "title": "UBC Otolaryngology – Head and Neck Surgery Info Session",
@@ -7240,7 +7240,7 @@
     "11158": {
       "modified_gmt": "2026-10-21T22:13:40",
       "calendar_hash": "d1fe6327cc6fa15cdbdb1e240fc16105f30fffa5d59efe0ce12b3b38373f54a4",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11158,
         "title": "USask ENT Residency Info Night",
@@ -7868,7 +7868,7 @@
     "11206": {
       "modified_gmt": "2026-10-28T21:15:34",
       "calendar_hash": "027df41c8e5749ced5acbc6e50299fe2cae7f7a39e0681d42cc1f7ec87633c75",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11206,
         "title": "CaRMS Obstetrics & Gynecology Information Session",
@@ -8131,7 +8131,7 @@
     "11221": {
       "modified_gmt": "2026-11-05T13:28:37",
       "calendar_hash": "056199ae6d4e8aaa09465fab514cda192a12ae6fcd41309ed04eff456aee084d",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11221,
         "title": "Queen’s Adult Neurology Town Hall (1)",
@@ -8157,7 +8157,7 @@
     "11222": {
       "modified_gmt": "2026-11-05T13:27:25",
       "calendar_hash": "f0fc7f048607c7d730e4a37e4024f88d6d64007053d11a7350b20b463245d8d5",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11222,
         "title": "Queen’s Adult Neurology Town Hall (2)",
@@ -8183,7 +8183,7 @@
     "11223": {
       "modified_gmt": "2026-11-05T14:48:52",
       "calendar_hash": "5cf0e688bbb27ef1ad21739ca2bee43f6560d4453d15621761b1f9ce7978a99f",
-      "fetched_at": "2026-11-05T17:20:24+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11223,
         "title": "NOSM University Psych Info Session",
@@ -8231,9 +8231,9 @@
       }
     },
     "11225": {
-      "modified_gmt": "2026-11-06T19:27:56",
+      "modified_gmt": "2026-11-12T16:38:33",
       "calendar_hash": "a5c61e6f27ddea0234cfc6318d5cf65e4502c003ecd85c0b304e1332088976bd",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
       "event": {
         "id": 11225,
         "title": "uOttawa Neurosurgery open house",
@@ -8557,6 +8557,54 @@
         "links": {
           "Register": "https://forms.cloud.microsoft/r/WgULGJJAbe"
         },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11247": {
+      "modified_gmt": "2026-11-12T15:21:36",
+      "calendar_hash": "12ec0d061fe29cf32da0ea4fe3953ff00e316ba6e5db4c282869828ab41262fe",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "event": {
+        "id": 11247,
+        "title": "Queen’s University Ophthalmology Interviews",
+        "url": "https://canprepp.ca/events/queens-university-ophthalmology-interviews/",
+        "date": "2027-01-28",
+        "start": "2027-01-28T17:00:00+00:00",
+        "end": "2027-01-28T22:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EDT",
+        "published_time": "12:00 – 17:00 EDT",
+        "categories": [
+          "Queen's University",
+          "R1",
+          "Ophthalmology"
+        ],
+        "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11248": {
+      "modified_gmt": "2026-11-12T15:22:54",
+      "calendar_hash": "c6c0446047f6ea06ebe91d9a833decef5a5dbc4ed1adf0acd925bc24a2e6ee3d",
+      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "event": {
+        "id": 11248,
+        "title": "Queen’s University Ophthalmology Social",
+        "url": "https://canprepp.ca/events/queens-university-ophthalmology-social/",
+        "date": "2027-01-27",
+        "start": "2027-01-28T01:00:00+00:00",
+        "end": "2027-01-28T02:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "EDT",
+        "published_time": "20:00 – 21:00 EDT",
+        "categories": [
+          "Queen's University",
+          "R1",
+          "Ophthalmology"
+        ],
+        "links": {},
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -16792,6 +16840,52 @@
       "sequence": 0,
       "created": "2026-11-11T01:12:42+00:00",
       "last_modified": "2026-11-11T01:12:42+00:00"
+    },
+    "11247": {
+      "id": 11247,
+      "title": "Queen’s University Ophthalmology Interviews",
+      "url": "https://canprepp.ca/events/queens-university-ophthalmology-interviews/",
+      "date": "2027-01-28",
+      "start": "2027-01-28T17:00:00+00:00",
+      "end": "2027-01-28T22:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EDT",
+      "published_time": "12:00 – 17:00 EDT",
+      "categories": [
+        "Queen's University",
+        "R1",
+        "Ophthalmology"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "2aa8239039d5f2f7dcf9192dac0db995474d1f3b8b91261ded72326339558b67",
+      "sequence": 0,
+      "created": "2026-11-12T19:51:10+00:00",
+      "last_modified": "2026-11-12T19:51:10+00:00"
+    },
+    "11248": {
+      "id": 11248,
+      "title": "Queen’s University Ophthalmology Social",
+      "url": "https://canprepp.ca/events/queens-university-ophthalmology-social/",
+      "date": "2027-01-27",
+      "start": "2027-01-28T01:00:00+00:00",
+      "end": "2027-01-28T02:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "EDT",
+      "published_time": "20:00 – 21:00 EDT",
+      "categories": [
+        "Queen's University",
+        "R1",
+        "Ophthalmology"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "f020879fdd0be5140d4bbb6f99fcde28008eeb14d1d43f7fd989517171905884",
+      "sequence": 0,
+      "created": "2026-11-12T19:51:10+00:00",
+      "last_modified": "2026-11-12T19:51:10+00:00"
     },
     "11160": {
       "id": 11160,

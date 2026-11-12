@@ -6367,6 +6367,40 @@ URL:https://canprepp.ca/events/mcmaster-university-physical-medicine-and-r
 X-CANPREPP-ID:10793
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Queen’s University Ophthalmology Social
+DTSTART:20270128T010000Z
+DTEND:20270128T020000Z
+DTSTAMP:20261112T195110Z
+UID:canprepp-event-11248@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Queen's University,R1,Ophthalmology
+CREATED:20261112T195110Z
+DESCRIPTION:https://canprepp.ca/events/queens-university-ophthalmology-soc
+ ial/\nPublished time: 20:00 – 21:00 EDT
+LAST-MODIFIED:20261112T195110Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-university-ophthalmology-social/
+X-CANPREPP-ID:11248
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queen’s University Ophthalmology Interviews
+DTSTART:20270128T170000Z
+DTEND:20270128T220000Z
+DTSTAMP:20261112T195110Z
+UID:canprepp-event-11247@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Queen's University,R1,Ophthalmology
+CREATED:20261112T195110Z
+DESCRIPTION:https://canprepp.ca/events/queens-university-ophthalmology-int
+ erviews/\nPublished time: 12:00 – 17:00 EDT
+LAST-MODIFIED:20261112T195110Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/queens-university-ophthalmology-interviews/
+X-CANPREPP-ID:11247
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:McMaster Ophthalmology CaRMS Interviews
 DTSTART:20270202T170000Z
 DTSTAMP:20261012T191757Z
