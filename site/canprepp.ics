@@ -7,124 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:McMaster Psychiatry Hamilton CMG Residents’ Meet & Greets
-DTSTART:20261013T220000Z
-DTEND:20261013T230000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10775@canprepp.ca
-SEQUENCE:1
-CATEGORIES:McMaster University,R1,Psychiatry
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-psychiatry-hamilton-cmg-re
- sidents-meet-greets/\nPublished time: 18:00 – 19:00 EST\nRegister: https
- ://events.teams.microsoft.com/event/38319049-9955-42e0-a88f-e0c007f67523@4
- 4376307-b429-42ad-8c25-28cd496f4772
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-psychiatry-hamilton-cmg-residents-
- meet-greets/
-X-CANPREPP-ID:10775
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McMaster Neurology Information Sessioin
-DTSTART:20261013T220000Z
-DTEND:20261014T000000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10983@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Neurology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-neurology-information-sess
- ioin/\nPublished time: 18:00 – 20:00 EDT\nMeeting Link: https://mcmaster
- .zoom.us/j/99573022901
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-neurology-information-sessioin/
-X-CANPREPP-ID:10983
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:McMaster Anesthesiology Program Director Town Hall
-DTSTART:20261013T223000Z
-DTEND:20261013T233000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10812@canprepp.ca
-SEQUENCE:0
-CATEGORIES:McMaster University,R1,Anesthesiology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/mcmaster-anesthesiology-program-dir
- ector-town-hall/\nPublished time: 18:30 – 19:30 EDT\nMeeting Link: https
- ://mcmaster.zoom.us/j/95007430722\nRegister: https://docs.google.com/forms
- /d/e/1FAIpQLSedBpCsqX8k4xSrmjRZmVhz_iTl7zLj9UsHxyiQ0HlpEaBSsQ/viewform?usp
- =sharing&ouid=112568508927471737930
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/mcmaster-anesthesiology-program-director-to
- wn-hall/
-X-CANPREPP-ID:10812
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UBC IM Vancouver: Meet the PD + Residents
-DTSTART:20261014T000000Z
-DTEND:20261014T010000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10959@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of British Columbia,R1,Internal Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-im-vancouver-meet-the-pd-reside
- nts-5/\nPublished time: 17:00 – 18:00 PST\nMeeting Link: https://ubc.zoo
- m.us/j/63143575534?pwd=z8Lxrsm1fOQ0xqJJRHnLbmQ2t5gTQb.1
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-im-vancouver-meet-the-pd-residents-5/
-X-CANPREPP-ID:10959
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic
-  Surgery Roundtable
-DTSTART:20261014T000000Z
-DTEND:20261014T010000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-11061@canprepp.ca
-SEQUENCE:1
-CATEGORIES:R1,Orthopedic Surgery
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/canadian-orthopaedic-surgery-studen
- t-network-pre-carms-orthopaedic-surgery-roundtable-3/\nPublished time: 20:
- 00 – 21:00 EST\nRegister: http://forms.gle/Xdx45r8AkXen7FXA8
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/canadian-orthopaedic-surgery-student-networ
- k-pre-carms-orthopaedic-surgery-roundtable-3/
-X-CANPREPP-ID:11061
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UofT Pediatric Neurology Residency Program – CaRMS Information N
- ight #1
-DTSTART:20261014T003000Z
-DTEND:20261014T020000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-11107@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Toronto,R1,Neurology - Pediatric
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uoft-pediatric-neurology-residency-
- program-carms-information-night-1/\nPublished time: 20:30 – 22:00 EST\nM
- eeting Link: https://ca01web.zoom.us/j/62000200242?pwd=2JtcDPHxLXkD64a5SGm
- PQN8QdzaoQZ.1
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uoft-pediatric-neurology-residency-program-
- carms-information-night-1/
-X-CANPREPP-ID:11107
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:McMaster Psychiatry IMG Residents’ Meet & Greets
 DTSTART:20261014T210000Z
 DTEND:20261014T220000Z
@@ -4090,15 +3972,16 @@ SUMMARY:CaRMS Info Session: Anesthesiology Residency Program\, University
  of Calgary.
 DTSTART:20261112T230000Z
 DTEND:20261113T000000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261113T014631Z
 UID:canprepp-event-10890@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of Calgary,R1,Anesthesiology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/carms-info-session-anesthesiology-r
  esidency-program-university-of-calgary/\nPublished time: 17:00 – 18:00 M
- ST\nMeeting Link: http://Link%20will%20be%20provided%20up%20RSVP
-LAST-MODIFIED:20261014T004823Z
+ ST\nMeeting Link: https://healthsharedservices-ca.zoom.us/j/62827119497?pw
+ d=OhuQrbOHLPbIfnObfcKfzZPSf9XbH6.1P
+LAST-MODIFIED:20261113T014631Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/carms-info-session-anesthesiology-residency
