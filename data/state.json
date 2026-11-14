@@ -152,32 +152,6 @@
         "status": "CONFIRMED"
       }
     },
-    "9218": {
-      "modified_gmt": "2026-04-21T21:09:09",
-      "calendar_hash": "088e03ef16fa998249b867260770b8212271c362efa578455868443f1be62001",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 9218,
-        "title": "UBC OBGYN CaRMS Info Session",
-        "url": "https://canprepp.ca/events/ubc-obgyn-carms-info-session-2/",
-        "date": "2026-10-14",
-        "start": "2026-10-14T23:30:00+00:00",
-        "end": "2026-10-15T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "16:30 – 17:30 PST",
-        "categories": [
-          "University of British Columbia",
-          "R1",
-          "Obstetrics and Gynecology"
-        ],
-        "links": {
-          "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_2ct49kMe430vDue"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "9535": {
       "modified_gmt": "2026-10-20T20:33:20",
       "calendar_hash": "4da2194fc03110df411f1c161a8e5267cdbe94aa6a3ade14168a637249a8fc44",
@@ -1627,32 +1601,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10772": {
-      "modified_gmt": "2026-10-07T20:54:35",
-      "calendar_hash": "032841cc0b41094181a0c4c18c10fd7ad2a76648123b60ff92564190a35b0c05",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10772,
-        "title": "UBC EM Info Session",
-        "url": "https://canprepp.ca/events/ubc-em-info-session/",
-        "date": "2026-10-14",
-        "start": "2026-10-15T01:00:00+00:00",
-        "end": "2026-10-15T02:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "PDT",
-        "published_time": "18:00 – 19:00 PDT",
-        "categories": [
-          "University of British Columbia",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Register": "https://forms.gle/Tc6zUbYa2ZJ1MMzK7"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10774": {
       "modified_gmt": "2026-08-31T17:11:11",
       "calendar_hash": "057b8cc9851f6d23910d81f7d7368f055e57d40c0dc26d17eebb1c1316b4cc72",
@@ -1705,32 +1653,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10777": {
-      "modified_gmt": "2026-08-31T17:21:26",
-      "calendar_hash": "3fdd82fb33d2191064766fa0a19defc78f66f7bf4267aa8bb4e65867cca544b7",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10777,
-        "title": "McMaster Psychiatry IMG Residents’ Meet & Greets",
-        "url": "https://canprepp.ca/events/mcmaster-psychiatry-img-residents-meet-greets-3/",
-        "date": "2026-10-14",
-        "start": "2026-10-14T21:00:00+00:00",
-        "end": "2026-10-14T22:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "17:00 – 18:00 EST",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Psychiatry"
-        ],
-        "links": {
-          "Register": "https://events.teams.microsoft.com/event/de5c925b-70fb-480a-b310-ec96a50fca41@44376307-b429-42ad-8c25-28cd496f4772"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10782": {
       "modified_gmt": "2026-09-01T13:33:35",
       "calendar_hash": "43cc3c10a616dae4b48860ddf5d04250c5689924fa42ec4edfc34ba9d7b66680",
@@ -1752,32 +1674,6 @@
         ],
         "links": {
           "Register": "https://forms.gle/3ESaZdbV6BfgmsfN7"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10783": {
-      "modified_gmt": "2026-10-13T17:48:00",
-      "calendar_hash": "850cdc935ebc79db4af91ff44351d9ac23585fe974964f6999ca52d2d42fec0e",
-      "fetched_at": "2026-11-11T10:46:37+00:00",
-      "event": {
-        "id": 10783,
-        "title": "UofC Otolaryngology – Head & Neck Surgery Info Night",
-        "url": "https://canprepp.ca/events/uofc-otolaryngology-head-neck-surgery-info-night/",
-        "date": "2026-10-14",
-        "start": "2026-10-15T01:00:00+00:00",
-        "end": "2026-10-15T02:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "MDT",
-        "published_time": "19:00 – 20:30 MDT",
-        "categories": [
-          "University of Calgary",
-          "R1",
-          "Otolaryngology - Head and Neck Surgery"
-        ],
-        "links": {
-          "Meeting Link": "https://ucalgary.zoom.us/j/94193818347"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -2299,9 +2195,9 @@
       }
     },
     "10840": {
-      "modified_gmt": "2026-09-09T19:30:19",
+      "modified_gmt": "2026-11-13T20:29:41",
       "calendar_hash": "383eccfc0103be748d4f8441f359088a54e46e546625304027a0b557cd9e5cae",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 10840,
         "title": "uOttawa PHPM Academic Half Day",
@@ -2761,58 +2657,6 @@
           "Meeting Link": "https://usask-ca.zoom.us/j/95593773817?pwd=ZPcC4Fbe9oIwVRKOfePC4YQblNmnOJ.1"
         },
         "location": "",
-        "status": "CONFIRMED"
-      }
-    },
-    "10893": {
-      "modified_gmt": "2026-09-15T14:09:12",
-      "calendar_hash": "bc2af3b88d88267474e94e302b70ecd90f3a282ebfbe7007e3e2a589847dd04a",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10893,
-        "title": "uOttawa Anesthesiology CaRMS Townhall (virtual)",
-        "url": "https://canprepp.ca/events/uottawa-anesthesiology-carms-townhall-virtual-3/",
-        "date": "2026-10-14",
-        "start": "2026-10-14T23:00:00+00:00",
-        "end": "2026-10-15T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:30 EST",
-        "categories": [
-          "University of Ottawa",
-          "R1",
-          "Anesthesiology"
-        ],
-        "links": {
-          "Meeting Link": "https://teams.microsoft.com/meet/221702115864430?p=qMByZOoH5SeqIVjM8H%20"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10894": {
-      "modified_gmt": "2026-09-15T14:09:31",
-      "calendar_hash": "bc2af3b88d88267474e94e302b70ecd90f3a282ebfbe7007e3e2a589847dd04a",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10894,
-        "title": "uOttawa Anesthesiology CaRMS Townhall (virtual)",
-        "url": "https://canprepp.ca/events/uottawa-anesthesiology-carms-townhall-virtual-4/",
-        "date": "2026-10-14",
-        "start": "2026-10-14T23:00:00+00:00",
-        "end": "2026-10-15T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:30 EST",
-        "categories": [
-          "University of Ottawa",
-          "R1",
-          "Anesthesiology"
-        ],
-        "links": {
-          "Meeting Link": "https://teams.microsoft.com/meet/221702115864430?p=qMByZOoH5SeqIVjM8H%20"
-        },
-        "location": "Online",
         "status": "CONFIRMED"
       }
     },
@@ -4079,32 +3923,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10988": {
-      "modified_gmt": "2026-09-25T19:40:19",
-      "calendar_hash": "aa95f6929bdbf0db6500b38e89f9862d9babc097f78b11fe6f51810e8b4274df",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10988,
-        "title": "UBC Public Health & Preventive Medicine (including Family Medicine) Residency Program Open House",
-        "url": "https://canprepp.ca/events/ubc-public-health-preventive-medicine-including-family-medicine-residency-program-open-house-2/",
-        "date": "2026-10-14",
-        "start": "2026-10-14T23:00:00+00:00",
-        "end": "2026-10-15T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "16:00 – 17:30 PST",
-        "categories": [
-          "University of British Columbia",
-          "R1",
-          "Public Health and Preventive Medicine Including Family Medicine"
-        ],
-        "links": {
-          "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_1CiiTTzgD6KXJNc"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10991": {
       "modified_gmt": "2026-09-25T20:31:11",
       "calendar_hash": "35ee076cd11db34d8660aa018a569cd71b80311e177ff9300536582ba49b4f27",
@@ -4546,7 +4364,7 @@
     "11015": {
       "modified_gmt": "2026-10-23T17:14:06",
       "calendar_hash": "60be106805e87e5cca01d329e72c345bc03419ba4a796830c457556ad8b8a47a",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11015,
         "title": "UBC Family Practice Postgrad – Prince George & Northern Rural Site QA",
@@ -4832,7 +4650,7 @@
     "11026": {
       "modified_gmt": "2026-10-23T17:18:21",
       "calendar_hash": "a1949deb1edabe3ec37414056436e79d42f7d7f2e14810959c3cb9e733962d82",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11026,
         "title": "UBC Family Practice Postgrad – Northwest Terrace Site QA",
@@ -5399,7 +5217,7 @@
     "11071": {
       "modified_gmt": "2026-10-23T17:30:33",
       "calendar_hash": "2971027aacefbf0d14000fa57d97c1e8be102e9e779b08c9d3ce4fb4e7f4b67f",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11071,
         "title": "UofA Family Medicine- Rural Info Session",
@@ -5449,7 +5267,7 @@
     "11073": {
       "modified_gmt": "2026-10-23T17:31:46",
       "calendar_hash": "9ea2bf03e38ad94e042989ba35064318cb8585b397a7584efc706ab1ab91a94c",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11073,
         "title": "UofA Family Medicine- IMG Info Session",
@@ -6801,7 +6619,7 @@
     "11145": {
       "modified_gmt": "2026-10-16T12:31:50",
       "calendar_hash": "02ba185a55614cf63ce9c791549325a230032cb5fceafa312dcdc61a8ada8c39",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11145,
         "title": "Western General Surgery CaRMS 2027 Information Session",
@@ -7136,7 +6954,7 @@
     "11172": {
       "modified_gmt": "2026-10-23T15:03:51",
       "calendar_hash": "0ebf41dca73d2c25d9d43160fcd6a19bab94b78202501f86f20c662a591365f1",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11172,
         "title": "USask Family Medicine (North West) Town Hall Session",
@@ -7162,7 +6980,7 @@
     "11173": {
       "modified_gmt": "2026-10-23T15:03:53",
       "calendar_hash": "2556cd4327caabba1a6ad2345fbf82e1ab1c891a56ba89f99a345e46f8f2cf9a",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11173,
         "title": "USask Family Medicine (Regina) Town Hall Session",
@@ -7188,7 +7006,7 @@
     "11174": {
       "modified_gmt": "2026-10-23T15:03:56",
       "calendar_hash": "843b5952b93f6ad126b262dcfbcf6a0a45a18cc7321a9e95e26e585413ef03e8",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11174,
         "title": "USask Family Medicine (Saskatoon) Town Hall Session",
@@ -7214,7 +7032,7 @@
     "11175": {
       "modified_gmt": "2026-10-23T15:03:58",
       "calendar_hash": "c50b151abae89df154084480a204d7dfab506ecc014e0b1dd51b5623c2500148",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11175,
         "title": "USask Family Medicine (Moose Jaw) Town Hall Session",
@@ -7240,7 +7058,7 @@
     "11176": {
       "modified_gmt": "2026-10-23T15:04:02",
       "calendar_hash": "7d1ac1106f375ad8b940776abfcb4c568c80afc0dabc83d299bf07a2806dea36",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11176,
         "title": "USask Family Medicine (North East) Town Hall Session",
@@ -7266,7 +7084,7 @@
     "11177": {
       "modified_gmt": "2026-10-23T15:04:07",
       "calendar_hash": "3daab2f316432ff31272fbed65016fc1184d738ace4b25c9fe58b8779a649fbf",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11177,
         "title": "USask Family Medicine (La Ronge) Town Hall Session",
@@ -7292,7 +7110,7 @@
     "11178": {
       "modified_gmt": "2026-10-23T15:04:05",
       "calendar_hash": "115abcd53468a5f59c00915f72ff74fa5df892366501d6f022f02e4232e36d99",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11178,
         "title": "USask Family Medicine (South East) Town Hall Session",
@@ -7318,7 +7136,7 @@
     "11179": {
       "modified_gmt": "2026-10-23T15:04:09",
       "calendar_hash": "fbb4ef23fb22472d749ba1b2a0f4d8d36d564ea83c61b3af2afcb095d7f4baae",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11179,
         "title": "USask Family Medicine (Prince Albert) Town Hall Session",
@@ -7344,7 +7162,7 @@
     "11180": {
       "modified_gmt": "2026-10-23T15:04:00",
       "calendar_hash": "795ba74d845bac1caff491c26128111c66587a3ea86f41d6db15a63d40a4edf1",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11180,
         "title": "USask Family Medicine (Swift Current) Town Hall Session",
@@ -7370,7 +7188,7 @@
     "11184": {
       "modified_gmt": "2026-10-23T11:10:23",
       "calendar_hash": "49cdcdc829ccb6e2bfdd2d572e896fb4a93e33b461184584781f77cb8c10fbd3",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11184,
         "title": "MacPeds – CaRMS Town Hall",
@@ -7396,7 +7214,7 @@
     "11186": {
       "modified_gmt": "2026-10-23T11:16:17",
       "calendar_hash": "c2f694c1d63cdd686911a7d8f01671cd1fad993a42c3093333147b81359dfb49",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11186,
         "title": "MacPeds – CaRMS Town Hall",
@@ -7422,7 +7240,7 @@
     "11187": {
       "modified_gmt": "2026-10-23T14:46:53",
       "calendar_hash": "dac06d896f2b4ecdaefb1b7df186f3e9522b4093920fd58649791dbfba334501",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11187,
         "title": "Western Family Medicine Info Session #1",
@@ -7449,7 +7267,7 @@
     "11188": {
       "modified_gmt": "2026-10-23T14:46:21",
       "calendar_hash": "dc3855938f226fcc5e6277b68dc8d0ec252ab2bf523e311f9c6be79a704569de",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11188,
         "title": "Western Family Medicine Info Session #2",
@@ -7476,7 +7294,7 @@
     "11189": {
       "modified_gmt": "2026-10-23T14:51:08",
       "calendar_hash": "415c73a43d4d439adfb0f460ca78ab8eba98d044f1267fc93b901dd0ad421c9f",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11189,
         "title": "Western Family Medicine Resident Q&A Session",
@@ -7503,7 +7321,7 @@
     "11190": {
       "modified_gmt": "2026-10-23T14:51:27",
       "calendar_hash": "415c73a43d4d439adfb0f460ca78ab8eba98d044f1267fc93b901dd0ad421c9f",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11190,
         "title": "Western Family Medicine Resident Q&A Session",
@@ -8104,7 +7922,7 @@
     "11227": {
       "modified_gmt": "2026-11-06T20:48:36",
       "calendar_hash": "c798156d8ae05f89f48683260155f8bfc3df15cbccab82dd5e184f366758bdbb",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11227,
         "title": "UBC EM – Northern Site",
@@ -8128,7 +7946,7 @@
     "11229": {
       "modified_gmt": "2026-11-06T20:51:23",
       "calendar_hash": "96e7e8c25b876541199713a689dcb81051cd58e0851ffcc802c289ecc2c78fa5",
-      "fetched_at": "2026-11-06T23:02:18+00:00",
+      "fetched_at": "2026-11-14T01:24:59+00:00",
       "event": {
         "id": 11229,
         "title": "UBC EM – Northern Site",
@@ -8648,31 +8466,6 @@
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-11-05T17:20:24+00:00"
-    },
-    "9218": {
-      "id": 9218,
-      "title": "UBC OBGYN CaRMS Info Session",
-      "url": "https://canprepp.ca/events/ubc-obgyn-carms-info-session-2/",
-      "date": "2026-10-14",
-      "start": "2026-10-14T23:30:00+00:00",
-      "end": "2026-10-15T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "16:30 – 17:30 PST",
-      "categories": [
-        "University of British Columbia",
-        "R1",
-        "Obstetrics and Gynecology"
-      ],
-      "links": {
-        "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_2ct49kMe430vDue"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "61cdbdb50fba970aaff203e7745ea7c9fb5c11cdf49a2742f0bd69de0aeae2bc",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "9535": {
       "id": 9535,
@@ -10067,31 +9860,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "10772": {
-      "id": 10772,
-      "title": "UBC EM Info Session",
-      "url": "https://canprepp.ca/events/ubc-em-info-session/",
-      "date": "2026-10-14",
-      "start": "2026-10-15T01:00:00+00:00",
-      "end": "2026-10-15T02:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "PDT",
-      "published_time": "18:00 – 19:00 PDT",
-      "categories": [
-        "University of British Columbia",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Register": "https://forms.gle/Tc6zUbYa2ZJ1MMzK7"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "bc22a472f5ac7b29040ce9f2cdf9d9764009d680934565ae724445bb18262e50",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
     "10774": {
       "id": 10774,
       "title": "Psychiatry Specifics – McMaster Style!",
@@ -10142,31 +9910,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "10777": {
-      "id": 10777,
-      "title": "McMaster Psychiatry IMG Residents’ Meet & Greets",
-      "url": "https://canprepp.ca/events/mcmaster-psychiatry-img-residents-meet-greets-3/",
-      "date": "2026-10-14",
-      "start": "2026-10-14T21:00:00+00:00",
-      "end": "2026-10-14T22:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "17:00 – 18:00 EST",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Psychiatry"
-      ],
-      "links": {
-        "Register": "https://events.teams.microsoft.com/event/de5c925b-70fb-480a-b310-ec96a50fca41@44376307-b429-42ad-8c25-28cd496f4772"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "bc9a9ad4665f79c629e2cdb4b987a7cb5e6ea397a964438770bc4745c524fc12",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10782": {
       "id": 10782,
       "title": "McMaster University – FRCPC Emergency Medicine CaRMS Townhall",
@@ -10191,31 +9934,6 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10783": {
-      "id": 10783,
-      "title": "UofC Otolaryngology – Head & Neck Surgery Info Night",
-      "url": "https://canprepp.ca/events/uofc-otolaryngology-head-neck-surgery-info-night/",
-      "date": "2026-10-14",
-      "start": "2026-10-15T01:00:00+00:00",
-      "end": "2026-10-15T02:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "MDT",
-      "published_time": "19:00 – 20:30 MDT",
-      "categories": [
-        "University of Calgary",
-        "R1",
-        "Otolaryngology - Head and Neck Surgery"
-      ],
-      "links": {
-        "Meeting Link": "https://ucalgary.zoom.us/j/94193818347"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "0efa003781d96160725e26cbde733225c78b15eab027a799f743062cc962787d",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-13T19:12:55+00:00"
     },
     "10784": {
       "id": 10784,
@@ -11156,56 +10874,6 @@
       "location": "",
       "status": "CONFIRMED",
       "fingerprint": "0866e1b0949e6ea2cad51fd0559f067a64de03c121c7da637ad1b224ebcf5eac",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10893": {
-      "id": 10893,
-      "title": "uOttawa Anesthesiology CaRMS Townhall (virtual)",
-      "url": "https://canprepp.ca/events/uottawa-anesthesiology-carms-townhall-virtual-3/",
-      "date": "2026-10-14",
-      "start": "2026-10-14T23:00:00+00:00",
-      "end": "2026-10-15T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:30 EST",
-      "categories": [
-        "University of Ottawa",
-        "R1",
-        "Anesthesiology"
-      ],
-      "links": {
-        "Meeting Link": "https://teams.microsoft.com/meet/221702115864430?p=qMByZOoH5SeqIVjM8H%20"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "c8bba830337188195989f0e3ee8a95d73a210fdcc20bbc62067ebe2cfac769c6",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10894": {
-      "id": 10894,
-      "title": "uOttawa Anesthesiology CaRMS Townhall (virtual)",
-      "url": "https://canprepp.ca/events/uottawa-anesthesiology-carms-townhall-virtual-4/",
-      "date": "2026-10-14",
-      "start": "2026-10-14T23:00:00+00:00",
-      "end": "2026-10-15T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:30 EST",
-      "categories": [
-        "University of Ottawa",
-        "R1",
-        "Anesthesiology"
-      ],
-      "links": {
-        "Meeting Link": "https://teams.microsoft.com/meet/221702115864430?p=qMByZOoH5SeqIVjM8H%20"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "25a2c46d73027995b5abcf5bde337c074fa75695a53945d5bb5130d3cc9ce231",
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
@@ -12420,31 +12088,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "f19a11ed91093701f5b13359fc4b9694a07543d8e33f309f5dc47493c972f8a5",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10988": {
-      "id": 10988,
-      "title": "UBC Public Health & Preventive Medicine (including Family Medicine) Residency Program Open House",
-      "url": "https://canprepp.ca/events/ubc-public-health-preventive-medicine-including-family-medicine-residency-program-open-house-2/",
-      "date": "2026-10-14",
-      "start": "2026-10-14T23:00:00+00:00",
-      "end": "2026-10-15T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "16:00 – 17:30 PST",
-      "categories": [
-        "University of British Columbia",
-        "R1",
-        "Public Health and Preventive Medicine Including Family Medicine"
-      ],
-      "links": {
-        "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_1CiiTTzgD6KXJNc"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "9ab4881e4230801e34406f96b7030691dc4ef7004500d6490860b54740760509",
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
