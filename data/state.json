@@ -925,32 +925,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10694": {
-      "modified_gmt": "2026-07-29T20:21:32",
-      "calendar_hash": "1a7f69e46e954e0a3e9aaf350b9b0af6ef2e350570ce16dcda31c830be2f4712",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10694,
-        "title": "TMU Obstetrics and Gynecology Virtual Information Session",
-        "url": "https://canprepp.ca/events/tmu-obstetrics-and-gynecology-virtual-information-session/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T21:00:00+00:00",
-        "end": "2026-10-15T22:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "17:00 – 18:00 EDT",
-        "categories": [
-          "Toronto Metropolitan University",
-          "R1",
-          "Obstetrics and Gynecology"
-        ],
-        "links": {
-          "Register": "https://torontomu.zoom.us/meeting/register/_HFXOdjHTiCawS3o3l5NKw"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10695": {
       "modified_gmt": "2026-07-29T20:23:49",
       "calendar_hash": "ce679600eccfa33b74084db40311b068bae6e0547def4e69d430c0adb818901d",
@@ -1183,32 +1157,6 @@
         ],
         "links": {
           "Register": "https://forms.gle/R7tvB7qWEFkR4hMLA"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10724": {
-      "modified_gmt": "2026-08-07T13:10:55",
-      "calendar_hash": "f1e8a026df49d33827b54eb6412ce282c70b36666364c2b8062c9289e7be076d",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10724,
-        "title": "University of Toronto Psychiatry Virtual Information Session #2",
-        "url": "https://canprepp.ca/events/university-of-toronto-psychiatry-virtual-information-session-2-2/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T23:00:00+00:00",
-        "end": "2026-10-16T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "19:00 – 20:30 EDT",
-        "categories": [
-          "University of Toronto",
-          "R1",
-          "Psychiatry"
-        ],
-        "links": {
-          "Register": "https://utoronto.zoom.us/meeting/register/UCEYvsU1RASUmIUZ5Qvwiw"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -1622,32 +1570,6 @@
         ],
         "links": {
           "Register": "https://events.teams.microsoft.com/event/f0c53400-f7eb-4fc0-a5bb-153c3659fc42@44376307-b429-42ad-8c25-28cd496f4772"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10776": {
-      "modified_gmt": "2026-08-31T17:18:56",
-      "calendar_hash": "9f7143a849e1238eaa7264a62933db51b3ed6dbbb80a80bdaac79d795688d104",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10776,
-        "title": "McMaster Psychiatry Waterloo CMG Residents’ Meet & Greets",
-        "url": "https://canprepp.ca/events/mcmaster-psychiatry-waterloo-cmg-residents-meet-greets-2/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T22:00:00+00:00",
-        "end": "2026-10-15T23:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "18:00 – 19:00 EST",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Psychiatry"
-        ],
-        "links": {
-          "Register": "https://events.teams.microsoft.com/event/399e63c9-1aca-44de-ad31-e2cd6cd731ab@44376307-b429-42ad-8c25-28cd496f4772"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -2507,7 +2429,7 @@
     "10863": {
       "modified_gmt": "2026-10-17T18:28:59",
       "calendar_hash": "04fdfe8fe2e1fcb70ebe6ad16ee03e47eac6db88aaab4a0cb261dfdee02fbe63",
-      "fetched_at": "2026-11-08T00:28:48+00:00",
+      "fetched_at": "2026-11-15T06:16:22+00:00",
       "event": {
         "id": 10863,
         "title": "UBC Psychiatry CaRMS Info Session #1",
@@ -2817,32 +2739,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10904": {
-      "modified_gmt": "2026-09-16T19:39:41",
-      "calendar_hash": "d8d98e0be55e041fbdb74a6879164e191bf4ac3d8442960418c2f819efc8e8e7",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10904,
-        "title": "NOSM UNIVERSITY OBGYN VIRTUAL INFO SESSION",
-        "url": "https://canprepp.ca/events/nosm-university-obgyn-virtual-info-session/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T23:00:00+00:00",
-        "end": "2026-10-16T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:00 EST",
-        "categories": [
-          "NOSM University",
-          "R1",
-          "Obstetrics and Gynecology"
-        ],
-        "links": {
-          "Meeting Link": "https://nosm.webex.com/nosm/j.php?MTID=m745d6029f701c3cb7f828802f9a66888"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10905": {
       "modified_gmt": "2026-09-16T19:48:06",
       "calendar_hash": "156567c42d0b6894799d0f8c202bd3d57f54dc686781db62eaa10f6e808be4c1",
@@ -2996,32 +2892,6 @@
         "links": {
           "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWmNQTa_kzI5Cr0Jcbnn6wlFURUQ5SVJOTkQ1U1IwNjUzMlJHMUVVSE5QMi4u",
           "REGISTRATION LINK": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWmNQTa_kzI5Cr0Jcbnn6wlFURUQ5SVJOTkQ1U1IwNjUzMlJHMUVVSE5QMi4u"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10917": {
-      "modified_gmt": "2026-09-17T18:53:11",
-      "calendar_hash": "47a476818d38e69a3ed0a8af6066640ab12b0736f6f8e8d773eb2ca2f3346718",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10917,
-        "title": "UofT Anesthesia CaRMS Meet and Greet: Getting to Know the Program",
-        "url": "https://canprepp.ca/events/uoft-anesthesia-carms-meet-and-greet-getting-to-know-the-program-2/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T22:00:00+00:00",
-        "end": "2026-10-16T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "18:00 – 20:00 EDT",
-        "categories": [
-          "University of Toronto",
-          "R1",
-          "Anesthesiology"
-        ],
-        "links": {
-          "Register": "https://www.surveymonkey.com/r/XWXJ885"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -3304,32 +3174,6 @@
         ],
         "links": {
           "Meeting Link": "https://ucalgary.zoom.us/j/97759135671"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10940": {
-      "modified_gmt": "2026-09-22T18:45:39",
-      "calendar_hash": "a8686c9ad5d4320f1ebb752a844e758ec3f0ca357cf8e99cd31a63afbac3e815",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 10940,
-        "title": "UBC Internal Medicine – Vancouver Island CaRMS Info Session",
-        "url": "https://canprepp.ca/events/internal-medicine-vancouver-island-carms-info-session/",
-        "date": "2026-10-15",
-        "start": "2026-10-16T00:00:00+00:00",
-        "end": "2026-10-16T01:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "PDT",
-        "published_time": "17:00 – 18:00 PDT",
-        "categories": [
-          "University of British Columbia",
-          "R1",
-          "Internal Medicine"
-        ],
-        "links": {
-          "Meeting Link": "https://ubc.zoom.us"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -4775,32 +4619,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11033": {
-      "modified_gmt": "2026-09-29T14:57:55",
-      "calendar_hash": "5e9199e33a2e494a7f61a50b5e9bdf6fca73b88c8a3fbdfe0477add24f19747b",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 11033,
-        "title": "UBC Adult Neurology CaRMS information session",
-        "url": "https://canprepp.ca/events/ubc-adult-neurology-carms-information-session-2/",
-        "date": "2026-10-15",
-        "start": "2026-10-16T01:00:00+00:00",
-        "end": "2026-10-16T02:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "18:00 – 19:00 PST",
-        "categories": [
-          "University of British Columbia",
-          "R1",
-          "Neurology"
-        ],
-        "links": {
-          "Meeting Link": "https://zoom.us/j/93283509470?pwd=KcmthM6FZY2RrawcdFatm5EkvOIQYP.1"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11035": {
       "modified_gmt": "2026-09-29T16:19:28",
       "calendar_hash": "bf11fd3d94ddb5c1633d4a1dc471ebac06e5f28cc1da72061432495d1ddd18f6",
@@ -5082,31 +4900,6 @@
         ],
         "links": {
           "Meeting Link": "https://nosm.webex.com/nosm/j.php?MTID=mfeaa8393aecf9419bae6165543959334"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11062": {
-      "modified_gmt": "2026-10-02T18:54:57",
-      "calendar_hash": "0c5806b3ddf997f53a0c842970d389e112943107280c9be902ae0a84c235f702",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 11062,
-        "title": "Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic Surgery Roundtable",
-        "url": "https://canprepp.ca/events/canadian-orthopaedic-surgery-student-network-pre-carms-orthopaedic-surgery-roundtable-4/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T23:00:00+00:00",
-        "end": "2026-10-16T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:00 EST",
-        "categories": [
-          "R1",
-          "Orthopedic Surgery"
-        ],
-        "links": {
-          "Register": "http://forms.gle/Xdx45r8AkXen7FXA8"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -5653,32 +5446,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11094": {
-      "modified_gmt": "2026-10-07T13:25:37",
-      "calendar_hash": "02f80bb6f649111507010f68e3a8ce4cb49d5797d8efb084c9071d8e84feafc5",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 11094,
-        "title": "Memorial Univeristy Pediatrics – Information Session",
-        "url": "https://canprepp.ca/events/memorial-univeristy-pediatrics-information-session/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T23:00:00+00:00",
-        "end": "2026-10-16T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "NST",
-        "published_time": "20:30 – 21:30 NST",
-        "categories": [
-          "Memorial University of Newfoundland",
-          "R1",
-          "Pediatrics"
-        ],
-        "links": {
-          "Meeting Link": "https://teams.microsoft.com/meet/230122700690582?p=9QU7Hq1hqOOPsM0cmD"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11095": {
       "modified_gmt": "2026-10-07T15:44:53",
       "calendar_hash": "397c1dc76d65037007533da2130f79e2c20b04b61c54808263d3fb7e2b173939",
@@ -5810,58 +5577,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11103": {
-      "modified_gmt": "2026-10-08T12:40:38",
-      "calendar_hash": "525a6fc6d7ffc61467db15f9c5eee4f7c98d7b176843f301342131f39a350801",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 11103,
-        "title": "Western Psychiatry CaRMS Townhall 2",
-        "url": "https://canprepp.ca/events/western-psychiatry-carms-townhall-2/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T23:00:00+00:00",
-        "end": "2026-10-16T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:00 EST",
-        "categories": [
-          "Western University",
-          "R1",
-          "Psychiatry"
-        ],
-        "links": {
-          "Register": "https://westernuniversity.zoom.us/meeting/register/FTj0l9lGThGqEDzxA5y-Iw#/registration"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11104": {
-      "modified_gmt": "2026-10-08T13:06:12",
-      "calendar_hash": "7a1306a0ba39de651bc4b4a5b866fb6015ea23674fcbdbb553e3239c97a5219b",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 11104,
-        "title": "CaRMS – Psychiatry – Western University",
-        "url": "https://canprepp.ca/events/carms-psychiatry-western-university-3/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T23:00:00+00:00",
-        "end": "2026-10-16T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:00 EST",
-        "categories": [
-          "Western University",
-          "R1",
-          "Psychiatry"
-        ],
-        "links": {
-          "Register": "https://westernuniversity.zoom.us/meeting/register/FTj0l9lGThGqEDzxA5y-Iw%20#/registration"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11105": {
       "modified_gmt": "2026-10-08T14:49:45",
       "calendar_hash": "1c49299f4bed216b23f3b3aa316fe0b209e8b297b07f3ea32f3bdf02dd7d6227",
@@ -5961,33 +5676,6 @@
         ],
         "links": {
           "Register": "https://torontomu.zoom.us/meeting/register/TycW0t2GTtaTrAh9Hw4dfg#/registration"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11112": {
-      "modified_gmt": "2026-10-08T15:18:22",
-      "calendar_hash": "c4aa5a3218c1591d2ec586b164e9dc4e07084376db570fce52a246e4a31aca3c",
-      "fetched_at": "2026-11-10T11:01:39+00:00",
-      "event": {
-        "id": 11112,
-        "title": "TMU CaRMS Internal Medicine Information Session",
-        "url": "https://canprepp.ca/events/tmu-carms-internal-medicine-information-session/",
-        "date": "2026-10-15",
-        "start": "2026-10-15T16:00:00+00:00",
-        "end": "2026-10-15T17:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "12:00 – 13:00 EST",
-        "categories": [
-          "Toronto Metropolitan University",
-          "R1",
-          "Internal Medicine"
-        ],
-        "links": {
-          "Meeting Link": "https://torontomu.zoom.us/meeting/register/ZlrEpUNwSfSTYvFtX_FNPw#/registration",
-          "Register": "https://torontomu.zoom.us/meeting/register/ZlrEpUNwSfSTYvFtX_FNPw#/registration"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -9210,31 +8898,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "10694": {
-      "id": 10694,
-      "title": "TMU Obstetrics and Gynecology Virtual Information Session",
-      "url": "https://canprepp.ca/events/tmu-obstetrics-and-gynecology-virtual-information-session/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T21:00:00+00:00",
-      "end": "2026-10-15T22:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "17:00 – 18:00 EDT",
-      "categories": [
-        "Toronto Metropolitan University",
-        "R1",
-        "Obstetrics and Gynecology"
-      ],
-      "links": {
-        "Register": "https://torontomu.zoom.us/meeting/register/_HFXOdjHTiCawS3o3l5NKw"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "01fcae4bbe7b15f5aea1058128c394f2aa4ef1a1629c6532ae12aa07500f4c44",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
     "10695": {
       "id": 10695,
       "title": "TMU Obstetrics and Gynecology Virtual Information Session",
@@ -9462,31 +9125,6 @@
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10724": {
-      "id": 10724,
-      "title": "University of Toronto Psychiatry Virtual Information Session #2",
-      "url": "https://canprepp.ca/events/university-of-toronto-psychiatry-virtual-information-session-2-2/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T23:00:00+00:00",
-      "end": "2026-10-16T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "19:00 – 20:30 EDT",
-      "categories": [
-        "University of Toronto",
-        "R1",
-        "Psychiatry"
-      ],
-      "links": {
-        "Register": "https://utoronto.zoom.us/meeting/register/UCEYvsU1RASUmIUZ5Qvwiw"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "6d3d5690d5ead88fad6de50e002bc0215cf42d9f5da499ba64410fa27980e68d",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
     },
     "10725": {
       "id": 10725,
@@ -9884,31 +9522,6 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10776": {
-      "id": 10776,
-      "title": "McMaster Psychiatry Waterloo CMG Residents’ Meet & Greets",
-      "url": "https://canprepp.ca/events/mcmaster-psychiatry-waterloo-cmg-residents-meet-greets-2/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T22:00:00+00:00",
-      "end": "2026-10-15T23:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "18:00 – 19:00 EST",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Psychiatry"
-      ],
-      "links": {
-        "Register": "https://events.teams.microsoft.com/event/399e63c9-1aca-44de-ad31-e2cd6cd731ab@44376307-b429-42ad-8c25-28cd496f4772"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "0f8a9b95431cb9d835b2148130d49dcd50ba25bec45ae1d5acf8d57ce57c96ad",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "10782": {
       "id": 10782,
@@ -11029,31 +10642,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "10904": {
-      "id": 10904,
-      "title": "NOSM UNIVERSITY OBGYN VIRTUAL INFO SESSION",
-      "url": "https://canprepp.ca/events/nosm-university-obgyn-virtual-info-session/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T23:00:00+00:00",
-      "end": "2026-10-16T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:00 EST",
-      "categories": [
-        "NOSM University",
-        "R1",
-        "Obstetrics and Gynecology"
-      ],
-      "links": {
-        "Meeting Link": "https://nosm.webex.com/nosm/j.php?MTID=m745d6029f701c3cb7f828802f9a66888"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "5d475d9ead45e09b9969c9b7c2bf3fe5468aafd6e909af01b84ead77ef680aeb",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10905": {
       "id": 10905,
       "title": "NOSM UNIVERSITY PHPM VIRTUAL INFO SESSION",
@@ -11202,31 +10790,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "30ab2d91a50a20399aeb80beb24534274600305019692569a63b3526010312c9",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10917": {
-      "id": 10917,
-      "title": "UofT Anesthesia CaRMS Meet and Greet: Getting to Know the Program",
-      "url": "https://canprepp.ca/events/uoft-anesthesia-carms-meet-and-greet-getting-to-know-the-program-2/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T22:00:00+00:00",
-      "end": "2026-10-16T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "18:00 – 20:00 EDT",
-      "categories": [
-        "University of Toronto",
-        "R1",
-        "Anesthesiology"
-      ],
-      "links": {
-        "Register": "https://www.surveymonkey.com/r/XWXJ885"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "cf40b6ea247858cbb896722981f9a2adefbe902843d50e71c4b0aa00585af0c0",
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
@@ -11501,31 +11064,6 @@
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10940": {
-      "id": 10940,
-      "title": "UBC Internal Medicine – Vancouver Island CaRMS Info Session",
-      "url": "https://canprepp.ca/events/internal-medicine-vancouver-island-carms-info-session/",
-      "date": "2026-10-15",
-      "start": "2026-10-16T00:00:00+00:00",
-      "end": "2026-10-16T01:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "PDT",
-      "published_time": "17:00 – 18:00 PDT",
-      "categories": [
-        "University of British Columbia",
-        "R1",
-        "Internal Medicine"
-      ],
-      "links": {
-        "Meeting Link": "https://ubc.zoom.us"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "fea9eee0ca0cf1b452d89771c5c9100d6aa6a661d82423f7b2025db6a5012f5d",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
     },
     "10941": {
       "id": 10941,
@@ -12911,31 +12449,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "11033": {
-      "id": 11033,
-      "title": "UBC Adult Neurology CaRMS information session",
-      "url": "https://canprepp.ca/events/ubc-adult-neurology-carms-information-session-2/",
-      "date": "2026-10-15",
-      "start": "2026-10-16T01:00:00+00:00",
-      "end": "2026-10-16T02:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "18:00 – 19:00 PST",
-      "categories": [
-        "University of British Columbia",
-        "R1",
-        "Neurology"
-      ],
-      "links": {
-        "Meeting Link": "https://zoom.us/j/93283509470?pwd=KcmthM6FZY2RrawcdFatm5EkvOIQYP.1"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "8ba26b2d55fa998040c54625b423f38b9b3e948515ca1bf0232f8fc9179c871e",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "11035": {
       "id": 11035,
       "title": "Online CaRMS Info Session",
@@ -13210,30 +12723,6 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "11062": {
-      "id": 11062,
-      "title": "Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic Surgery Roundtable",
-      "url": "https://canprepp.ca/events/canadian-orthopaedic-surgery-student-network-pre-carms-orthopaedic-surgery-roundtable-4/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T23:00:00+00:00",
-      "end": "2026-10-16T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:00 EST",
-      "categories": [
-        "R1",
-        "Orthopedic Surgery"
-      ],
-      "links": {
-        "Register": "http://forms.gle/Xdx45r8AkXen7FXA8"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "6b2cb13ee3cead9b78074484c9575579500ff4e6308e7c1b58ed3a1c1a6ec273",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "11063": {
       "id": 11063,
@@ -13755,31 +13244,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "11094": {
-      "id": 11094,
-      "title": "Memorial Univeristy Pediatrics – Information Session",
-      "url": "https://canprepp.ca/events/memorial-univeristy-pediatrics-information-session/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T23:00:00+00:00",
-      "end": "2026-10-16T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "NST",
-      "published_time": "20:30 – 21:30 NST",
-      "categories": [
-        "Memorial University of Newfoundland",
-        "R1",
-        "Pediatrics"
-      ],
-      "links": {
-        "Meeting Link": "https://teams.microsoft.com/meet/230122700690582?p=9QU7Hq1hqOOPsM0cmD"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "fe90384228ceaa9ae657843f1e6c8105c335b0d2b1b3dd750961919b02d26b87",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "11095": {
       "id": 11095,
       "title": "Meet and Greet with Anesthesia Residents",
@@ -13906,56 +13370,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "11103": {
-      "id": 11103,
-      "title": "Western Psychiatry CaRMS Townhall 2",
-      "url": "https://canprepp.ca/events/western-psychiatry-carms-townhall-2/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T23:00:00+00:00",
-      "end": "2026-10-16T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:00 EST",
-      "categories": [
-        "Western University",
-        "R1",
-        "Psychiatry"
-      ],
-      "links": {
-        "Register": "https://westernuniversity.zoom.us/meeting/register/FTj0l9lGThGqEDzxA5y-Iw#/registration"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "6304bc2fe7f6749543f5b41fb03d1f52e037e9f80bcd8d9ce45c7c527a5ecefa",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "11104": {
-      "id": 11104,
-      "title": "CaRMS – Psychiatry – Western University",
-      "url": "https://canprepp.ca/events/carms-psychiatry-western-university-3/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T23:00:00+00:00",
-      "end": "2026-10-16T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:00 EST",
-      "categories": [
-        "Western University",
-        "R1",
-        "Psychiatry"
-      ],
-      "links": {
-        "Register": "https://westernuniversity.zoom.us/meeting/register/FTj0l9lGThGqEDzxA5y-Iw%20#/registration"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "a894437c9bd216b1c3a5195864b76781680d2e8ca19337e35c4366db7ccb7af9",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "11105": {
       "id": 11105,
       "title": "TMU Family Medicine Residency Program Information Session",
@@ -14055,32 +13469,6 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "11112": {
-      "id": 11112,
-      "title": "TMU CaRMS Internal Medicine Information Session",
-      "url": "https://canprepp.ca/events/tmu-carms-internal-medicine-information-session/",
-      "date": "2026-10-15",
-      "start": "2026-10-15T16:00:00+00:00",
-      "end": "2026-10-15T17:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "12:00 – 13:00 EST",
-      "categories": [
-        "Toronto Metropolitan University",
-        "R1",
-        "Internal Medicine"
-      ],
-      "links": {
-        "Meeting Link": "https://torontomu.zoom.us/meeting/register/ZlrEpUNwSfSTYvFtX_FNPw#/registration",
-        "Register": "https://torontomu.zoom.us/meeting/register/ZlrEpUNwSfSTYvFtX_FNPw#/registration"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "da2079fee5e881cc62e6e4af152568481389ef9e05705a5aef23b0e8351dfa2c",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "11113": {
       "id": 11113,
