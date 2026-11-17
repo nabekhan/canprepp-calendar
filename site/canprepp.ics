@@ -4970,6 +4970,25 @@ URL:https://canprepp.ca/events/ubc-family-practice-postgrad-northwest-terr
 X-CANPREPP-ID:11026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dalhousie Dermatology Residency Information Night
+DTSTART:20261124T003000Z
+DTEND:20261124T013000Z
+DTSTAMP:20261117T034415Z
+UID:canprepp-event-11252@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Dalhousie University,R1,Dermatology
+CREATED:20261117T034415Z
+DESCRIPTION:https://canprepp.ca/events/dalhousie-dermatology-residency-inf
+ ormation-night/\nPublished time: 20:30 – 21:30 AST\nMeeting Link: https:
+ //teams.microsoft.com/meet/2684719696801791?p=xnTb2GZoE2cggrzy95
+LAST-MODIFIED:20261117T034415Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/dalhousie-dermatology-residency-information
+ -night/
+X-CANPREPP-ID:11252
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UBC Neurosurgery Program Information
 DTSTART:20261124T230000Z
 DTEND:20261125T003000Z
