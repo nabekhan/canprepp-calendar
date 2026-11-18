@@ -5034,9 +5034,9 @@
       }
     },
     "11072": {
-      "modified_gmt": "2026-10-21T01:39:25",
+      "modified_gmt": "2026-11-17T22:32:12",
       "calendar_hash": "0f38a94dcefc75f94a87d3f5aa6d40846c40b0b4dd673ce4651302cd5f7da04c",
-      "fetched_at": "2026-11-11T10:46:37+00:00",
+      "fetched_at": "2026-11-18T00:54:43+00:00",
       "event": {
         "id": 11072,
         "title": "UofA Family Medicine- Urban/Edmonton Info Session",
@@ -5052,7 +5052,9 @@
           "R1",
           "Family Medicine CMG"
         ],
-        "links": {},
+        "links": {
+          "Meeting Link": "https://ualberta-ca.zoom.us/j/92466281331?pwd=yyMNnl4feBqPNolUwxF63oG1HaN8G3.1"
+        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -5896,7 +5898,7 @@
     "11122": {
       "modified_gmt": "2026-10-13T00:50:31",
       "calendar_hash": "c2454e9dcb73db2fca51931cd1562b7f6072142d74e0d0ae05855649fd454f8f",
-      "fetched_at": "2026-11-10T19:39:36+00:00",
+      "fetched_at": "2026-11-18T00:54:43+00:00",
       "event": {
         "id": 11122,
         "title": "Dalhousie University Otolaryngology CaRMS Information Session",
@@ -7402,7 +7404,7 @@
     "11216": {
       "modified_gmt": "2026-11-03T16:05:39",
       "calendar_hash": "8c688130bc3c0184239eed438f5e47c341fb87632c9064902f750b17ae2c3148",
-      "fetched_at": "2026-11-10T19:39:36+00:00",
+      "fetched_at": "2026-11-18T00:54:43+00:00",
       "event": {
         "id": 11216,
         "title": "UofT Diagnostic & Molecular Pathology Info Session",
@@ -7984,6 +7986,32 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "6279": {
+      "modified_gmt": "2026-11-17T19:15:39",
+      "calendar_hash": "b81d66ac4c37bfcfc73db91c49770310c305028878725f16d48dae4bff925f3c",
+      "fetched_at": "2026-11-18T00:54:43+00:00",
+      "event": {
+        "id": 6279,
+        "title": "UCalgary CaRMS Info Session – Pediatric Residency Program",
+        "url": "https://canprepp.ca/events/ucalgary-carms-info-session-pediatric-residency-program/",
+        "date": "2026-11-24",
+        "start": "2026-11-25T00:30:00+00:00",
+        "end": "2026-11-25T02:30:00+00:00",
+        "all_day": false,
+        "timezone_label": "MST",
+        "published_time": "18:30 – 20:30 MST",
+        "categories": [
+          "University of Calgary",
+          "R1",
+          "Pediatrics"
+        ],
+        "links": {
+          "Meeting Link": "https://teams.microsoft.com/meet/2780129855732773?p=rxfeurBwyP9ezDNOOs%20"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -8036,6 +8064,31 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
+    },
+    "6279": {
+      "id": 6279,
+      "title": "UCalgary CaRMS Info Session – Pediatric Residency Program",
+      "url": "https://canprepp.ca/events/ucalgary-carms-info-session-pediatric-residency-program/",
+      "date": "2026-11-24",
+      "start": "2026-11-25T00:30:00+00:00",
+      "end": "2026-11-25T02:30:00+00:00",
+      "all_day": false,
+      "timezone_label": "MST",
+      "published_time": "18:30 – 20:30 MST",
+      "categories": [
+        "University of Calgary",
+        "R1",
+        "Pediatrics"
+      ],
+      "links": {
+        "Meeting Link": "https://teams.microsoft.com/meet/2780129855732773?p=rxfeurBwyP9ezDNOOs%20"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "3852b33a37f85a87224ad2ad5f1938ddc7dd3c887e9aa58e3b63101f8cecb9d9",
+      "sequence": 0,
+      "created": "2026-11-18T00:54:43+00:00",
+      "last_modified": "2026-11-18T00:54:43+00:00"
     },
     "7991": {
       "id": 7991,
@@ -12888,13 +12941,15 @@
         "R1",
         "Family Medicine CMG"
       ],
-      "links": {},
+      "links": {
+        "Meeting Link": "https://ualberta-ca.zoom.us/j/92466281331?pwd=yyMNnl4feBqPNolUwxF63oG1HaN8G3.1"
+      },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "f263a04d49047d9c294af38c19efa1e8fc33b1b73df36752fe5adf215771ab12",
-      "sequence": 0,
+      "fingerprint": "9d9d8320afe41b730a848166a9585b48ac2f224fb647b4511005d363f1e266b9",
+      "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
+      "last_modified": "2026-11-18T00:54:43+00:00"
     },
     "11073": {
       "id": 11073,

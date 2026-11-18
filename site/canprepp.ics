@@ -4529,14 +4529,15 @@ BEGIN:VEVENT
 SUMMARY:UofA Family Medicine- Urban/Edmonton Info Session
 DTSTART:20261119T000000Z
 DTEND:20261119T010000Z
-DTSTAMP:20261012T191757Z
+DTSTAMP:20261118T005443Z
 UID:canprepp-event-11072@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of Alberta,R1,Family Medicine CMG
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofa-family-medicine-urban-edmonton
- /\nPublished time: 18:00 – 19:00 MDT
-LAST-MODIFIED:20261012T191757Z
+ /\nPublished time: 18:00 – 19:00 MDT\nMeeting Link: https://ualberta-ca.
+ zoom.us/j/92466281331?pwd=yyMNnl4feBqPNolUwxF63oG1HaN8G3.1
+LAST-MODIFIED:20261118T005443Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofa-family-medicine-urban-edmonton/
@@ -5120,6 +5121,25 @@ STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-saskatchewan-internal-medicin
  e-townhall-qa-3/
 X-CANPREPP-ID:11120
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UCalgary CaRMS Info Session – Pediatric Residency Program
+DTSTART:20261125T003000Z
+DTEND:20261125T023000Z
+DTSTAMP:20261118T005443Z
+UID:canprepp-event-6279@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Calgary,R1,Pediatrics
+CREATED:20261118T005443Z
+DESCRIPTION:https://canprepp.ca/events/ucalgary-carms-info-session-pediatr
+ ic-residency-program/\nPublished time: 18:30 – 20:30 MST\nMeeting Link: 
+ https://teams.microsoft.com/meet/2780129855732773?p=rxfeurBwyP9ezDNOOs%20
+LAST-MODIFIED:20261118T005443Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/ucalgary-carms-info-session-pediatric-resid
+ ency-program/
+X-CANPREPP-ID:6279
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:U of Toronto Neurosurgery Virtual Open House
