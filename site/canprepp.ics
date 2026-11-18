@@ -4835,6 +4835,24 @@ URL:https://canprepp.ca/events/uottawa-phpm-academic-half-day-3/
 X-CANPREPP-ID:10840
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Program Information Session
+DTSTART:20261121T000000Z
+DTEND:20261121T010000Z
+DTSTAMP:20261118T202414Z
+UID:canprepp-event-11253@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Dalhousie University,R1,Internal Medicine
+CREATED:20261118T202414Z
+DESCRIPTION:https://canprepp.ca/events/program-information-session-3/\nPub
+ lished time: 20:00 – 21:00 AST\nMeeting Link: https://teams.microsoft.co
+ m/meet/2786868939542813?p=8VPEBDbKoj6L8DWWCv%20
+LAST-MODIFIED:20261118T202414Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/program-information-session-3/
+X-CANPREPP-ID:11253
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TMU Family Medicine Residency Program Information Session
 DTSTART:20261121T150000Z
 DTEND:20261121T160000Z
