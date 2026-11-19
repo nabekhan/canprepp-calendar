@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-11-18T20:24:14+00:00",
-  "source_event_posts": 2245,
-  "event_count": 315,
-  "pages_fetched": 17,
+  "checked_at": "2026-11-19T02:29:47+00:00",
+  "source_event_posts": 2246,
+  "event_count": 311,
+  "pages_fetched": 8,
   "feed_changed": true,
-  "range_start": "2026-10-19",
+  "range_start": "2026-10-20",
   "range_end": "2027-11-30"
 }

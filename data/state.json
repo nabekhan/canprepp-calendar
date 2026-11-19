@@ -1776,9 +1776,9 @@
       }
     },
     "10795": {
-      "modified_gmt": "2026-09-03T15:05:21",
-      "calendar_hash": "190d56c9f1c54e6e05948b8923d220d6ae691b98457befb2468d277363efbccd",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
+      "modified_gmt": "2026-11-18T21:29:50",
+      "calendar_hash": "256cd5f23c2e92a3d0b55842605444a6ab9e18babfbbd410b6098562f84ff7f8",
+      "fetched_at": "2026-11-19T02:29:47+00:00",
       "event": {
         "id": 10795,
         "title": "University of British Columbia Diagnostic and Molecular Pathology Info Session with Program Director Dr. David Farnell",
@@ -1787,8 +1787,8 @@
         "start": "2026-11-19T21:00:00+00:00",
         "end": null,
         "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "14:00 PST",
+        "timezone_label": "PDT",
+        "published_time": "14:00 PDT",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -1803,19 +1803,19 @@
       }
     },
     "10796": {
-      "modified_gmt": "2026-09-03T15:05:29",
-      "calendar_hash": "c9e70908575af6c20d48283175851d1ec584a698ec7a7a4d30fa7f17651a2163",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
+      "modified_gmt": "2026-11-18T21:15:39",
+      "calendar_hash": "1630ce34bc6991358920cce9ac2a75678f9e46b622037a630146c396bdf19d00",
+      "fetched_at": "2026-11-19T02:29:47+00:00",
       "event": {
         "id": 10796,
         "title": "University of British Columbia Diagnostic and Molecular Pathology Q&A Session with the current residents",
         "url": "https://canprepp.ca/events/university-of-british-columbia-diagnostic-and-molecular-pathology-qa-session-with-the-current-residents/",
         "date": "2026-11-18",
-        "start": "2026-11-18T21:00:00+00:00",
+        "start": "2026-11-18T22:00:00+00:00",
         "end": null,
         "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "14:00 PST",
+        "timezone_label": "PDT",
+        "published_time": "15:00 PDT",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -3229,30 +3229,6 @@
           "Meeting Link": "https://ualberta-ca.zoom.us/j/92605887893?pwd=GDK1VeVbyrM2OL7RPzn1nHcFvKOgWT.1",
           "Register": "https://forms.gle/Fdqami1bpbsnm3L18"
         },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10943": {
-      "modified_gmt": "2026-09-23T15:10:52",
-      "calendar_hash": "5275a86f31fefb1b723f13d9c7964e3da5628ab7fd74895017e884465712903b",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 10943,
-        "title": "University of Ottawa Adult Neurology Residency Program Information Session",
-        "url": "https://canprepp.ca/events/university-of-ottawa-adult-neurology-residency-program-information-session/",
-        "date": "2026-10-19",
-        "start": "2026-10-19T22:00:00+00:00",
-        "end": null,
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "18:00 EDT",
-        "categories": [
-          "University of Ottawa",
-          "R1",
-          "Neurology"
-        ],
-        "links": {},
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -5060,9 +5036,9 @@
       }
     },
     "11073": {
-      "modified_gmt": "2026-10-23T17:31:46",
+      "modified_gmt": "2026-11-19T01:04:46",
       "calendar_hash": "9ea2bf03e38ad94e042989ba35064318cb8585b397a7584efc706ab1ab91a94c",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-19T02:29:47+00:00",
       "event": {
         "id": 11073,
         "title": "UofA Family Medicine- IMG Info Session",
@@ -5079,7 +5055,7 @@
           "Family Medicine"
         ],
         "links": {
-          "Meeting Link": "https://ualberta-ca.zoom.us/j/93618827834?pwd=jpntygumLnzFSAyafPOzaTHcHeMamd.1"
+          "Meeting Link": "https://ualberta-ca.zoom.us/j/94677688274?pwd=hUp4RjGwbHzn74AHUEXlQ9N2JlYCl0.1"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -5710,33 +5686,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11114": {
-      "modified_gmt": "2026-10-08T15:24:14",
-      "calendar_hash": "05e97e34083bcdcb11192b1bf501e46c8fe366d9d104a6840e4e15bb65525ec6",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11114,
-        "title": "TMU CaRMS Pediatrics Information Session",
-        "url": "https://canprepp.ca/events/tmu-carms-pediatrics-information-session/",
-        "date": "2026-10-19",
-        "start": "2026-10-19T16:00:00+00:00",
-        "end": "2026-10-19T17:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "12:00 – 13:00 EST",
-        "categories": [
-          "Toronto Metropolitan University",
-          "R1",
-          "Pediatrics"
-        ],
-        "links": {
-          "Meeting Link": "https://torontomu.zoom.us/meeting/register/O8t6BUi9RsmesCKSsIQvcg#/registration",
-          "Register": "https://torontomu.zoom.us/meeting/register/O8t6BUi9RsmesCKSsIQvcg#/registration"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11115": {
       "modified_gmt": "2026-10-08T15:26:13",
       "calendar_hash": "da2ee524776b4bf5bda5c168793261c56bc1e80427509c41ea54d47a8be131bf",
@@ -5811,32 +5760,6 @@
         ],
         "links": {
           "Meeting Link": "https://usask-ca.zoom.us/j/96338578004?pwd=7zDO3Niev6aVbbuzbEj9nsEztaHA6J.1&from=addon"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11119": {
-      "modified_gmt": "2026-10-09T15:06:56",
-      "calendar_hash": "bf27e1feecb5728ac7f3ef839a4ca3370976925db1de121db6f4ab74bc55fd0c",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11119,
-        "title": "UBC Fraser Emergency Medicine CARMS info session",
-        "url": "https://canprepp.ca/events/ubc-fraser-emergency-medicine-carms-info-session/",
-        "date": "2026-10-19",
-        "start": "2026-10-20T01:00:00+00:00",
-        "end": null,
-        "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "18:00 PST",
-        "categories": [
-          "University of British Columbia",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Register": "https://forms.gle/hv2Wii5fqnSnXL4U8"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -6069,32 +5992,6 @@
           "Neurology"
         ],
         "links": {},
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11131": {
-      "modified_gmt": "2026-10-14T15:35:56",
-      "calendar_hash": "839bf5bcd7c600d5f1d026598d107b90eb502e391f600f405dd5c5853cac67be",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
-      "event": {
-        "id": 11131,
-        "title": "UofT Hematological Pathology Info Session",
-        "url": "https://canprepp.ca/events/uoft-hematological-pathology-info-session-3/",
-        "date": "2026-10-19",
-        "start": "2026-10-20T00:00:00+00:00",
-        "end": "2026-10-20T01:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "20:00 – 21:00 EST",
-        "categories": [
-          "University of Toronto",
-          "R1",
-          "Hematological Pathology"
-        ],
-        "links": {
-          "Meeting Link": "https://us06web.zoom.us/j/89201497233"
-        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -6507,32 +6404,6 @@
           "Urology"
         ],
         "links": {},
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11152": {
-      "modified_gmt": "2026-10-19T16:23:22",
-      "calendar_hash": "939e175be2a0e919245c3c39996feed9ce10864c250416e7622e9157f5612310",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11152,
-        "title": "UOttawa Adult Neuro Info Session",
-        "url": "https://canprepp.ca/events/uottawa-adult-neuro-info-session/",
-        "date": "2026-10-19",
-        "start": "2026-10-19T23:00:00+00:00",
-        "end": null,
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 EST",
-        "categories": [
-          "University of Ottawa",
-          "R1",
-          "Neurology"
-        ],
-        "links": {
-          "Meeting Link": "https://uottawa-ca.zoom.us/j/96553456841"
-        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -7168,7 +7039,7 @@
     "11203": {
       "modified_gmt": "2026-10-28T19:45:03",
       "calendar_hash": "8d12823e8d9732c6e9db46254790a9330a63975681c1ba1fd4a13507ada8ac9a",
-      "fetched_at": "2026-11-12T02:14:13+00:00",
+      "fetched_at": "2026-11-19T02:29:47+00:00",
       "event": {
         "id": 11203,
         "title": "Radiation Oncology Town Hall",
@@ -7194,7 +7065,7 @@
     "11204": {
       "modified_gmt": "2026-10-28T19:47:48",
       "calendar_hash": "bf1aaa225099659c40ee8f77f9f9708cd11c8d555314c7940c176d918dfc57aa",
-      "fetched_at": "2026-11-12T02:14:13+00:00",
+      "fetched_at": "2026-11-19T02:29:47+00:00",
       "event": {
         "id": 11204,
         "title": "Radiation Oncology Town Hall",
@@ -7430,7 +7301,7 @@
     "11217": {
       "modified_gmt": "2026-11-04T18:55:53",
       "calendar_hash": "036799400070b2343be9963ad3c0c734e60a2a84a6f64df87667c83aa0726fc1",
-      "fetched_at": "2026-11-12T02:14:13+00:00",
+      "fetched_at": "2026-11-19T02:29:47+00:00",
       "event": {
         "id": 11217,
         "title": "Neurology at Western –  Program Information Session",
@@ -7890,7 +7761,7 @@
     "5326": {
       "modified_gmt": "2026-11-11T22:15:40",
       "calendar_hash": "4b8e3860e2f8722ac605d24f6f438f3781a3e9690a43ff9a9dcb82a89f45ffb9",
-      "fetched_at": "2026-11-12T02:14:13+00:00",
+      "fetched_at": "2026-11-19T02:29:47+00:00",
       "event": {
         "id": 5326,
         "title": "U of Toronto Neurosurgery Virtual Open House",
@@ -8034,6 +7905,32 @@
         ],
         "links": {
           "Meeting Link": "https://teams.microsoft.com/meet/2786868939542813?p=8VPEBDbKoj6L8DWWCv%20"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11256": {
+      "modified_gmt": "2026-11-18T21:24:52",
+      "calendar_hash": "4891e550870a623987ee73a9e74cbc6fde6fca154b93ec800f5a41138ba83217",
+      "fetched_at": "2026-11-19T02:29:47+00:00",
+      "event": {
+        "id": 11256,
+        "title": "Dalhousie Neurosurgery Information Session",
+        "url": "https://canprepp.ca/events/dalhousie-neurosurgery-information-session-6/",
+        "date": "2026-12-01",
+        "start": "2026-12-01T23:00:00+00:00",
+        "end": "2026-12-02T01:00:00+00:00",
+        "all_day": false,
+        "timezone_label": "AST",
+        "published_time": "19:00 – 21:00 AST",
+        "categories": [
+          "Dalhousie University",
+          "R1",
+          "Neurosurgery"
+        ],
+        "links": {
+          "Meeting Link": "https://teams.microsoft.com/meet/2138145909411314?p=NxEdm65NDgNBmv0S2n"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -9828,8 +9725,8 @@
       "start": "2026-11-19T21:00:00+00:00",
       "end": null,
       "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "14:00 PST",
+      "timezone_label": "PDT",
+      "published_time": "14:00 PDT",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -9841,21 +9738,21 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "302c1e3044fc10cba80716dba1540952f24e2ddf0842a761031f52f95b9bf08b",
-      "sequence": 1,
+      "fingerprint": "2046a7aaa06726029d4aeb06bc6db45c39851a8078134497aba26d0a5476402f",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-11-19T02:29:47+00:00"
     },
     "10796": {
       "id": 10796,
       "title": "University of British Columbia Diagnostic and Molecular Pathology Q&A Session with the current residents",
       "url": "https://canprepp.ca/events/university-of-british-columbia-diagnostic-and-molecular-pathology-qa-session-with-the-current-residents/",
       "date": "2026-11-18",
-      "start": "2026-11-18T21:00:00+00:00",
+      "start": "2026-11-18T22:00:00+00:00",
       "end": null,
       "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "14:00 PST",
+      "timezone_label": "PDT",
+      "published_time": "15:00 PDT",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -9867,10 +9764,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "8aad1966a7a079aaaffcde8a0b3e7fd57b4ae474a95f0db5a3351a026b3d5dde",
-      "sequence": 1,
+      "fingerprint": "6ecadd19efba682a755402415c614b9f88436e79c69597290fa53e1bd9d17840",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-11-19T02:29:47+00:00"
     },
     "10806": {
       "id": 10806,
@@ -11218,29 +11115,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "ac498e325ea263013e9a44b5f6eee874a59f027126b54f8404a202984c8ddd12",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10943": {
-      "id": 10943,
-      "title": "University of Ottawa Adult Neurology Residency Program Information Session",
-      "url": "https://canprepp.ca/events/university-of-ottawa-adult-neurology-residency-program-information-session/",
-      "date": "2026-10-19",
-      "start": "2026-10-19T22:00:00+00:00",
-      "end": null,
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "18:00 EDT",
-      "categories": [
-        "University of Ottawa",
-        "R1",
-        "Neurology"
-      ],
-      "links": {},
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "67eada5429fd5e8161a1710674bbbe2179338da0f554b97705fb7e7395963354",
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
@@ -12993,14 +12867,14 @@
         "Family Medicine"
       ],
       "links": {
-        "Meeting Link": "https://ualberta-ca.zoom.us/j/93618827834?pwd=jpntygumLnzFSAyafPOzaTHcHeMamd.1"
+        "Meeting Link": "https://ualberta-ca.zoom.us/j/94677688274?pwd=hUp4RjGwbHzn74AHUEXlQ9N2JlYCl0.1"
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "2e990f8a412adaed6836ed01455a88827d76ed8f820e603f2f13507d5e1e49af",
-      "sequence": 1,
+      "fingerprint": "f2bde8a91b7ea59c6be94d65970b74eee6364f9032c92e310ada2db33440eedd",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-23T21:20:27+00:00"
+      "last_modified": "2026-11-19T02:29:47+00:00"
     },
     "11074": {
       "id": 11074,
@@ -13603,32 +13477,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "11114": {
-      "id": 11114,
-      "title": "TMU CaRMS Pediatrics Information Session",
-      "url": "https://canprepp.ca/events/tmu-carms-pediatrics-information-session/",
-      "date": "2026-10-19",
-      "start": "2026-10-19T16:00:00+00:00",
-      "end": "2026-10-19T17:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "12:00 – 13:00 EST",
-      "categories": [
-        "Toronto Metropolitan University",
-        "R1",
-        "Pediatrics"
-      ],
-      "links": {
-        "Meeting Link": "https://torontomu.zoom.us/meeting/register/O8t6BUi9RsmesCKSsIQvcg#/registration",
-        "Register": "https://torontomu.zoom.us/meeting/register/O8t6BUi9RsmesCKSsIQvcg#/registration"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "52b474c51c711f505975cd5cdc2d2c32466aba4e5dde4ad1464274787ca59f94",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "11115": {
       "id": 11115,
       "title": "TMU CaRMS Pediatrics Information Session",
@@ -13704,31 +13552,6 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "11119": {
-      "id": 11119,
-      "title": "UBC Fraser Emergency Medicine CARMS info session",
-      "url": "https://canprepp.ca/events/ubc-fraser-emergency-medicine-carms-info-session/",
-      "date": "2026-10-19",
-      "start": "2026-10-20T01:00:00+00:00",
-      "end": null,
-      "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "18:00 PST",
-      "categories": [
-        "University of British Columbia",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Register": "https://forms.gle/hv2Wii5fqnSnXL4U8"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "a7a9b12573d4ac1c9bcba25d1058dc410e4d5a5bc84220c2e125fcd5e9511494",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "11120": {
       "id": 11120,
@@ -13951,31 +13774,6 @@
       "sequence": 0,
       "created": "2026-10-14T00:15:43+00:00",
       "last_modified": "2026-10-14T00:15:43+00:00"
-    },
-    "11131": {
-      "id": 11131,
-      "title": "UofT Hematological Pathology Info Session",
-      "url": "https://canprepp.ca/events/uoft-hematological-pathology-info-session-3/",
-      "date": "2026-10-19",
-      "start": "2026-10-20T00:00:00+00:00",
-      "end": "2026-10-20T01:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "20:00 – 21:00 EST",
-      "categories": [
-        "University of Toronto",
-        "R1",
-        "Hematological Pathology"
-      ],
-      "links": {
-        "Meeting Link": "https://us06web.zoom.us/j/89201497233"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "91348fbef3b056519a7b456269307e49433aee585e09c4dd6164c93cc7ff4aa9",
-      "sequence": 0,
-      "created": "2026-10-14T19:18:42+00:00",
-      "last_modified": "2026-10-14T19:18:42+00:00"
     },
     "11132": {
       "id": 11132,
@@ -14346,31 +14144,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "e98aa1bab08a631ae5c8e5418307714ca29706e94a0e10cb6d45043a4fa7b5ae",
-      "sequence": 0,
-      "created": "2026-10-19T20:33:27+00:00",
-      "last_modified": "2026-10-19T20:33:27+00:00"
-    },
-    "11152": {
-      "id": 11152,
-      "title": "UOttawa Adult Neuro Info Session",
-      "url": "https://canprepp.ca/events/uottawa-adult-neuro-info-session/",
-      "date": "2026-10-19",
-      "start": "2026-10-19T23:00:00+00:00",
-      "end": null,
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 EST",
-      "categories": [
-        "University of Ottawa",
-        "R1",
-        "Neurology"
-      ],
-      "links": {
-        "Meeting Link": "https://uottawa-ca.zoom.us/j/96553456841"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "a8193eea54b8772052a92419b76f64b9b63f77e37d19ccd6bfbd408b323c6ede",
       "sequence": 0,
       "created": "2026-10-19T20:33:27+00:00",
       "last_modified": "2026-10-19T20:33:27+00:00"
@@ -15768,6 +15541,31 @@
       "sequence": 0,
       "created": "2026-11-18T20:24:14+00:00",
       "last_modified": "2026-11-18T20:24:14+00:00"
+    },
+    "11256": {
+      "id": 11256,
+      "title": "Dalhousie Neurosurgery Information Session",
+      "url": "https://canprepp.ca/events/dalhousie-neurosurgery-information-session-6/",
+      "date": "2026-12-01",
+      "start": "2026-12-01T23:00:00+00:00",
+      "end": "2026-12-02T01:00:00+00:00",
+      "all_day": false,
+      "timezone_label": "AST",
+      "published_time": "19:00 – 21:00 AST",
+      "categories": [
+        "Dalhousie University",
+        "R1",
+        "Neurosurgery"
+      ],
+      "links": {
+        "Meeting Link": "https://teams.microsoft.com/meet/2138145909411314?p=NxEdm65NDgNBmv0S2n"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "43431ef0faae28df0867e16eae72ddec1cd5a2b26c4df320b69de81ce2954d66",
+      "sequence": 0,
+      "created": "2026-11-19T02:29:47+00:00",
+      "last_modified": "2026-11-19T02:29:47+00:00"
     },
     "11160": {
       "id": 11160,

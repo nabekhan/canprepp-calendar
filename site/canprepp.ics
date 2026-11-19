@@ -7,98 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:TMU CaRMS Pediatrics Information Session
-DTSTART:20261019T160000Z
-DTEND:20261019T170000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-11114@canprepp.ca
-SEQUENCE:1
-CATEGORIES:Toronto Metropolitan University,R1,Pediatrics
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/tmu-carms-pediatrics-information-se
- ssion/\nPublished time: 12:00 – 13:00 EST\nMeeting Link: https://toronto
- mu.zoom.us/meeting/register/O8t6BUi9RsmesCKSsIQvcg#/registration\nRegister
- : https://torontomu.zoom.us/meeting/register/O8t6BUi9RsmesCKSsIQvcg#/regis
- tration
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/tmu-carms-pediatrics-information-session/
-X-CANPREPP-ID:11114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University of Ottawa Adult Neurology Residency Program Information
-  Session
-DTSTART:20261019T220000Z
-DTSTAMP:20261012T191757Z
-UID:canprepp-event-10943@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Neurology
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/university-of-ottawa-adult-neurolog
- y-residency-program-information-session/\nPublished time: 18:00 EDT
-LAST-MODIFIED:20261012T191757Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/university-of-ottawa-adult-neurology-reside
- ncy-program-information-session/
-X-CANPREPP-ID:10943
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UOttawa Adult Neuro Info Session
-DTSTART:20261019T230000Z
-DTSTAMP:20261019T203327Z
-UID:canprepp-event-11152@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Ottawa,R1,Neurology
-CREATED:20261019T203327Z
-DESCRIPTION:https://canprepp.ca/events/uottawa-adult-neuro-info-session/\n
- Published time: 19:00 EST\nMeeting Link: https://uottawa-ca.zoom.us/j/9655
- 3456841
-LAST-MODIFIED:20261019T203327Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uottawa-adult-neuro-info-session/
-X-CANPREPP-ID:11152
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UofT Hematological Pathology Info Session
-DTSTART:20261020T000000Z
-DTEND:20261020T010000Z
-DTSTAMP:20261014T191842Z
-UID:canprepp-event-11131@canprepp.ca
-SEQUENCE:0
-CATEGORIES:University of Toronto,R1,Hematological Pathology
-CREATED:20261014T191842Z
-DESCRIPTION:https://canprepp.ca/events/uoft-hematological-pathology-info-s
- ession-3/\nPublished time: 20:00 – 21:00 EST\nMeeting Link: https://us06
- web.zoom.us/j/89201497233
-LAST-MODIFIED:20261014T191842Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uoft-hematological-pathology-info-session-3
- /
-X-CANPREPP-ID:11131
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:UBC Fraser Emergency Medicine CARMS info session
-DTSTART:20261020T010000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-11119@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of British Columbia,R1,Emergency Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/ubc-fraser-emergency-medicine-carms
- -info-session/\nPublished time: 18:00 PST\nRegister: https://forms.gle/hv2
- Wii5fqnSnXL4U8
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/ubc-fraser-emergency-medicine-carms-info-se
- ssion/
-X-CANPREPP-ID:11119
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NOSM Univerisity Public Health and Preventive Medicine Virtual In
  formation Session
 DTSTART:20261020T220000Z
@@ -4334,19 +4242,19 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:University of British Columbia Diagnostic and Molecular Pathology 
  Q&A Session with the current residents
-DTSTART:20261118T210000Z
-DTSTAMP:20261014T004823Z
+DTSTART:20261118T220000Z
+DTSTAMP:20261119T022947Z
 UID:canprepp-event-10796@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of British Columbia,R1,Diagnostic and Molecular Path
  ology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-british-columbia-diag
  nostic-and-molecular-pathology-qa-session-with-the-current-residents/\nPub
- lished time: 14:00 PST\nMeeting Link: https://ubc.zoom.us/j/63533668227?pw
+ lished time: 15:00 PDT\nMeeting Link: https://ubc.zoom.us/j/63533668227?pw
  d=mRQbJeTmGV9ICY09ESw096onOzlSfF.1\nRegister: https://ubc.ca1.qualtrics.co
  m/jfe/form/SV_cVlL66PWOdHRtlQ
-LAST-MODIFIED:20261014T004823Z
+LAST-MODIFIED:20261119T022947Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-british-columbia-diagnostic-a
@@ -4625,18 +4533,18 @@ BEGIN:VEVENT
 SUMMARY:University of British Columbia Diagnostic and Molecular Pathology 
  Info Session with Program Director Dr. David Farnell
 DTSTART:20261119T210000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261119T022947Z
 UID:canprepp-event-10795@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of British Columbia,R1,Diagnostic and Molecular Path
  ology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/university-of-british-columbia-diag
  nostic-and-molecular-pathology-info-session-with-program-director-dr-david
- -farnell/\nPublished time: 14:00 PST\nMeeting Link: https://vancouvercoast
+ -farnell/\nPublished time: 14:00 PDT\nMeeting Link: https://vancouvercoast
  alhealth.zoom.us/j/62037367898?pwd=b2sStMHV2x8OeDlZ24W9z8TYFOGUlI.1\nRegis
  ter: https://ubc.ca1.qualtrics.com/jfe/form/SV_cVlL66PWOdHRtlQ
-LAST-MODIFIED:20261014T004823Z
+LAST-MODIFIED:20261119T022947Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-british-columbia-diagnostic-a
@@ -4954,15 +4862,15 @@ BEGIN:VEVENT
 SUMMARY:UofA Family Medicine- IMG Info Session
 DTSTART:20261124T000000Z
 DTEND:20261124T010000Z
-DTSTAMP:20261023T212027Z
+DTSTAMP:20261119T022947Z
 UID:canprepp-event-11073@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of Alberta,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/uofa-family-medicine-img-info-sessi
  on/\nPublished time: 18:00 – 19:00 MDT\nMeeting Link: https://ualberta-c
- a.zoom.us/j/93618827834?pwd=jpntygumLnzFSAyafPOzaTHcHeMamd.1
-LAST-MODIFIED:20261023T212027Z
+ a.zoom.us/j/94677688274?pwd=hUp4RjGwbHzn74AHUEXlQ9N2JlYCl0.1
+LAST-MODIFIED:20261119T022947Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/uofa-family-medicine-img-info-session/
@@ -5307,6 +5215,25 @@ LAST-MODIFIED:20261019T203327Z
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/information-session-3/
 X-CANPREPP-ID:8309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dalhousie Neurosurgery Information Session
+DTSTART:20261201T230000Z
+DTEND:20261202T010000Z
+DTSTAMP:20261119T022947Z
+UID:canprepp-event-11256@canprepp.ca
+SEQUENCE:0
+CATEGORIES:Dalhousie University,R1,Neurosurgery
+CREATED:20261119T022947Z
+DESCRIPTION:https://canprepp.ca/events/dalhousie-neurosurgery-information-
+ session-6/\nPublished time: 19:00 – 21:00 AST\nMeeting Link: https://tea
+ ms.microsoft.com/meet/2138145909411314?p=NxEdm65NDgNBmv0S2n
+LAST-MODIFIED:20261119T022947Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/dalhousie-neurosurgery-information-session-
+ 6/
+X-CANPREPP-ID:11256
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dalhousie Family Medicine CaRMS Information Session
