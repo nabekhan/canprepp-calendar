@@ -4784,16 +4784,16 @@ BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – St Paul’s Hospital IMG Site QA
 DTSTART:20261122T143000Z
 DTEND:20261122T153000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261119T202805Z
 UID:canprepp-event-11025@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-st-pau
- ls-hospital-img-site-qa-2/\nPublished time: 07:30 – 08:30 PST\nMeeting L
+ ls-hospital-img-site-qa-2/\nPublished time: 07:30 – 08:30 PDT\nMeeting L
  ink: https://ubc.zoom.us/j/69633682437?pwd=Qz9ltnZ2aIWHmRLeJbpVdUILN8dbRR.
  1&from=addon
-LAST-MODIFIED:20261014T004823Z
+LAST-MODIFIED:20261119T202805Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-st-pauls-hospi
@@ -4843,15 +4843,15 @@ SUMMARY:University of British Columbia Radiation Oncology Residency Progra
  m Virtual Information Session/QA
 DTSTART:20261123T230000Z
 DTEND:20261124T000000Z
-DTSTAMP:20261110T012747Z
+DTSTAMP:20261119T202805Z
 UID:canprepp-event-11237@canprepp.ca
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:University of British Columbia,R1,Radiation Oncology
 CREATED:20261110T012747Z
 DESCRIPTION:https://canprepp.ca/events/university-of-british-columbia-radi
  ation-oncology-residency-program-virtual-information-session-qa/\nPublishe
- d time: 16:00 – 17:00 PST
-LAST-MODIFIED:20261110T012747Z
+ d time: 16:00 – 17:00 PDT
+LAST-MODIFIED:20261119T202805Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/university-of-british-columbia-radiation-on
@@ -4880,16 +4880,16 @@ BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Northwest Terrace Site QA
 DTSTART:20261124T003000Z
 DTEND:20261124T013000Z
-DTSTAMP:20261023T212027Z
+DTSTAMP:20261119T202805Z
 UID:canprepp-event-11026@canprepp.ca
-SEQUENCE:2
+SEQUENCE:3
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-northw
- est-terrace-site-qa-2/\nPublished time: 17:30 – 18:30 PST\nMeeting Link:
+ est-terrace-site-qa-2/\nPublished time: 17:30 – 18:30 PDT\nMeeting Link:
   https://ubc.zoom.us/j/67144693328?pwd=fbuRAQTmNizA3ug3ScubUMzztlZmQf.1&fr
  om=addon
-LAST-MODIFIED:20261023T212027Z
+LAST-MODIFIED:20261119T202805Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-northwest-terr
@@ -5166,15 +5166,15 @@ BEGIN:VEVENT
 SUMMARY:UBC Family Practice Postgrad – Indigenous Site QA
 DTSTART:20261126T003000Z
 DTEND:20261126T013000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261119T202805Z
 UID:canprepp-event-11027@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of British Columbia,R1,Family Medicine
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-family-practice-postgrad-indige
- nous-site-qa-3/\nPublished time: 17:30 – 18:30 PST\nMeeting Link: https:
+ nous-site-qa-3/\nPublished time: 17:30 – 18:30 PDT\nMeeting Link: https:
  //ubc.zoom.us/j/64144014113?pwd=SX882asp19BFVEoybl84aiXsiVikcm.1
-LAST-MODIFIED:20261014T004823Z
+LAST-MODIFIED:20261119T202805Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-family-practice-postgrad-indigenous-sit
@@ -5389,6 +5389,24 @@ URL:https://canprepp.ca/events/nosm-university-psych-info-session/
 X-CANPREPP-ID:11223
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Manitoba Pediatric Hematology/Oncology Open House
+DTSTART:20261210T000000Z
+DTSTAMP:20261119T202805Z
+UID:canprepp-event-11257@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Manitoba,SSRM,Pediatric Hematology-Oncology
+CREATED:20261119T202805Z
+DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-pediatric-he
+ matology-oncology-open-house/\nPublished time: 19:00 CDT\nMeeting Link: ht
+ tps://us06web.zoom.us/j/88152987062?pwd=UnHhzQ3UybNxE2IQEu6VWnYxsz3afN.1
+LAST-MODIFIED:20261119T202805Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-manitoba-pediatric-hematology
+ -oncology-open-house/
+X-CANPREPP-ID:11257
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NOSM University Orthopedic Surgery Program – Information Session
 DTSTART:20261211T000000Z
 DTEND:20261211T013000Z
@@ -5489,14 +5507,14 @@ BEGIN:VEVENT
 SUMMARY:UBC OBGYN CaRMS Interview
 DTSTART:20270118T143000Z
 DTEND:20270118T223000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261119T202805Z
 UID:canprepp-event-7992@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of British Columbia,R1,Obstetrics and Gynecology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-obgyn-carms-interview-2/\nPubli
- shed time: 07:30 – 15:30 PST
-LAST-MODIFIED:20261014T004823Z
+ shed time: 07:30 – 15:30 PDT
+LAST-MODIFIED:20261119T202805Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-obgyn-carms-interview-2/
@@ -5581,14 +5599,14 @@ BEGIN:VEVENT
 SUMMARY:UBC OBGYN CaRMS Interview
 DTSTART:20270119T143000Z
 DTEND:20270119T223000Z
-DTSTAMP:20261014T004823Z
+DTSTAMP:20261119T202805Z
 UID:canprepp-event-7991@canprepp.ca
-SEQUENCE:1
+SEQUENCE:2
 CATEGORIES:University of British Columbia,R1,Obstetrics and Gynecology
 CREATED:20261012T191757Z
 DESCRIPTION:https://canprepp.ca/events/ubc-obgyn-carms-interview/\nPublish
- ed time: 07:30 – 15:30 PST
-LAST-MODIFIED:20261014T004823Z
+ ed time: 07:30 – 15:30 PDT
+LAST-MODIFIED:20261119T202805Z
 LOCATION:Online
 STATUS:CONFIRMED
 URL:https://canprepp.ca/events/ubc-obgyn-carms-interview/

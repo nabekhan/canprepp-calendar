@@ -27,9 +27,9 @@
       }
     },
     "7991": {
-      "modified_gmt": "2026-04-21T21:10:05",
-      "calendar_hash": "f7444ec9aa2a5ee5794df50de1468e10cf4aa1c06777db66b1c2a62516ccdaab",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
+      "modified_gmt": "2026-11-19T15:48:23",
+      "calendar_hash": "eba74068f536d18367bdc1e020741a1dc597bc7c7085443a1b9eb5864b93d593",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 7991,
         "title": "UBC OBGYN CaRMS Interview",
@@ -38,8 +38,8 @@
         "start": "2027-01-19T14:30:00+00:00",
         "end": "2027-01-19T22:30:00+00:00",
         "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "07:30 – 15:30 PST",
+        "timezone_label": "PDT",
+        "published_time": "07:30 – 15:30 PDT",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -51,9 +51,9 @@
       }
     },
     "7992": {
-      "modified_gmt": "2026-04-21T21:10:58",
-      "calendar_hash": "f7e5d96a15320861fc76cc48b656d6595d7c4a5352b60255cbd137335f07303b",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
+      "modified_gmt": "2026-11-19T15:48:21",
+      "calendar_hash": "18c255e0f462837c68d7b98d56787ea25e6a803a3fbaf524180a44c16d47c9ee",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 7992,
         "title": "UBC OBGYN CaRMS Interview",
@@ -62,8 +62,8 @@
         "start": "2027-01-18T14:30:00+00:00",
         "end": "2027-01-18T22:30:00+00:00",
         "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "07:30 – 15:30 PST",
+        "timezone_label": "PDT",
+        "published_time": "07:30 – 15:30 PDT",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -129,7 +129,7 @@
     "9112": {
       "modified_gmt": "2026-11-05T14:05:34",
       "calendar_hash": "2ab612100f44b6474c5246e95cc0bc53e185218cdc369d56a8c3c0633c8e5094",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 9112,
         "title": "CaRMS Town Hall Session – University of Calgary Internal Medicine",
@@ -598,7 +598,7 @@
     "10627": {
       "modified_gmt": "2026-10-14T20:39:18",
       "calendar_hash": "32dcd8775920f179d5a2edad7af14be0dfd29c753d0a7de4c0ea31c906a1fbda",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 10627,
         "title": "Queen’s University – General Surgery – Resident Meet and Greet",
@@ -622,7 +622,7 @@
     "10628": {
       "modified_gmt": "2026-10-14T20:39:21",
       "calendar_hash": "dd8fc2228daf0247eec49fb7cdf5ba2aaf0f47620dc0dcba475f455ae59532ad",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 10628,
         "title": "Queen’s University – General Surgery – Resident – Meet and Greet",
@@ -3490,7 +3490,7 @@
     "10960": {
       "modified_gmt": "2026-10-28T22:23:39",
       "calendar_hash": "19d74cd0342eef4ff5c6e9dbaee5b2548fe9783960ef52122e89f8ee4309a7da",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 10960,
         "title": "UBC IM Vancouver Indigenous Stream Info Session",
@@ -4442,9 +4442,9 @@
       }
     },
     "11025": {
-      "modified_gmt": "2026-09-28T18:07:23",
-      "calendar_hash": "64da93f912c4d078608b3494494a3b3d4c6e048f58a66c9d20ff06c44b82ca5a",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
+      "modified_gmt": "2026-11-19T15:48:09",
+      "calendar_hash": "0435596dbde4a8702e1fd9c8a6f468c76e87a0273d89368b459b8ccb9de1bc7b",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11025,
         "title": "UBC Family Practice Postgrad – St Paul’s Hospital IMG Site QA",
@@ -4453,8 +4453,8 @@
         "start": "2026-11-22T14:30:00+00:00",
         "end": "2026-11-22T15:30:00+00:00",
         "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "07:30 – 08:30 PST",
+        "timezone_label": "PDT",
+        "published_time": "07:30 – 08:30 PDT",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -4468,9 +4468,9 @@
       }
     },
     "11026": {
-      "modified_gmt": "2026-10-23T17:18:21",
-      "calendar_hash": "a1949deb1edabe3ec37414056436e79d42f7d7f2e14810959c3cb9e733962d82",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "modified_gmt": "2026-11-19T15:48:12",
+      "calendar_hash": "1aa36635a8e11fdd565e4a396f5655ef5647e641ade3f84ac57aa515a7acaafa",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11026,
         "title": "UBC Family Practice Postgrad – Northwest Terrace Site QA",
@@ -4479,8 +4479,8 @@
         "start": "2026-11-24T00:30:00+00:00",
         "end": "2026-11-24T01:30:00+00:00",
         "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "17:30 – 18:30 PST",
+        "timezone_label": "PDT",
+        "published_time": "17:30 – 18:30 PDT",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -4494,9 +4494,9 @@
       }
     },
     "11027": {
-      "modified_gmt": "2026-09-28T18:16:13",
-      "calendar_hash": "8932b8e297742af786d0d3aed0442e50d0646f6eda1b969f92d7561b932fab44",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
+      "modified_gmt": "2026-11-19T15:48:18",
+      "calendar_hash": "4de97421bd7834dfd10012a96ef852a0820c4dfe11a2e6f4eb4689946afe8c4a",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11027,
         "title": "UBC Family Practice Postgrad – Indigenous Site QA",
@@ -4505,8 +4505,8 @@
         "start": "2026-11-26T00:30:00+00:00",
         "end": "2026-11-26T01:30:00+00:00",
         "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "17:30 – 18:30 PST",
+        "timezone_label": "PDT",
+        "published_time": "17:30 – 18:30 PDT",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -5999,7 +5999,7 @@
     "11132": {
       "modified_gmt": "2026-10-14T14:36:44",
       "calendar_hash": "df12af68adf45865cfb44d6c8febc906de522ecb98129c8707ab0aab822fee9f",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11132,
         "title": "UofT Medical Microbiology Program Info Session",
@@ -6025,7 +6025,7 @@
     "11133": {
       "modified_gmt": "2026-10-14T15:15:40",
       "calendar_hash": "aaa4fa57b4e7294e4e8463fac28dd9435ef1c4e850b83069145a78df3bbceb31",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11133,
         "title": "UofT Diagnostic & Molecular Pathology Program Info Session",
@@ -6051,7 +6051,7 @@
     "11134": {
       "modified_gmt": "2026-10-14T15:34:41",
       "calendar_hash": "7d636a88b4eae2bce1d3134dd68cfa03c3262d4aedcf3a0548729a1ee0f23840",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11134,
         "title": "UofT – Neuropathology Program Info Session",
@@ -6077,7 +6077,7 @@
     "11135": {
       "modified_gmt": "2026-10-14T17:09:12",
       "calendar_hash": "1e15ccd2731c3b5f7f42822a5dc4753d649c6ac934f2aa61733ed40661a879ba",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11135,
         "title": "UBC Otolaryngology – Head and Neck Surgery Info Session",
@@ -6463,7 +6463,7 @@
     "11158": {
       "modified_gmt": "2026-10-21T22:13:40",
       "calendar_hash": "d1fe6327cc6fa15cdbdb1e240fc16105f30fffa5d59efe0ce12b3b38373f54a4",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11158,
         "title": "USask ENT Residency Info Night",
@@ -7091,7 +7091,7 @@
     "11206": {
       "modified_gmt": "2026-10-28T21:15:34",
       "calendar_hash": "027df41c8e5749ced5acbc6e50299fe2cae7f7a39e0681d42cc1f7ec87633c75",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11206,
         "title": "CaRMS Obstetrics & Gynecology Information Session",
@@ -7354,7 +7354,7 @@
     "11221": {
       "modified_gmt": "2026-11-05T13:28:37",
       "calendar_hash": "056199ae6d4e8aaa09465fab514cda192a12ae6fcd41309ed04eff456aee084d",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11221,
         "title": "Queen’s Adult Neurology Town Hall (1)",
@@ -7380,7 +7380,7 @@
     "11222": {
       "modified_gmt": "2026-11-05T13:27:25",
       "calendar_hash": "f0fc7f048607c7d730e4a37e4024f88d6d64007053d11a7350b20b463245d8d5",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11222,
         "title": "Queen’s Adult Neurology Town Hall (2)",
@@ -7406,7 +7406,7 @@
     "11223": {
       "modified_gmt": "2026-11-05T14:48:52",
       "calendar_hash": "5cf0e688bbb27ef1ad21739ca2bee43f6560d4453d15621761b1f9ce7978a99f",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11223,
         "title": "NOSM University Psych Info Session",
@@ -7456,7 +7456,7 @@
     "11225": {
       "modified_gmt": "2026-11-12T16:38:33",
       "calendar_hash": "a5c61e6f27ddea0234cfc6318d5cf65e4502c003ecd85c0b304e1332088976bd",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11225,
         "title": "uOttawa Neurosurgery open house",
@@ -7579,9 +7579,9 @@
       }
     },
     "11237": {
-      "modified_gmt": "2026-11-09T19:29:58",
-      "calendar_hash": "d27657baebfec9b082f5361cc8efcf7a4cd0d9777edaefee7fedd4d9cf67b825",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "modified_gmt": "2026-11-19T15:48:15",
+      "calendar_hash": "bc927706e52f2a6dcc149caa24518605efaca9cbd301e35c42e23de43b4c6f35",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11237,
         "title": "University of British Columbia Radiation Oncology Residency Program Virtual Information Session/QA",
@@ -7590,8 +7590,8 @@
         "start": "2026-11-23T23:00:00+00:00",
         "end": "2026-11-24T00:00:00+00:00",
         "all_day": false,
-        "timezone_label": "PST",
-        "published_time": "16:00 – 17:00 PST",
+        "timezone_label": "PDT",
+        "published_time": "16:00 – 17:00 PDT",
         "categories": [
           "University of British Columbia",
           "R1",
@@ -7787,7 +7787,7 @@
     "11247": {
       "modified_gmt": "2026-11-12T15:21:36",
       "calendar_hash": "12ec0d061fe29cf32da0ea4fe3953ff00e316ba6e5db4c282869828ab41262fe",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11247,
         "title": "Queen’s University Ophthalmology Interviews",
@@ -7811,7 +7811,7 @@
     "11248": {
       "modified_gmt": "2026-11-12T15:22:54",
       "calendar_hash": "c6c0446047f6ea06ebe91d9a833decef5a5dbc4ed1adf0acd925bc24a2e6ee3d",
-      "fetched_at": "2026-11-12T19:51:10+00:00",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
       "event": {
         "id": 11248,
         "title": "Queen’s University Ophthalmology Social",
@@ -7935,6 +7935,32 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11257": {
+      "modified_gmt": "2026-11-19T16:07:02",
+      "calendar_hash": "34f53130b40f007aac6cca155cca5e89015d9826fab7a93dc482a9be69bb4f4f",
+      "fetched_at": "2026-11-19T20:28:05+00:00",
+      "event": {
+        "id": 11257,
+        "title": "University of Manitoba Pediatric Hematology/Oncology Open House",
+        "url": "https://canprepp.ca/events/university-of-manitoba-pediatric-hematology-oncology-open-house/",
+        "date": "2026-12-09",
+        "start": "2026-12-10T00:00:00+00:00",
+        "end": null,
+        "all_day": false,
+        "timezone_label": "CDT",
+        "published_time": "19:00 CDT",
+        "categories": [
+          "University of Manitoba",
+          "SSRM",
+          "Pediatric Hematology-Oncology"
+        ],
+        "links": {
+          "Meeting Link": "https://us06web.zoom.us/j/88152987062?pwd=UnHhzQ3UybNxE2IQEu6VWnYxsz3afN.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -8021,8 +8047,8 @@
       "start": "2027-01-19T14:30:00+00:00",
       "end": "2027-01-19T22:30:00+00:00",
       "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "07:30 – 15:30 PST",
+      "timezone_label": "PDT",
+      "published_time": "07:30 – 15:30 PDT",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -8031,10 +8057,10 @@
       "links": {},
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "0fab012c707d0394e9270b3da961b7a335660386fe30d87326a30b8d91e1beb7",
-      "sequence": 1,
+      "fingerprint": "da38074055c21755f253e625d13593a5c43d710a10b97437ec92cd7448cd1687",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-11-19T20:28:05+00:00"
     },
     "7992": {
       "id": 7992,
@@ -8044,8 +8070,8 @@
       "start": "2027-01-18T14:30:00+00:00",
       "end": "2027-01-18T22:30:00+00:00",
       "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "07:30 – 15:30 PST",
+      "timezone_label": "PDT",
+      "published_time": "07:30 – 15:30 PDT",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -8054,10 +8080,10 @@
       "links": {},
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "94bce10f005495e854e5db6e9ef9fb7d1ff91ab788d790c343d5ee5df6795e65",
-      "sequence": 1,
+      "fingerprint": "6870df3f80d35ecb93b5bd0cab0e41e5b414a299945f1deb2c0c237737bc88f5",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-11-19T20:28:05+00:00"
     },
     "8309": {
       "id": 8309,
@@ -12288,8 +12314,8 @@
       "start": "2026-11-22T14:30:00+00:00",
       "end": "2026-11-22T15:30:00+00:00",
       "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "07:30 – 08:30 PST",
+      "timezone_label": "PDT",
+      "published_time": "07:30 – 08:30 PDT",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -12300,10 +12326,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "bf8ad903a64759d4e516ceb3ddacd52842aff535922abcf5884078454fc361d4",
-      "sequence": 1,
+      "fingerprint": "842665e10fbe9aa247d5ab2c140caa5ff0c6fa165e842bc82944dc70ff2fa50b",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-11-19T20:28:05+00:00"
     },
     "11026": {
       "id": 11026,
@@ -12313,8 +12339,8 @@
       "start": "2026-11-24T00:30:00+00:00",
       "end": "2026-11-24T01:30:00+00:00",
       "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "17:30 – 18:30 PST",
+      "timezone_label": "PDT",
+      "published_time": "17:30 – 18:30 PDT",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -12325,10 +12351,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "176641f8297c72c6f5e8f1f5c3511e97b85a708ca86f62211faa198015c44d61",
-      "sequence": 2,
+      "fingerprint": "cc8629c3cb6c56d5303a20f15e2d41db9da66e5d3f6eb03c4cd57916685d65ed",
+      "sequence": 3,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-23T21:20:27+00:00"
+      "last_modified": "2026-11-19T20:28:05+00:00"
     },
     "11027": {
       "id": 11027,
@@ -12338,8 +12364,8 @@
       "start": "2026-11-26T00:30:00+00:00",
       "end": "2026-11-26T01:30:00+00:00",
       "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "17:30 – 18:30 PST",
+      "timezone_label": "PDT",
+      "published_time": "17:30 – 18:30 PDT",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -12350,10 +12376,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "1fb1efb3c616c1668e2be94ce3b77a49f317eca42a5fac70e5dbcffd114403d0",
-      "sequence": 1,
+      "fingerprint": "a3a280c947d3d9acfc72280bfcdc32c6adab64b3e7d58e5dd310db1c20edb4b3",
+      "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
+      "last_modified": "2026-11-19T20:28:05+00:00"
     },
     "11028": {
       "id": 11028,
@@ -15281,8 +15307,8 @@
       "start": "2026-11-23T23:00:00+00:00",
       "end": "2026-11-24T00:00:00+00:00",
       "all_day": false,
-      "timezone_label": "PST",
-      "published_time": "16:00 – 17:00 PST",
+      "timezone_label": "PDT",
+      "published_time": "16:00 – 17:00 PDT",
       "categories": [
         "University of British Columbia",
         "R1",
@@ -15291,10 +15317,10 @@
       "links": {},
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "8587d7245fe26597eb7ce5d60d3e273803330f7955febf4f1b3fd89e11045984",
-      "sequence": 0,
+      "fingerprint": "28abd9f83117bfdd5a25e2db5d7865ae94e472133949c3fb3c97dce9cfb6d665",
+      "sequence": 1,
       "created": "2026-11-10T01:27:47+00:00",
-      "last_modified": "2026-11-10T01:27:47+00:00"
+      "last_modified": "2026-11-19T20:28:05+00:00"
     },
     "11238": {
       "id": 11238,
@@ -15566,6 +15592,31 @@
       "sequence": 0,
       "created": "2026-11-19T02:29:47+00:00",
       "last_modified": "2026-11-19T02:29:47+00:00"
+    },
+    "11257": {
+      "id": 11257,
+      "title": "University of Manitoba Pediatric Hematology/Oncology Open House",
+      "url": "https://canprepp.ca/events/university-of-manitoba-pediatric-hematology-oncology-open-house/",
+      "date": "2026-12-09",
+      "start": "2026-12-10T00:00:00+00:00",
+      "end": null,
+      "all_day": false,
+      "timezone_label": "CDT",
+      "published_time": "19:00 CDT",
+      "categories": [
+        "University of Manitoba",
+        "SSRM",
+        "Pediatric Hematology-Oncology"
+      ],
+      "links": {
+        "Meeting Link": "https://us06web.zoom.us/j/88152987062?pwd=UnHhzQ3UybNxE2IQEu6VWnYxsz3afN.1"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "b6bd8008c0dd0e32d621ad3673c8eba2c3d909872382dedfe60d591c7ffdc8b2",
+      "sequence": 0,
+      "created": "2026-11-19T20:28:05+00:00",
+      "last_modified": "2026-11-19T20:28:05+00:00"
     },
     "11160": {
       "id": 11160,
