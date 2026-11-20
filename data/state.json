@@ -4780,7 +4780,7 @@
     "11074": {
       "modified_gmt": "2026-11-06T13:34:02",
       "calendar_hash": "46094f56524517e67dca58992e43c7c751f8bbc58f069ba6ce032a21c78375bf",
-      "fetched_at": "2026-11-13T19:35:21+00:00",
+      "fetched_at": "2026-11-20T20:01:59+00:00",
       "event": {
         "id": 11074,
         "title": "CaRMS info night",
@@ -7146,7 +7146,7 @@
     "11224": {
       "modified_gmt": "2026-11-06T13:39:53",
       "calendar_hash": "293058ada08b5d598d3c44fa0981e5fc1ecf18818449dc9e7fe5b29d86cd8763",
-      "fetched_at": "2026-11-13T19:35:21+00:00",
+      "fetched_at": "2026-11-20T20:01:59+00:00",
       "event": {
         "id": 11224,
         "title": "Nuclear Medicine and Molecular Imaging program info session",
@@ -7601,12 +7601,12 @@
       }
     },
     "11253": {
-      "modified_gmt": "2026-11-18T11:22:23",
-      "calendar_hash": "ba569e3510314b350c26acc2ecca2cb2450261d59d371f8f0407dfa253a524ed",
-      "fetched_at": "2026-11-18T20:24:14+00:00",
+      "modified_gmt": "2026-11-20T15:26:42",
+      "calendar_hash": "476037cae7b91816dc3608512fc60681e42429741510a4490f9c8f00d2860d37",
+      "fetched_at": "2026-11-20T20:01:59+00:00",
       "event": {
         "id": 11253,
-        "title": "Program Information Session",
+        "title": "Dalhousie Program Information Session",
         "url": "https://canprepp.ca/events/program-information-session-3/",
         "date": "2026-11-20",
         "start": "2026-11-21T00:00:00+00:00",
@@ -14988,7 +14988,7 @@
     },
     "11253": {
       "id": 11253,
-      "title": "Program Information Session",
+      "title": "Dalhousie Program Information Session",
       "url": "https://canprepp.ca/events/program-information-session-3/",
       "date": "2026-11-20",
       "start": "2026-11-21T00:00:00+00:00",
@@ -15006,10 +15006,10 @@
       },
       "location": "Online",
       "status": "CONFIRMED",
-      "fingerprint": "248ea6077a2fb87c3545d5fc1c2e92ad576565ffdf38f6344b26aad3dbfc3ac4",
-      "sequence": 0,
+      "fingerprint": "9f97af53fe22d41bdcd339e55ab4876832415d42eb21c22d4a3e9de1e718414a",
+      "sequence": 1,
       "created": "2026-11-18T20:24:14+00:00",
-      "last_modified": "2026-11-18T20:24:14+00:00"
+      "last_modified": "2026-11-20T20:01:59+00:00"
     },
     "11256": {
       "id": 11256,
