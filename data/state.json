@@ -1083,32 +1083,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10726": {
-      "modified_gmt": "2026-08-11T14:05:57",
-      "calendar_hash": "ad5bf5ad20f0b4efd26cc7ac1ca1ff1c0cacb97cb261537641c777f245f1a880",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 10726,
-        "title": "Queen’s Family Medicine MOTP/MMTP Town Hall",
-        "url": "https://canprepp.ca/events/queens-family-medicine-motp-mmtp-town-hall-2/",
-        "date": "2026-10-21",
-        "start": "2026-10-21T23:00:00+00:00",
-        "end": "2026-10-22T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "19:00 – 20:00 EDT",
-        "categories": [
-          "Queen's University",
-          "R1",
-          "Family Medicine MOTP/MMTP"
-        ],
-        "links": {
-          "Register": "https://queensu.zoom.us/meeting/register/ETXVEoSxS6Cd0IJCewN5Uw"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10729": {
       "modified_gmt": "2026-08-17T16:40:57",
       "calendar_hash": "af75c48f9ab81690a9f82f65ecd4d338e2dd07fda53f53a1fb8de852c2a450f1",
@@ -1496,32 +1470,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10784": {
-      "modified_gmt": "2026-10-13T17:50:54",
-      "calendar_hash": "e9270018b48eae1a4901f8030ec339ebbba967b324f320b8f578eb3648d66256",
-      "fetched_at": "2026-11-18T20:24:14+00:00",
-      "event": {
-        "id": 10784,
-        "title": "University of Calgary Otolaryngology – Head & Neck Surgery CaRMS Info Night",
-        "url": "https://canprepp.ca/events/university-of-calgary-otolaryngology-head-neck-surgery-carms-info-night/",
-        "date": "2026-10-21",
-        "start": "2026-10-21T23:00:00+00:00",
-        "end": "2026-10-22T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "MDT",
-        "published_time": "17:00 – 18:30 MDT",
-        "categories": [
-          "University of Calgary",
-          "R1",
-          "Otolaryngology - Head and Neck Surgery"
-        ],
-        "links": {
-          "Meeting Link": "https://ucalgary.zoom.us/j/98579326718"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10787": {
       "modified_gmt": "2026-09-02T13:46:32",
       "calendar_hash": "09bc417e00b1cc2e63f3c4d22ffa48256b6092397150312cb5023ca7efd8ff69",
@@ -1696,30 +1644,6 @@
           "Meeting Link": "https://ubc.zoom.us/j/63533668227?pwd=mRQbJeTmGV9ICY09ESw096onOzlSfF.1",
           "Register": "https://ubc.ca1.qualtrics.com/jfe/form/SV_cVlL66PWOdHRtlQ"
         },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10806": {
-      "modified_gmt": "2026-09-18T20:15:35",
-      "calendar_hash": "ac988a945b82f962c7c9025f44447782b8808cac2c8ba5dc37dfeb371f0f6590",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 10806,
-        "title": "UBC EM Kelowna Info Session",
-        "url": "https://canprepp.ca/events/ubc-em-kelowna-info-session/",
-        "date": "2026-10-21",
-        "start": "2026-10-22T00:30:00+00:00",
-        "end": "2026-10-22T01:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "PDT",
-        "published_time": "17:30 – 18:30 PDT",
-        "categories": [
-          "University of British Columbia",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {},
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -1990,7 +1914,7 @@
     "10840": {
       "modified_gmt": "2026-11-13T20:29:41",
       "calendar_hash": "383eccfc0103be748d4f8441f359088a54e46e546625304027a0b557cd9e5cae",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 10840,
         "title": "uOttawa PHPM Academic Half Day",
@@ -2557,32 +2481,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10908": {
-      "modified_gmt": "2026-09-16T20:31:02",
-      "calendar_hash": "43b459af19821926526ec704c9bbfb20ca1d96e89244ce1c9f46bc3f8f98f7e2",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 10908,
-        "title": "McMaster University Family Medicine Resident QA",
-        "url": "https://canprepp.ca/events/mcmaster-university-family-medicine-resident-qa/",
-        "date": "2026-10-21",
-        "start": "2026-10-21T23:00:00+00:00",
-        "end": "2026-10-22T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:30 EST",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Family Medicine"
-        ],
-        "links": {
-          "Register": "https://ca01web.zoom.us/j/65759364545"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10909": {
       "modified_gmt": "2026-09-16T20:32:11",
       "calendar_hash": "1d50f9433ffeb3d627d678e9aa2c449bca6b054aa9a705d2e37288a9a9285826",
@@ -2862,32 +2760,6 @@
         ],
         "links": {
           "Meeting Link": "https://umanitoba.zoom.us/j/64961226059?pwd=I2gUfjIXgSun6UMaY0HMPIxEiv7vpw.1"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10933": {
-      "modified_gmt": "2026-09-21T19:53:30",
-      "calendar_hash": "8c85aee9e7e5c8d588c896045cea847615fc67a1a483940cd2f226aa843a32a9",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 10933,
-        "title": "University of Calgary Ophthalmology CaRMS Open House",
-        "url": "https://canprepp.ca/events/university-of-calgary-ophthalmology-carms-open-house/",
-        "date": "2026-10-21",
-        "start": "2026-10-22T00:30:00+00:00",
-        "end": null,
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "18:30 – 6:30PM MST",
-        "categories": [
-          "University of Calgary",
-          "R1",
-          "Ophthalmology"
-        ],
-        "links": {
-          "Register": "https://forms.gle/WwW8vn9Qdwf8awkA8"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -3900,7 +3772,7 @@
     "11015": {
       "modified_gmt": "2026-10-23T17:14:06",
       "calendar_hash": "60be106805e87e5cca01d329e72c345bc03419ba4a796830c457556ad8b8a47a",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11015,
         "title": "UBC Family Practice Postgrad – Prince George & Northern Rural Site QA",
@@ -4597,31 +4469,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11063": {
-      "modified_gmt": "2026-10-02T18:56:38",
-      "calendar_hash": "110199ea23498934c52cb4f0a91f67027ab2eb690a49f770d820779e47f75622",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11063,
-        "title": "Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic Surgery Roundtable",
-        "url": "https://canprepp.ca/events/canadian-orthopaedic-surgery-student-network-pre-carms-orthopaedic-surgery-roundtable-5/",
-        "date": "2026-10-21",
-        "start": "2026-10-21T23:00:00+00:00",
-        "end": "2026-10-22T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:00 EST",
-        "categories": [
-          "R1",
-          "Orthopedic Surgery"
-        ],
-        "links": {
-          "Register": "http://forms.gle/Xdx45r8AkXen7FXA8"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11064": {
       "modified_gmt": "2026-10-02T18:56:57",
       "calendar_hash": "05d2e94c4e9b0651a1815e4859cd7961f2a2f8e07faffccc698e104773d129fa",
@@ -4702,7 +4549,7 @@
     "11071": {
       "modified_gmt": "2026-10-23T17:30:33",
       "calendar_hash": "2971027aacefbf0d14000fa57d97c1e8be102e9e779b08c9d3ce4fb4e7f4b67f",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11071,
         "title": "UofA Family Medicine- Rural Info Session",
@@ -4803,30 +4650,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11075": {
-      "modified_gmt": "2026-10-05T12:57:33",
-      "calendar_hash": "feef613adc77dc4e37f6cd7cb0c653c7c696e45e5f7916fd06c6aa0a59238a11",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11075,
-        "title": "Memorial University of Newfoundland Family Medicine Training Program Western Stream Information Session",
-        "url": "https://canprepp.ca/events/memorial-university-of-newfoundland-family-medicine-training-program-western-stream-information-session/",
-        "date": "2026-10-21",
-        "start": "2026-10-21T22:30:00+00:00",
-        "end": "2026-10-22T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "NDT",
-        "published_time": "20:00 – 22:00 NDT",
-        "categories": [
-          "Memorial University of Newfoundland",
-          "R1",
-          "Family Medicine"
-        ],
-        "links": {},
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11076": {
       "modified_gmt": "2026-10-05T12:58:48",
       "calendar_hash": "08e71ea2cd82c482f4fe7a0b24f744d9e175404fed0b7e48bf3251f49a0cd6d9",
@@ -4847,33 +4670,6 @@
           "Family Medicine"
         ],
         "links": {},
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11078": {
-      "modified_gmt": "2026-10-05T20:20:00",
-      "calendar_hash": "9911308a468e676144af18784b506a1c09811b24941b2340e0fb15379a943b77",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11078,
-        "title": "University of Manitoba, Radiation Oncology – Meet our Program Director",
-        "url": "https://canprepp.ca/events/university-of-manitoba-radiation-oncology-meet-our-program-director-5/",
-        "date": "2026-10-21",
-        "start": "2026-10-21T18:00:00+00:00",
-        "end": null,
-        "all_day": false,
-        "timezone_label": "CST",
-        "published_time": "13:00 CST",
-        "categories": [
-          "University of Manitoba",
-          "R1",
-          "Radiation Oncology"
-        ],
-        "links": {
-          "Meeting Link": "https://teams.microsoft.com/meet/265399176477819?p=UlzXOTlFUrJi66xuiL",
-          "Register": "https://www.surveymonkey.com/r/TTBM9TW"
-        },
         "location": "Online",
         "status": "CONFIRMED"
       }
@@ -5135,32 +4931,6 @@
         ],
         "links": {
           "Register": "https://umanitoba.zoom.us/meeting/register/WlLpr_wES7iykR31d0y1LA"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11095": {
-      "modified_gmt": "2026-10-07T15:44:53",
-      "calendar_hash": "397c1dc76d65037007533da2130f79e2c20b04b61c54808263d3fb7e2b173939",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11095,
-        "title": "Meet and Greet with Anesthesia Residents",
-        "url": "https://canprepp.ca/events/meet-and-greet-with-anesthesia-residents/",
-        "date": "2026-10-21",
-        "start": "2026-10-21T23:00:00+00:00",
-        "end": "2026-10-22T01:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "17:00 – 19:00 MST",
-        "categories": [
-          "University of Alberta",
-          "R1",
-          "Anesthesiology"
-        ],
-        "links": {
-          "Meeting Link": "https://ualberta-ca.zoom.us/j/97218471938"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -5892,37 +5662,10 @@
         "status": "CONFIRMED"
       }
     },
-    "11143": {
-      "modified_gmt": "2026-10-15T20:46:29",
-      "calendar_hash": "e47f81cad5462e5e1f10f673be0d234b2be5ad3418a9ab5b37cbf99e6cbfcd54",
-      "fetched_at": "2026-11-20T11:24:58+00:00",
-      "event": {
-        "id": 11143,
-        "title": "COSSNET Roundtable Series",
-        "url": "https://canprepp.ca/events/cossnet-roundtable-series/",
-        "date": "2026-10-21",
-        "start": "2026-10-21T23:00:00+00:00",
-        "end": "2026-10-22T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "19:00 – 20:00 EST",
-        "categories": [
-          "University of Manitoba",
-          "R1",
-          "Orthopedic Surgery"
-        ],
-        "links": {
-          "Meeting Link": "https://us06web.zoom.us/j/81813289179?pwd=K6XG3X30YhoJn6pnRTddZ31NUJD3Ni.1",
-          "Register": "https://docs.google.com/forms/d/e/1FAIpQLSclFH1yQpUE1dybul2wJJFZVp0CGiAD81dtoKMowT4MHouNng/viewform?pli=1"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11145": {
       "modified_gmt": "2026-10-16T12:31:50",
       "calendar_hash": "02ba185a55614cf63ce9c791549325a230032cb5fceafa312dcdc61a8ada8c39",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11145,
         "title": "Western General Surgery CaRMS 2027 Information Session",
@@ -6231,7 +5974,7 @@
     "11172": {
       "modified_gmt": "2026-10-23T15:03:51",
       "calendar_hash": "0ebf41dca73d2c25d9d43160fcd6a19bab94b78202501f86f20c662a591365f1",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11172,
         "title": "USask Family Medicine (North West) Town Hall Session",
@@ -6257,7 +6000,7 @@
     "11173": {
       "modified_gmt": "2026-10-23T15:03:53",
       "calendar_hash": "2556cd4327caabba1a6ad2345fbf82e1ab1c891a56ba89f99a345e46f8f2cf9a",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11173,
         "title": "USask Family Medicine (Regina) Town Hall Session",
@@ -6283,7 +6026,7 @@
     "11174": {
       "modified_gmt": "2026-10-23T15:03:56",
       "calendar_hash": "843b5952b93f6ad126b262dcfbcf6a0a45a18cc7321a9e95e26e585413ef03e8",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11174,
         "title": "USask Family Medicine (Saskatoon) Town Hall Session",
@@ -6309,7 +6052,7 @@
     "11175": {
       "modified_gmt": "2026-10-23T15:03:58",
       "calendar_hash": "c50b151abae89df154084480a204d7dfab506ecc014e0b1dd51b5623c2500148",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11175,
         "title": "USask Family Medicine (Moose Jaw) Town Hall Session",
@@ -6335,7 +6078,7 @@
     "11176": {
       "modified_gmt": "2026-10-23T15:04:02",
       "calendar_hash": "7d1ac1106f375ad8b940776abfcb4c568c80afc0dabc83d299bf07a2806dea36",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11176,
         "title": "USask Family Medicine (North East) Town Hall Session",
@@ -6361,7 +6104,7 @@
     "11177": {
       "modified_gmt": "2026-10-23T15:04:07",
       "calendar_hash": "3daab2f316432ff31272fbed65016fc1184d738ace4b25c9fe58b8779a649fbf",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11177,
         "title": "USask Family Medicine (La Ronge) Town Hall Session",
@@ -6387,7 +6130,7 @@
     "11178": {
       "modified_gmt": "2026-10-23T15:04:05",
       "calendar_hash": "115abcd53468a5f59c00915f72ff74fa5df892366501d6f022f02e4232e36d99",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11178,
         "title": "USask Family Medicine (South East) Town Hall Session",
@@ -6413,7 +6156,7 @@
     "11179": {
       "modified_gmt": "2026-10-23T15:04:09",
       "calendar_hash": "fbb4ef23fb22472d749ba1b2a0f4d8d36d564ea83c61b3af2afcb095d7f4baae",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11179,
         "title": "USask Family Medicine (Prince Albert) Town Hall Session",
@@ -6439,7 +6182,7 @@
     "11180": {
       "modified_gmt": "2026-10-23T15:04:00",
       "calendar_hash": "795ba74d845bac1caff491c26128111c66587a3ea86f41d6db15a63d40a4edf1",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11180,
         "title": "USask Family Medicine (Swift Current) Town Hall Session",
@@ -6465,7 +6208,7 @@
     "11184": {
       "modified_gmt": "2026-10-23T11:10:23",
       "calendar_hash": "49cdcdc829ccb6e2bfdd2d572e896fb4a93e33b461184584781f77cb8c10fbd3",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11184,
         "title": "MacPeds – CaRMS Town Hall",
@@ -6491,7 +6234,7 @@
     "11186": {
       "modified_gmt": "2026-10-23T11:16:17",
       "calendar_hash": "c2f694c1d63cdd686911a7d8f01671cd1fad993a42c3093333147b81359dfb49",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11186,
         "title": "MacPeds – CaRMS Town Hall",
@@ -6517,7 +6260,7 @@
     "11187": {
       "modified_gmt": "2026-10-23T14:46:53",
       "calendar_hash": "dac06d896f2b4ecdaefb1b7df186f3e9522b4093920fd58649791dbfba334501",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11187,
         "title": "Western Family Medicine Info Session #1",
@@ -6544,7 +6287,7 @@
     "11188": {
       "modified_gmt": "2026-10-23T14:46:21",
       "calendar_hash": "dc3855938f226fcc5e6277b68dc8d0ec252ab2bf523e311f9c6be79a704569de",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11188,
         "title": "Western Family Medicine Info Session #2",
@@ -6571,7 +6314,7 @@
     "11189": {
       "modified_gmt": "2026-10-23T14:51:08",
       "calendar_hash": "415c73a43d4d439adfb0f460ca78ab8eba98d044f1267fc93b901dd0ad421c9f",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11189,
         "title": "Western Family Medicine Resident Q&A Session",
@@ -6598,7 +6341,7 @@
     "11190": {
       "modified_gmt": "2026-10-23T14:51:27",
       "calendar_hash": "415c73a43d4d439adfb0f460ca78ab8eba98d044f1267fc93b901dd0ad421c9f",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11190,
         "title": "Western Family Medicine Resident Q&A Session",
@@ -7199,7 +6942,7 @@
     "11227": {
       "modified_gmt": "2026-11-06T20:48:36",
       "calendar_hash": "c798156d8ae05f89f48683260155f8bfc3df15cbccab82dd5e184f366758bdbb",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11227,
         "title": "UBC EM – Northern Site",
@@ -7223,7 +6966,7 @@
     "11229": {
       "modified_gmt": "2026-11-06T20:51:23",
       "calendar_hash": "96e7e8c25b876541199713a689dcb81051cd58e0851ffcc802c289ecc2c78fa5",
-      "fetched_at": "2026-11-14T01:24:59+00:00",
+      "fetched_at": "2026-11-21T02:08:12+00:00",
       "event": {
         "id": 11229,
         "title": "UBC EM – Northern Site",
@@ -8794,31 +8537,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "10726": {
-      "id": 10726,
-      "title": "Queen’s Family Medicine MOTP/MMTP Town Hall",
-      "url": "https://canprepp.ca/events/queens-family-medicine-motp-mmtp-town-hall-2/",
-      "date": "2026-10-21",
-      "start": "2026-10-21T23:00:00+00:00",
-      "end": "2026-10-22T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "19:00 – 20:00 EDT",
-      "categories": [
-        "Queen's University",
-        "R1",
-        "Family Medicine MOTP/MMTP"
-      ],
-      "links": {
-        "Register": "https://queensu.zoom.us/meeting/register/ETXVEoSxS6Cd0IJCewN5Uw"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "a12825acd6d7e2ea4103740040ea47c0ed811e07eba2616997e27efc9e5ef352",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
     "10729": {
       "id": 10729,
       "title": "Memorial University – Neurology Residency Program – CaRMS Info Session",
@@ -9191,31 +8909,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "10784": {
-      "id": 10784,
-      "title": "University of Calgary Otolaryngology – Head & Neck Surgery CaRMS Info Night",
-      "url": "https://canprepp.ca/events/university-of-calgary-otolaryngology-head-neck-surgery-carms-info-night/",
-      "date": "2026-10-21",
-      "start": "2026-10-21T23:00:00+00:00",
-      "end": "2026-10-22T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "MDT",
-      "published_time": "17:00 – 18:30 MDT",
-      "categories": [
-        "University of Calgary",
-        "R1",
-        "Otolaryngology - Head and Neck Surgery"
-      ],
-      "links": {
-        "Meeting Link": "https://ucalgary.zoom.us/j/98579326718"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "cd0e18204a0628e39367b71ec1bd704ff589304c6ee89d872da0e62b617ee9ec",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-13T19:12:55+00:00"
-    },
     "10787": {
       "id": 10787,
       "title": "Western Anesthesia CaRMS Townhall",
@@ -9386,29 +9079,6 @@
       "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-11-19T02:29:47+00:00"
-    },
-    "10806": {
-      "id": 10806,
-      "title": "UBC EM Kelowna Info Session",
-      "url": "https://canprepp.ca/events/ubc-em-kelowna-info-session/",
-      "date": "2026-10-21",
-      "start": "2026-10-22T00:30:00+00:00",
-      "end": "2026-10-22T01:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "PDT",
-      "published_time": "17:30 – 18:30 PDT",
-      "categories": [
-        "University of British Columbia",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {},
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "002cca5ba86047954e1240baf6c4f23560aa6231cca4d2d8f1048155900bbce4",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
     },
     "10810": {
       "id": 10810,
@@ -10211,31 +9881,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "10908": {
-      "id": 10908,
-      "title": "McMaster University Family Medicine Resident QA",
-      "url": "https://canprepp.ca/events/mcmaster-university-family-medicine-resident-qa/",
-      "date": "2026-10-21",
-      "start": "2026-10-21T23:00:00+00:00",
-      "end": "2026-10-22T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:30 EST",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Family Medicine"
-      ],
-      "links": {
-        "Register": "https://ca01web.zoom.us/j/65759364545"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "902b8aea15f6b1929604128ce5d565cc37d207ef26c58e38e8cd61995bace414",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10909": {
       "id": 10909,
       "title": "McMaster University Family Medicine Virtual Site Social",
@@ -10508,31 +10153,6 @@
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10933": {
-      "id": 10933,
-      "title": "University of Calgary Ophthalmology CaRMS Open House",
-      "url": "https://canprepp.ca/events/university-of-calgary-ophthalmology-carms-open-house/",
-      "date": "2026-10-21",
-      "start": "2026-10-22T00:30:00+00:00",
-      "end": null,
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "18:30 – 6:30PM MST",
-      "categories": [
-        "University of Calgary",
-        "R1",
-        "Ophthalmology"
-      ],
-      "links": {
-        "Register": "https://forms.gle/WwW8vn9Qdwf8awkA8"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "d5770827ed1132374fbb0584aef999fe11b61a1c15e0988d7f72f8ffe363c0b6",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "10937": {
       "id": 10937,
@@ -12172,30 +11792,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "11063": {
-      "id": 11063,
-      "title": "Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic Surgery Roundtable",
-      "url": "https://canprepp.ca/events/canadian-orthopaedic-surgery-student-network-pre-carms-orthopaedic-surgery-roundtable-5/",
-      "date": "2026-10-21",
-      "start": "2026-10-21T23:00:00+00:00",
-      "end": "2026-10-22T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:00 EST",
-      "categories": [
-        "R1",
-        "Orthopedic Surgery"
-      ],
-      "links": {
-        "Register": "http://forms.gle/Xdx45r8AkXen7FXA8"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "fa0322cbc7f28670d38cbd7c3a8292c813a2bfd4e2b9ed31871c5c62772597a2",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "11064": {
       "id": 11064,
       "title": "Canadian Orthopaedic Surgery Student Network Pre-CaRMS Orthopaedic Surgery Roundtable",
@@ -12370,29 +11966,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-11-06T16:42:44+00:00"
     },
-    "11075": {
-      "id": 11075,
-      "title": "Memorial University of Newfoundland Family Medicine Training Program Western Stream Information Session",
-      "url": "https://canprepp.ca/events/memorial-university-of-newfoundland-family-medicine-training-program-western-stream-information-session/",
-      "date": "2026-10-21",
-      "start": "2026-10-21T22:30:00+00:00",
-      "end": "2026-10-22T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "NDT",
-      "published_time": "20:00 – 22:00 NDT",
-      "categories": [
-        "Memorial University of Newfoundland",
-        "R1",
-        "Family Medicine"
-      ],
-      "links": {},
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "f08b0c59728b683cfca7ef17761bef657e5fec33bcb2454adf51ab87e64162cd",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
     "11076": {
       "id": 11076,
       "title": "Memorial University of Newfoundland Family Medicine Training Program Western Stream Information Session",
@@ -12412,32 +11985,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "b8576533889d6a710c0d524e8f12b71334cd95c9ce459ba9f2d2efd214c3cfae",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "11078": {
-      "id": 11078,
-      "title": "University of Manitoba, Radiation Oncology – Meet our Program Director",
-      "url": "https://canprepp.ca/events/university-of-manitoba-radiation-oncology-meet-our-program-director-5/",
-      "date": "2026-10-21",
-      "start": "2026-10-21T18:00:00+00:00",
-      "end": null,
-      "all_day": false,
-      "timezone_label": "CST",
-      "published_time": "13:00 CST",
-      "categories": [
-        "University of Manitoba",
-        "R1",
-        "Radiation Oncology"
-      ],
-      "links": {
-        "Meeting Link": "https://teams.microsoft.com/meet/265399176477819?p=UlzXOTlFUrJi66xuiL",
-        "Register": "https://www.surveymonkey.com/r/TTBM9TW"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "50dec59e8d809364116699d50494f9332213b5f8414e9b2e38f41f9e4023677a",
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
@@ -12690,31 +12237,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "a19141ab19de7103c4093a92a99e58429e18fa6c8f28798e6595d06de5072291",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "11095": {
-      "id": 11095,
-      "title": "Meet and Greet with Anesthesia Residents",
-      "url": "https://canprepp.ca/events/meet-and-greet-with-anesthesia-residents/",
-      "date": "2026-10-21",
-      "start": "2026-10-21T23:00:00+00:00",
-      "end": "2026-10-22T01:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "17:00 – 19:00 MST",
-      "categories": [
-        "University of Alberta",
-        "R1",
-        "Anesthesiology"
-      ],
-      "links": {
-        "Meeting Link": "https://ualberta-ca.zoom.us/j/97218471938"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "a749cda665463a970e5c617b200b78e6e56d6f67789df01d17a9d90a87aaa473",
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
@@ -13413,32 +12935,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "f6cdb60c9268e25cf65ebb6d104828670acbb62b4be59d0dab8038dd5ef63352",
-      "sequence": 0,
-      "created": "2026-10-15T21:17:48+00:00",
-      "last_modified": "2026-10-15T21:17:48+00:00"
-    },
-    "11143": {
-      "id": 11143,
-      "title": "COSSNET Roundtable Series",
-      "url": "https://canprepp.ca/events/cossnet-roundtable-series/",
-      "date": "2026-10-21",
-      "start": "2026-10-21T23:00:00+00:00",
-      "end": "2026-10-22T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "19:00 – 20:00 EST",
-      "categories": [
-        "University of Manitoba",
-        "R1",
-        "Orthopedic Surgery"
-      ],
-      "links": {
-        "Meeting Link": "https://us06web.zoom.us/j/81813289179?pwd=K6XG3X30YhoJn6pnRTddZ31NUJD3Ni.1",
-        "Register": "https://docs.google.com/forms/d/e/1FAIpQLSclFH1yQpUE1dybul2wJJFZVp0CGiAD81dtoKMowT4MHouNng/viewform?pli=1"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "5ef63a6a541c32a8c97773cef972f086062f44333b42ada3b42ff38539e08816",
       "sequence": 0,
       "created": "2026-10-15T21:17:48+00:00",
       "last_modified": "2026-10-15T21:17:48+00:00"
