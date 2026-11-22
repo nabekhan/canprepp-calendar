@@ -1700,33 +1700,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10813": {
-      "modified_gmt": "2026-09-04T13:59:27",
-      "calendar_hash": "9e9ef6548adb7fa8e59e0ac724da503ab38ed690a54d76ea3679b442352d40c3",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 10813,
-        "title": "McMaster Anesthesiology Resident Town Hall",
-        "url": "https://canprepp.ca/events/mcmaster-anesthesiology-resident-town-hall/",
-        "date": "2026-10-22",
-        "start": "2026-10-22T22:00:00+00:00",
-        "end": "2026-10-22T23:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EDT",
-        "published_time": "18:00 – 19:00 EDT",
-        "categories": [
-          "McMaster University",
-          "R1",
-          "Anesthesiology"
-        ],
-        "links": {
-          "Meeting Link": "https://mcmaster.zoom.us/j/91717915221",
-          "Register": "https://docs.google.com/forms/d/e/1FAIpQLSedBpCsqX8k4xSrmjRZmVhz_iTl7zLj9UsHxyiQ0HlpEaBSsQ/viewform?usp=sharing&ouid=112568508927471737930"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "10814": {
       "modified_gmt": "2026-09-04T13:59:29",
       "calendar_hash": "9c326fc7da64d5cbeb26652ffd9d58ec7e9723e3e9b91025853ce967143876fd",
@@ -2298,32 +2271,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10892": {
-      "modified_gmt": "2026-09-15T04:16:16",
-      "calendar_hash": "8d0e512c900ce4099ffd6c9b28b5aa6f2af9eb9698de42ea3c7766ae894d93a2",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 10892,
-        "title": "University of Saskatchewan Pediatrics – Information Session",
-        "url": "https://canprepp.ca/events/university-of-saskatchewan-pediatrics-information-session/",
-        "date": "2026-10-22",
-        "start": "2026-10-23T00:00:00+00:00",
-        "end": "2026-10-23T01:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "MST",
-        "published_time": "18:00 – 19:30 MST",
-        "categories": [
-          "University of Saskatchewan",
-          "R1",
-          "Pediatrics"
-        ],
-        "links": {
-          "Meeting Link": "https://usask-ca.zoom.us/j/95593773817?pwd=ZPcC4Fbe9oIwVRKOfePC4YQblNmnOJ.1"
-        },
-        "location": "",
-        "status": "CONFIRMED"
-      }
-    },
     "10895": {
       "modified_gmt": "2026-09-15T14:12:15",
       "calendar_hash": "06ec2a7714ecfcbd4c54e9419c5a198d94fd92d982b442e9cb8f0e3339d474f1",
@@ -2708,32 +2655,6 @@
         ],
         "links": {
           "Meeting Link": "https://queensu.zoom.us/j/94903562703?pwd=rxaa3as3noqRHKolKYqdLVAN0DofrP.1%20"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "10931": {
-      "modified_gmt": "2026-09-21T20:26:37",
-      "calendar_hash": "74d5858e7dac472212d5a6c3a1c4ba7ae1f38684d1d92cbb078bf897b33ec537",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 10931,
-        "title": "Regina OBs/Gyne CARMs Information Night",
-        "url": "https://canprepp.ca/events/regina-obs-gyne-carms-information-night/",
-        "date": "2026-10-22",
-        "start": "2026-10-23T00:30:00+00:00",
-        "end": "2026-10-23T02:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "CST",
-        "published_time": "18:30 – 20:00 CST",
-        "categories": [
-          "University of Saskatchewan",
-          "R1",
-          "Obstetrics and Gynecology"
-        ],
-        "links": {
-          "Meeting Link": "https://usask-ca.zoom.us/j/91764022273?pwd=xJnp3sa7QDoGCjSSzjIhoKthBKOZTi.1%20"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -4313,32 +4234,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11043": {
-      "modified_gmt": "2026-09-30T15:57:32",
-      "calendar_hash": "475698722ff4b3142f7ffd9cfa23c6f0d8ef1d61a30965eba888a37b4174a2e0",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11043,
-        "title": "RCPSC-EM Ottawa Townhall",
-        "url": "https://canprepp.ca/events/rcpsc-em-ottawa-townhall-2/",
-        "date": "2026-10-22",
-        "start": "2026-10-22T22:30:00+00:00",
-        "end": "2026-10-23T00:30:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "18:30 – 20:30 EST",
-        "categories": [
-          "University of Ottawa",
-          "R1",
-          "Emergency Medicine"
-        ],
-        "links": {
-          "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWg3qDo_EBAhLqWC7eK3zSddUNDU5OUlGNDIwVVZBNUpQSzlGREtQRzk1MC4u"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11048": {
       "modified_gmt": "2026-10-01T11:41:10",
       "calendar_hash": "fd39b4000002f3f4cde31a8a7d708cba8bdb48ef9e9b04ae883cf679b0fa78df",
@@ -5015,32 +4910,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11101": {
-      "modified_gmt": "2026-10-08T09:38:03",
-      "calendar_hash": "dabb009dc925f0f3ba480243f49630a13ce9ccb3ee55e148d14a2ec8c55ee0d2",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11101,
-        "title": "U of T Adult Neurology CaRMS Info Session",
-        "url": "https://canprepp.ca/events/u-of-t-adult-neurology-carms-info-session/",
-        "date": "2026-10-22",
-        "start": "2026-10-22T22:30:00+00:00",
-        "end": "2026-10-23T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "18:30 – 20:00 EST",
-        "categories": [
-          "University of Toronto",
-          "R1",
-          "Neurology"
-        ],
-        "links": {
-          "Meeting Link": "https://utoronto.zoom.us/j/84213286192"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11105": {
       "modified_gmt": "2026-10-08T14:49:45",
       "calendar_hash": "1c49299f4bed216b23f3b3aa316fe0b209e8b297b07f3ea32f3bdf02dd7d6227",
@@ -5684,58 +5553,6 @@
         "links": {
           "Meeting Link": "https://westernuniversity.zoom.us/meeting/register/i_VhOZAaTZyqn6yOXLdaJA",
           "Register": "https://westernuniversity.zoom.us/meeting/register/i_VhOZAaTZyqn6yOXLdaJA"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11146": {
-      "modified_gmt": "2026-10-19T17:18:02",
-      "calendar_hash": "cb14d491854446aefc31262fc7fe40294229ce78ce5ab015d431f63bda044381",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11146,
-        "title": "Calgary CMG Meet & Greet – University of Calgary",
-        "url": "https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgary/",
-        "date": "2026-10-22",
-        "start": "2026-10-22T23:00:00+00:00",
-        "end": "2026-10-23T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "MDT",
-        "published_time": "17:00 – 18:00 MDT",
-        "categories": [
-          "University of Calgary",
-          "R1",
-          "Family Medicine"
-        ],
-        "links": {
-          "Meeting Link": "https://ucalgary.zoom.us/j/98895054847"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
-    "11147": {
-      "modified_gmt": "2026-10-19T17:18:23",
-      "calendar_hash": "4dcf6b1ae2b9deb1c04120730614785f223b794314465daf32494c0dd80c6150",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 11147,
-        "title": "Calgary IMG Meet & Greet – University of Calgary",
-        "url": "https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgary/",
-        "date": "2026-10-22",
-        "start": "2026-10-23T00:00:00+00:00",
-        "end": "2026-10-23T01:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "MDT",
-        "published_time": "18:00 – 19:00 MDT",
-        "categories": [
-          "University of Calgary",
-          "R1",
-          "Family Medicine"
-        ],
-        "links": {
-          "Meeting Link": "https://ucalgary.zoom.us/j/98895054847"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -9130,32 +8947,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "10813": {
-      "id": 10813,
-      "title": "McMaster Anesthesiology Resident Town Hall",
-      "url": "https://canprepp.ca/events/mcmaster-anesthesiology-resident-town-hall/",
-      "date": "2026-10-22",
-      "start": "2026-10-22T22:00:00+00:00",
-      "end": "2026-10-22T23:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EDT",
-      "published_time": "18:00 – 19:00 EDT",
-      "categories": [
-        "McMaster University",
-        "R1",
-        "Anesthesiology"
-      ],
-      "links": {
-        "Meeting Link": "https://mcmaster.zoom.us/j/91717915221",
-        "Register": "https://docs.google.com/forms/d/e/1FAIpQLSedBpCsqX8k4xSrmjRZmVhz_iTl7zLj9UsHxyiQ0HlpEaBSsQ/viewform?usp=sharing&ouid=112568508927471737930"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "ee43d451c54bfe5176920b7c39b9ee081c6981c020eea881b15fe9bf38d28fd7",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
     "10814": {
       "id": 10814,
       "title": "McMaster Anesthesiology Program Director Town Hall",
@@ -9705,31 +9496,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
     },
-    "10892": {
-      "id": 10892,
-      "title": "University of Saskatchewan Pediatrics – Information Session",
-      "url": "https://canprepp.ca/events/university-of-saskatchewan-pediatrics-information-session/",
-      "date": "2026-10-22",
-      "start": "2026-10-23T00:00:00+00:00",
-      "end": "2026-10-23T01:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "MST",
-      "published_time": "18:00 – 19:30 MST",
-      "categories": [
-        "University of Saskatchewan",
-        "R1",
-        "Pediatrics"
-      ],
-      "links": {
-        "Meeting Link": "https://usask-ca.zoom.us/j/95593773817?pwd=ZPcC4Fbe9oIwVRKOfePC4YQblNmnOJ.1"
-      },
-      "location": "",
-      "status": "CONFIRMED",
-      "fingerprint": "0866e1b0949e6ea2cad51fd0559f067a64de03c121c7da637ad1b224ebcf5eac",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "10895": {
       "id": 10895,
       "title": "uOttawa Anesthesiology CaRMS Townhall (virtual)",
@@ -10100,31 +9866,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "ccc4e9c6707aca9b785c0baef56c6fce16ed9fd1fdf6f2e965dd5baf466c5315",
-      "sequence": 0,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-12T19:17:57+00:00"
-    },
-    "10931": {
-      "id": 10931,
-      "title": "Regina OBs/Gyne CARMs Information Night",
-      "url": "https://canprepp.ca/events/regina-obs-gyne-carms-information-night/",
-      "date": "2026-10-22",
-      "start": "2026-10-23T00:30:00+00:00",
-      "end": "2026-10-23T02:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "CST",
-      "published_time": "18:30 – 20:00 CST",
-      "categories": [
-        "University of Saskatchewan",
-        "R1",
-        "Obstetrics and Gynecology"
-      ],
-      "links": {
-        "Meeting Link": "https://usask-ca.zoom.us/j/91764022273?pwd=xJnp3sa7QDoGCjSSzjIhoKthBKOZTi.1%20"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "403c9bf54a0f27ab80f667dc39392e4675f0e4b0e006aca3c10324bac1f83131",
       "sequence": 0,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-12T19:17:57+00:00"
@@ -11642,31 +11383,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-24T04:28:00+00:00"
     },
-    "11043": {
-      "id": 11043,
-      "title": "RCPSC-EM Ottawa Townhall",
-      "url": "https://canprepp.ca/events/rcpsc-em-ottawa-townhall-2/",
-      "date": "2026-10-22",
-      "start": "2026-10-22T22:30:00+00:00",
-      "end": "2026-10-23T00:30:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "18:30 – 20:30 EST",
-      "categories": [
-        "University of Ottawa",
-        "R1",
-        "Emergency Medicine"
-      ],
-      "links": {
-        "Register": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=tkGbhQ8TE02mkx_-xOfLWg3qDo_EBAhLqWC7eK3zSddUNDU5OUlGNDIwVVZBNUpQSzlGREtQRzk1MC4u"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "5ebc4a52f6ae32a400f675e86744da8288d3a33e3620a239c4df452263391093",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "11048": {
       "id": 11048,
       "title": "Orthopaedic Surgery Residency Program Virtual Meet & Greet",
@@ -12317,31 +12033,6 @@
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"
     },
-    "11101": {
-      "id": 11101,
-      "title": "U of T Adult Neurology CaRMS Info Session",
-      "url": "https://canprepp.ca/events/u-of-t-adult-neurology-carms-info-session/",
-      "date": "2026-10-22",
-      "start": "2026-10-22T22:30:00+00:00",
-      "end": "2026-10-23T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "18:30 – 20:00 EST",
-      "categories": [
-        "University of Toronto",
-        "R1",
-        "Neurology"
-      ],
-      "links": {
-        "Meeting Link": "https://utoronto.zoom.us/j/84213286192"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "7960a8b2d2cb8a6efd73c136dec7deeb9e10f9c20f5bf71532577b25eef69e89",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
     "11105": {
       "id": 11105,
       "title": "TMU Family Medicine Residency Program Information Session",
@@ -12964,56 +12655,6 @@
       "sequence": 0,
       "created": "2026-10-16T16:33:11+00:00",
       "last_modified": "2026-10-16T16:33:11+00:00"
-    },
-    "11146": {
-      "id": 11146,
-      "title": "Calgary CMG Meet & Greet – University of Calgary",
-      "url": "https://canprepp.ca/events/calgary-cmg-meet-greet-university-of-calgary/",
-      "date": "2026-10-22",
-      "start": "2026-10-22T23:00:00+00:00",
-      "end": "2026-10-23T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "MDT",
-      "published_time": "17:00 – 18:00 MDT",
-      "categories": [
-        "University of Calgary",
-        "R1",
-        "Family Medicine"
-      ],
-      "links": {
-        "Meeting Link": "https://ucalgary.zoom.us/j/98895054847"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "11ec7191dab5117816866b0a1290dba5c81e26664ccd7e721209fa9751e80c06",
-      "sequence": 1,
-      "created": "2026-10-17T15:27:31+00:00",
-      "last_modified": "2026-10-19T20:33:27+00:00"
-    },
-    "11147": {
-      "id": 11147,
-      "title": "Calgary IMG Meet & Greet – University of Calgary",
-      "url": "https://canprepp.ca/events/calgary-img-meet-greet-university-of-calgary/",
-      "date": "2026-10-22",
-      "start": "2026-10-23T00:00:00+00:00",
-      "end": "2026-10-23T01:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "MDT",
-      "published_time": "18:00 – 19:00 MDT",
-      "categories": [
-        "University of Calgary",
-        "R1",
-        "Family Medicine"
-      ],
-      "links": {
-        "Meeting Link": "https://ucalgary.zoom.us/j/98895054847"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "0ade2f3e9d0f455410145c48971ce80c859ea8d2e3b353ec2de5e197939d05f8",
-      "sequence": 1,
-      "created": "2026-10-17T15:27:31+00:00",
-      "last_modified": "2026-10-19T20:33:27+00:00"
     },
     "11148": {
       "id": 11148,
