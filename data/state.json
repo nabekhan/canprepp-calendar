@@ -1858,32 +1858,6 @@
         "status": "CONFIRMED"
       }
     },
-    "10839": {
-      "modified_gmt": "2026-09-09T19:27:44",
-      "calendar_hash": "51c3abfe1fa06939f1b47a006d73f52358d722f62ff4552b4e1092ed68f13e74",
-      "fetched_at": "2026-11-17T15:53:43+00:00",
-      "event": {
-        "id": 10839,
-        "title": "uOttawa PHPM Academic Half Day",
-        "url": "https://canprepp.ca/events/uottawa-phpm-academic-half-day-2/",
-        "date": "2026-10-23",
-        "start": "2026-10-23T13:00:00+00:00",
-        "end": "2026-10-23T16:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "EST",
-        "published_time": "09:00 – 12:00 EST",
-        "categories": [
-          "University of Ottawa",
-          "R1",
-          "Public Health and Preventive Medicine Including Family Medicine"
-        ],
-        "links": {
-          "Meeting Link": "http://Provided%20to%20registered%20individuals"
-        },
-        "location": "",
-        "status": "CONFIRMED"
-      }
-    },
     "10840": {
       "modified_gmt": "2026-11-13T20:29:41",
       "calendar_hash": "383eccfc0103be748d4f8441f359088a54e46e546625304027a0b557cd9e5cae",
@@ -3487,7 +3461,7 @@
     "11007": {
       "modified_gmt": "2026-10-25T14:33:02",
       "calendar_hash": "9ac50975bca4b9fe9fd815cf7986f23042786e29ee65587e4872bbe53bba6ee9",
-      "fetched_at": "2026-11-15T22:44:33+00:00",
+      "fetched_at": "2026-11-23T01:35:25+00:00",
       "event": {
         "id": 11007,
         "title": "Western Paediatrics Information Session",
@@ -9095,31 +9069,6 @@
       "location": "Online",
       "status": "CONFIRMED",
       "fingerprint": "0df96c4cb80a692d9dd8996af2f12f69f076b3e431341a01455e39d09b5ab48a",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
-    },
-    "10839": {
-      "id": 10839,
-      "title": "uOttawa PHPM Academic Half Day",
-      "url": "https://canprepp.ca/events/uottawa-phpm-academic-half-day-2/",
-      "date": "2026-10-23",
-      "start": "2026-10-23T13:00:00+00:00",
-      "end": "2026-10-23T16:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "EST",
-      "published_time": "09:00 – 12:00 EST",
-      "categories": [
-        "University of Ottawa",
-        "R1",
-        "Public Health and Preventive Medicine Including Family Medicine"
-      ],
-      "links": {
-        "Meeting Link": "http://Provided%20to%20registered%20individuals"
-      },
-      "location": "",
-      "status": "CONFIRMED",
-      "fingerprint": "0c0b1429e219beee5c84c5bf4140b45c84c08b510a4a6dcdb5a2fc209bca23b3",
       "sequence": 1,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-14T00:48:23+00:00"

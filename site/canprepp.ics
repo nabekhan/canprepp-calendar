@@ -7,24 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:uOttawa PHPM Academic Half Day
-DTSTART:20261023T130000Z
-DTEND:20261023T160000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-10839@canprepp.ca
-SEQUENCE:1
-CATEGORIES:University of Ottawa,R1,Public Health and Preventive Medicine I
- ncluding Family Medicine
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/uottawa-phpm-academic-half-day-2/\n
- Published time: 09:00 – 12:00 EST\nMeeting Link: http://Provided%20to%20
- registered%20individuals
-LAST-MODIFIED:20261014T004823Z
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/uottawa-phpm-academic-half-day-2/
-X-CANPREPP-ID:10839
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Orthopaedic Surgery Residency Program Virtual Meet & Greet
 DTSTART:20261025T223000Z
 DTEND:20261026T000000Z
