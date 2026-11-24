@@ -2563,7 +2563,7 @@
     "10921": {
       "modified_gmt": "2026-10-26T13:44:04",
       "calendar_hash": "5063af176964992ea6542c87afabbfb46dd1775b9494b462f99c2f9934a8aa73",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 10921,
         "title": "Memorial University of Newfoundland Family Medicine Training Program Central Stream Information Session",
@@ -6159,7 +6159,7 @@
     "11193": {
       "modified_gmt": "2026-10-26T15:53:14",
       "calendar_hash": "66fdeaf47b5817b66fa8c0a44bbb8238b9a6a324f7ee97564e9a641fbbee7cb6",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11193,
         "title": "University of Ottawa Pediatric Neurology Information Session",
@@ -6185,7 +6185,7 @@
     "11194": {
       "modified_gmt": "2026-10-26T15:52:21",
       "calendar_hash": "3fd064876da03820a953ba071838bf4ee9f8d9dff489d93385c56369053788d2",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11194,
         "title": "University of Ottawa Pediatric Neurology Information Session",
@@ -6446,7 +6446,7 @@
     "11213": {
       "modified_gmt": "2026-11-09T19:21:56",
       "calendar_hash": "cd128bb30247d1d60182a28f2406ec906143a594d50e86e01bfd5b99f33077a6",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11213,
         "title": "University of Manitoba Neurology Open House",
@@ -6472,7 +6472,7 @@
     "11214": {
       "modified_gmt": "2026-11-02T14:53:02",
       "calendar_hash": "fb464a49fe6f16218b51f689883a281f780c31b7e650eb3c0805fccfbc27c885",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11214,
         "title": "University of Manitoba Anesthesiology Information Session",
@@ -6781,7 +6781,7 @@
     "11230": {
       "modified_gmt": "2026-11-09T15:50:08",
       "calendar_hash": "b6ce1d026051e41e067871c3dc0956bd6ebe94675944e97bb60986c9477438b7",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11230,
         "title": "2027 CaRMS Information Session",
@@ -6805,7 +6805,7 @@
     "11235": {
       "modified_gmt": "2026-11-09T18:39:19",
       "calendar_hash": "0bc94967b75326e297702354ccccf6adb6b510f59e75524a7e923fb203bf6ee6",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11235,
         "title": "University of Manitoba Plastic Surgery CaRMS Info Night",
@@ -6855,7 +6855,7 @@
     "11238": {
       "modified_gmt": "2026-11-09T19:38:03",
       "calendar_hash": "6405aac40721ab38ac719db8614d84b12996e258006a311128d7b88ad5185343",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11238,
         "title": "McMaster University Family Medicine Resident QA",
@@ -6881,7 +6881,7 @@
     "11239": {
       "modified_gmt": "2026-11-09T19:48:33",
       "calendar_hash": "7c297c43a1866705b823cb56abf0ba15efe48b9d3adc4a2934b2aa9342613709",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11239,
         "title": "University of Manitoba Neurosurgery Open House",
@@ -6907,7 +6907,7 @@
     "11242": {
       "modified_gmt": "2026-11-09T20:00:35",
       "calendar_hash": "a334f31f07890d14612985a19fa4e18b13cbb93c44c2557c7033883dc10d845b",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11242,
         "title": "Western Radiation Oncology Resident Q&A Session",
@@ -6933,7 +6933,7 @@
     "11243": {
       "modified_gmt": "2026-11-09T20:07:16",
       "calendar_hash": "357a88b7bb987c9f6285f0006df2ad980ffe95987f75b15d3d1cf39eb9a678be",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11243,
         "title": "Western Radiology Oncology Information Session",
@@ -6959,7 +6959,7 @@
     "11244": {
       "modified_gmt": "2026-11-09T20:11:19",
       "calendar_hash": "ea0fadcae86a0f82ac916b0486729fbb95a7eaf27ea60e06988a64a674acc667",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11244,
         "title": "Western Radiology Oncology Information Session",
@@ -7085,7 +7085,7 @@
     "11252": {
       "modified_gmt": "2026-11-16T19:53:47",
       "calendar_hash": "cec6fa622b90c8ff29297c4f30976cc1c9c6075127d09149b817e4b42b46dfb8",
-      "fetched_at": "2026-11-17T03:44:15+00:00",
+      "fetched_at": "2026-11-24T13:33:02+00:00",
       "event": {
         "id": 11252,
         "title": "Dalhousie Dermatology Residency Information Night",
