@@ -285,7 +285,7 @@
     "10424": {
       "modified_gmt": "2026-11-09T13:46:33",
       "calendar_hash": "f789a6be64d13544499981fdd8dd10b47e6815732f5b735743d713ce48248dd5",
-      "fetched_at": "2026-11-16T19:31:08+00:00",
+      "fetched_at": "2026-11-24T02:08:31+00:00",
       "event": {
         "id": 10424,
         "title": "Queen’s Anesthesiology – Meet the Program Director/Assistant Program Director",
@@ -6367,7 +6367,7 @@
     "11207": {
       "modified_gmt": "2026-11-09T13:26:17",
       "calendar_hash": "96b7e6544fafc7ee202fe65045442928c6651fc3ee2caf8e8a250dd9e7227069",
-      "fetched_at": "2026-11-16T19:31:08+00:00",
+      "fetched_at": "2026-11-24T02:08:31+00:00",
       "event": {
         "id": 11207,
         "title": "uOttawa-Orthopedic Surgery – Meet and Greet Session- CaRMS 2027",
@@ -7207,6 +7207,32 @@
         ],
         "links": {
           "Meeting Link": "https://us06web.zoom.us/j/88152987062?pwd=UnHhzQ3UybNxE2IQEu6VWnYxsz3afN.1"
+        },
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
+    },
+    "11259": {
+      "modified_gmt": "2026-11-23T21:49:34",
+      "calendar_hash": "aab549a3dae9ec7727a27b5d1576be1cb767ca5bcd16de245cbdef1f804292f9",
+      "fetched_at": "2026-11-24T02:08:31+00:00",
+      "event": {
+        "id": 11259,
+        "title": "University of Calgary Public Health and Preventive Medicine (PHPM) residency Info Session",
+        "url": "https://canprepp.ca/events/university-of-calgary-public-health-and-preventive-medicine-phpm-residency-info-session/",
+        "date": "2026-11-24",
+        "start": "2026-11-25T00:00:00+00:00",
+        "end": null,
+        "all_day": false,
+        "timezone_label": "MDT",
+        "published_time": "18:00 MDT",
+        "categories": [
+          "University of Calgary",
+          "R1",
+          "Public Health and Preventive Medicine"
+        ],
+        "links": {
+          "Register": "https://healthsharedservices-ca.zoom.us/meeting/register/mR6kcsrBRQWFrdOke_ZdWw"
         },
         "location": "Online",
         "status": "CONFIRMED"
@@ -14146,6 +14172,31 @@
       "sequence": 0,
       "created": "2026-11-19T20:28:05+00:00",
       "last_modified": "2026-11-19T20:28:05+00:00"
+    },
+    "11259": {
+      "id": 11259,
+      "title": "University of Calgary Public Health and Preventive Medicine (PHPM) residency Info Session",
+      "url": "https://canprepp.ca/events/university-of-calgary-public-health-and-preventive-medicine-phpm-residency-info-session/",
+      "date": "2026-11-24",
+      "start": "2026-11-25T00:00:00+00:00",
+      "end": null,
+      "all_day": false,
+      "timezone_label": "MDT",
+      "published_time": "18:00 MDT",
+      "categories": [
+        "University of Calgary",
+        "R1",
+        "Public Health and Preventive Medicine"
+      ],
+      "links": {
+        "Register": "https://healthsharedservices-ca.zoom.us/meeting/register/mR6kcsrBRQWFrdOke_ZdWw"
+      },
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "5203dca933e1f7751ca72964a0ad6a415a6b4a32e1ad7a0d51540fc7143bfe66",
+      "sequence": 0,
+      "created": "2026-11-24T02:08:31+00:00",
+      "last_modified": "2026-11-24T02:08:31+00:00"
     },
     "11160": {
       "id": 11160,

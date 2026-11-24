@@ -4499,6 +4499,26 @@ URL:https://canprepp.ca/events/university-of-saskatchewan-internal-medicin
 X-CANPREPP-ID:11120
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Calgary Public Health and Preventive Medicine (PHPM)
+  residency Info Session
+DTSTART:20261125T000000Z
+DTSTAMP:20261124T020831Z
+UID:canprepp-event-11259@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Calgary,R1,Public Health and Preventive Medicine
+CREATED:20261124T020831Z
+DESCRIPTION:https://canprepp.ca/events/university-of-calgary-public-health
+ -and-preventive-medicine-phpm-residency-info-session/\nPublished time: 18:
+ 00 MDT\nRegister: https://healthsharedservices-ca.zoom.us/meeting/register
+ /mR6kcsrBRQWFrdOke_ZdWw
+LAST-MODIFIED:20261124T020831Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-calgary-public-health-and-pre
+ ventive-medicine-phpm-residency-info-session/
+X-CANPREPP-ID:11259
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UCalgary CaRMS Info Session – Pediatric Residency Program
 DTSTART:20261125T003000Z
 DTEND:20261125T023000Z
