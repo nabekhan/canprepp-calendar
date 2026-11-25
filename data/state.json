@@ -4208,32 +4208,6 @@
         "status": "CONFIRMED"
       }
     },
-    "11048": {
-      "modified_gmt": "2026-10-01T11:41:10",
-      "calendar_hash": "fd39b4000002f3f4cde31a8a7d708cba8bdb48ef9e9b04ae883cf679b0fa78df",
-      "fetched_at": "2026-11-24T23:51:09+00:00",
-      "event": {
-        "id": 11048,
-        "title": "Orthopaedic Surgery Residency Program Virtual Meet & Greet",
-        "url": "https://canprepp.ca/events/orthopaedic-surgery-residency-program-virtual-meet-greet/",
-        "date": "2026-10-25",
-        "start": "2026-10-25T22:30:00+00:00",
-        "end": "2026-10-26T00:00:00+00:00",
-        "all_day": false,
-        "timezone_label": "NST",
-        "published_time": "20:00 – 21:30 NST",
-        "categories": [
-          "Memorial University of Newfoundland",
-          "R1",
-          "Orthopedic Surgery"
-        ],
-        "links": {
-          "Meeting Link": "https://mun.webex.com/meet/pgorthosurg"
-        },
-        "location": "Online",
-        "status": "CONFIRMED"
-      }
-    },
     "11049": {
       "modified_gmt": "2026-10-01T23:18:43",
       "calendar_hash": "567964f50a9bf2c16a8041eb5d46766cc1673da67b9eb6719e7e8ae60d507d91",
@@ -4444,7 +4418,7 @@
     "11072": {
       "modified_gmt": "2026-11-17T22:32:12",
       "calendar_hash": "0f38a94dcefc75f94a87d3f5aa6d40846c40b0b4dd673ce4651302cd5f7da04c",
-      "fetched_at": "2026-11-18T00:54:43+00:00",
+      "fetched_at": "2026-11-25T08:19:11+00:00",
       "event": {
         "id": 11072,
         "title": "UofA Family Medicine- Urban/Edmonton Info Session",
@@ -5150,7 +5124,7 @@
     "11122": {
       "modified_gmt": "2026-10-13T00:50:31",
       "calendar_hash": "c2454e9dcb73db2fca51931cd1562b7f6072142d74e0d0ae05855649fd454f8f",
-      "fetched_at": "2026-11-18T00:54:43+00:00",
+      "fetched_at": "2026-11-25T08:19:11+00:00",
       "event": {
         "id": 11122,
         "title": "Dalhousie University Otolaryngology CaRMS Information Session",
@@ -6525,7 +6499,7 @@
     "11216": {
       "modified_gmt": "2026-11-03T16:05:39",
       "calendar_hash": "8c688130bc3c0184239eed438f5e47c341fb87632c9064902f750b17ae2c3148",
-      "fetched_at": "2026-11-18T00:54:43+00:00",
+      "fetched_at": "2026-11-25T08:19:11+00:00",
       "event": {
         "id": 11216,
         "title": "UofT Diagnostic & Molecular Pathology Info Session",
@@ -7111,7 +7085,7 @@
     "6279": {
       "modified_gmt": "2026-11-17T19:15:39",
       "calendar_hash": "b81d66ac4c37bfcfc73db91c49770310c305028878725f16d48dae4bff925f3c",
-      "fetched_at": "2026-11-18T00:54:43+00:00",
+      "fetched_at": "2026-11-25T08:19:11+00:00",
       "event": {
         "id": 6279,
         "title": "UCalgary CaRMS Info Session – Pediatric Residency Program",
@@ -11357,31 +11331,6 @@
       "sequence": 2,
       "created": "2026-10-12T19:17:57+00:00",
       "last_modified": "2026-10-24T04:28:00+00:00"
-    },
-    "11048": {
-      "id": 11048,
-      "title": "Orthopaedic Surgery Residency Program Virtual Meet & Greet",
-      "url": "https://canprepp.ca/events/orthopaedic-surgery-residency-program-virtual-meet-greet/",
-      "date": "2026-10-25",
-      "start": "2026-10-25T22:30:00+00:00",
-      "end": "2026-10-26T00:00:00+00:00",
-      "all_day": false,
-      "timezone_label": "NST",
-      "published_time": "20:00 – 21:30 NST",
-      "categories": [
-        "Memorial University of Newfoundland",
-        "R1",
-        "Orthopedic Surgery"
-      ],
-      "links": {
-        "Meeting Link": "https://mun.webex.com/meet/pgorthosurg"
-      },
-      "location": "Online",
-      "status": "CONFIRMED",
-      "fingerprint": "5148346134c2c661ddd461fbde61606728a9ca4d28daf6df70bff37f01ad66f0",
-      "sequence": 1,
-      "created": "2026-10-12T19:17:57+00:00",
-      "last_modified": "2026-10-14T00:48:23+00:00"
     },
     "11049": {
       "id": 11049,

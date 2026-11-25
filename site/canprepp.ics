@@ -7,25 +7,6 @@ X-WR-CALNAME:CANPREPP residency events
 REFRESH-INTERVAL;VALUE=DURATION:PT3H
 X-PUBLISHED-TTL:PT3H
 BEGIN:VEVENT
-SUMMARY:Orthopaedic Surgery Residency Program Virtual Meet & Greet
-DTSTART:20261025T223000Z
-DTEND:20261026T000000Z
-DTSTAMP:20261014T004823Z
-UID:canprepp-event-11048@canprepp.ca
-SEQUENCE:1
-CATEGORIES:Memorial University of Newfoundland,R1,Orthopedic Surgery
-CREATED:20261012T191757Z
-DESCRIPTION:https://canprepp.ca/events/orthopaedic-surgery-residency-progr
- am-virtual-meet-greet/\nPublished time: 20:00 – 21:30 NST\nMeeting Link:
-  https://mun.webex.com/meet/pgorthosurg
-LAST-MODIFIED:20261014T004823Z
-LOCATION:Online
-STATUS:CONFIRMED
-URL:https://canprepp.ca/events/orthopaedic-surgery-residency-program-virtu
- al-meet-greet/
-X-CANPREPP-ID:11048
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Memorial University of Newfoundland Family Medicine Training Progr
  am Central Stream Information Session
 DTSTART:20261026T223000Z
