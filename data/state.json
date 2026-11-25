@@ -7211,6 +7211,30 @@
         "location": "Online",
         "status": "CONFIRMED"
       }
+    },
+    "11260": {
+      "modified_gmt": "2026-11-25T16:50:32",
+      "calendar_hash": "a235ac824ac16cd83a18191fba7c0924c885ac3584d1b80a6be18efc82cce887",
+      "fetched_at": "2026-11-25T19:09:51+00:00",
+      "event": {
+        "id": 11260,
+        "title": "University of Manitoba Core Internal Medicine Information Session – Hosted by Lead Medical Residents",
+        "url": "https://canprepp.ca/events/university-of-manitoba-core-internal-medicine-information-session-hosted-by-lead-medical-residents/",
+        "date": "2027-01-06",
+        "start": "2027-01-07T00:00:00+00:00",
+        "end": "2027-01-07T01:15:00+00:00",
+        "all_day": false,
+        "timezone_label": "CST",
+        "published_time": "19:00 – 20:15 CST",
+        "categories": [
+          "University of Manitoba",
+          "R1",
+          "Internal Medicine"
+        ],
+        "links": {},
+        "location": "Online",
+        "status": "CONFIRMED"
+      }
     }
   },
   "events": {
@@ -14146,6 +14170,29 @@
       "sequence": 0,
       "created": "2026-11-24T02:08:31+00:00",
       "last_modified": "2026-11-24T02:08:31+00:00"
+    },
+    "11260": {
+      "id": 11260,
+      "title": "University of Manitoba Core Internal Medicine Information Session – Hosted by Lead Medical Residents",
+      "url": "https://canprepp.ca/events/university-of-manitoba-core-internal-medicine-information-session-hosted-by-lead-medical-residents/",
+      "date": "2027-01-06",
+      "start": "2027-01-07T00:00:00+00:00",
+      "end": "2027-01-07T01:15:00+00:00",
+      "all_day": false,
+      "timezone_label": "CST",
+      "published_time": "19:00 – 20:15 CST",
+      "categories": [
+        "University of Manitoba",
+        "R1",
+        "Internal Medicine"
+      ],
+      "links": {},
+      "location": "Online",
+      "status": "CONFIRMED",
+      "fingerprint": "e9417cd426cf3e3485f997e220ae110b8c8205ae7ae7dbebccfc6582a86188cf",
+      "sequence": 0,
+      "created": "2026-11-25T19:09:51+00:00",
+      "last_modified": "2026-11-25T19:09:51+00:00"
     },
     "11160": {
       "id": 11160,

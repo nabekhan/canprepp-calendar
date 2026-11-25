@@ -4914,6 +4914,26 @@ URL:https://canprepp.ca/events/university-of-manitoba-department-of-psychi
 X-CANPREPP-ID:10987
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:University of Manitoba Core Internal Medicine Information Session 
+ – Hosted by Lead Medical Residents
+DTSTART:20270107T000000Z
+DTEND:20270107T011500Z
+DTSTAMP:20261125T190951Z
+UID:canprepp-event-11260@canprepp.ca
+SEQUENCE:0
+CATEGORIES:University of Manitoba,R1,Internal Medicine
+CREATED:20261125T190951Z
+DESCRIPTION:https://canprepp.ca/events/university-of-manitoba-core-interna
+ l-medicine-information-session-hosted-by-lead-medical-residents/\nPublishe
+ d time: 19:00 – 20:15 CST
+LAST-MODIFIED:20261125T190951Z
+LOCATION:Online
+STATUS:CONFIRMED
+URL:https://canprepp.ca/events/university-of-manitoba-core-internal-medici
+ ne-information-session-hosted-by-lead-medical-residents/
+X-CANPREPP-ID:11260
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dalhousie Family Medicine CaRMS Information Session
 DTSTART:20270109T160000Z
 DTEND:20270109T180000Z
